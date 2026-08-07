@@ -327,6 +327,48 @@ def resp_itinerary_si(district: str, day_plan: list) -> str:
     return " ".join(parts)
 
 
+def district_si(district_en: str) -> str:
+    """Sinhala district name, falling back to the English name for any
+    district not yet in DISTRICT_SI rather than raising - keeps the
+    generator resilient to a new district ever appearing in the data."""
+    from sinhala_names import DISTRICT_SI
+    return DISTRICT_SI.get(district_en, district_en)
+
+
+def region_label_si(districts: list) -> str:
+    """'මහනුවර සහ මාතලේ' / 'මහනුවර, මාතලේ සහ නුවර එළිය'."""
+    names = [district_si(d) for d in districts]
+    if len(names) == 1:
+        return names[0]
+    if len(names) == 2:
+        return f"{names[0]} සහ {names[1]}"
+    return f"{', '.join(names[:-1])} සහ {names[-1]}"
+
+
+def resp_itinerary_multi_si(region_label: str, day_plan: list) -> str:
+    """Mirrors resp_itinerary_en's multi-district behaviour: each day's stops
+    all come from one district, and a day's line names its district in
+    Sinhala when it differs from the previous day's, so a district switch is
+    never silent."""
+    num_days = len(day_plan)
+    parts = [f"{region_label} ආවරණය වන දින {num_days}ක සංචාරයක් මෙසේ සැලසුම් කළ හැක."]
+    prev_district = None
+    for day_num, day_places in enumerate(day_plan, 1):
+        stop_clauses = [
+            f"{name_si(p['name'])} නම් {category_si(p['category_id'])} ({money_si(p['ticket_price'])})"
+            for p in day_places
+        ]
+        stops_text = " ඉන්පසු ".join(stop_clauses)
+        day_district = day_places[0]["district_id"]
+        if day_district != prev_district:
+            parts.append(f"{day_num} වන දිනයේදී, {district_si(day_district)} ප්‍රදේශයේ: {stops_text}.")
+        else:
+            parts.append(f"{day_num} වන දිනයේදී: {stops_text}.")
+        prev_district = day_district
+    parts.append("මෙය හදිසි නොවී, සුවපහසුවෙන් ගමන් කළ හැකි සමබර සැලැස්මකි.")
+    return " ".join(parts)
+
+
 # ---------------------------------------------------------------------------
 # Oracle chat: general Sri Lanka travel Q&A, not grounded in any specific
 # place - answers are the hand-written Sinhala fact text from
@@ -458,6 +500,11 @@ QUESTIONS_SI = {
         "මට {district} හි දින {days}ක් තිබේ, මොනවාද කළ යුත්තේ?",
         "{district} සඳහා දින {days}ක සංචාරක සැලැස්මක් සකසා දෙන්න.",
     ],
+    "itinerary_multi": [
+        "{region_label} ආවරණය වන දින {days}ක සංචාරයක් සැලසුම් කර දෙන්නද?",
+        "මට දින {days}ක් තිබේ, {region_label} බැලීමට කැමතියි - මොනවාද කළ යුත්තේ?",
+        "{region_label} හරහා දින {days}ක ගමන් මාර්ගයක් සකසා දෙන්න.",
+    ],
     "budget_concierge": [
         "මම වැඩිපුර වියදම් කරනවාද? මම අඩු කරගත යුතුද?",
         "මගේ අයවැය දැනට කොහොමද තිබෙන්නේ?",
@@ -568,6 +615,253 @@ def build_examples(places_by_district: dict, rng: random.Random) -> list:
     return examples
 
 
+def build_multi_district_examples_si(places_by_province: dict, rng: random.Random, num_variants: int = 8) -> list:
+    """Sinhala counterpart of 02_generate_instructions.py's
+    build_multi_district_examples - same province-grouping/route-ordering
+    logic (see that function's docstring), producing hand-composed Sinhala
+    output via resp_itinerary_multi_si instead of a translation."""
+    examples = []
+    for province, districts_map in places_by_province.items():
+        eligible_districts = [d for d, places in districts_map.items() if len(places) >= 2]
+        if len(eligible_districts) < 2:
+            continue
+
+        for _ in range(num_variants):
+            num_districts_in_route = rng.randint(2, min(3, len(eligible_districts)))
+            route_districts = rng.sample(eligible_districts, num_districts_in_route)
+
+            day_plan = []
+            for district in route_districts:
+                district_places = districts_map[district]
+                num_days_here = rng.randint(1, 2) if len(district_places) >= 4 else 1
+                shuffled = district_places[:]
+                rng.shuffle(shuffled)
+                cursor = 0
+                for _ in range(num_days_here):
+                    stops_today = min(rng.choice([2, 3]), len(shuffled) - cursor)
+                    if stops_today <= 0:
+                        break
+                    day_plan.append(shuffled[cursor:cursor + stops_today])
+                    cursor += stops_today
+
+            if len(day_plan) < 2:
+                continue
+
+            region_label = region_label_si(route_districts)
+            q = rng.choice(QUESTIONS_SI["itinerary_multi"]).format(
+                days=len(day_plan), region_label=region_label
+            )
+            all_ids = [p["id"] for day in day_plan for p in day]
+            examples.append(make_example(
+                "itinerary_multi", q, resp_itinerary_multi_si(region_label, day_plan),
+                all_ids, district=province
+            ))
+    return examples
+
+
+# ---------------------------------------------------------------------------
+# Structured trip planner (Sinhala): same INTEREST_CATEGORIES/PACE_STOPS_PER_DAY
+# selection and budget logic as 02_generate_instructions.py's English version
+# (kept identical so both languages produce the same plan given the same
+# random seed's draws) - only notes/human_text/safety_tip/day_theme text
+# generation is Sinhala-specific here, hand-composed, not translated.
+# ---------------------------------------------------------------------------
+
+INTEREST_CATEGORIES = {
+    "nature": {
+        "Cascade", "Plunge", "Tiered", "Fan", "Horsetail", "Block", "Segmented",
+        "Multi-step", "National Park", "Sandy Beach", "Urban Beach", "Cave",
+        "Forest Monastery", "Tea Estate",
+    },
+    "culture": {
+        "Temple", "Buddhist Temple", "Kovil", "Church", "Mosque", "Cathedral",
+        "Devalaya", "Devale", "Stupa", "Building", "Ruins", "Pre-Historic Site",
+        "Ambalama",
+    },
+    "adventure": {"Adventure Park", "National Park", "Cave"},
+    "relaxation": {"Tea Estate", "Sandy Beach", "Urban Beach"},
+}
+
+PACE_STOPS_PER_DAY = {
+    "relaxed": (1, 2),
+    "moderate": (2, 3),
+    "packed": (3, 4),
+}
+
+DAY_THEME_LABEL_SI = {
+    "Cascade": "ඇල්ල", "Plunge": "ඇල්ල", "Tiered": "ඇල්ල", "Fan": "ඇල්ල",
+    "Horsetail": "ඇල්ල", "Block": "ඇල්ල", "Segmented": "ඇල්ල", "Multi-step": "ඇල්ල",
+    "National Park": "වන ජීවී", "Sandy Beach": "වෙරළ", "Urban Beach": "වෙරළ",
+    "Cave": "ගුහා", "Forest Monastery": "වන අභයභූමි", "Tea Estate": "තේ වතු",
+    "Temple": "පන්සල්", "Buddhist Temple": "පන්සල්", "Kovil": "කෝවිල්",
+    "Church": "පල්ලි", "Mosque": "පල්ලි", "Cathedral": "උරුමය",
+    "Devalaya": "දේවාල", "Devale": "දේවාල", "Stupa": "ස්තූප",
+    "Building": "උරුමය", "Ruins": "නටබුන්", "Pre-Historic Site": "ඉතිහාස",
+    "Ambalama": "උරුමය", "Adventure Park": "වික්‍රමාන්විත",
+}
+
+
+def day_theme_si(categories_today: list) -> str:
+    labels = []
+    for cat in categories_today:
+        label = DAY_THEME_LABEL_SI.get(cat, "ගවේෂණ")
+        if label not in labels:
+            labels.append(label)
+    if not labels:
+        return "ගවේෂණය කරන දිනයක්"
+    if len(labels) == 1:
+        return f"{labels[0]} වන්දනා දිනයක්" if labels[0] in (
+            "පන්සල්", "කෝවිල්", "පල්ලි", "දේවාල", "ස්තූප"
+        ) else f"{labels[0]} නරඹන දිනයක්"
+    return f"{labels[0]} සහ {labels[1]} නරඹන දිනයක්"
+
+
+def safety_tip_si(stops_today: list) -> str:
+    for p in stops_today:
+        if p.get("wildlife_hazard") and p["wildlife_hazard"] != "None":
+            return f"{name_si(p['name'])} අසල {p['wildlife_hazard'].lower()} ගැන සැලකිලිමත් වන්න."
+        if p.get("guide_required", "no").lower() == "yes":
+            return f"{name_si(p['name'])} සඳහා මාර්ගෝපදේශකයෙකු අවශ්‍ය වේ - කලින් සූදානම් කරගන්න."
+        if p.get("safety_level", "Safe").lower() != "safe":
+            return f"{name_si(p['name'])} {p['safety_level'].lower()} මට්ටමේ ස්ථානයකි - වැඩි සැලකිල්ලක් දක්වන්න."
+    return "අද දින ස්ථාන සඳහා විශේෂ ආරක්ෂක අවදානම් නොමැත - සාමාන්‍ය පරිස්සම ප්‍රමාණවත් වේ."
+
+
+def notes_si(stops_today: list) -> str:
+    lines = []
+    for p in stops_today:
+        lines.append(
+            f"{name_si(p['name'])}: {p['opening_hours']}, {money_si(p['ticket_price'])}, "
+            f"ක්‍රියාකාරකම්: {activities_si_fallback(p['activities'])}"
+        )
+    return " | ".join(lines)
+
+
+def human_text_si_trip(day_num: int, stops_today: list) -> str:
+    stop_clauses = [
+        f"{name_si(p['name'])} නම් {category_si(p['category_id'])} ({money_si(p['ticket_price'])})"
+        for p in stops_today
+    ]
+    stops_text = " ඉන්පසු ".join(stop_clauses)
+    return f"{day_num} වන දිනයේදී: {stops_text}."
+
+
+def sinhala_phrase_for_theme_si(theme_si: str) -> str:
+    """The structured output's dedicated sinhala_phrase field mirrors the
+    English version's day_theme, but since this whole pipeline already
+    generates day_theme in Sinhala, that IS the natural-language phrase -
+    no separate stub table needed here (unlike the English generator, which
+    needs SINHALA_PHRASE_STUB to render a Sinhala phrase from an English
+    theme label)."""
+    return theme_si
+
+
+def build_trip_plan_si(destination_district: str, budget_lkr: int, days: int,
+                        interests: list, pace: str, places_by_district: dict,
+                        rng: random.Random) -> dict | None:
+    district_places = places_by_district.get(destination_district, [])
+    wanted_categories = set()
+    for interest in interests:
+        wanted_categories |= INTEREST_CATEGORIES.get(interest, set())
+    matching_places = [p for p in district_places if p["category_id"] in wanted_categories]
+    if len(matching_places) < 2:
+        return None
+
+    shuffled = matching_places[:]
+    rng.shuffle(shuffled)
+    min_stops, max_stops = PACE_STOPS_PER_DAY.get(pace, (2, 3))
+
+    day_results = []
+    cursor = 0
+    running_cost = 0
+    for day_num in range(1, days + 1):
+        stops_today_count = min(rng.randint(min_stops, max_stops), len(shuffled) - cursor)
+        if stops_today_count <= 0:
+            break
+        stops_today = shuffled[cursor:cursor + stops_today_count]
+        cursor += stops_today_count
+
+        theme = day_theme_si([p["category_id"] for p in stops_today])
+        day_cost = sum(p["ticket_price"] for p in stops_today)
+        running_cost += day_cost
+
+        day_results.append({
+            "day": day_num,
+            "day_theme": theme,
+            "sinhala_phrase": sinhala_phrase_for_theme_si(theme),
+            "stops": [
+                {
+                    "place_id": p["id"],
+                    "name": p["name"],
+                    "lat": p["lat"],
+                    "lng": p["lng"],
+                    "price": p["ticket_price"],
+                    "category": p["category_id"],
+                }
+                for p in stops_today
+            ],
+            "notes": notes_si(stops_today),
+            "human_text": human_text_si_trip(day_num, stops_today),
+            "safety_tip": safety_tip_si(stops_today),
+        })
+
+    if len(day_results) < 2:
+        return None
+
+    return {
+        "days": day_results,
+        "total_estimated_cost_lkr": running_cost,
+        "within_budget": running_cost <= budget_lkr,
+    }
+
+
+def build_trip_plan_examples_si(places_by_district: dict, rng: random.Random, num_variants: int = 6) -> list:
+    examples = []
+    interest_combos = [
+        ["nature"], ["culture"], ["nature", "culture"],
+        ["adventure"], ["relaxation"], ["culture", "relaxation"],
+    ]
+    paces = ["relaxed", "moderate", "packed"]
+
+    for district in places_by_district:
+        for variant_i in range(num_variants):
+            interests = rng.choice(interest_combos)
+            pace = rng.choice(paces)
+            days = rng.randint(2, 4)
+
+            plan = build_trip_plan_si(district, 0, days, interests, pace, places_by_district, rng)
+            if plan is None:
+                continue
+
+            actual_cost = plan["total_estimated_cost_lkr"]
+            if variant_i % 4 == 0:
+                budget_lkr = max(100, actual_cost - rng.randint(200, 1000)) if actual_cost > 0 else rng.choice([300, 500])
+            else:
+                budget_lkr = rng.choice([5000, 10000, 15000, 25000, 40000])
+            plan["within_budget"] = actual_cost <= budget_lkr
+
+            request = {
+                "budget_lkr": budget_lkr,
+                "days": days,
+                "destination": district,
+                "interests": interests,
+                "pace": pace,
+            }
+            all_ids = [s["place_id"] for day in plan["days"] for s in day["stops"]]
+            examples.append({
+                "lang": "si",
+                "scenario": "trip_plan_structured",
+                "place_ids": all_ids,
+                "district": district,
+                "messages": [
+                    {"role": "system", "content": SYSTEM_PROMPT_SI},
+                    {"role": "user", "content": json.dumps(request, ensure_ascii=False)},
+                    {"role": "assistant", "content": json.dumps(plan, ensure_ascii=False)},
+                ],
+            })
+    return examples
+
+
 def main() -> None:
     TRAINING_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -578,8 +872,14 @@ def main() -> None:
     for p in places:
         places_by_district.setdefault(p["district_id"], []).append(p)
 
+    places_by_province: dict = {}
+    for p in places:
+        places_by_province.setdefault(p["province_id"], {}).setdefault(p["district_id"], []).append(p)
+
     rng = random.Random(43)
     examples = build_examples(places_by_district, rng)
+    examples += build_multi_district_examples_si(places_by_province, rng)
+    examples += build_trip_plan_examples_si(places_by_district, rng)
     rng.shuffle(examples)
 
     buckets: dict = {}

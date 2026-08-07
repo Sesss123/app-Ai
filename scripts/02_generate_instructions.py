@@ -97,8 +97,14 @@ def main() -> None:
     for p in places:
         places_by_district.setdefault(p["district_id"], []).append(p)
 
+    places_by_province: dict = {}
+    for p in places:
+        places_by_province.setdefault(p["province_id"], {}).setdefault(p["district_id"], []).append(p)
+
     rng = random.Random(42)
     examples = build_examples(places_by_district, rng)
+    examples += build_multi_district_examples(places_by_province, rng)
+    examples += build_trip_plan_examples(places_by_district, rng)
     rng.shuffle(examples)
 
     # Stratified split: hold out ~10% per district bucket so every district
@@ -241,9 +247,16 @@ def resp_daytrip_en(trip_places: list) -> str:
 # shape repeated across several days.
 # ---------------------------------------------------------------------------
 
-def resp_itinerary_en(district: str, day_plan: list) -> str:
+def resp_itinerary_en(region_label: str, day_plan: list) -> str:
+    """`region_label` is either a single district name or a route label like
+    "Kandy, Matale and Nuwara Eliya" for multi-district trips - each day's
+    places may span more than one district, so when a day's stops aren't all
+    in the same district as the previous day, that day's line names the
+    district explicitly (e.g. "day 3, now in Nuwara Eliya: ...") rather than
+    silently jumping location without saying so."""
     num_days = len(day_plan)
-    parts = [sentence(f"Here's a {num_days}-day plan around {district}")]
+    parts = [sentence(f"Here's a {num_days}-day plan around {region_label}")]
+    prev_district = None
     for day_num, day_places in enumerate(day_plan, 1):
         stop_clauses = [
             f"{p['name']} ({money_en(p['ticket_price'])})" for p in day_places
@@ -252,7 +265,12 @@ def resp_itinerary_en(district: str, day_plan: list) -> str:
             stops_text = stop_clauses[0]
         else:
             stops_text = ", then ".join(stop_clauses)
-        parts.append(sentence(f"day {day_num}: {stops_text}"))
+        day_district = day_places[0]["district_id"]
+        if day_district != prev_district:
+            parts.append(sentence(f"day {day_num}, now in {day_district}: {stops_text}"))
+        else:
+            parts.append(sentence(f"day {day_num}: {stops_text}"))
+        prev_district = day_district
     parts.append("That should give you a well-paced trip without rushing between places.")
     return " ".join(parts)
 
@@ -476,6 +494,11 @@ QUESTIONS_EN = {
         "I have {days} days in {district} - what should I do?",
         "Put together a {days}-day itinerary for {district}.",
     ],
+    "itinerary_multi": [
+        "Can you plan a {days}-day trip covering {region_label} for me?",
+        "I have {days} days and want to visit {region_label} - what should I do?",
+        "Put together a {days}-day route through {region_label}.",
+    ],
     "budget_concierge": [
         "Am I overspending? Should I cut back?",
         "How's my budget looking so far?",
@@ -602,6 +625,312 @@ def build_examples(places_by_district: dict, rng: random.Random) -> list:
         for question in fact["en"]["questions"]:
             examples.append(make_example("oracle", question, answer, [], district="general"))
 
+    return examples
+
+
+def region_label_en(districts: list) -> str:
+    """'Kandy and Matale' / 'Kandy, Matale and Nuwara Eliya'."""
+    if len(districts) == 1:
+        return districts[0]
+    if len(districts) == 2:
+        return f"{districts[0]} and {districts[1]}"
+    return f"{', '.join(districts[:-1])} and {districts[-1]}"
+
+
+def build_multi_district_examples(places_by_province: dict, rng: random.Random, num_variants: int = 8) -> list:
+    """Multi-day itineraries spanning 2-3 districts within the same province
+    (e.g. Kandy -> Matale -> Nuwara Eliya, all Central province), since
+    that's the only geographic-proximity signal available in this dataset
+    (see 01_merge_places.py's note that lat/lng are unreliable for
+    fine-grained distance filtering) - districts grouped under the same
+    province are a reasonable real-world travel route, unlike e.g. Jaffna
+    paired with Galle. Each day's stops all come from one district (no
+    same-day cross-district hopping - that's a pacing assumption a voice
+    assistant shouldn't make for the user), and consecutive days are ordered
+    so the route only advances through districts, never backtracks."""
+    examples = []
+    for province, districts_map in places_by_province.items():
+        eligible_districts = [d for d, places in districts_map.items() if len(places) >= 2]
+        if len(eligible_districts) < 2:
+            continue  # need at least 2 districts in this province to build a route
+
+        for _ in range(num_variants):
+            num_districts_in_route = rng.randint(2, min(3, len(eligible_districts)))
+            route_districts = rng.sample(eligible_districts, num_districts_in_route)
+
+            day_plan = []
+            for district in route_districts:
+                district_places = districts_map[district]
+                num_days_here = rng.randint(1, 2) if len(district_places) >= 4 else 1
+                shuffled = district_places[:]
+                rng.shuffle(shuffled)
+                cursor = 0
+                for _ in range(num_days_here):
+                    stops_today = min(rng.choice([2, 3]), len(shuffled) - cursor)
+                    if stops_today <= 0:
+                        break
+                    day_plan.append(shuffled[cursor:cursor + stops_today])
+                    cursor += stops_today
+
+            if len(day_plan) < 2:
+                continue
+
+            region_label = region_label_en(route_districts)
+            q = rng.choice(QUESTIONS_EN["itinerary_multi"]).format(
+                days=len(day_plan), region_label=region_label
+            )
+            all_ids = [p["id"] for day in day_plan for p in day]
+            examples.append(make_example(
+                "itinerary_multi", q, resp_itinerary_en(region_label, day_plan),
+                all_ids, district=province
+            ))
+    return examples
+
+
+# ---------------------------------------------------------------------------
+# Structured trip planner: JSON-in / JSON-out, for an app-side "Trip Planner"
+# feature (not the voice chat scenarios above). Input is a structured request
+# (budget_lkr, days, destination district, interests, pace); output is a
+# structured per-day plan (day_theme, notes, human_text, safety_tip,
+# sinhala_phrase, and the real stop data - id/name/lat/lng/price copied
+# directly from places.json, never invented or re-estimated by the model).
+# ---------------------------------------------------------------------------
+
+# Maps a user-facing "interest" tag to the place categories that satisfy it.
+# Categories not listed under any interest (e.g. "Other", "House") are simply
+# never selected by this scenario - there's no interest tag vague enough to
+# honestly cover them.
+INTEREST_CATEGORIES = {
+    "nature": {
+        "Cascade", "Plunge", "Tiered", "Fan", "Horsetail", "Block", "Segmented",
+        "Multi-step", "National Park", "Sandy Beach", "Urban Beach", "Cave",
+        "Forest Monastery", "Tea Estate",
+    },
+    "culture": {
+        "Temple", "Buddhist Temple", "Kovil", "Church", "Mosque", "Cathedral",
+        "Devalaya", "Devale", "Stupa", "Building", "Ruins", "Pre-Historic Site",
+        "Ambalama",
+    },
+    "adventure": {"Adventure Park", "National Park", "Cave"},
+    "relaxation": {"Tea Estate", "Sandy Beach", "Urban Beach"},
+}
+
+PACE_STOPS_PER_DAY = {
+    "relaxed": (1, 2),
+    "moderate": (2, 3),
+    "packed": (3, 4),
+}
+
+
+def day_theme_en(categories_today: list) -> str:
+    """Short label from the day's actual categories - 'Waterfalls & Nature
+    Day' etc - not a generic 'Day N' placeholder."""
+    cat_to_label = {
+        "Cascade": "Waterfalls", "Plunge": "Waterfalls", "Tiered": "Waterfalls",
+        "Fan": "Waterfalls", "Horsetail": "Waterfalls", "Block": "Waterfalls",
+        "Segmented": "Waterfalls", "Multi-step": "Waterfalls",
+        "National Park": "Wildlife", "Sandy Beach": "Beach", "Urban Beach": "Beach",
+        "Cave": "Caves", "Forest Monastery": "Forest", "Tea Estate": "Tea Country",
+        "Temple": "Temples", "Buddhist Temple": "Temples", "Kovil": "Kovils",
+        "Church": "Churches", "Mosque": "Mosques", "Cathedral": "Heritage",
+        "Devalaya": "Devales", "Devale": "Devales", "Stupa": "Stupas",
+        "Building": "Heritage", "Ruins": "Ruins", "Pre-Historic Site": "History",
+        "Ambalama": "Heritage", "Adventure Park": "Adventure",
+    }
+    labels = []
+    for cat in categories_today:
+        label = cat_to_label.get(cat, cat)
+        if label not in labels:
+            labels.append(label)
+    if not labels:
+        return "Exploring"
+    if len(labels) == 1:
+        return f"{labels[0]} Day"
+    return f"{' & '.join(labels[:2])} Day"
+
+
+def safety_tip_en(stops_today: list) -> str:
+    """One safety note for the day, picked from whichever stop actually has
+    something noteworthy (a real wildlife_hazard, a guide requirement, or a
+    non-Safe safety_level) - grounded in that place's real fields, never a
+    generic invented caution. Falls back to a plain reassurance only if none
+    of the day's stops have anything to flag."""
+    for p in stops_today:
+        if p.get("wildlife_hazard") and p["wildlife_hazard"] != "None":
+            return f"At {p['name']}, watch for {p['wildlife_hazard'].lower()}."
+        if p.get("guide_required", "no").lower() == "yes":
+            return f"{p['name']} requires a guide - arrange one before you go."
+        if p.get("safety_level", "Safe").lower() != "safe":
+            return f"{p['name']} is rated {p['safety_level'].lower()} - take extra care there."
+    return "No particular safety concerns for today's stops - standard precautions apply."
+
+
+def notes_en(stops_today: list) -> str:
+    """Practical facts as a compact list, not prose - opening hours, price,
+    and activities per stop, exactly as stored (no rounding/estimating)."""
+    lines = []
+    for p in stops_today:
+        lines.append(
+            f"{p['name']}: {p['opening_hours']}, {money_en(p['ticket_price'])}, "
+            f"activities: {p['activities'].lower()}"
+        )
+    return " | ".join(lines)
+
+
+def human_text_en(day_num: int, stops_today: list) -> str:
+    stop_clauses = [
+        f"{p['name']} ({money_en(p['ticket_price'])})" for p in stops_today
+    ]
+    stops_text = stop_clauses[0] if len(stop_clauses) == 1 else ", then ".join(stop_clauses)
+    return sentence(f"day {day_num}: {stops_text}")
+
+
+SINHALA_PHRASE_STUB = {
+    "Waterfalls": "ඇල්ල නරඹන දිනයක්",
+    "Wildlife": "වන ජීවීන් නරඹන දිනයක්",
+    "Beach": "වෙරළ දිනයක්",
+    "Caves": "ගුහා නරඹන දිනයක්",
+    "Forest": "වන අභයභූමි දිනයක්",
+    "Tea Country": "තේ වතු දිනයක්",
+    "Temples": "පන්සල් වන්දනා දිනයක්",
+    "Kovils": "කෝවිල් වන්දනා දිනයක්",
+    "Churches": "පල්ලි වන්දනා දිනයක්",
+    "Mosques": "පල්ලි වන්දනා දිනයක්",
+    "Heritage": "උරුමය නරඹන දිනයක්",
+    "Devales": "දේවාල වන්දනා දිනයක්",
+    "Stupas": "ස්තූප වන්දනා දිනයක්",
+    "Ruins": "නටබුන් නරඹන දිනයක්",
+    "History": "ඉතිහාසය ගවේෂණය කරන දිනයක්",
+    "Adventure": "වික්‍රමාන්විත දිනයක්",
+    "Exploring": "ගවේෂණය කරන දිනයක්",
+}
+
+
+def sinhala_phrase_for_theme(theme_en: str) -> str:
+    """Sinhala rendering of the day theme - not the whole day plan, just the
+    short phrase (e.g. 'Waterfalls Day' -> 'ඇල්ල නරඹන දිනයක්'), matched
+    against the labels used in day_theme_en. Falls back to the 'Exploring'
+    stub for any combined/unrecognized theme rather than guessing a
+    translation."""
+    first_label = theme_en.split(" & ")[0].replace(" Day", "")
+    return SINHALA_PHRASE_STUB.get(first_label, SINHALA_PHRASE_STUB["Exploring"])
+
+
+def build_trip_plan(destination_district: str, budget_lkr: int, days: int,
+                     interests: list, pace: str, places_by_district: dict,
+                     rng: random.Random) -> dict | None:
+    """Builds one structured trip plan, or None if there isn't enough
+    matching inventory (not enough places in this district matching the
+    requested interests) to honestly fill the requested number of days -
+    returning nothing is correct here, not padding with irrelevant places."""
+    district_places = places_by_district.get(destination_district, [])
+    wanted_categories = set()
+    for interest in interests:
+        wanted_categories |= INTEREST_CATEGORIES.get(interest, set())
+    matching_places = [p for p in district_places if p["category_id"] in wanted_categories]
+    if len(matching_places) < 2:
+        return None
+
+    shuffled = matching_places[:]
+    rng.shuffle(shuffled)
+    min_stops, max_stops = PACE_STOPS_PER_DAY.get(pace, (2, 3))
+
+    day_results = []
+    cursor = 0
+    running_cost = 0
+    for day_num in range(1, days + 1):
+        stops_today_count = min(rng.randint(min_stops, max_stops), len(shuffled) - cursor)
+        if stops_today_count <= 0:
+            break
+        stops_today = shuffled[cursor:cursor + stops_today_count]
+        cursor += stops_today_count
+
+        theme = day_theme_en([p["category_id"] for p in stops_today])
+        day_cost = sum(p["ticket_price"] for p in stops_today)
+        running_cost += day_cost
+
+        day_results.append({
+            "day": day_num,
+            "day_theme": theme,
+            "sinhala_phrase": sinhala_phrase_for_theme(theme),
+            "stops": [
+                {
+                    "place_id": p["id"],
+                    "name": p["name"],
+                    "lat": p["lat"],
+                    "lng": p["lng"],
+                    "price": p["ticket_price"],
+                    "category": p["category_id"],
+                }
+                for p in stops_today
+            ],
+            "notes": notes_en(stops_today),
+            "human_text": human_text_en(day_num, stops_today),
+            "safety_tip": safety_tip_en(stops_today),
+        })
+
+    if len(day_results) < 2:
+        return None
+
+    return {
+        "days": day_results,
+        "total_estimated_cost_lkr": running_cost,
+        "within_budget": running_cost <= budget_lkr,
+    }
+
+
+def build_trip_plan_examples(places_by_district: dict, rng: random.Random, num_variants: int = 6) -> list:
+    examples = []
+    interest_combos = [
+        ["nature"], ["culture"], ["nature", "culture"],
+        ["adventure"], ["relaxation"], ["culture", "relaxation"],
+    ]
+    paces = ["relaxed", "moderate", "packed"]
+
+    for district in places_by_district:
+        for variant_i in range(num_variants):
+            interests = rng.choice(interest_combos)
+            pace = rng.choice(paces)
+            days = rng.randint(2, 4)
+
+            plan = build_trip_plan(district, 0, days, interests, pace, places_by_district, rng)
+            if plan is None:
+                continue
+
+            # Most places in this dataset are free/cheap (see README known
+            # issues), so a budget drawn independently of the actual plan
+            # cost almost never comes out under it - the model would never
+            # see a genuine "over budget" example. Force roughly 1 in 4
+            # variants to use a budget set just below the plan's real cost
+            # (or a small nominal budget if the plan costs nothing), so
+            # within_budget: false is represented in training, not just
+            # always-true.
+            actual_cost = plan["total_estimated_cost_lkr"]
+            if variant_i % 4 == 0:
+                budget_lkr = max(100, actual_cost - rng.randint(200, 1000)) if actual_cost > 0 else rng.choice([300, 500])
+            else:
+                budget_lkr = rng.choice([5000, 10000, 15000, 25000, 40000])
+            plan["within_budget"] = actual_cost <= budget_lkr
+
+            request = {
+                "budget_lkr": budget_lkr,
+                "days": days,
+                "destination": district,
+                "interests": interests,
+                "pace": pace,
+            }
+            all_ids = [s["place_id"] for day in plan["days"] for s in day["stops"]]
+            examples.append({
+                "lang": "en",
+                "scenario": "trip_plan_structured",
+                "place_ids": all_ids,
+                "district": district,
+                "messages": [
+                    {"role": "system", "content": SYSTEM_PROMPT_EN},
+                    {"role": "user", "content": json.dumps(request, ensure_ascii=False)},
+                    {"role": "assistant", "content": json.dumps(plan, ensure_ascii=False)},
+                ],
+            })
     return examples
 
 

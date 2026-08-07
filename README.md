@@ -4,10 +4,10 @@ Fine-tuned LLM pipeline for TripMe's voice-based, location-aware Sri Lanka place
 
 ## Status
 
-- [x] Dataset downloaded (6 category JSON files, 1289 places, 25 districts) - `data/raw/`
-- [x] Merged, cleaned (district spelling fixed, CJK corruption in 6 descriptions scrubbed) - `data/processed/places.json`
-- [x] English instruction dataset generated (5,531 examples: single/family/safety/compare/day-trip/budget-concierge/audio-guide scenarios) - `data/training/{train,val}.jsonl`
-- [x] Sinhala instruction dataset generated (5,531 examples, same scenarios, hand-written formal Sinhala grounded in the place data - not machine translation) - `data/training/{train_si,val_si}.jsonl`
+- [x] Dataset downloaded and merged (2278 unique places, 25 districts, includes OpenStreetMap-collectible categories) - `data/raw/`, `data/processed/places.json`
+- [x] Merged, cleaned (district spelling fixed, CJK corruption scrubbed) - `data/processed/places.json`
+- [x] English instruction dataset generated (9,822 examples: single/family/safety/compare/day-trip/multi-day itinerary/multi-district itinerary/structured trip planner/budget-concierge/audio-guide/oracle scenarios) - `data/training/{train,val}.jsonl`
+- [x] Sinhala instruction dataset generated (9,829 examples, same scenarios, hand-written formal Sinhala grounded in the place data - not machine translation) - `data/training/{train_si,val_si}.jsonl`
 - [x] Both datasets validated (0 issues: no empty responses, no contamination, no unknown place IDs, no safety contradictions)
 - [x] Colab fine-tuning notebook ready, base model `ihalage/llama3-sinhala` (Llama-3-8B-Instruct already Sinhala-capable), trains on English + Sinhala together - `notebooks/finetune_colab.ipynb`
 - [x] Serving API scaffolded and smoke-tested (retrieval + language-aware LLM routing + FastAPI wiring confirmed) - `serve/`
@@ -43,6 +43,46 @@ Added as a 7th scenario type (`audio_guide`), for when the user taps a button wh
 
 - **English**: built by reframing the real `description` field into second person - strips a leading repeat of the place's own name (handling both "X, a majestic cascade..." and "X stands as..." opening patterns) and prepends "It"/"It's" as needed so the result reads as a grammatically complete sentence, since the opener line already states "You're standing at X" and the description shouldn't repeat it.
 - **Sinhala**: since there's no Sinhala description text to reframe, this is composed from structured facts only (category family, district, activities), grouped into category-specific templates (religious sites vs. waterfalls vs. beaches vs. tea estates vs. adventure parks) so the narration language actually fits what kind of place it is rather than one generic template repeated everywhere.
+
+## Trip Planner: multi-day and multi-district itineraries
+
+Two related scenario types:
+
+- **`itinerary`** (single-district, pre-existing): a multi-day plan within one district, 2-5 days, 2-3 stops per day, no repeated places across days.
+- **`itinerary_multi`** (added): a multi-day route spanning **2-3 districts within the same province** - e.g. "Anuradhapura and Polonnaruwa" (North Central) or "Badulla and Monaragala" (Uva). Each day's stops all come from a single district (no same-day cross-district hopping - a voice assistant shouldn't assume that pacing for the user), and when a day's district differs from the previous day's, the response says so explicitly ("Day 3, now in Polonnaruwa: ...") rather than silently jumping location.
+
+Grouping by province (not an arbitrary district pairing) is the geographic-proximity signal used here, since `lat`/`lng` in the source data isn't reliable for fine-grained distance calculations (see Known Open Items). Provinces group districts that are genuinely close together in practice (Kandy/Matale/Nuwara Eliya all being Central province, for example), so a generated route stays realistic even without real routing/distance data.
+
+Implemented in both languages: `resp_itinerary_multi_si` in the Sinhala generator is a hand-composed parallel to the English version (district names via `DISTRICT_SI`, not a translation of the English response), consistent with how every other Sinhala scenario in this pipeline is built.
+
+## Trip Planner: structured JSON output (`trip_plan_structured`)
+
+A third, separate scenario type - for an app-side "Trip Planner" feature rather than the voice chat scenarios above, so both the request and the response are structured JSON, not natural-language prose:
+
+```json
+// user turn
+{"budget_lkr": 15000, "days": 3, "destination": "Kandy", "interests": ["nature", "culture"], "pace": "relaxed"}
+
+// assistant turn (abbreviated)
+{
+  "days": [
+    {
+      "day": 1, "day_theme": "Waterfalls Day", "sinhala_phrase": "...",
+      "stops": [{"place_id": "pl_...", "name": "...", "lat": ..., "lng": ..., "price": ..., "category": "..."}],
+      "notes": "...", "human_text": "...", "safety_tip": "..."
+    }
+  ],
+  "total_estimated_cost_lkr": 0,
+  "within_budget": true
+}
+```
+
+- **Place selection**: `interests` map to a fixed set of `category_id` values (`INTEREST_CATEGORIES` - e.g. `nature` -> waterfalls/national parks/beaches/tea estates, `culture` -> temples/kovils/churches/ruins/stupas). Only places in the requested `destination` district matching at least one requested interest are eligible; if fewer than 2 match, no plan is generated for that combination (never padded with irrelevant places to hit a day count).
+- **`pace`** controls stops per day: `relaxed` (1-2), `moderate` (2-3), `packed` (3-4).
+- **`stops`** fields (`place_id`, `lat`, `lng`, `price`, `category`) are copied directly from `places.json` - never re-estimated or invented by the generator (or, downstream, by the fine-tuned model, which is the point of training it on this shape).
+- **`safety_tip`** is grounded in that day's real place data: a non-`None` `wildlife_hazard`, a `guide_required: yes`, or a non-`Safe` `safety_level` on any of the day's stops - falls back to a generic reassurance only if none of the stops have anything to flag.
+- **`within_budget`**: since most places in this dataset are free or low-cost, a budget drawn independently of the plan's real cost almost never comes out false - to make sure the model actually sees genuine over-budget examples (not just always-true), roughly 1 in 4 generated examples deliberately sets the budget just below the plan's real cost.
+- **Sinhala**: `build_trip_plan_examples_si` mirrors the English generator's selection/budget logic exactly (same `INTEREST_CATEGORIES`/`PACE_STOPS_PER_DAY`), with Sinhala-specific `day_theme`/`notes`/`human_text`/`safety_tip` text (activities translated via `sinhala_activities.py`, not left in English).
 
 ## Sinhala localization: place names and activities
 
