@@ -43,6 +43,8 @@ YES_NO_FIELDS = [
 # Source data has inconsistent spellings for the same district - canonicalize them.
 DISTRICT_ALIASES = {
     "Moneragala": "Monaragala",
+    "Hambantota": "Hambanthota",
+    "Kurunegala": "Kurunagala",
 }
 
 
@@ -76,13 +78,36 @@ def normalize_record(record: dict, source_file: str) -> dict:
     return record
 
 
+def load_items(path: Path) -> list[dict]:
+    if path.suffix == ".jsonl":
+        # Records may be pretty-printed across multiple lines rather than
+        # strictly one JSON object per line, so decode by scanning instead
+        # of splitting on newlines.
+        with open(path, encoding="utf-8") as fh:
+            content = fh.read()
+        decoder = json.JSONDecoder()
+        items = []
+        idx, n = 0, len(content)
+        while idx < n:
+            while idx < n and content[idx].isspace():
+                idx += 1
+            if idx >= n:
+                break
+            obj, end = decoder.raw_decode(content, idx)
+            items.append(obj)
+            idx = end
+        return items
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
 def main() -> None:
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
     merged: dict[str, dict] = {}
-    for path in sorted(RAW_DIR.glob("*.json")):
-        with open(path, encoding="utf-8") as fh:
-            items = json.load(fh)
+    paths = sorted(RAW_DIR.glob("*.json")) + sorted(RAW_DIR.glob("*.jsonl"))
+    for path in paths:
+        items = load_items(path)
         for item in items:
             record = normalize_record(item, path.name)
             merged[record["id"]] = record  # last write wins on duplicate id
