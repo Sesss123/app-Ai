@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"./.venv/Scripts/python.exe\" scripts/02_generate_instructions.py)",
+      "Bash(./.venv/Scripts/python.exe -c ' *)",
+      "Bash(PYTHONIOENCODING=utf-8 ./.venv/Scripts/python.exe -c ' *)",
+      "Bash(\"./.venv/Scripts/python.exe\" scripts/01_merge_places.py)",
+      "Bash(\"./.venv/Scripts/python.exe\" scripts/03_validate_dataset.py)",
+      "Bash(\"./.venv/Scripts/python.exe\" -m pip install --quiet fastapi \"uvicorn[standard]\" pydantic python-multipart)",
+      "Bash(rm -f /tmp/test_app.py)",
+      "Bash(\"./.venv/Scripts/python.exe\" \"C:\\\\Users\\\\sehas\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--app-ai\\\\65f6577b-64c5-4129-a8a3-e6f3fc719ed1\\\\scratchpad\\\\fix_notebook.py\")",
+      "Bash(\"./.venv/Scripts/python.exe\" scripts/04_generate_instructions_si.py)"
+    ],
+    "additionalDirectories": [
+      "\\tmp"
+    ]
+  }
+}
