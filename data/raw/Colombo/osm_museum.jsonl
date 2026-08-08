@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_a6ccca8315",
     "name": "National Art Gallery",
-    "description": "National Art Gallery is a museum located in Colombo, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Art Gallery in Colombo, Sri Lanka, houses an extensive collection of paintings, sculptures, and artifacts that reflect the rich artistic heritage of the country. Founded in 1956 by the then Prime Minister S.W.R.D Bandaranaike, it was initially housed in a different location but moved to its current site in 2010. The gallery hosts various exhibitions and educational programs, offering visitors insights into Sri Lanka's art history and contemporary artists. It is a significant cultural landmark that attracts both local and international art enthusiasts.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_424ecb98e8",
     "name": "Old General Post Office Fort",
-    "description": "Old General Post Office Fort is a museum located in Colombo, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Old General Post Office Fort, located in Colombo, Sri Lanka, is now a museum that showcases postal artifacts and documents from the 19th century. Built by the British East India Company in 1867 as a general post office, it was later converted into a fort during the colonial era. The building stands as a testament to the country's rich postal history, offering visitors insights into communication methods of the past. It has also been a site for various cultural and political events, making it more than just a repository of old mail.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_c449249d6d",
     "name": "Railway Museum",
-    "description": "Located in Colombo, Railway Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Railway Museum in Colombo, Sri Lanka, showcases exhibits related to the country's extensive rail network, including vintage trains, locomotives, and artifacts. Founded in 1954 by the Ceylon Railways, it houses a collection of items dating back to the early days of Sri Lanka's railway system, highlighting the island's transportation history and its importance as a key trade route. Visitors can learn about notable events such as the opening of the first railway line in 1863 connecting Kandy and Jaffna, and the role railways played in the development of Sri Lanka's economy and infrastructure.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_ac7c8f5da8",
     "name": "National Puppet Museum",
-    "description": "National Puppet Museum is a museum in the Colombo area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Puppet Museum in Colombo, Sri Lanka, houses an extensive collection of traditional puppetry artifacts and performances showcasing the rich cultural heritage of puppetry in the country. Founded in 2005, the museum attracts visitors interested in the art form, offering insights into puppet-making techniques and puppet shows that reflect local stories and folklore. It's a unique space where one can learn about puppetry traditions, making it a popular destination for both locals and tourists eager to experience the artistry and cultural significance of puppetry in Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_d51df747ca",
     "name": "Dutch Colonial Museum",
-    "description": "Dutch Colonial Museum is a museum located in Colombo, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Dutch Colonial Museum in Colombo, Sri Lanka, houses artifacts and exhibits that tell the story of the Dutch East India Company's influence on the region. Built in the early 20th century, it showcases colonial-era artwork, textiles, and documents, offering visitors a glimpse into the past through interactive displays and audio guides. The museum also features a rotating collection of temporary exhibitions, making it a popular spot for both locals and tourists interested in learning about Sri Lanka's diverse history.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -155,7 +155,7 @@
     "_osm_type": "node",
     "_osm_id": 4354445603,
     "_source_global_id": "476a3496-35d7-40c9-9701-28d64d148fba",
-    "opening_hours": "Check locally",
+    "opening_hours": "Tu-Sa 09:00-17:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_6b5c3af000",
     "name": "Archaeological Museum of Kotte",
-    "description": "Archaeological Museum of Kotte is a museum in the Colombo area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Archaeological Museum of Kotte, located in the heart of Colombo, houses artifacts and relics from the ancient capital of medieval Sri Lanka. Founded in 1876, it was established by the British to document the ruins of the old city of Kotte. The museum showcases a collection of stone sculptures, pottery, and coins that provide insight into the cultural and religious practices of the Kotte Kingdom. Notable exhibits include a beautifully carved Buddha statue and an intricately designed temple mural. Visitors can learn about the site's rich history and the significance of Kotte as a center of power and culture in Sri Lanka's past.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_8767e5dfed",
     "name": "W A Silva Museum",
-    "description": "W A Silva Museum is a museum in the Colombo area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The W A Silva Museum in Colombo is dedicated to preserving artifacts and documents related to the life and work of Walter Anthony Silva, a prominent Sri Lankan artist and writer. Founded in 1957, the museum showcases over 200 exhibits, including paintings, manuscripts, and personal belongings of Silva, offering visitors a glimpse into his artistic journey and contributions to Sri Lankan culture. It also features interactive displays explaining the significance of each piece, making it a popular educational stop for both locals and tourists interested in local art and history.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -227,7 +227,7 @@
     "_osm_type": "node",
     "_osm_id": 6235337387,
     "_source_global_id": "dbf1c8a7-7059-46c8-bb6d-f4cf6cc5941d",
-    "opening_hours": "Check locally",
+    "opening_hours": "Tu-Th, Sa, Su 10:00-17:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_63e3337b4a",
     "name": "National Museum of Natural History",
-    "description": "National Museum of Natural History is a museum in the Colombo area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Museum of Natural History in Colombo, Sri Lanka, houses an extensive collection of natural specimens including fossils, minerals, and ethnographic artifacts. Established in 1873 by Sir James Emerson Tennent, the museum showcases the rich biodiversity of Sri Lanka alongside historical exhibits. It attracts visitors interested in both scientific discovery and cultural heritage, offering insights into the natural world and human history. Notable events include the opening ceremony by Sir Arthur Conan Doyle, author of Sherlock Holmes stories, who was a patron of the museum.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -273,7 +273,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_e525c893f6",
     "name": "National Museum of Colombo",
-    "description": "National Museum of Colombo is a museum located in Colombo, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Museum of Colombo, located in the heart of Colombo, houses an extensive collection of artifacts and exhibits reflecting Sri Lanka's rich history and culture. Founded in 1849 by Sir James Emerson Tennent, it was initially a private collection. The museum covers various themes including ancient Sri Lankan art, archaeological finds, and contemporary art. Notable events such as the independence of Ceylon (now Sri Lanka) in 1948 are commemorated here. Visitors can learn about the island’s prehistoric to colonial periods through its diverse exhibits.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -299,7 +299,7 @@
     "_osm_type": "way",
     "_osm_id": 138991604,
     "_source_global_id": "2df268d5-bfd7-41ff-b9f9-8b1ae64048f2",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 09:00-17:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -309,7 +309,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_33ad4caf42",
     "name": "Sri Lanka Air Force Museum",
-    "description": "Sri Lanka Air Force Museum is a museum located in Colombo, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Sri Lanka Air Force Museum, located in Colombo, showcases artifacts and memorabilia from the country’s air force. Established in 2003, it houses vintage aircraft, uniforms, medals, and photographs chronicling the nation’s military aviation history. Notable exhibits include a Hawker Hunter jet fighter and a Lockheed C-130 Hercules transport aircraft. Visitors can learn about key events like the liberation of Sri Lanka during the end of the Sri Lankan Civil War, making it a significant educational resource for understanding Sri Lanka’s recent military history.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_6d3fec9388",
     "name": "Authority Maritime Museum",
-    "description": "Authority Maritime Museum is a museum located in Colombo, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Authority Maritime Museum in Colombo, Sri Lanka, showcases exhibits on maritime history, including ancient ship models, navigational instruments, and photographs of historic voyages. Founded in 1962 by the Sri Lanka Navy, it highlights the country’s naval heritage and contributions to global trade and defense. Visitors can learn about significant events like the Battle of Colombo during World War II, gaining insights into the island’s strategic importance over the centuries. The museum also features interactive displays and educational programs aimed at promoting maritime awareness among locals and tourists alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_0ce2bb64b6",
     "name": "National Planetarium",
-    "description": "National Planetarium is a museum located in Colombo, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Planetarium in Colombo, Sri Lanka, is a museum dedicated to space exploration and astronomy. It was established in 2010 by the Sri Lankan government to promote science education and curiosity among the public. The planetarium features interactive exhibits, a planetarium theater that shows stunning 3D movies of celestial bodies, and educational programs for all ages. Visitors can learn about the universe, from the solar system to distant galaxies, through hands-on displays and immersive experiences. It's a popular destination for both locals and tourists interested in space science.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_3d802f29b0",
     "name": "Geoffrey Bawa House No.11",
-    "description": "Geoffrey Bawa House No.11 is a museum in the Colombo area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Geoffrey Bawa House No. 11, now a museum, stands in Colombo as a testament to the architect's innovative designs. Built in 1973, it was designed by renowned architect Geoffrey Bawa himself, reflecting his modernist style and Sri Lankan vernacular architecture. The house features a unique layout with a central courtyard surrounded by living spaces, showcasing Bawa’s commitment to integrating nature into urban design. It serves as a museum, offering insights into Bawa’s life and work, including his contributions to Sri Lankan architecture and landscape design. Visitors can learn about his projects across the island, making it an important site for architectural enthusiasts and locals alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Museum",
@@ -443,7 +443,7 @@
     "_osm_type": "way",
     "_osm_id": 1000695194,
     "_source_global_id": "700f2fcd-b5cd-496a-86f4-7d942ca4d7fc",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Fr 10:00,14:00,15:30; Sa 11:00,16:00; Su 11:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -451,7 +451,7 @@
     "budget_category": "Low",
     "ticket_price": 0,
     "parking_avail": "unknown",
-    "toilets": "unknown",
+    "toilets": "no",
     "food_nearby": "unknown",
     "wheelchair_access": "unknown",
     "camping_allowed": "no",
@@ -465,6 +465,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_3b03ada7",
     "name": "Kotte Museum",

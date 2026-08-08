@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_7548779de0",
     "name": "Archaeological Museum",
-    "description": "Located in Monaragala, Archaeological Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Archaeological Museum in Monaragala, Sri Lanka, houses artifacts and relics from various sites across the island. It was established to preserve and educate the public about the rich cultural heritage of Sri Lanka. The museum showcases ancient Buddhist statues, pottery, and tools, providing insights into the island's prehistoric and early civilization. Notable exhibits include a collection of ancient coins and inscriptions, which offer glimpses into the political and economic history of different eras. Visitors can learn about significant historical events and cultural practices through interactive displays and guided tours.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_c035f9a97a",
     "name": "Archeological Museum",
-    "description": "Located in Monaragala, Archeological Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Archeological Museum in Monaragala houses artifacts and relics from various periods of Sri Lankan history including ancient Buddhist sculptures, terracotta figurines, and pottery. Established in 1875, it was founded by Sir James Emerson Tennent, a Scottish naturalist and archaeologist. The museum showcases important finds from local sites like Polonnaruwa and Sigiriya, offering visitors insights into the island's rich cultural heritage. Exhibits highlight significant religious and social aspects of early Sri Lankan civilization, making it a must-visit for anyone interested in the country's archaeological past.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Museum",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

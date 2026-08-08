@@ -1,7 +1,7 @@
 {
     "id": "pl_d14dde87",
     "name": "Kalutara Beach",
-    "description": "Kalutara Beach, a picturesque sandy stretch along the Western Province’s coast, offers crystal-clear waters perfect for swimming and sunbathing. Its golden sands and gentle waves make it a favorite spot for locals and tourists alike.",
+    "description": "Kalutara Beach, a sandy stretch along the west coast of Kalutara District, offers visitors a chance to swim in crystal-clear waters, sunbathe on soft sands, and enjoy picnics under coconut palms. The area is popular among locals and tourists alike, known for its tranquil setting and gentle waves. Historically, Kalutara Beach has been a spot where fishermen once gathered, but its modern appeal as a recreational area began in the early 20th century. Notable events include community festivals held there, which attract both residents and tourists.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -34,7 +34,7 @@
 {
     "id": "pl_c5888b62",
     "name": "Wadduwa Beach",
-    "description": "A beautiful tourist place located in Sri Lanka.",
+    "description": "Wadduwa Beach, located in the Kalutara District of Sri Lanka, is a popular sandy stretch known for its pristine waters and clear blue sea. The area offers scenic sightseeing opportunities, with visitors often taking in the picturesque views of the coastline and nearby hills. Historically, the beach has been a quiet retreat for locals and tourists alike, attracting those seeking relaxation and natural beauty. Cultural and religious significance aside, Wadduwa Beach remains a cherished spot for swimming, sunbathing, and enjoying the serene coastal atmosphere.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -67,7 +67,7 @@
 {
     "id": "pl_0af4c05c",
     "name": "Beruwala Beach",
-    "description": "Beruwala Beach, nestled along the Western Province’s coast, offers pristine sandy shores perfect for swimming, sunbathing, and snorkeling amidst vibrant marine life. Its clear waters and gentle waves make it ideal for families and honeymooners seeking a tranquil retreat.",
+    "description": "Beruwala Beach, located in Kalutara District, Sri Lanka, offers visitors a picturesque sandy shoreline perfect for swimming, sunbathing, and snorkeling. The beachfront is often crowded with locals and tourists alike, enjoying the warm ocean waters and crystal-clear sea. Historically, Beruwala Beach has been a popular spot for fishermen and families seeking relaxation. Cultural significance lies in its role as a natural gathering place where locals share stories under palm trees. Notable events include the annual fishing festival that attracts many visitors.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -100,7 +100,7 @@
 {
     "id": "pl_b7d93a67",
     "name": "Moragalla Beach",
-    "description": "Moragalla Beach, nestled along the Western Province’s coast, offers pristine sandy shores and crystal-clear waters perfect for swimming and sunbathing. Its picturesque setting makes it a favorite among locals and tourists alike.",
+    "description": "Moragalla Beach, located in the picturesque district of Kalutara, Sri Lanka, offers a stretch of pristine sandy shores perfect for swimming, sunbathing, and snorkeling. The area is known for its clear waters and vibrant coral reefs, attracting both local and international tourists. Historically, the beach has been a popular spot for locals to gather, swim, and relax, making it a cherished destination for many years. Notable events include community festivals held here, where residents come together to celebrate traditional customs.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -199,7 +199,7 @@
 {
     "id": "pl_512de66a",
     "name": "Kosgoda Beach",
-    "description": "Kosgoda Beach, nestled along the Kalu天涯海角天涯海角天涯海角天涯海角天涯海角涯岸, is a picturesque sandy stretch known for its crystal-clear waters and vibrant marine life. Surrounded by lush greenery and offering breathtaking views, it's a perfect spot for swimming, sunbathing, and snorkeling.",
+    "description": "Kosgoda Beach, located in Kalutara, Sri Lanka, offers visitors a picturesque stretch of sandy shores perfect for swimming, sunbathing, and snorkeling. The area is known for its clear waters and vibrant coral reefs, attracting both local and international tourists. Historically, the beach has been a popular spot for locals to relax and enjoy nature’s beauty, though specific founding information is not widely documented. Cultural and religious significance here is minimal, but the beach remains a cherished destination for those seeking tranquility and natural splendor.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -228,6 +228,7 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_b2857df385",
     "name": "Panadura Beach",
@@ -268,7 +269,7 @@
 {
     "id": "pl_osm_9478eee914",
     "name": "beru beach",
-    "description": "beru beach is a beach located in Kalutara, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Beru Beach, nestled in Kalutara, Sri Lanka, offers visitors a picturesque sandy stretch perfect for swimming and sunbathing. Its golden shores attract locals and tourists alike seeking a relaxing escape from the hustle of urban life. The beach's charm lies in its tranquil setting, away from the main tourist areas, making it a peaceful retreat for those looking to unwind. Known for its clear waters and gentle waves, Beru Beach has become a popular spot for families and couples alike.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -305,7 +306,7 @@
 {
     "id": "pl_osm_ef2c03d17d",
     "name": "Calido beach Kalutara",
-    "description": "Located in Kalutara, Calido beach Kalutara is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Calido beach in Kalutara, a sandy stretch along the western coast of Sri Lanka, offers visitors a serene spot for swimming and sunbathing. The beach, known for its clear waters and golden sands, attracts locals and tourists alike seeking relaxation and recreation. Its proximity to Kalutara town makes it easily accessible, serving as a popular destination for day trips. Known historically as a fishing village, Calido beach has evolved into a significant recreational area, preserving much of its natural beauty while catering to modern tourism needs.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Sandy Beach",

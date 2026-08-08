@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_b3142a3ba7",
     "name": "Tea",
-    "description": "Located in Matara, Tea is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Tea estates in Matara, Sri Lanka, like the renowned Havelock Estate, offer visitors a glimpse into the island's rich tea industry. The area is dotted with scenic paths through lush tea plantations, perfect for nature lovers and photographers. The estates' history dates back to the late 1800s when British colonizers introduced tea cultivation. Today, these estates not only produce high-quality tea but also attract tourists interested in learning about the tea-making process and the cultural heritage associated with tea production in Sri Lanka.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Tea Estate",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

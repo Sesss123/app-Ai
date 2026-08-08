@@ -1,7 +1,7 @@
 {
     "id": "pl_898e28a6",
     "name": "Anu Heritage Cycling Park",
-    "description": "Anu Heritage Cycling Park is a unique cycling paradise nestled in the lush Anuradhapura district, offering thrilling rides through scenic trails and historical sites. Experience the thrill of cycling amidst ancient ruins and vibrant nature, making it a must-visit for adventure enthusiasts.",
+    "description": "Anu Heritage Cycling Park, nestled in the heart of Anuradhapura, offers cyclists a unique opportunity to explore the ancient ruins while enjoying scenic routes through the district. Established as part of efforts to preserve Sri Lanka's rich heritage, the park features well-maintained cycling paths that wind past temples, monasteries, and archaeological sites, allowing visitors to experience the blend of modern recreation and ancient culture. Guided tours provide insights into the historical significance of each location, making it a popular spot for both locals and tourists seeking a memorable cycling experience combined with educational enrichment.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_2d9c6558",
     "name": "Wilpattu North Safari",
-    "description": "Explore the ancient wilderness of Wilpattu North Safari, a unique park where nature's wonders unfold amidst the ruins of ancient temples. Witness the mesmerizing Wilupattu wetlands, home to diverse wildlife and a haven for bird lovers. Experience the tranquility of this untouched paradise, perfect for nature enthusiasts and adventure seekers alike.",
+    "description": "Wilpattu North Safari, nestled in the Anuradhapura district of Sri Lanka, offers visitors an adventurous experience through nature walks and bird watching opportunities. Known for its diverse array of wildlife and unique wetland ecosystems, it attracts nature enthusiasts and photographers alike. The park's rich biodiversity includes various species of birds, mammals, and reptiles, making it a significant site for those interested in wildlife observation and photography. Notable events such as the annual bird migration attract local and international bird watchers. Visitors can explore the park’s natural pools, known locally as “kulas,” which form unique landscapes and habitats.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_3a304539",
     "name": "Mihintale Rock Climb",
-    "description": "Discover the ancient ruins and climb the sacred rock at Mihintale, a UNESCO World Heritage site that offers breathtaking views and historical insights into Sri Lanka’s past. This site is a testament to the island’s rich cultural heritage and spiritual significance.",
+    "description": "The Mihintale Rock Climb is an adventurous park nestled in Anuradhapura, Sri Lanka, offering thrilling climbs and tours through ancient ruins. It stands as a testament to the site's rich history, believed to be founded by King Elara in the 3rd century BCE. The rock climb takes visitors on a journey through time, past temples, monasteries, and statues carved into the cliff face. Notable events include the historic meeting between the Buddha and King Elara, making it a sacred pilgrimage site for Buddhists. Visitors can explore the site's historical significance while enjoying the breathtaking views and adrenaline-pumping climbs.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

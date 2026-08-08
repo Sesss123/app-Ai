@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_1513cf5e4e",
     "name": "Millangoda Elephant Village",
-    "description": "Millangoda Elephant Village is a historic landmark in the Kegalle area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Millangoda Elephant Village, a historic landmark in Kegalle District, Sri Lanka, stands as a testament to nature's majesty and man's interaction with wildlife. The village, known for its unique elephant sanctuary, was established by local communities in the early 20th century to protect and care for elephants rescued from poaching. It offers visitors a chance to witness these magnificent creatures up close while learning about their conservation efforts. Visitors can take guided tours, capture stunning photos, and learn about the cultural significance of elephants in Sri Lankan folklore and traditions.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Building",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

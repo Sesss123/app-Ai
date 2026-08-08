@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_974e5e36f7",
     "name": "Natural Water Reserve 111",
-    "description": "Natural Water Reserve 111 is a nature reserve located in Badulla, Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Natural Water Reserve 111, located in the lush hills of Badulla, is a protected national park renowned for its diverse array of flora and fauna. Established in 1985, it covers an extensive area of pristine forests and streams. Visitors can enjoy guided hikes through the reserve, spotting endemic species such as the Sri Lankan leopard and the Nilgai antelope. The reserve also plays a crucial role in local water catchment and flood control, making it a vital ecosystem for both wildlife and the surrounding communities.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "National Park",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

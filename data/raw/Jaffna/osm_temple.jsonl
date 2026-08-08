@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_a4d897eec4",
     "name": "Nallur Sadanathar Kovil",
-    "description": "Nallur Sadanathar Kovil is a place of worship located in Jaffna, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Nallur Sadanathar Kovil, a revered Hindu temple in Jaffna, stands as a testament to the rich cultural heritage of Jaffna. Dedicated to Lord Shiva, it attracts devotees from across Sri Lanka. Constructed in the 17th century, the temple’s architecture reflects a blend of Dravidian and Sinhalese styles. Notable for its intricate carvings and ancient statues, it holds immense cultural and religious significance, serving as a focal point for spiritual practices and community gatherings. Its presence symbolizes the enduring legacy of Tamil culture in Jaffna.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_225ea02124",
     "name": "Mankumban Darga",
-    "description": "Mankumban Darga is a place of worship located in Jaffna, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Mankumban Darga, a sacred temple in Jaffna, Sri Lanka, is an important site for devotees seeking spiritual solace. Its origins date back to the 16th century when it was constructed by local artisans. The temple’s architecture reflects a blend of Dravidian and Sinhalese styles, showcasing intricate carvings and ornate decorations. Historically significant, Mankumban Darga has been a center for worship and rituals, attracting pilgrims and tourists alike. It played a crucial role during the Jaffna Kingdom era, serving as a symbol of cultural and religious unity. Visitors can explore its serene premises, including the main shrine and courtyard, while photographers capture its unique beauty.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_bffa9ef1b4",
     "name": "Muhammathiya Jumma Majeeth",
-    "description": "Muhammathiya Jumma Majeeth is a place of worship in the Jaffna area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Muhammathiya Jumma Majeeth is a sacred temple in Jaffna, Sri Lanka, where devotees gather for prayers. Its origins date back to the early days of Islamic settlement in the region, making it a significant site for Muslims in Jaffna. Notable for its architecture and the cultural richness it represents, the temple has hosted numerous community gatherings and religious ceremonies over the years. Visitors can explore its serene ambiance and capture moments through their cameras, immersing themselves in the spiritual and historical tapestry of the area.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -105,10 +105,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_a78d3cc0",
     "name": "Jaffna Vijayarama Buddhist Temple (post-war rebuilt)",
-    "description": "Jaffna Vijayarama Buddhist Temple, a post-war reconstruction effort, stands as a testament to resilience and cultural heritage. Built amidst the ruins of war, this temple now serves as a symbol of hope and unity, attracting visitors interested in its historical significance and architectural beauty.",
+    "description": "The Jaffna Vijayarama Buddhist Temple, rebuilt post-war in Jaffna, Sri Lanka, stands as a testament to the community's resilience. Originally constructed during the colonial era, the temple was severely damaged but has been restored, preserving its rich architectural details and cultural significance. Visitors can explore the temple's intricate carvings and learn about its history, which intertwines with the broader narrative of Sri Lankan Buddhism and the struggle for independence. It offers a space for reflection and understanding of the region's spiritual heritage and its people's journey through conflict and recovery.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Temple",

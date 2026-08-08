@@ -30,10 +30,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_d1dc318a43",
     "name": "National Zoological Gardens",
-    "description": "National Zoological Gardens is an attraction in the Colombo area of Sri Lanka. It's a popular spot for a family day out.",
+    "description": "The National Zoological Gardens in Colombo, Sri Lanka, is an adventure park offering wildlife watching experiences. Established in 1873 by Sir James Emerson Tennent, these gardens house over 200 species of animals from around the world, making them a popular destination for both locals and tourists. Visitors can observe tigers, lions, elephants, and various birds in their natural habitats, learning about conservation efforts and the importance of protecting wildlife. Notable events include annual animal shows and educational programs aimed at raising awareness about endangered species.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Adventure Park",
@@ -107,7 +108,7 @@
 {
     "id": "pl_osm_28eb68eac8",
     "name": "Leisure World Entertainment Park",
-    "description": "Located in Colombo, Leisure World Entertainment Park is an attraction worth visiting. It's a popular spot for a family day out.",
+    "description": "Leisure World Entertainment Park, located in the bustling heart of Colombo, is an adventure park offering thrilling rides and family-friendly activities that delight visitors of all ages. While the exact founding date and details of its inception remain unknown, the park has become a popular destination for families seeking amusement and excitement. Established amidst the vibrant cityscape, Leisure World Entertainment Park continues to attract crowds with its collection of roller coasters, bumper cars, and other attractions designed to create memorable experiences for guests.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Adventure Park",

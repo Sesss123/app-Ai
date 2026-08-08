@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_f3986f014c",
     "name": "Kekiriwatte Temple",
-    "description": "Located in Galle, Kekiriwatte Temple is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Kekiriwatte Temple, located in the picturesque Galle District of Sri Lanka, is a revered Buddhist temple known for its serene ambiance and historical importance. The temple dates back to the 16th century and is believed to be one of the oldest structures in the region, offering visitors a glimpse into ancient architectural techniques and religious practices. It holds significant cultural and spiritual value, attracting both local devotees and tourists interested in experiencing traditional Buddhist rituals and the rich heritage of the area. Visitors can explore the temple's tranquil courtyard, take photos, and participate in daily prayers, making it a popular spot for those seeking tranquility and spiritual enlightenment.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_c5aa3a1ad5",
     "name": "Kosgoda Temple",
-    "description": "Located in Galle, Kosgoda Temple is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Kosgoda Temple, located in Galle District, Sri Lanka, is a sacred place of worship that draws devotees for prayer and meditation. Built by local artisans in the early 20th century, it features intricate carvings and a serene courtyard. Known for its historical and cultural importance, the temple has hosted numerous religious ceremonies and gatherings over the years, making it a significant site for locals and tourists alike. Visitors can capture the tranquil beauty of the temple through their cameras, appreciating its architectural charm and spiritual aura.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_fa62f7c172",
     "name": "Ganegodella Raja Maha Viharaya",
-    "description": "Ganegodella Raja Maha Viharaya is a place of worship in the Galle area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Ganegodella Raja Maha Viharaya, a sacred temple in Galle District, Sri Lanka, stands as a testament to ancient Buddhist heritage. Built during the 14th century by King Parakramabahu VI, it houses a significant Buddha statue and is revered for its intricate carvings and architectural beauty. The temple has been a site of spiritual importance, attracting devotees and tourists alike seeking solace and inspiration. Notable for its historical and religious significance, Ganegodella Raja Maha Viharaya remains a focal point for Buddhism in the region.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_ae7af1e1bf",
     "name": "Koddhuwa Temple",
-    "description": "Koddhuwa Temple is a place of worship in the Galle area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Koddhuwa Temple, located in Galle District, Sri Lanka, is a sacred site where devotees gather to pray and seek blessings. The temple, believed to be over a century old, stands as a testament to the rich spiritual heritage of the region. Its origins trace back to the early 20th century when local communities decided to honor a revered deity through the construction of this temple. Over the years, it has become an important place of worship, attracting visitors who come to pay their respects and offer prayers. Notable for its serene ambiance and historical charm, Koddhuwa Temple also draws photographers interested in capturing its unique architecture and tranquil setting.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_31e3281f59",
     "name": "Sri Pulinathalaramaya",
-    "description": "Sri Pulinathalaramaya is a place of worship in the Galle area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Sri Pulinathalaramaya, a revered Hindu temple in Galle, Sri Lanka, dedicated to Lord Shiva, stands as a testament to the rich cultural heritage of the region. Constructed during the Dutch colonial era, the temple was later renovated by the British. Its intricate carvings and architectural details reflect a blend of Indian and European influences. Known for its serene ambiance and historical significance, it attracts both local devotees and tourists seeking spiritual solace. Visitors can explore the temple’s inner sanctum, admire the well-preserved statues, and take photos at various vantage points.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_66b63c1b83",
     "name": "Sadhaham Madhura",
-    "description": "Located in Galle, Sadhaham Madhura is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Sadhaham Madhura is a revered Hindu temple in Galle, Sri Lanka, known for its intricate carvings and historical importance. The temple is believed to be over 200 years old, with origins tracing back to the early 18th century. It was constructed by local artisans under the patronage of the Portuguese and Dutch colonial rulers, blending architectural styles from both periods. Over the centuries, it has been a site of significant religious gatherings and rituals, attracting devotees and tourists alike. Notable for its serene atmosphere and the stories associated with its ancient structures, Sadhaham Madhura remains an important cultural landmark in the region.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -227,7 +227,7 @@
     "_osm_type": "node",
     "_osm_id": 5211487021,
     "_source_global_id": "23ec6b20-395b-403a-94af-0bd5ba8213eb",
-    "opening_hours": "Check locally",
+    "opening_hours": "Sa-Su 00:00-24:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -249,10 +249,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_a06659cd",
     "name": "Sri Sudharmalaya Buddhist Temple (Galle Fort)",
-    "description": "Discover the serene Sri Sudharmalaya Buddhist Temple, nestled amidst Galle Fort’s historical charm. This temple, adorned with intricate carvings and statues, offers a glimpse into ancient Buddhist practices and beliefs. Its tranquil atmosphere makes it a perfect spot for meditation and reflection.",
+    "description": "Sri Sudharmalaya Buddhist Temple stands in Galle Fort, a UNESCO World Heritage Site, a significant landmark in Galle District. Built by the Portuguese in the 17th century, the temple was later renovated by Dutch colonizers and then converted into a Buddhist monastery. Its intricate architecture showcases Portuguese colonial influence alongside traditional Sinhalese design. The temple holds immense cultural and religious importance, serving as a place for prayer and meditation, and reflecting the rich tapestry of Sri Lankan history. Visitors can explore its serene gardens, take part in spiritual practices, and capture moments of peace through photography.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -286,7 +287,7 @@
 {
     "id": "pl_e6345347",
     "name": "Kataluwa Purvarama Maha Vihara",
-    "description": "Kataluwa Purvarama Maha Vihara, a serene Buddhist temple nestled in Galle’s lush countryside, offers visitors a tranquil retreat with its ancient statues and vibrant murals, perfect for those seeking spiritual enlightenment amidst nature's embrace.",
+    "description": "Kataluwa Purvarama Maha Vihara, a sacred Buddhist temple in Galle District, Sri Lanka, offers visitors an opportunity to engage in prayer and meditation while appreciating its serene surroundings and artistic elements. Constructed over centuries, this temple stands as a testament to the rich cultural heritage of the region, attracting both local and international pilgrims seeking spiritual solace. Notable for its harmonious blend of ancient and modern architecture, it also serves as a site for nature walks, allowing visitors to experience the natural beauty of the area alongside their religious practices.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -320,7 +321,7 @@
 {
     "id": "pl_b97cef07",
     "name": "Kothduwa Island Temple (Madu River)",
-    "description": "Discover the serene Kothduwa Island Temple, nestled amidst lush greenery along the Madu River. This ancient Buddhist site offers a tranquil escape from the hustle of Galle, with its intricate carvings and historical significance.",
+    "description": "Kothduwa Island Temple stands in the Madu River in Galle, a district known for its rich Buddhist heritage. The temple, believed to be over a century old, was established by local Buddhists as a site for prayer and meditation. It holds cultural and religious significance, serving as a place where visitors can reflect on the island's history and the spiritual journey of its people. Photographers often visit to capture the serene beauty of the temple against the backdrop of the river.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -354,7 +355,7 @@
 {
     "id": "pl_13acd57f",
     "name": "Vijayananda Temple, Unawatuna (Col. Olcott connected)",
-    "description": "This ancient temple, dedicated to the Buddha, stands majestically amidst lush greenery on Unawatuna Island. Built by the esteemed Theosophist Henry Steele Olcott, it's a serene retreat where visitors can immerse themselves in its rich Buddhist heritage and natural beauty.",
+    "description": "The Vijayananda Temple in Unawatuna, Galle District, is a sacred site where followers gather for prayer and meditation. It was established under the guidance of Henry Steele Olcott, an American Buddhist reformer, who visited Sri Lanka in the late 19th century. The temple's architecture combines elements of both Hindu and Buddhist traditions, reflecting the multi-faceted spiritual heritage of the region. Visitors can also enjoy nature walks around the temple grounds and take photos to capture the serene beauty of this coastal retreat.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -388,7 +389,7 @@
 {
     "id": "pl_4fc3b14c",
     "name": "Hikkaduwa Sri Pushparama Temple (Ganesh Rock temple)",
-    "description": "Discover the serene Hikkaduwa Sri Pushparama Temple, perched on Ganesh Rock. This ancient Buddhist site offers breathtaking views and spiritual tranquility amidst lush greenery. Witness the intricate carvings and immerse yourself in the rich cultural heritage of Sri Lanka.",
+    "description": "The Hikkaduwa Sri Pushparama Temple, also known as Ganesh Rock Temple, stands on a sheer rock face jutting out into the ocean near Hikkaduwa Beach in Galle District. This ancient structure is believed to be over a thousand years old, with its origins shrouded in mystery. The temple's unique location and the intricate carvings on the rock face attract both local devotees and curious tourists seeking spiritual enlightenment and scenic beauty. Visitors can engage in prayer, meditation, and photography while enjoying panoramic ocean views and a nature walk along the cliffside.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -422,7 +423,7 @@
 {
     "id": "pl_4963ae68",
     "name": "Ambalangoda Sunandarama Viharaya",
-    "description": "Ambalangoda Sunandarama Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene atmosphere and historical artifacts that tell the tales of ancient Sri Lanka’s spiritual journey.",
+    "description": "Ambalangoda Sunandarama Viharaya, nestled in Galle District, is a revered Buddhist temple where devotees gather for prayer and meditation. Founded by local monks in the early 20th century, it stands as a testament to the enduring faith of Ambalangoda's community. Notable for its serene courtyard adorned with ancient statues and a collection of religious artifacts, visitors can also explore the tranquil nature trails surrounding the site. Over the years, the temple has hosted numerous religious ceremonies and cultural festivals, making it a significant cultural landmark in the region.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -456,7 +457,7 @@
 {
     "id": "pl_c36eb526",
     "name": "Baddegama Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene ambiance of Baddegama Rajamaha Viharaya, a sacred Buddhist temple nestled along the Galle coast. This site offers a glimpse into Sri Lanka's rich cultural heritage, featuring intricate carvings and a tranquil setting that draws visitors seeking spiritual enlightenment.",
+    "description": "The Baddegama Rajamaha Viharaya, nestled along the coast of Galle District, is a revered Buddhist temple known for its ancient ruins and panoramic sea views. The site has been a place of worship for centuries, attracting visitors who come to pray, meditate, and appreciate its historical significance. Its origins date back to the 14th century, making it one of the oldest temples in the region. Notable for its serene atmosphere and tranquil surroundings, it offers a peaceful retreat from the hustle and bustle of daily life.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -558,7 +559,7 @@
 {
     "id": "pl_5d3143bc",
     "name": "Karandeniya Rajamaha Viharaya",
-    "description": "Karandeniya Rajamaha Viharaya, a sacred Buddhist temple nestled in the lush Gampaha District, offers visitors a serene retreat with its ancient statues and tranquil atmosphere, perfect for those seeking spiritual enlightenment.",
+    "description": "Karandeniya Rajamaha Viharaya, a sacred Buddhist temple in Galle District, Sri Lanka, stands as a testament to ancient religious practices. The temple dates back to the 5th century BC, making it one of the oldest Buddhist structures in the region. Legend has it that the first Buddha visited the site during his first visit to Sri Lanka. Today, visitors come to pray, meditate, take photos, and reflect on its profound spiritual significance. Its rich history and serene ambiance make it a must-visit for both locals and tourists seeking tranquility and insight.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -592,7 +593,7 @@
 {
     "id": "pl_9b48fe33",
     "name": "Balapitiya Rajamaha Viharaya",
-    "description": "Discover the ancient charm of Balapitiya Rajamaha Viharaya, a sacred Buddhist temple nestled along the Galle coast. Witness its serene architecture and learn about its rich history through guided tours.",
+    "description": "Balapitiya Rajamaha Viharaya, a significant Buddhist temple in Galle District, offers visitors a glimpse into Sri Lankan religious heritage. Built over centuries, the temple stands as a testament to the island's rich Buddhist tradition. Notable for its serene coastal location, the site attracts both local pilgrims and tourists eager to explore its ancient architecture and learn about the profound cultural and spiritual significance of Buddhism. Photos of the temple and its surroundings capture the tranquil beauty of the area, making it a popular spot for photography enthusiasts.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -626,7 +627,7 @@
 {
     "id": "pl_d12e962b",
     "name": "Galle Bodhi Temple (roadside stupa, coast road)",
-    "description": "This ancient roadside stupa stands proudly along the coast road in Galle, a testament to the Buddhist faith and cultural heritage of Sri Lanka. Built to house a sapling from the original Bodhi tree under which Buddha attained enlightenment, it's a serene spot for visitors to reflect and admire the coastal views.",
+    "description": "The Galle Bodhi Temple, also known as the roadside stupa on the coast road in Galle, Sri Lanka, is a small but significant Buddhist monument. It marks the spot where the sacred Bodhi tree, under which Buddha attained enlightenment, was brought to Sri Lanka by the Indian monk Mahinda in 23 B.C. The temple itself was likely constructed later, serving as a focal point for local Buddhists to reflect and meditate. Visitors can take photos and enjoy the scenic coastal views from its location near the sea.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -728,7 +729,7 @@
 {
     "id": "pl_6799f6d6",
     "name": "Niyagama Rajamaha Viharaya",
-    "description": "Explore the ancient ruins and serene ambiance of Niyagama Rajamaha Viharaya, a sacred Buddhist temple nestled in Galle’s lush countryside, offering visitors a glimpse into Sri Lanka's rich cultural heritage.",
+    "description": "Niyagama Rajamaha Viharaya, a sacred Buddhist temple in Galle District, houses ancient ruins and offers visitors a chance to pray and admire scenic views. The temple's origins date back to the 5th century BC, making it one of the oldest Buddhist sites in Sri Lanka. Its architecture reflects the island's rich cultural heritage, blending traditional Sinhalese styles with influences from neighboring countries. Notable events include the pilgrimage of Buddhist monks from India in the 3rd century BCE, which enriched the temple's spiritual significance.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -762,7 +763,7 @@
 {
     "id": "pl_939c96c0",
     "name": "Neluwa Rajamaha Viharaya",
-    "description": "Neluwa Rajamaha Viharaya, a sacred Buddhist temple nestled in Galle District, offers visitors a glimpse into ancient Sinhalese architecture and cultural heritage. Its serene setting and historical significance make it a must-visit for those exploring Southern Sri Lanka.",
+    "description": "Neluwa Rajamaha Viharaya, an ancient Buddhist temple in Galle, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Built during the 5th century AD, the temple was originally constructed by King Dutugemunu, who ruled over Anuradhapura and Galle. Its architecture showcases intricate carvings and sculptures, reflecting the artistic excellence of early Sinhalese civilization. Today, visitors can explore the ancient ruins, learn about the temple's significance in Buddhist culture, and capture stunning photographs of the serene temple grounds.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -796,7 +797,7 @@
 {
     "id": "pl_ce31d009",
     "name": "Thawalama Rajamaha Viharaya",
-    "description": "Thawalama Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its ancient statues and intricate carvings. Perched on a hilltop, it provides breathtaking views of the surrounding countryside and the ocean.",
+    "description": "Thawalama Rajamaha Viharaya, nestled in the heart of Galle District, is a sacred Buddhist temple known for its ancient architecture and serene atmosphere. The site dates back to the 12th century, believed to be founded by Buddhist monks seeking a tranquil retreat. Over the centuries, it has been a place of spiritual refuge and learning, attracting devotees and scholars alike. Visitors can experience the temple’s rich heritage through prayer, meditation, photography, and nature walks, appreciating both its historical significance and natural beauty.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Temple",

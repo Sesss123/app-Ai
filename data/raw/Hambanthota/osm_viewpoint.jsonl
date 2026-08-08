@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_c2bea28cac",
     "name": "Godavaya wildlife sanctuary viewpoint",
-    "description": "Located in Hambanthota, Godavaya wildlife sanctuary viewpoint is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Godavaya wildlife sanctuary viewpoint stands high overlooking the Godavaya Wildlife Sanctuary below, offering visitors breathtaking views of the lush greenery and wildlife. The viewpoint, situated in the Hambanthota district of Sri Lanka, provides a perfect spot for photography enthusiasts and sightseers alike to capture the beauty of nature. It offers panoramic vistas of the sanctuary's diverse ecosystems, including forests, wetlands, and rivers, where one can spot various species of birds and animals. Notable for its serene scenery and proximity to the sanctuary, the viewpoint attracts many tourists each year.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_f82ec71397",
     "name": "Abarana Ella",
-    "description": "Located in Hambanthota, Abarana Ella is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Abarana Ella, a scenic viewpoint in Hambanthota, Sri Lanka, offers breathtaking views of the ocean and nearby islands. Visitors come to take photos and enjoy the sightseeing experience, which has become popular among tourists. The viewpoint stands as a testament to nature's beauty, attracting locals and visitors alike to marvel at its panoramic vistas. Its exact date of establishment or the identity of its founder remain unknown, but it has been a cherished spot for centuries, a silent witness to the changing seasons and the passage of time.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_887a91586d",
     "name": "Mawella beach",
-    "description": "Located in Hambanthota, Mawella beach is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Mawella beach, located in Hambanthota, Sri Lanka, offers breathtaking views of the Indian Ocean. Known for its clear waters and white sandy shores, it attracts visitors seeking a picturesque spot for photography and sightseeing. The beach is a popular destination for tourists, offering an ideal location to capture the serene beauty of the coastline. Its prominence as a tourist attraction dates back to the early 2000s when local communities began promoting it as a recreational area. Cultural and religious significance, however, cannot be attributed to this particular site.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_4fc2042a2f",
     "name": "Birds Research Center & Resort",
-    "description": "Birds Research Center & Resort is an attraction in the Hambanthota area of Sri Lanka. It's a popular spot for a family day out.",
+    "description": "The Birds Research Center & Resort, nestled in Hambanthota, offers visitors an opportunity to observe local wildlife, particularly birds, within its lush gardens and natural habitats. Established as a conservation initiative, the center focuses on studying and preserving the diverse bird species found in the area. It also serves as a resort where guests can stay and experience the serene environment while learning about local ecology. Notable for its commitment to environmental education, the center has hosted numerous educational programs and tours for both locals and tourists.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_f4bffea29d",
     "name": "Turtles View",
-    "description": "Turtles View is an attraction located in Hambanthota, Sri Lanka. It's a popular spot for a family day out.",
+    "description": "Turtles View, an adventure park in Hambanthota, Sri Lanka, offers visitors opportunities to watch sea turtles nesting on the beach. The park, established to protect and promote the local turtle population, attracts nature enthusiasts and wildlife lovers. Visitors can observe these magnificent creatures laying eggs under the starry night sky, a unique experience that has become a popular attraction for tourists. Established by local conservationists and supported by the government, Turtles View plays a crucial role in preserving Sri Lanka's marine biodiversity.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_6ec08ae1",
     "name": "Ekala Falls",
-    "description": "Ekala Falls, a stunning horsetail waterfall located in Gampaha District, Western Province, is a picturesque sight with its cascading waters and lush green surroundings. Known for its unique horseshoe shape, this natural wonder attracts visitors seeking a serene escape into nature.",
+    "description": "Ekala Falls, known for its horsetail shape, is a popular spot in Gampaha District, Sri Lanka. It draws visitors with its cascading waters and scenic beauty. The falls are a natural wonder, often photographed by tourists seeking its unique silhouette. Nearby, a short nature walk offers insights into the local flora and fauna, while reflections on the calm pool below add to the serene experience. Known for centuries, the falls are a testament to nature's power and beauty, attracting both locals and international tourists.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Horsetail",
@@ -34,7 +34,7 @@
 {
     "id": "pl_a7f8fb1b",
     "name": "Miriswatta Falls",
-    "description": "Miriswatta Falls, a stunning natural wonder in Gampaha, Western Province, features cascading water that creates a picturesque spectacle. Surrounded by lush greenery, this waterfall is a perfect spot for a refreshing dip and a moment of tranquility.",
+    "description": "The Miriswatta Falls, nestled in the Gampaha district of Sri Lanka, offer a dramatic natural spectacle where water cascades down from a height of about 30 meters. Visitors can immerse themselves in the refreshing waters, perfect for swimming, while others enjoy picnics under the shade of trees. A nature walk along the trails reveals more of the falls' beauty and tranquility. Historically, the area has been a popular spot for locals and tourists alike, known for its serene environment and opportunities for relaxation. Cultural and religious significance aside, the falls remain a testament to Sri Lanka's natural beauty and the joy it brings to many.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Segmented",
@@ -67,7 +67,7 @@
 {
     "id": "pl_2013fcfd",
     "name": "Kirindiwela Falls",
-    "description": "Discover the serene beauty of Kirindiwela Falls, a cascading wonder nestled amidst lush greenery. This picturesque waterfall offers a refreshing escape from the heat, perfect for those seeking tranquility and natural splendor.",
+    "description": "Kirindiwela Falls, a cascade in Gampaha District, Sri Lanka, offers visitors a natural spectacle where water plunges down creating mist and sound. Known for photography enthusiasts, it's also a serene spot for reflection and nature walks along the riverbanks. Historically, the falls are part of the ancient waterways that once supplied water to nearby settlements, their significance tied to the region's agricultural past. Cultural and religiously, they're a testament to the area’s rich heritage, though specific founding dates or religious affiliations aren't well-documented.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Cascade",
@@ -100,7 +100,7 @@
 {
     "id": "pl_edf1e5ce",
     "name": "Ganemulla Falls",
-    "description": "Ganemulla Falls, a breathtaking multi-step cascade nestled in the Gampaha district, showcases nature’s raw power with its cascading waters and lush greenery, perfect for adventurous hikers and nature lovers.",
+    "description": "Ganemulla Falls, nestled in the lush Gampaha district of Sri Lanka, offers hikers a picturesque spot for nature walks and photography. The falls are part of a network of waterfalls in the region, attracting visitors interested in natural beauty. Local legends speak of an ancient temple hidden upstream, but no concrete evidence exists to support these claims. Known for their serene beauty, the falls serve as a popular destination for those seeking a tranquil escape from the hustle of urban life.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Multi-step",
@@ -199,7 +199,7 @@
 {
     "id": "pl_049cc4f8",
     "name": "Mirigama Falls",
-    "description": "Mirigama Falls, a stunning cascade nestled in Gampaha District, Western Province, offers breathtaking views and refreshing waterfalls perfect for a relaxing day trip. Surrounded by lush greenery and vibrant flora, it's a picturesque spot ideal for nature lovers and photographers alike.",
+    "description": "Mirigama Falls, a cascade cascading through the lush greenery of Gampaha District, offers visitors refreshing swims, scenic hikes, and captivating photo opportunities. The falls, nestled in the heart of nature, attract locals and tourists alike seeking tranquility and beauty. Legend has it that the falls were formed by the tears of a local deity, but the exact date of their creation remains a mystery shrouded in folklore. Known for its serene atmosphere, Mirigama Falls is a popular spot for those looking to escape the hustle and bustle of city life.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Cascade",
@@ -232,7 +232,7 @@
 {
     "id": "pl_988c50ad",
     "name": "Divulapitiya Falls",
-    "description": "Divulapitiya Falls, a breathtaking tiered cascade nestled in Gampaha District, Western Province, offers visitors a serene sight where water plunges dramatically into a crystal-clear pool below, creating a picturesque spectacle that draws nature lovers and photographers alike.",
+    "description": "Divulapitiya Falls, a tiered waterfall in Gampaha District, Sri Lanka, offers visitors opportunities to swim, picnic, and take stunning photographs. The falls, formed by the confluence of several streams, attract locals and tourists alike seeking natural beauty and recreation. Historically, the area was known for its lush vegetation and serene surroundings, making it a popular spot for retreats and picnics. Notable for its dramatic cascades and tranquil pools, Divulapitiya Falls continues to be a favorite among nature lovers and photographers.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Tiered",
@@ -265,7 +265,7 @@
 {
     "id": "pl_29f500dd",
     "name": "Minuwangoda Stream Falls",
-    "description": "Discover the serene beauty of Minuwangoda Stream Falls, a picturesque waterfall nestled in Gampaha district, Western Province. Surrounded by lush greenery and vibrant flora, this natural wonder offers a refreshing escape from the hustle of daily life.",
+    "description": "The Minuwangoda Stream Falls, a serene fan waterfall nestled in the lush hills of Gampaha, Sri Lanka, draws visitors with its cascading waters and tranquil setting. Known for its picturesque beauty, it’s a popular spot for photography enthusiasts and nature lovers seeking a moment of peace. The falls are part of a network of natural attractions that attract locals and tourists alike, offering a perfect blend of nature and relaxation. Historically, the area has been revered by local communities for its fresh water supply and scenic views, though specific founding dates or religious associations are not well-documented.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Fan",
@@ -331,7 +331,7 @@
 {
     "id": "pl_2bb2582a",
     "name": "Attanagalla Falls",
-    "description": "Attanagalla Falls, a majestic plunge into nature’s splendor, stands as a testament to Gampaha’s raw beauty. Surrounded by lush greenery and cascading water, this picturesque spot offers a refreshing escape from the heat.",
+    "description": "Attanagalla Falls, a picturesque plunge in the Gampaha District of Sri Lanka, offers visitors a chance to swim, picnic, and capture stunning photos. The falls, known locally as \"Attanagalla,\" are a popular spot for locals and tourists alike, providing a refreshing break from the heat. Legend has it that the falls were once the site of a battle between two kingdoms, though this is merely a local tale passed down through generations. Today, they serve as a serene oasis where nature lovers can immerse themselves in the beauty of Sri Lanka's natural splendor.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Plunge",
@@ -364,7 +364,7 @@
 {
     "id": "pl_f6a4017d",
     "name": "Gampaha Town Falls",
-    "description": "Gampaha Town Falls, a stunning horsetail waterfall located in the heart of Gampaha District, offers visitors a refreshing glimpse into nature's raw power. Surrounded by lush greenery and vibrant flora, this natural wonder is a perfect spot for those seeking tranquility and adventure.",
+    "description": "Gampaha Town Falls, also known as Horsetail Waterfall, is a popular natural wonder in the Gampaha district of Sri Lanka. The falls form a dramatic horseshoe shape due to the narrow opening through which water flows, creating a striking visual effect. Visitors often come to take photos and enjoy hiking along the scenic trail. It's a serene spot for relaxation and photography, offering a unique experience of nature's beauty. Known for its picturesque setting, it attracts many tourists exploring the region's natural attractions.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Horsetail",
@@ -397,7 +397,7 @@
 {
     "id": "pl_1384dadf",
     "name": "Veyangoda Falls",
-    "description": "Discover the serene beauty of Veyangoda Falls, a cascading wonder nestled in Gampaha district. Witness the powerful waters of this Western Province gem, perfect for nature lovers and adventure seekers alike.",
+    "description": "Veyangoda Falls, a cascade in Gampaha, Sri Lanka, offers visitors refreshing swims, scenic hikes, and stunning photography opportunities. The falls, formed by the confluence of several streams, have been a natural attraction for centuries, drawing locals and tourists alike. Legend has it that the falls were once home to a sacred Buddha image, adding a spiritual dimension to their beauty. Today, they stand as a testament to nature's power, offering peace and tranquility amidst the lush greenery of the surrounding jungle.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Cascade",
@@ -430,7 +430,7 @@
 {
     "id": "pl_5788588c",
     "name": "Katunayake Falls",
-    "description": "Katunayake Falls, a stunning block formation located in Gampaha District, Western Province, offers breathtaking views and a unique natural spectacle. Surrounded by lush greenery, these falls are a testament to nature's power and beauty, perfect for both relaxation and adventure.",
+    "description": "Katunayake Falls, a picturesque block of water nestled in Gampaha, Sri Lanka, offers visitors opportunities to capture stunning photographs and reflect on nature's beauty. The falls, formed by the confluence of rivers, draw nature lovers and photographers alike with their cascading waters and lush green surroundings. A short nature walk leads to a serene spot where one can admire the waterfall's power and tranquility. Over time, the falls have become a cherished spot for locals and tourists seeking peace and inspiration.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Block",
@@ -459,3 +459,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

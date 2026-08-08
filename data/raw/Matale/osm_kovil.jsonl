@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_5225efdfd4",
     "name": "Kanapathi Kovil",
-    "description": "Kanapathi Kovil is a Hindu kovil in the Matale area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Kanapathi Kovil, a sacred Hindu temple in Matale District, stands as a testament to local religious devotion. Built over centuries, the Kovil is dedicated to Kanapathi, an important deity in Hinduism. It has witnessed numerous prayers and rituals performed by devotees seeking blessings and protection. The temple's architecture reflects a blend of traditional and modern styles, attracting both locals and tourists interested in its rich cultural heritage and spiritual significance. Visitors can explore the serene surroundings and capture photos that capture the essence of this historic site.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_ffb8a2cd40",
     "name": "Ambokka Paththini Devalaya",
-    "description": "Ambokka Paththini Devalaya is a Hindu kovil located in Matale, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Ambokka Paththini Devalaya, a Kovil in Matale, Sri Lanka, is dedicated to Ambokka Paththini, a revered Hindu deity. The temple, believed to date back to the colonial era, is a popular spot for devotees seeking blessings and spiritual solace. Its architecture combines traditional elements with colonial influences, making it a unique blend of cultural heritage. Visitors often come to pray, seek guidance, and capture moments in front of the sacred shrine, which is adorned with intricate carvings and vibrant colors.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_0ff5367cb5",
     "name": "Arulmihu Sri Muthumariyamman Temple",
-    "description": "Located in Matale, Arulmihu Sri Muthumariyamman Temple is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Arulmihu Sri Muthumariyamman Temple, located in Matale District, is a significant Hindu Kovil dedicated to the goddess Muthumariyamman. The temple's origins date back to the 19th century, though exact construction details are not known. It stands as a place of worship where devotees come to pray and seek blessings, offering a serene retreat amidst the lush hills of Matale. Visitors can also capture moments at the temple through their cameras, making it a popular spot for tourists and locals alike.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_0780eb12fd",
     "name": "Rattota Pillayar Kovil",
-    "description": "Rattota Pillayar Kovil is a Hindu kovil in the Matale area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Rattota Pillayar Kovil, a sacred Hindu temple in Matale district, Sri Lanka, stands as a testament to local devotion and cultural heritage. The exact origins of the Kovil are shrouded in legend, but it is believed to have been established by local chieftains to honor Pillaiyar, a revered deity. Over centuries, the temple has witnessed numerous rituals and festivals, preserving traditions that connect Matale’s community deeply with its spiritual roots. Visitors come to pray, seek blessings, and capture the serene beauty of this ancient site, often accompanied by the soft hum of incense and the gentle murmur of worshippers.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_5c5d15c727",
     "name": "kawdupelella pillayar aalayam",
-    "description": "Located in Matale, kawdupelella pillayar aalayam is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Kawdupelella Pillayar Aalayam, a small yet revered Hindu temple in Matale District, Sri Lanka, stands as a testament to local devotion and tradition. The exact origins and construction date of the temple are unknown, but it has been an important site for worship and spiritual practices for generations. Its unique architecture and serene setting make it a popular destination for visitors seeking solace and spiritual enlightenment. Visitors often come to pray and capture the tranquil beauty of the temple through their cameras.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_94d1bebe9d",
     "name": "Sri Muthumariamman Thevasthanam",
-    "description": "Sri Muthumariamman Thevasthanam is a Hindu kovil located in Matale, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Muthumariamman Thevasthanam is a small but revered Hindu temple in Matale District, Sri Lanka. Dedicated to the goddess Muthu Mariamman, it attracts devotees seeking blessings and healing. Built during colonial times, the temple stands as a symbol of Tamil heritage in the region, offering a serene space for prayer and reflection. Its architecture reflects a blend of local and traditional Indian styles, making it a significant cultural landmark. Visitors often take photos in front of the temple’s impressive main deity statue, capturing moments of faith and devotion.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -285,10 +285,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_783a773f",
     "name": "Sri Muthumariamman Temple, Matale",
-    "description": "This ancient Hindu temple stands majestically amidst lush greenery, its intricate carvings and ornate architecture reflecting the rich cultural heritage of Matale. Dedicated to Muthamariamman, the deity is believed to protect devotees from misfortune.",
+    "description": "Sri Muthumariamman Temple in Matale, a Kovil dedicated to the Hindu goddess Muthamariamman, stands as a significant cultural landmark. Built by Tamil settlers in the early 20th century, the temple is a place of worship and meditation, attracting devotees from nearby communities. Its sacred garden features ancient trees and statues, adding to its spiritual aura. Notable for its role in local community festivals and rituals, the temple also hosts photography exhibitions during cultural events, offering visitors a glimpse into both its history and contemporary significance.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -322,7 +323,7 @@
 {
     "id": "pl_d3dc99d4",
     "name": "Sri Sivasubramania Swami Temple, Ukuwela",
-    "description": "Discover the spiritual heart of Ukuwela at Sri Sivasubramania Swami Temple, a sacred Hindu site adorned with intricate carvings and vibrant colors that tell tales of ancient deities and rituals. This temple stands as a testament to the rich cultural heritage of Matale, offering visitors a glimpse into the profound beliefs and practices of its devotees.",
+    "description": "The Sri Sivasubramania Swami Temple in Ukuwela, Matale District, is an important Hindu Kovil dedicated to Lord Subramaniya. Constructed in the early 20th century, the temple was built by local devotees as a place of worship and pilgrimage. It features intricate carvings and a serene courtyard where visitors can engage in prayer and meditation. The temple also hosts cultural shows that showcase traditional dance and music, offering a glimpse into Sri Lankan Hindu culture. Visitors often take photos to remember their visit.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -390,7 +391,7 @@
 {
     "id": "pl_25021001",
     "name": "Sri Muthumari Amman Temple, Maligatenna",
-    "description": "This ancient Kovil stands majestically atop a hill, housing a revered statue of Muthumari Amman. Built over centuries, its intricate carvings and ornate architecture reflect the deep Hindu faith and cultural heritage of the Matale district.",
+    "description": "The Sri Muthumari Amman Temple in Maligatenna, Matale District, is a sacred Hindu Kovil dedicated to the goddess Muthamari Amman. The temple, believed to be over a century old, was constructed by local devotees to honor the deity. It features intricate carvings and a central shrine housing an ancient statue of the goddess. Regularly visited for prayer offerings and spiritual reflection, the temple also attracts visitors seeking good fortune and blessings. Its serene atmosphere and historical charm make it a popular pilgrimage site.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -424,7 +425,7 @@
 {
     "id": "pl_4028fb64",
     "name": "Sri Mariamman Temple, Warakamure",
-    "description": "This ancient Hindu temple stands majestically amidst lush greenery, its intricate carvings and ornate architecture reflecting the rich cultural heritage of Sri Lanka. Dedicated to the goddess Mariamman, it offers visitors a serene retreat with its peaceful surroundings and historical significance.",
+    "description": "Sri Mariamman Temple, located in Warakamure, Matale District, is an important Hindu Kovil dedicated to Mariamman, the goddess of healing and protection. The temple, believed to be over a century old, was constructed by Tamil immigrants who settled in the area. It holds great cultural and religious significance, attracting devotees for prayer and meditation. Visitors can also take photos and reflect within its serene surroundings. Notable for its architectural style and historical importance, the temple is a significant site for both locals and tourists seeking spiritual solace.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -458,7 +459,7 @@
 {
     "id": "pl_5a702895",
     "name": "Rattota Sri Selva Vinayagar Temple",
-    "description": "Rattota Sri Selva Vinayagar Temple, a sacred Hindu site nestled amidst lush greenery, offers visitors a serene atmosphere and historical significance. This temple, dedicated to Lord Ganesha, stands as a testament to the rich cultural heritage of Matale district.",
+    "description": "Rattota Sri Selva Vinayagar Temple, a Kovil in Matale, is dedicated to Lord Ganesha, revered as the god of wisdom and remover of obstacles. The temple, though modest, holds significant importance in local Hindu culture, attracting devotees for prayer and meditation. Notable for its serene setting, it also offers visitors opportunities for photography and reflection, making it a popular spot for both locals and tourists seeking spiritual solace. Built centuries ago, the temple stands as a testament to the rich cultural heritage of Matale.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",
@@ -492,7 +493,7 @@
 {
     "id": "pl_2c7afd18",
     "name": "Matale Sri Mariamman Kovil (Bambaragalla)",
-    "description": "Discover Matale Sri Mariamman Kovil (Bambaragalla), a sacred Hindu temple nestled amidst lush greenery. This ancient site stands as a testament to Sri Lanka's rich cultural heritage, offering visitors a glimpse into the island's spiritual heart. Marvel at its intricate carvings and explore its serene surroundings, perfect for those seeking a peaceful retreat.",
+    "description": "The Matale Sri Mariamman Kovil, also known as Bambaragalla, stands in Matale District, Sri Lanka, serving as a sacred Hindu temple where devotees gather for prayer and meditation. Its origins trace back to the early 20th century, when a local community built the temple to honor the goddess Mariamman, believed to protect against diseases and bring prosperity. Notable for its serene setting amidst lush greenery, the Kovil offers visitors a tranquil retreat for photography and nature walks, attracting both locals and tourists seeking spiritual solace and natural beauty.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Kovil",

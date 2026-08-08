@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_b76c0e2fb4",
     "name": "Citadel",
-    "description": "Located in Anuradhapura, Citadel is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "The Citadel, also known as the Alahana Parakrama Mahapadana Stupa, stands in Anuradhapura, Sri Lanka, a city renowned for its ancient Buddhist heritage. Built during the reign of King Dutugemunu in the 2nd century BCE, it is a monumental structure that houses relics of Buddha and his disciples. The site has been a significant pilgrimage destination for centuries, attracting visitors from around the world. Its intricate carvings and architectural marvels reflect the artistic and engineering prowess of ancient Sri Lanka. Visitors can explore the grounds, take photos, and learn about the rich cultural and religious significance of this historic landmark.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_ec95e49a65",
     "name": "Refectory",
-    "description": "Refectory is a historic landmark in the Anuradhapura area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Refectory, a historic building in Anuradhapura, Sri Lanka, stands as a testament to ancient Buddhist architecture. Constructed during the reign of King Dutugemunu in the 2nd century BCE, it served as the dining hall for monks in the nearby Mahaveli Ganga monastery. Its ornate architecture and historical importance make it a popular spot for tourists interested in Buddhist heritage and ancient ruins. Visitors can explore the structure, capturing its intricate carvings and structural details through their cameras. Sightseeing around the Refectory offers a glimpse into the rich cultural legacy of Anuradhapura.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_324701fda5",
     "name": "Moonstone II",
-    "description": "Moonstone II is a historic landmark located in Anuradhapura, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Moonstone II, a historic landmark in Anuradhapura, Sri Lanka, stands as a testament to the city's rich architectural heritage. Constructed during the 3rd century BCE, it was likely a palace or royal residence. The building features intricate stone carvings and a unique octagonal design, reflecting Anuradhapura's advanced engineering and artistic skills. Moonstone II holds significant cultural and religious importance, symbolizing the ancient kingdom's power and wealth. Visitors can admire its serene beauty and learn about the city's ancient history through guided tours.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -105,10 +105,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_9a51da385b",
     "name": "Buddha Statue",
-    "description": "Buddha Statue is a historic landmark located in Anuradhapura, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Buddha Statue, located in Anuradhapura, Sri Lanka, is a historic landmark standing as a testament to ancient Buddhist traditions. This statue, carved from a single block of stone, is a symbol of peace and wisdom, attracting visitors from around the world. It stands as a reminder of the city's rich cultural heritage, which was once the center of Buddhism in Sri Lanka. The statue itself, though not original, has been restored to honor the original craftsmanship and scale of the ancient statues. Visitors can admire its serene presence while taking photos and enjoying the sightseeing experience.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -144,7 +145,7 @@
 {
     "id": "pl_osm_01b679fd8c",
     "name": "Royal park (baths)",
-    "description": "Royal park (baths) is a historic landmark in the Anuradhapura area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Royal Park, also known as the Royal Baths, is a historic landmark in Anuradhapura, Sri Lanka, known for its serene beauty and historical significance. Constructed during the reign of King Dutugemunu in the 3rd century BCE, these baths were part of a larger complex that included temples and administrative buildings. The park's architectural features and water system reflect the advanced engineering skills of ancient Sri Lankan civilizations. Today, visitors come to enjoy the tranquil atmosphere and take photos, making it a popular spot for tourists exploring Anuradhapura’s rich heritage.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -176,10 +177,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_e5b9a7d3f2",
     "name": "Sarananda Pirivena Buddha statue",
-    "description": "Located in Anuradhapura, Sarananda Pirivena Buddha statue is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Sarananda Pirivena Buddha statue stands in Anuradhapura, a district renowned for ancient Buddhist heritage. Built within the walls of Sarananda Pirivena, a monastery established in the 3rd century BCE, this statue symbolizes the continuity of Buddhist teachings in Sri Lanka. Its construction predates the Anuradhapura Kingdom's founding, making it an integral part of the city's rich history. The statue itself, though not extant, represents the importance of monastic education in preserving the Dharma. Visitors can admire the site's ruins and learn about its historical context through guided tours, offering insights into Sri Lanka's deep-rooted spiritual tradition.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -211,10 +213,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_f535954b6c",
     "name": "Walisingha Harishchandra",
-    "description": "Walisingha Harishchandra is a historic landmark located in Anuradhapura, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Walisingha Harishchandra, a historic building in Anuradhapura, Sri Lanka, stands as a testament to ancient architectural prowess. Built during the reign of King Dutugemunu in the 2nd century BCE, it served as a royal palace and was later converted into a Buddhist temple. The structure features intricate carvings and remains an important site for historians and archaeologists exploring the rich heritage of Anuradhapura. Visitors can admire its historical significance through guided tours and take photographs to capture its beauty and architectural details.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -246,10 +249,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_1c06ba321f",
     "name": "Ranmasu Uyana - Star Gate",
-    "description": "Ranmasu Uyana - Star Gate is a historic landmark in the Anuradhapura area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Ranmasu Uyana, also known as the Star Gate, is an ancient royal park in Anuradhapura, Sri Lanka, renowned for its lush gardens and ornate structures. Constructed during the reign of King Dutugemunu in the 2nd century BCE, it served as a royal retreat and a symbol of the kingdom's prosperity. The park features several pavilions, temples, and statues, many adorned with intricate carvings. It was a significant site for both religious and recreational purposes, reflecting the era's architectural and artistic achievements. Today, it attracts visitors interested in its historical significance and beautiful scenery, offering a glimpse into Sri Lanka's rich past.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -285,7 +289,7 @@
 {
     "id": "pl_osm_9ea0152d28",
     "name": "Rathna Prasada",
-    "description": "Rathna Prasada is a historic landmark in the Anuradhapura area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Rathna Prasada, a historic building in Anuradhapura, Sri Lanka, is a prime example of ancient Sinhalese architecture. Constructed during the reign of King Dutugemunu in the 2nd century BCE, it served as a royal palace and later converted into a Buddhist monastery. Known for its intricate stone carvings and architectural elegance, Rathna Prasada holds significant cultural and religious importance, attracting visitors interested in both its historical and artistic aspects. Visitors can explore its serene gardens and marvel at its well-preserved structures, offering a glimpse into the rich heritage of Anuradhapura.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -321,7 +325,7 @@
 {
     "id": "pl_osm_66b5025c95",
     "name": "Mahasena Temple (Moonstone)",
-    "description": "Mahasena Temple (Moonstone) is a historic landmark in the Anuradhapura area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Mahasena Temple, also known as the Moonstone Temple, is an ancient building in Anuradhapura, Sri Lanka. Constructed during the reign of King Dutugemunu in the 2nd century BCE, it is believed to be dedicated to the Hindu god Ganesha. Its most distinctive feature is a large stone moon carved into the temple wall, which gives it its name. The temple is a significant site for both historical and religious reasons, attracting visitors interested in its architectural beauty and cultural heritage. Visitors can take photos and enjoy sightseeing at this ancient monument.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -357,7 +361,7 @@
 {
     "id": "pl_osm_0c6b82a410",
     "name": "Sandakada pahana (Moonstone)",
-    "description": "Located in Anuradhapura, Sandakada pahana (Moonstone) is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Sandakada Pahana, also known as the Moonstone, is a historic stone pier at the ancient city of Anuradhapura in Sri Lanka. Legend has it that the king ordered his men to bring the stone from India, believing it would protect the city. The pier stands as a testament to Anuradhapura’s rich history, now a popular spot for tourists to take photos and admire the ancient ruins. Its construction dates back to the 3rd century BCE, making it one of the oldest structures in Sri Lanka.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -393,7 +397,7 @@
 {
     "id": "pl_osm_fd24560ec2",
     "name": "Dalada Maligawa",
-    "description": "Dalada Maligawa is a historic landmark in the Anuradhapura area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Dalada Maligawa, also known as the Temple of the Tooth, is a revered Buddhist temple in Anuradhapura, Sri Lanka, where the relic tooth of Buddha is enshrined. The temple, a significant pilgrimage site, was originally built by King Dutugemunu in the 3rd century BCE. It has been a center of Buddhist culture and tradition for centuries, attracting visitors seeking spiritual enlightenment and blessings. Throughout its history, Dalada Maligawa has witnessed numerous religious ceremonies and events, making it a crucial part of Sri Lankan heritage.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Building",
@@ -425,3 +429,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

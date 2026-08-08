@@ -1,7 +1,7 @@
 {
     "id": "pl_89d74ff8",
     "name": "Trinco Dive & Snorkel Centre",
-    "description": "Trinco Dive & Snorkel Centre offers a unique diving and snorkeling experience in Trincomalee, Eastern Province. Nestled on the picturesque Trincomalee Beach, it's a haven for underwater enthusiasts, featuring crystal-clear waters and diverse marine life.",
+    "description": "Trinco Dive & Snorkel Centre, nestled in Trincomalee, Sri Lanka, offers visitors a unique opportunity to explore the vibrant marine life through diving and snorkeling. The centre is popular among both novice and experienced divers, providing guided tours to sites rich with coral reefs and an array of tropical fish. Nestled along the picturesque coastline, it also features beach relaxation areas where guests can unwind after underwater adventures. Established to promote sustainable tourism and protect local marine ecosystems, the dive center supports eco-friendly practices, ensuring a memorable experience for all visitors.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_112636b7",
     "name": "Nilaveli Scuba Park",
-    "description": "Discover the vibrant marine life at Nilaveli Scuba Park, a hidden gem where divers can explore pristine coral reefs and colorful fish amidst the Trincomalee waters. This adventure park offers a unique glimpse into Sri Lanka’s underwater world, perfect for both beginners and experienced divers.",
+    "description": "Nilaveli Scuba Park, located in Trincomalee, Sri Lanka, offers scuba diving, snorkeling, and wreck diving adventures. The park sits on the edge of Trincomalee Harbour, where ancient ships lie sunken, creating unique underwater experiences. It's a popular spot for divers, offering both novice and experienced divers opportunities to explore these historic wrecks. Historically, the area has been significant as a maritime trade route, with ancient trading vessels often found here. Visitors can also learn about the rich maritime history of the region through guided tours.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_5c2effd2",
     "name": "Pigeon Island Glass Bottom",
-    "description": "Pigeon Island Glass Bottom offers a unique underwater adventure experience, allowing visitors to explore Trincomalee's vibrant marine life through a glass-bottomed boat. This site is perfect for nature enthusiasts and families seeking a memorable outing.",
+    "description": "Pigeon Island Glass Bottom is an adventure park in Trincomalee, Sri Lanka, offering underwater exploration, photography, and snorkeling experiences. The island, known for its crystal-clear waters and diverse marine life, attracts divers and snorkelers eager to explore the vibrant coral reefs and colorful fish. Its unique glass-bottomed boat allows visitors to see the underwater world without disturbing it. The park also organizes guided tours led by experienced local guides who share insights into the rich marine ecosystem and local culture.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

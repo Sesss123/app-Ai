@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_ed47f69f96",
     "name": "Rawana Ella Falls",
-    "description": "Rawana Ella Falls is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Rawana Ella Falls, located in the Badulla district of Sri Lanka, is a picturesque natural attraction featuring cascading waterfalls. The falls are part of a network of water sources that feed into the Rawana Ella River, which winds through lush forests and offers opportunities for hiking and nature appreciation. Historically, the area has been a popular spot for locals seeking fresh water and scenic views. Today, visitors can marvel at the waterfall's power and beauty, often accompanied by the soothing sounds of nearby streams and birdsong.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_ea3a5c44a8",
     "name": "Secret Waterfall",
-    "description": "Secret Waterfall is a point of interest located in Badulla, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Secret Waterfall, nestled in the verdant hills of Badulla, is a hidden gem offering a refreshing escape from the hustle of urban life. Its cascading waters have been a popular spot for locals and tourists alike, providing a tranquil retreat where one can immerse in nature's beauty. Legend has it that the waterfall was once a secret sanctuary for monks, but its exact origins remain shrouded in mystery, adding to its allure. Today, visitors come to marvel at the waterfall's sheer power and serenity, often accompanied by the melodious chirping of local birds.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_f013d0ecb8",
     "name": "Dunhinda Falls",
-    "description": "Located in Badulla, Dunhinda Falls is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Dunhinda Falls, a picturesque spot in Badulla District, Sri Lanka, offers visitors a serene setting perfect for sightseeing. The falls, formed by the confluence of two streams, provide a natural backdrop for those seeking tranquility and beauty. While the exact date of their formation is unknown, Dunhinda Falls have been a popular destination for locals and tourists alike, known for their refreshing water and the lush greenery surrounding them. Visitors can enjoy the waterfall’s cascading waters while taking in the scenic views, making it a favorite among nature lovers and photographers.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_908e75ac4e",
     "name": "Ella Spice Garden",
-    "description": "Ella Spice Garden is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Ella Spice Garden, located in the picturesque Ella town, is a charming spot offering visitors a chance to explore local flora and fauna. The garden, known for its diverse array of spices and herbs, attracts nature lovers and food enthusiasts alike. Originally established as a private plantation by a local entrepreneur, it later became a public attraction, showcasing the rich biodiversity of the region. Visitors can take guided tours to learn about the different spices grown there, including cinnamon, cardamom, and nutmeg. Notable for its tranquil setting and educational value, the garden has become a favorite among tourists exploring the hill country.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_812f8171ad",
     "name": "Union of two rivers",
-    "description": "Union of two rivers is a point of interest located in Badulla, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Union of Two Rivers, located in the heart of Badulla, is a charming spot where the Kudawa and Walawe rivers converge, creating a picturesque scene. This natural phenomenon has attracted visitors and photographers for decades, offering a serene moment amidst nature’s beauty. Legend has it that the union was formed by the tears of a local king, who wept over his lost love. Today, it's a popular spot for sightseeing, where tourists can admire the merging waters and perhaps catch a glimpse of wildlife.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_ac5d0a6ea4",
     "name": "Waterfall",
-    "description": "Waterfall is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Waterfall, located in the picturesque district of Badulla, Sri Lanka, is a popular spot for tourists seeking natural beauty. The waterfall, which cascades down from the hills, is a serene spot where visitors can enjoy refreshing dips and hike through lush forests. It's believed to be a significant landmark in the area, attracting locals and tourists alike who come to marvel at its power and tranquility. Known for its serene atmosphere and scenic views, Waterfall offers a perfect escape from the hustle of city life.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_6616932fc3",
     "name": "Demodera Railway Spiral",
-    "description": "Located in Badulla, Demodera Railway Spiral is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Demodera Railway Spiral, a unique railway engineering marvel in Badulla District, Sri Lanka, is a 180-degree spiral tunnel constructed between 1907 and 1912. This remarkable feat of engineering was part of the Kandy-Ella Railway line and remains a testament to early 20th century rail construction skills. Its winding path through the mountainous terrain showcases the ingenuity of the time, offering visitors an intriguing glimpse into Sri Lanka's railway heritage. Known for its scenic views and narrow gauge tracks, the Demodera Railway Spiral attracts curious tourists seeking to explore this lesser-known gem of Sri Lanka's rail network.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_0269fb547d",
     "name": "Kalthota Doowili Ella (Water fall)",
-    "description": "Located in Badulla, Kalthota Doowili Ella (Water fall) is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Kalthota Doowili Ella, a stunning waterfall in Badulla District, Sri Lanka, offers visitors breathtaking views and refreshing cascades. The waterfalls, part of the Horton Plains National Park, were formed by the erosion of rocks over millions of years. They are a popular spot for sightseeing, with locals and tourists marveling at the natural beauty and cool mist that often fills the air. Visitors can enjoy picnicking under the waterfall, feeling the cool water on their skin as they soak up the serene surroundings.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_85c9e7b6e9",
     "name": "Kalthota Doowili Ella 2 (Water Fall)",
-    "description": "Kalthota Doowili Ella 2 (Water Fall) is a point of interest located in Badulla, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kalthota Doowili Ella, also known as Water Fall, is a picturesque spot in the Badulla district of Sri Lanka, famous for its natural beauty. The waterfall is a popular destination for tourists seeking scenic views and refreshing waterfalls. It's part of the larger Kalthota National Heritage Area, which includes other natural attractions and cultural sites. Visitors often hike along the trails to immerse themselves in the serene surroundings. The waterfall has been a source of inspiration and recreation for locals and tourists alike for generations.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_343f2483b0",
     "name": "Upper Rawana",
-    "description": "Upper Rawana is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Upper Rawana, a lesser-known yet intriguing point of interest in Badulla District, offers visitors a serene retreat amidst lush greenery. The area, known for its natural beauty and tranquil surroundings, attracts nature lovers and those seeking a peaceful escape from the hustle of urban life. Its historical significance, however, remains unknown; what matters most are the breathtaking views and the chance to connect with nature. Visitors can hike through the scenic trails, enjoy picnicking, and perhaps spot local wildlife. Upper Rawana stands as a testament to Sri Lanka’s rich biodiversity and natural splendor.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -345,7 +345,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_bc07340717",
     "name": "Haputale Forest Reserve Trailhead",
-    "description": "Located in Badulla, Haputale Forest Reserve Trailhead is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Haputale Forest Reserve Trailhead in the Badulla district offers visitors a chance to explore lush green trails amidst the forest reserve. This area, while not specifically known as a historical site, is significant for its natural beauty and biodiversity. The trailhead serves as a gateway to several nature walks, where one can observe endemic flora and fauna, including the endangered leopard and elephant. Visitors often spot colorful birds and butterflies during their hikes. Cultural and religious aspects are minimal here, but the reserve plays a crucial role in the local ecosystem, contributing to the region’s rich biodiversity.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_cad9348675",
     "name": "temple",
-    "description": "Located in Badulla, temple is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Temple in Badulla district, Sri Lanka, is a sacred site attracting visitors interested in Buddhist culture and architecture. Built over centuries, the temple houses ancient statues and intricate carvings, reflecting the rich heritage of the region. Its serene atmosphere makes it a popular spot for meditation and reflection, offering insights into the spiritual journey of Sri Lankan Buddhism. Known for its historical and cultural importance, the temple hosts various festivals and ceremonies throughout the year, drawing pilgrims and tourists alike.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_19678f098d",
     "name": "Uva Halpewatte Tea Factory",
-    "description": "Uva Halpewatte Tea Factory is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Uva Halpewatte Tea Factory, located in the Badulla district of Sri Lanka, is a historical site that showcases the rich tea production heritage of the country. Constructed in the early 20th century, it was one of the first large-scale tea factories in the region, symbolizing the growth and importance of the tea industry during colonial times. The factory offers visitors a glimpse into the traditional tea-making process, including the harvesting, processing, and packaging of tea leaves. It also hosts occasional cultural events and tours, providing insight into the local tea culture and history.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -443,7 +443,7 @@
     "_osm_type": "node",
     "_osm_id": 5306203490,
     "_source_global_id": "3ed87ac0-0230-4309-a977-879cabb919c8",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Sa 08:00-16:30",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_5c89a480db",
     "name": "Dambana Wedi Gammanaya",
-    "description": "Dambana Wedi Gammanaya is a point of interest located in Badulla, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Dambana Wedi Gammanaya, also known as the Second Temple in Badulla District, is an ancient Buddhist site attracting visitors interested in religious architecture and history. Built during the early 16th century, it is believed to be a replica of the famous Dalada Maligawa in Colombo. The temple features intricate carvings and a serene atmosphere, making it a popular spot for tourists and locals alike. Notable for its historical significance and architectural beauty, Dambana Wedi Gammanaya stands as a testament to Sri Lanka's rich cultural heritage.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_9a467ac001",
     "name": "Flyvina - zipline",
-    "description": "Flyvina - zipline is a point of interest located in Badulla, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Flyvina - zipline is a unique attraction in Badulla, Sri Lanka, offering visitors an exhilarating sightseeing experience high above the jungle canopy. The zipline, a recent addition to the area, allows tourists to zip through the lush greenery, providing panoramic views of the surrounding mountains and valleys. It's a popular spot for adventure seekers and nature lovers, attracting both local and international tourists. Established as part of a conservation effort, the zipline also helps raise awareness about environmental protection and sustainable tourism practices in the region.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_d953ee4b3e",
     "name": "Belipola Arboretum",
-    "description": "Located in Badulla, Belipola Arboretum is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Belipola Arboretum is an oasis of greenery located in the heart of Badulla District, Sri Lanka. Established as a private collection by Dr. P. W. Belipola in the early 20th century, it features over 300 species of native and exotic plants, many rare and some endangered. The arboretum is a haven for nature lovers and botanists, offering visitors a chance to explore diverse ecosystems, learn about local flora, and enjoy scenic walks through meticulously maintained gardens. Notable for its conservation efforts, the arboretum also hosts educational programs and community events, making it a significant site for both recreation and research in Badulla.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -613,7 +613,7 @@
 {
     "id": "pl_osm_50aa418c24",
     "name": "Hanging bridge",
-    "description": "Hanging bridge is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Hanging Bridge in Badulla District, Sri Lanka, is a unique attraction offering stunning views of the surrounding tea plantations. Built in 1878 by British colonial administrators, it spans the Kudawa River, connecting two villages. The bridge, known for its architectural beauty and historical importance, has become a popular spot for tourists seeking panoramic vistas and a taste of local culture. Visitors can take photos at the bridge’s highest point, which offers a breathtaking view of the lush greenery below.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -649,7 +649,7 @@
 {
     "id": "pl_osm_83e385ea75",
     "name": "Kirawanagama Falls",
-    "description": "Kirawanagama Falls is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kirawanagama Falls, a stunning natural attraction in the picturesque district of Badulla, Sri Lanka, offers visitors breathtaking views and serene walks along its cascading waters. The falls are a popular spot for sightseeing, attracting tourists who marvel at their beauty and serenity. Local legends speak of ancient temples and caves hidden within the surrounding forest, though these details are not confirmed by archaeological evidence. The falls stand as a testament to nature's power, a peaceful retreat for those seeking tranquility amidst the lush greenery of the region.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -685,7 +685,7 @@
 {
     "id": "pl_osm_a6bb21ca23",
     "name": "Pallewela Ella",
-    "description": "Pallewela Ella is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Pallewela Ella, a natural spring located in the picturesque hills of Badulla District, Sri Lanka, is a popular spot for sightseeing. The area features crystal clear waters and lush greenery, attracting locals and tourists alike. Legend has it the site was once a sacred bathing place for ancient Sinhalese kings, though no concrete evidence supports this claim. Today, Pallewela Ella offers visitors a tranquil escape from the hustle of city life, perfect for swimming, picnicking, and enjoying the serene surroundings.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -721,7 +721,7 @@
 {
     "id": "pl_osm_ed2c402ad1",
     "name": "Zero Arch Bridge (Black Bridge)",
-    "description": "Zero Arch Bridge (Black Bridge) is a point of interest located in Badulla, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Zero Arch Bridge, also known as the Black Bridge, spans the Walawe River in Badulla District, Sri Lanka. It was constructed in the early 20th century, serving as a vital link between Badulla town and the river. The bridge holds significant historical importance, though the exact year of construction remains uncertain. It stands as a testament to the ingenuity and engineering skills of the time, and its presence attracts many visitors interested in local architecture and natural beauty. Known for its unique black color, the bridge offers scenic views and serves as a popular spot for tourists and locals alike.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_d6d56ca3db",
     "name": "Priya Cookery Class",
-    "description": "Priya Cookery Class is a point of interest located in Badulla, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Priya Cookery Class is a popular spot in Badulla, offering visitors a unique insight into Sri Lankan cuisine through hands-on cooking classes. Located in the heart of the city, it attracts both locals and tourists interested in learning traditional recipes. The classes often feature local ingredients and teach participants how to prepare dishes such as curry dishes, roti, and laddu, providing an authentic taste of Sri Lankan culture. Established by Priya, a renowned chef, these classes aim to preserve and share the rich culinary heritage of Sri Lanka.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -793,7 +793,7 @@
 {
     "id": "pl_osm_472df01f6c",
     "name": "Slide & swing ella",
-    "description": "Located in Badulla, Slide & swing ella is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Slide & swing ella is an unusual attraction in Badulla, a popular spot for sightseeing. Its exact origins are unknown, but locals say it was constructed as a playground for local children by a wealthy estate owner in the early 20th century. The swing and slide offer a refreshing break from the heat, making it a favorite among visitors exploring the area. It stands as a testament to the ingenuity of past residents who created recreational spaces amidst the lush tea plantations.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -865,7 +865,7 @@
 {
     "id": "pl_osm_5f04db30a1",
     "name": "Ella Organic Tea Garden",
-    "description": "Ella Organic Tea Garden is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Ella Organic Tea Garden, nestled in the picturesque Ella town, is a serene spot offering visitors a chance to explore the tea plantation heritage. Established over a century ago by British colonizers, the garden has since been handed down through generations. Today, it serves as a popular destination for tourists interested in organic tea production and the local culture. Visitors can stroll through the lush茶园, learn about traditional tea-making techniques, and sample freshly brewed organic teas. Notable for its rich history and the opportunity to experience authentic Sri Lankan culture, the garden is a must-visit for anyone interested in tea tourism and local heritage.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -875,7 +875,7 @@
     "_osm_type": "node",
     "_osm_id": 11892745469,
     "_source_global_id": "2ed4232a-1330-4fb9-a4e4-f9a5e93ccdbe",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 09:00-13:00, 14:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -901,7 +901,7 @@
 {
     "id": "pl_osm_8bd108cfee",
     "name": "Black Bridge",
-    "description": "Black Bridge is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Black Bridge, a picturesque structure in Badulla District, Sri Lanka, is an intriguing spot for visitors interested in local architecture. Built in the early 20th century, the bridge acquired its distinctive black color due to years of exposure to the elements, particularly the iron oxide in the soil. It stands as a testament to the ingenuity and craftsmanship of local builders, serving as a focal point for locals and tourists alike. Known for its serene beauty and historical charm, the bridge often features in photography tours and nature walks, offering a glimpse into the rich heritage of the region.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -937,7 +937,7 @@
 {
     "id": "pl_osm_dd89e426d5",
     "name": "Dambatenne Tea Factory",
-    "description": "Dambatenne Tea Factory is a point of interest in the Badulla area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Dambatenne Tea Factory, located in the picturesque tea country of Badulla, is an interesting stop for visitors to learn about Sri Lanka's tea industry. Built in the early 20th century, it was once a significant producer of high-quality tea. Today, it offers tours where visitors can see the machinery used in tea processing, learn about traditional tea-making techniques, and enjoy panoramic views of the surrounding tea plantations. It's a unique spot for those interested in the history and culture of tea production in Sri Lanka.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -973,7 +973,7 @@
 {
     "id": "pl_osm_a391c35743",
     "name": "Demodara Nine Arch Bridge",
-    "description": "Located in Badulla, Demodara Nine Arch Bridge is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Demodara Nine Arch Bridge, also known as the Demodara Arched Bridge, is a unique structure in Badulla District, Sri Lanka. Constructed in the early 20th century, this bridge stands out with its nine arches, offering a picturesque view of the surrounding landscape. It serves as a popular spot for sightseeing, allowing visitors to appreciate its architectural beauty and learn about local history. The bridge was built by the British colonial administration to improve transportation in the region, connecting Demodara and other nearby towns.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -993,7 +993,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -1009,7 +1009,7 @@
 {
     "id": "pl_osm_f2cc165713",
     "name": "Demodora Nine Arch Bridge",
-    "description": "Located in Badulla, Demodora Nine Arch Bridge is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Demodora Nine Arch Bridge, located in the picturesque town of Badulla, Sri Lanka, is an architectural marvel known for its nine arched design. Constructed in the early 20th century, the bridge stands as a testament to engineering prowess and local craftsmanship. It offers stunning views of the surrounding mountains and valleys, making it a popular spot for tourists and locals alike, especially during sunrise and sunset when the colors paint the sky in hues of orange and pink. The bridge’s unique structure and scenic location make it a must-visit attraction for those exploring the beauty of Badulla.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Other",
@@ -1041,3 +1041,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

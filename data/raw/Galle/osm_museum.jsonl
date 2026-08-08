@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_a0ff78b399",
     "name": "Martin Wickramasinghe Folk Museum Complex",
-    "description": "Martin Wickramasinghe Folk Museum Complex is a museum in the Galle area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Martin Wickramasinghe Folk Museum Complex in Galle, Sri Lanka, is a museum complex dedicated to preserving the rich cultural heritage of the region. Established in 1964 by Martin Wickramasinghe, a prominent Sri Lankan historian and politician, the museum showcases artifacts, traditional crafts, and exhibits that reflect the local way of life. It houses various galleries, including one dedicated to traditional fishing techniques, another on ancient farming practices, and a section showcasing indigenous textiles. The museum also hosts educational programs and workshops, making it an important site for both locals and tourists interested in learning about Sri Lankan culture and history.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_9cd3272977",
     "name": "Ariyapala Masks Museum",
-    "description": "Ariyapala Masks Museum is a museum located in Galle, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Ariyapala Masks Museum, located in Galle District, showcases an extensive collection of traditional Sri Lankan masks, each intricately carved and painted to represent various mythological characters and spirits. The museum, housed in a colonial-era building, offers visitors a glimpse into the rich cultural heritage of Sri Lanka through these vibrant artifacts. Established by local artisans and historians, the museum has become a significant educational resource for tourists interested in learning about Sri Lankan folklore and performing arts. Notable masks include the Kuthiyawa, a large mask worn during the Kandy Esala Perukkali festival, and the Pinnawala, which symbolizes the deity Vishnu.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_0f03fba327",
     "name": "Tukkawadu Mask Museum",
-    "description": "Tukkawadu Mask Museum is a museum in the Galle area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Tukkawadu Mask Museum, located in Galle District, Sri Lanka, is a unique museum dedicated to traditional masks and costumes used in local dance forms. Established by a local artist and community initiative, the museum showcases over 500 masks and costumes, each intricately carved and painted, representing various stories and characters from Galle Fort's rich cultural heritage. Visitors can learn about the historical significance of these masks, their role in local festivals, and how they are passed down through generations. The museum also hosts regular workshops and performances, offering an immersive experience into Galle's artistic traditions.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_60c6621a93",
     "name": "Tsunami Photo Museum Telwatta",
-    "description": "Located in Galle, Tsunami Photo Museum Telwatta is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Tsunami Photo Museum Telwatta in Galle district showcases powerful images of the 2004 Indian Ocean tsunami, which devastated parts of Sri Lanka. Built after the disaster, it documents the impact on the local community and the world's response. Visitors can learn about the event's human cost and the solidarity shown through photographs. The museum also features information on reconstruction efforts and the resilience of the region. It serves as a poignant reminder of the tragedy while highlighting the community's recovery journey.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_4d63a9fdba",
     "name": "National Museum Fort",
-    "description": "National Museum Fort is a museum located in Galle, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Museum Fort, located in Galle, Sri Lanka, is a historic site that houses artifacts and exhibits reflecting the rich cultural and colonial history of the region. Built by the British in the late 18th century as a fort, it later served as a museum, showcasing items related to the Dutch and British rule, including weapons, textiles, and photographs. The museum also features an archaeological collection and a section dedicated to local wildlife and natural history. It attracts visitors interested in history, culture, and nature, offering insights into Galle's past.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -155,7 +155,7 @@
     "_osm_type": "way",
     "_osm_id": 136845474,
     "_source_global_id": "2f667e4e-79b8-447c-a5eb-1a565c616736",
-    "opening_hours": "Check locally",
+    "opening_hours": "Tu-Sa 09:00-16:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_d71a5fca23",
     "name": "Historical Mansion Museum",
-    "description": "Located in Galle, Historical Mansion Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Historical Mansion Museum in Galle District is an architectural gem showcasing colonial-era craftsmanship. Built in the early 20th century as a private residence, it now houses artifacts and documents reflecting Galle's rich history. The museum's collection includes local textiles, antique furniture, and photographs, offering visitors a glimpse into the daily life and culture of Galle during its heyday. Notable events such as the Dutch and British rule can be traced through these exhibits, making it a must-visit for anyone interested in Sri Lankan history.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_8c8f01714f",
     "name": "Historical Mansion Museum",
-    "description": "Located in Galle, Historical Mansion Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Historical Mansion Museum in Galle District houses artifacts and exhibits that narrate the rich colonial history of the region. Built in the late 19th century by a prominent local merchant, the mansion was once a bustling hub of trade and social gatherings. Today, it stands as a testament to the architectural elegance and cultural heritage of Galle, offering visitors insights into the lives of past inhabitants through its meticulously curated collection. Notable for its blend of Dutch and Sinhalese architecture, the museum also hosts regular cultural events and guided tours, making it a popular spot for both locals and tourists interested in history and culture.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_7597b417af",
     "name": "Puppet Museum",
-    "description": "Puppet Museum is a museum in the Galle area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Puppet Museum in Galle, Sri Lanka, showcases a collection of traditional puppets used in local folk theater. Originally established as a private collection by a local artist in the 1980s, it has since been converted into a museum. The exhibits depict various puppet characters and costumes, offering insights into the rich cultural heritage of Galle. Visitors can learn about the historical significance of these puppets and their role in the region's theatrical traditions. It attracts both locals and tourists interested in understanding local culture through tangible artifacts.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -263,7 +263,7 @@
     "_osm_type": "way",
     "_osm_id": 819753744,
     "_source_global_id": "984358b7-5fe8-4e81-9f82-e7993bd2bafc",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Fr 09:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -273,7 +273,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_f5a3baafff",
     "name": "Handunugoda Tea Estate",
-    "description": "Located in Galle, Handunugoda Tea Estate is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Handunugoda Tea Estate Museum, nestled in Galle District, Sri Lanka, offers visitors a glimpse into the island's rich tea plantation heritage. Established in the early 20th century, the estate was one of the first to introduce modern tea cultivation techniques, significantly impacting local agriculture and economy. The museum showcases artifacts, photographs, and interactive exhibits that narrate the estate's evolution and the broader story of tea production in Sri Lanka, highlighting its cultural and economic importance. Visitors can learn about the working conditions, harvest seasons, and the global impact of Sri Lankan tea.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -299,7 +299,7 @@
     "_osm_type": "way",
     "_osm_id": 1030601255,
     "_source_global_id": "057f7dbc-c41a-4209-96ff-f5bf61bf77f4",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 08:00-17:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_ad724d9443",
     "name": "General Tsunami Photo Museum",
-    "description": "General Tsunami Photo Museum is a museum located in Galle, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The General Tsunami Photo Museum in Galle, Sri Lanka, showcases powerful photographs documenting the devastating 2004 Indian Ocean tsunami, which struck the region. The museum was established by local residents and volunteers to preserve memories and raise awareness about the disaster. It features poignant images alongside personal stories, offering visitors a unique insight into the impact of the tsunami on the island nation. Exhibits include before-and-after shots of affected communities, and interactive displays help visitors understand the causes and effects of tsunamis. Educational workshops and seminars are also held regularly to educate the public on disaster preparedness.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -335,7 +335,7 @@
     "_osm_type": "way",
     "_osm_id": 1177275611,
     "_source_global_id": "023c06af-f35b-413b-ab0c-c13f7ad7be30",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 08:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -345,7 +345,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "yes",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_00f2ef437c",
     "name": "Community Tsunami Education Center and Tsunami Museum",
-    "description": "Community Tsunami Education Center and Tsunami Museum is a museum in the Galle area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Community Tsunami Education Center and Tsunami Museum in Galle district, Sri Lanka, is a museum dedicated to educating visitors about the 2004 Indian Ocean tsunami disaster. It was established to commemorate the tragedy and raise awareness about natural disasters. The center features exhibits on the causes, effects, and aftermath of the tsunami, along with interactive displays and educational programs. It also hosts exhibitions related to local culture and history, making it a significant site for both learning and remembrance. Established post-tsunami, it serves as a reminder of the importance of preparedness and community resilience.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Museum",
@@ -429,3 +429,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

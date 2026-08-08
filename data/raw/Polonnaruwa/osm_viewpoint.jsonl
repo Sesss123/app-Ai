@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_742b7b962a",
     "name": "Danigala Rock",
-    "description": "Danigala Rock is a scenic viewpoint located in Polonnaruwa, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Danigala Rock, located in the Polonnaruwa district of Sri Lanka, offers panoramic views of the surrounding countryside. It stands as a viewpoint where visitors can take stunning photographs and enjoy the scenic beauty. The rock formation has been a popular spot for tourists to admire the natural landscape, often accompanied by local temples and ruins visible in the distance. Its historical importance lies in its role as a vantage point for ancient settlers, though specific details about its construction or founding are not known.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Viewpoint",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

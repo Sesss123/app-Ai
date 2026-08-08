@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_7db17b8acd",
     "name": "Hindu Kovil",
-    "description": "Located in Matara, Hindu Kovil is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "The Hindu Kovil in Matara District stands as a significant religious site where devotees gather for prayer. Originating as an ancient temple, its exact founding date is unknown, but it has been revered by local Hindu communities for centuries. The Kovil features intricate carvings and architectural elements typical of Sri Lankan Hindu temples, reflecting a blend of indigenous and possibly Indian influences. Visitors can explore the serene premises, often accompanied by beautiful views of the surrounding area, while taking photos to capture the spiritual atmosphere.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -33,10 +33,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_add788ac",
     "name": "Tenavaram (Tondeshvaram) Shiva Temple, Dondra Head",
-    "description": "Discover the ancient Tondeshvaram Shiva Temple, nestled at Dondra Head. This sacred site offers a glimpse into Sri Lanka’s rich Hindu heritage, featuring intricate carvings and a serene atmosphere. Witness the temple’s historical significance and immerse yourself in its spiritual ambiance.",
+    "description": "The Tenavaram Shiva Temple, also known as Tondeshvaram, stands at Dondra Head in Matara District, Sri Lanka, a sacred site revered by Hindus. Built in the 9th century, the temple is dedicated to Lord Shiva and houses a massive lingam. Its architectural style blends Dravidian and Sinhalese influences. The temple's unique features include intricate carvings and a towering shikhara. Over the centuries, it has been a center of spiritual pilgrimage, attracting devotees seeking blessings and enlightenment. Notable events include the annual Shivaratri festival, where thousands gather for rituals and worship.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -70,7 +71,7 @@
 {
     "id": "pl_ea633d01",
     "name": "Sithi Vinayagar Temple, Deniyaya",
-    "description": "Discover the ancient Sithi Vinayagar Temple, a sacred Hindu site in Deniyaya, Matara. This temple stands as a testament to Sri Lanka’s rich cultural heritage, housing intricate carvings and offering visitors a glimpse into the island's spiritual past.",
+    "description": "Sithi Vinayagar Temple, located in Deniyaya, Matara District, Sri Lanka, is a significant Hindu Kovil dedicated to Lord Ganesha. The temple, believed to be over a century old, was established by local devotees seeking a place to honor the elephant-headed god. Over time, it has become a hub for spiritual seekers, offering visitors an opportunity to pray, meditate, and reflect. Visitors can also enjoy photography as they capture the serene atmosphere and ancient architecture. Cultural and religious festivals add to the temple’s importance, drawing pilgrims from far and wide.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -104,7 +105,7 @@
 {
     "id": "pl_c6a71302",
     "name": "Sri Muthumari Amman Temple, Deniyaya",
-    "description": "Discover the sacred Sri Muthumari Amman Temple, a vibrant Hindu shrine nestled amidst lush greenery and ancient ruins. This temple stands as a testament to Sri Lanka’s rich cultural heritage, offering visitors a glimpse into the island’s spiritual heart.",
+    "description": "The Sri Muthumari Amman Temple in Deniyaya, Matara District, is a significant Hindu Kovil dedicated to the goddess Muthu Mariamman. The temple, believed to be over 200 years old, stands as a testament to the rich cultural heritage of the region. It was established by local devotees seeking blessings for their families and community. Notable for its ancient ruins, the temple also hosts regular prayer and meditation sessions, making it a popular spot for visitors interested in both spirituality and history. Visitors can explore the serene surroundings and capture moments of serenity through photography.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -138,7 +139,7 @@
 {
     "id": "pl_4d3c9b78",
     "name": "Sri Mahapathirakali Temple, Veharahena",
-    "description": "This ancient Hindu temple, nestled amidst lush greenery, stands as a testament to Sri Lanka's rich cultural heritage. Dedicated to Lord Shiva, its intricate carvings and ornate architecture reflect the island's deep-rooted Hindu tradition, making it a must-visit for history enthusiasts and art lovers alike.",
+    "description": "The Sri Mahapathirakali Temple in Matara, Sri Lanka, stands as a revered site dedicated to Hindu worship, offering visitors a glimpse into local spiritual heritage. Nestled in the lush greenery of Veharahena, the temple’s serene surroundings contrast beautifully with its rich architectural elements. Constructed during the colonial era, the temple houses intricate carvings and statues that reflect Hindu artistry. It’s a popular spot for those seeking to learn about Hindu traditions and culture, with many tourists drawn to capture the temple’s impressive carvings on film.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -172,7 +173,7 @@
 {
     "id": "pl_455e4f73",
     "name": "Sri Muthumari Amman Temple, Pidapethara",
-    "description": "This ancient Kovil, dedicated to Muthumari Amman, stands majestically amidst lush greenery. Its intricate carvings and ornate architecture reflect the rich cultural heritage of Matara, making it a must-visit for history enthusiasts and art lovers alike.",
+    "description": "Sri Muthumari Amman Temple, located in Pidapethara, Matara District, is a sacred Hindu Kovil dedicated to the goddess Muthamari Amman. The temple dates back to the 16th century and is believed to have been built by local artisans under the patronage of the Kandyan Kingdom. It holds great spiritual importance for devotees seeking blessings and is known for its serene ambiance and ancient architecture. Visitors can engage in prayer, meditation, photography, and reflection, making it a popular pilgrimage site and tourist attraction.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -206,7 +207,7 @@
 {
     "id": "pl_5f24e0ad",
     "name": "Matara Sri Kali Amman Temple",
-    "description": "Matara Sri Kali Amman Temple, a sacred Hindu site in Matara, Southern Province, stands majestically amidst lush gardens. Dedicated to the goddess Kali Amman, this temple is a testament to Sri Lanka's rich cultural heritage, attracting devotees and tourists alike with its intricate carvings and serene ambiance.",
+    "description": "The Matara Sri Kali Amman Temple, located in the Matara district of Sri Lanka, is a significant Hindu Kovil dedicated to Goddess Kali. The temple, believed to be over a century old, houses intricate carvings and statues depicting scenes from Hindu mythology. It attracts devotees who come for prayer and meditation, and the serene surroundings make it an ideal spot for photography and relaxation. Notable for its historical and cultural importance, the temple has been a center of worship for generations.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Kovil",

@@ -1,7 +1,7 @@
 {
     "id": "pl_fc14dc91",
     "name": "Kalpitiya Beach",
-    "description": "Kalpitiya Beach, a picturesque sandy stretch along the Puttalam coast, offers breathtaking views and perfect conditions for kitesurfing. Nestled between mangrove forests and the Indian Ocean, it's a haven for both beginners and experienced surfers alike.",
+    "description": "Kalpitiya Beach, located in the Puttalam District of Sri Lanka, is a popular destination for kitesurfers and nature lovers alike. Known for its pristine white sand and crystal-clear waters, it offers excellent opportunities for kitesurfing, snorkeling, and beachcombing. The area's calm sea and consistent winds make it ideal for beginners and experienced kitesurfers alike. Historically, Kalpitiya has been a fishing village, and its rich marine life makes it a haven for divers and snorkelers to explore colorful coral reefs and diverse marine ecosystems.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach (Kitesurf)",
@@ -67,7 +67,7 @@
 {
     "id": "pl_97ac150a",
     "name": "Kudawa Beach",
-    "description": "Kudawa Beach, nestled along the Puttalam coast, offers crystal-clear waters perfect for swimming and snorkeling. Its secluded location makes it a hidden gem for nature lovers and adventure seekers.",
+    "description": "Kudawa Beach, nestled in the Puttalam district of Sri Lanka, offers a serene lagoon setting perfect for swimming, snorkeling, and sunbathing. The beach, known for its clear waters and vibrant coral reefs, attracts visitors seeking a tranquil escape from the hustle of urban life. Its picturesque location and laid-back atmosphere make it a favorite spot for both locals and tourists alike. Historically, the area has been part of ancient trading routes, connecting coastal communities with distant lands. Today, it remains a cherished retreat for those looking to rejuvenate and reconnect with nature.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Lagoon-side Beach",
@@ -133,7 +133,7 @@
 {
     "id": "pl_b3041a17",
     "name": "Wilpattu Coastal Beach (Kudiramalai)",
-    "description": "Wilpattu Coastal Beach (Kudiramalai) is a secluded gem along the Puttalam coast, known for its pristine white sand and crystal-clear waters. Surrounded by lush mangroves and offering breathtaking views, it's a perfect spot for those seeking a peaceful retreat from the hustle and bustle of urban life.",
+    "description": "Wilpattu Coastal Beach, also known as Kudiramalai, is a secluded cape beach in Puttalam, Sri Lanka, offering pristine white sands and crystal-clear waters. Known for its natural beauty and tranquility, it attracts visitors seeking relaxation and recreation. Activities include swimming, sunbathing, and snorkeling to explore the underwater world teeming with marine life. The beach's remote location makes it a sought-after destination for those looking to escape the crowds. Despite its popularity, the area remains relatively untouched, preserving its natural charm.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Remote Cape Beach",
@@ -166,7 +166,7 @@
 {
     "id": "pl_cc2d3e72",
     "name": "Mannalkadu / Anawasala Beach (Chilaw)",
-    "description": "Mannalkadu / Anawasala Beach (Chilaw) is a picturesque sandy stretch known for its crystal-clear waters and vibrant marine life. Surrounded by lush greenery and offering breathtaking views, it's a perfect spot for swimming, sunbathing, and snorkeling.",
+    "description": "Mannalkadu / Anawasala Beach, also known as Chilaw Beach, offers pristine sandy shores perfect for swimming and sunbathing. Surrounded by lush greenery, it's a popular spot for snorkeling and diving, allowing visitors to explore vibrant underwater life. The beach has been a favored retreat for locals and tourists alike for decades, known for its tranquil atmosphere and natural beauty. Historically, the area was an important fishing village, and the beach itself has seen many generations enjoying its golden sands. Cultural festivals often take place here, adding to the charm of this picturesque coastal location.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -199,7 +199,7 @@
 {
     "id": "pl_4618841c",
     "name": "Chilaw Beach",
-    "description": "Chilaw Beach, nestled along the Puttalam coast, offers pristine sandy shores and crystal-clear waters perfect for swimming and sunbathing. Its picturesque setting makes it a favorite spot for locals and tourists alike.",
+    "description": "Chilaw Beach, located in the Puttalam district of Sri Lanka, offers visitors a picturesque sandy shoreline perfect for swimming, sunbathing, and picnicking. The beach, known for its clear waters and gentle waves, attracts both locals and tourists seeking relaxation and recreation. Its golden sands and lush tropical vegetation make it a popular spot for families and couples alike. Notable for its tranquil atmosphere and serene setting, Chilaw Beach has become a beloved destination for those looking to unwind by the sea.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -228,10 +228,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_e366be8f93",
     "name": "Silver Beach",
-    "description": "Silver Beach is a beach in the Puttalam area of Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Silver Beach, located in Puttalam, Sri Lanka, is a popular sandy beach where visitors can enjoy swimming and sunbathing. The area, known for its crystal-clear waters and soft sand, attracts tourists seeking a relaxing getaway. Historically, the beach has been a spot for locals to gather, but beyond that, specific details about its founding or cultural significance are not widely documented. Known for its natural beauty, Silver Beach offers a tranquil setting for those looking to unwind on the shores of Puttalam.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -305,7 +306,7 @@
 {
     "id": "pl_osm_2174b1e71f",
     "name": "Muthupanthiya beach",
-    "description": "Located in Puttalam, Muthupanthiya beach is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Muthupanthiya beach, located in Puttalam District, Sri Lanka, offers pristine sandy shores perfect for swimming and sunbathing. The beach's golden sands stretch along the coast, providing a serene setting for visitors to relax and soak up the sun. Its proximity to the sea makes it ideal for those seeking a taste of the ocean's tranquility. Known for its natural beauty and tranquil atmosphere, Muthupanthiya beach attracts both local residents and tourists looking to escape the hustle and bustle of city life.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -342,7 +343,7 @@
 {
     "id": "pl_osm_2755a0833e",
     "name": "Anawasal",
-    "description": "Located in Puttalam, Anawasal is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Anawasal, a sandy beach in Puttalam, Sri Lanka, offers visitors a serene spot for swimming and relaxation. The beach, though not historically significant, is appreciated by locals and tourists alike for its golden sands and gentle waves. Historically, it has been a popular destination for those seeking a break from urban life. Cultural and religious ties are minimal, but the area benefits from the island's rich biodiversity and natural beauty. Visitors can enjoy the beach's calm waters and the fresh air, making it a perfect retreat for rejuvenation.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -379,7 +380,7 @@
 {
     "id": "pl_osm_d8c3b93951",
     "name": "Horizon",
-    "description": "Horizon is a beach in the Puttalam area of Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Horizon, a sandy beach in Puttalam, Sri Lanka, offers swimmers and sunbathers a picturesque spot to relax and soak up the tropical sun. Its calm waters and soft sands make it a popular destination for families and couples alike. Historically, the area has been an important fishing ground for generations, and it was also a temporary refuge during World War II, providing a safe harbor for Allied ships. Today, Horizon stands as a tranquil oasis in the heart of Putalaimunna, a district known for its pristine beaches and serene coastal life.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -416,7 +417,7 @@
 {
     "id": "pl_osm_f526ebab3d",
     "name": "Kite Beach Villa Kalpitiya",
-    "description": "Kite Beach Villa Kalpitiya is a beach located in Puttalam, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Kite Beach Villa Kalpitiya, located in the picturesque district of Puttalam, Sri Lanka, offers visitors a serene sandy beach perfect for swimming and relaxation. The area is known for its pristine waters and beautiful sunsets, attracting both locals and tourists seeking a tranquil escape. Historically, the beach has been a popular spot for kite flying, hence its name, though the tradition of kite flying may be a recent development. Its proximity to the sea makes it a favorite among those looking to enjoy the coastal beauty and fresh ocean air.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -453,7 +454,7 @@
 {
     "id": "pl_osm_26360f8173",
     "name": "Cocodance Kite Resort",
-    "description": "Located in Puttalam, Cocodance Kite Resort is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Cocodance Kite Resort sits on a pristine stretch of sand in Puttalam, Sri Lanka, offering visitors a chance to relax and unwind. Known for its clear waters and gentle waves, the resort is a popular spot for swimming and sunbathing. It's also a favorite among kite flyers, who can launch their kites on the calm sea breeze. Historically, the area has been a haven for fishermen and tourists alike, known for its untouched beauty and tranquil atmosphere. Today, it remains a peaceful retreat for those seeking a break from the hustle and bustle of everyday life.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -490,7 +491,7 @@
 {
     "id": "pl_osm_c116b8d203",
     "name": "Divyaa Lagoon Resort",
-    "description": "Divyaa Lagoon Resort is a beach located in Puttalam, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Divyaa Lagoon Resort sits on the picturesque shores of Puttalam, Sri Lanka, offering visitors a tranquil spot for swimming and relaxation. The resort overlooks the serene waters of Divyaa Lagoon, a natural body of water that has been cherished by locals for generations as a retreat area. Its pristine beaches and clear waters attract honeymooners and families seeking peace and beauty. Notable for its laid-back atmosphere, the resort provides an escape from the hustle of city life, making it a popular choice among tourists.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -527,7 +528,7 @@
 {
     "id": "pl_osm_35c988ebe8",
     "name": "De Silva Windresort",
-    "description": "Located in Puttalam, De Silva Windresort is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "De Silva Windresort, a sandy beach in Puttalam, Sri Lanka, offers visitors the chance to relax and swim by the sea. The resort was established in the late 20th century, providing a tranquil escape for those seeking sun, sand, and seashore. Its location on the coast makes it a popular spot for locals and tourists alike, known for its warm waters and beautiful views. Notable for its laid-back atmosphere, De Silva Windresort has become a favorite among those looking to unwind after a day of exploring nearby attractions.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -564,7 +565,7 @@
 {
     "id": "pl_osm_981fe39bda",
     "name": "Srilankakite",
-    "description": "Srilankakite is a beach located in Puttalam, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Srilankakite, a sandy beach in Puttalam, Sri Lanka, offers swimmers and sun worshippers a tranquil retreat where they can relax and soak up the warm sun. Its location on the island's eastern coast makes it a popular spot for locals and tourists alike, known for its pristine waters and soft white sands. The area has seen little development, preserving its natural beauty and serenity. Known historically as a fishing village, Srilankakite now welcomes visitors seeking a peaceful escape from the hustle of urban life.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",
@@ -638,7 +639,7 @@
 {
     "id": "pl_osm_c071deddd5",
     "name": "Elements Watersports & Nature Hotel",
-    "description": "Elements Watersports & Nature Hotel is a beach in the Puttalam area of Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Elements Watersports & Nature Hotel sits on a picturesque sandy beach in Puttalam, Sri Lanka, offering guests the chance to relax and enjoy the ocean. The hotel's location at the heart of Puttalam’s natural beauty makes it a popular spot for visitors seeking a tranquil escape. Historically, the area was known for its rich fishing communities and local traditions, but the hotel itself was established more recently, focusing on providing a serene retreat for tourists. Notable for its swimming pools and nature trails, it's a perfect destination for those looking to unwind by the sea.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sandy Beach",

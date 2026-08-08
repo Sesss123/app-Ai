@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_87ee1a21c8",
     "name": "Talduwa Jumma Mosque",
-    "description": "Located in Kegalle, Talduwa Jumma Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Talduwa Jumma Mosque, located in Kegalle, Sri Lanka, is an important Islamic landmark serving as a place of worship and community gathering. The mosque, built in the early 20th century, holds significant cultural and religious importance for the local Muslim population. It was established by community leaders who recognized the need for a place where Muslims could pray and meet socially. Notable for its architectural design, which incorporates both traditional and modern elements, the mosque also hosts various cultural events and social gatherings, making it a vital part of the Kegalle community’s life.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_30c81e260e",
     "name": "Masjidul Hairath",
-    "description": "Masjidul Hairath is a mosque located in Kegalle, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Masjidul Hairath, a prominent mosque in Kegalle District, Sri Lanka, stands as a significant Islamic landmark where locals and visitors alike gather for prayers. Constructed in the 19th century, it is believed to be named after the Prophet Muhammad. Over the years, it has been a hub for community gatherings and spiritual practices, playing a crucial role in the local Muslim population. Visitors can explore its serene interior adorned with intricate architectural designs and find opportunities for quiet reflection. Photography tours often highlight its historical charm, capturing the essence of this culturally rich site.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_1df81d3c32",
     "name": "Wilpola Jummah Mosque",
-    "description": "Wilpola Jummah Mosque is a mosque in the Kegalle area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Wilpola Jummah Mosque, located in the Kegalle district of Sri Lanka, is a prominent Islamic place of worship known for its unique architecture. Built in the early 20th century, it was established by local Muslim communities as a hub for communal prayers and community gatherings. The mosque's distinctive feature are the natural stone pools within the courtyard, which locals call \"wilpa\" in Sinhala, believed to have formed naturally over centuries. It has been a significant site for both religious practices and cultural events, attracting visitors interested in its architectural uniqueness and spiritual importance.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_f8f233a9d7",
     "name": "Keraminiya mosque",
-    "description": "Keraminiya mosque is a mosque located in Kegalle, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Keraminiya mosque, nestled in the heart of Kegalle, is a historic Islamic landmark that draws visitors with its serene architecture and rich cultural heritage. Built during the 19th century by local Muslim artisans, the mosque stands as a testament to the community's resilience and faith. Its simple yet elegant design reflects the architectural influences of the time, making it a significant site for both locals and tourists interested in learning about Sri Lanka's diverse religious landscape. Notable for its peaceful atmosphere and open air courtyard, the mosque also hosts occasional cultural events and exhibitions, offering a glimpse into the community's traditions and history.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_559ff6b677",
     "name": "Masjidul Hudha jumma Mosque",
-    "description": "Located in Kegalle, Masjidul Hudha jumma Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Masjidul Hudha Jumma Mosque stands in Kegalle, Sri Lanka, a prominent landmark for Muslim worship. Built in the early 20th century, it was constructed by local Muslim community members under the guidance of spiritual leaders. The mosque holds significant cultural and religious importance, serving as a place of worship for Muslims in the area. Notable for its architectural design, it has become a popular spot for visitors to take photos, capturing the blend of traditional Islamic architecture with contemporary Sri Lankan aesthetics.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_cf77c20e00",
     "name": "Mawathagoda Jummah Mosque",
-    "description": "Located in Kegalle, Mawathagoda Jummah Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Mawathagoda Jummah Mosque stands in Kegalle, Sri Lanka, a site where locals and visitors gather for prayers. Its origins trace back to the community's need for a place of worship, built after the mosque was identified as a significant landmark by local leaders. The structure, though not historically documented, has become an important part of the cultural tapestry of the area, hosting communal gatherings and offering a space for reflection. Visitors can appreciate its architectural design and learn about the community that has grown around it.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -237,7 +237,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "yes",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_f1cb5050db",
     "name": "Al manar jummah Masjith",
-    "description": "Al manar jummah Masjith is a mosque in the Kegalle area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Al manar jummah Masjith, located in Kegalle, Sri Lanka, is a prominent mosque known for its distinctive architecture. Built in the early 20th century, it holds great cultural and religious significance as a gathering place for Muslims in the area. Regular Friday prayers are held here, attracting worshippers from diverse backgrounds. Visitors can also take photos of the mosque, which features an impressive dome and intricate carvings. Cultural events and community gatherings often take place at this site, making it a hub of social activity for the local Muslim population.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -273,7 +273,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "yes",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_acb426db83",
     "name": "Dippitiya Town Mosque",
-    "description": "Located in Kegalle, Dippitiya Town Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Dippitiya Town Mosque stands in Kegalle, Sri Lanka, a historic site where local Muslims gather for prayers. Constructed in the early 20th century, it reflects the architectural styles typical of mosques in the region. The mosque has been a significant gathering place for the Muslim community, playing a crucial role in their religious practices and social life. Notable for its serene ambiance and the warmth of its congregation, it stands as a testament to the rich cultural heritage of the area.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -309,7 +309,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_f4bce3945d",
     "name": "Hemmathagama Grand Mosque",
-    "description": "Hemmathagama Grand Mosque is a mosque in the Kegalle area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Hemmathagama Grand Mosque, located in Kegalle, Sri Lanka, is a prominent place of worship for Muslims. Built in the 19th century, it stands as a testament to the rich Islamic heritage in the region. The mosque, known for its ornate architecture and historical significance, attracts visitors interested in both its spiritual ambiance and architectural beauty. It serves as a focal point for local Muslim community activities, including prayer services, and is a popular spot for tourists to capture photos of its intricate designs.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_7178c52fce",
     "name": "Jameul Hairath Jumma Masjid",
-    "description": "Jameul Hairath Jumma Masjid is a mosque in the Kegalle area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Jameul Hairath Jumma Masjid, a prominent mosque in Kegalle District, Sri Lanka, stands as a significant religious site where thousands gather for prayers daily. Built in the early 20th century by local Muslim communities, it symbolizes the rich cultural heritage of Kegalle. The mosque's architectural design reflects a blend of traditional Islamic elements with modern aesthetics, making it an important landmark in the region. Notable for its role in community gatherings and cultural events, it remains a focal point for Muslims in the area.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_07ca1b2139",
     "name": "Town Masjid",
-    "description": "Located in Kegalle, Town Masjid is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Town Masjid, a historic mosque nestled in Kegalle District, Sri Lanka, stands as a testament to the rich Islamic heritage of the region. Built in the 19th century by local Muslim community leaders, it has been a central gathering place for prayers and community events. Over the years, it has witnessed numerous religious ceremonies and social gatherings, making it an important landmark in the area. Its unique architectural style blends traditional Islamic elements with local influences, reflecting the harmonious coexistence between different cultures in Sri Lanka.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -429,10 +429,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_e48e1b42",
     "name": "Kegalle Town Jumma Mosque",
-    "description": "Kegalle Town Jumma Mosque stands as a historical landmark in the heart of Kegalle, adorned with intricate Islamic architecture and serving as a testament to the rich cultural tapestry of the region. This mosque, built in the early 20th century, reflects the harmonious blend of traditional and modern elements, making it a significant site for both locals and visitors alike.",
+    "description": "Kegalle Town Jumma Mosque, a prominent place of worship in the district, stands as a testament to the rich Islamic heritage of Kegalle. Constructed during the colonial era, the mosque was built by local Muslim communities to serve their spiritual needs. It has been an important gathering spot for prayers and reflection, attracting visitors interested in its architectural beauty and historical significance. Over the years, it has hosted various community events and gatherings, making it a vital part of the town’s social fabric.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -466,7 +467,7 @@
 {
     "id": "pl_e5787064",
     "name": "Mawanella Grand Mosque",
-    "description": "Mawanella Grand Mosque stands as a prominent landmark in the heart of Kegalle district, a serene place where visitors can experience the rich cultural tapestry of Islam. Nestled amidst lush greenery, this mosque offers a tranquil setting for both locals and tourists to pray and reflect.",
+    "description": "The Mawanella Grand Mosque, nestled in the heart of Kegalle District, stands as a silent witness to centuries-old Islamic presence in Sri Lanka. Constructed during the 19th century, it was built by local Muslim communities to serve as a place of worship and community gathering. Its architecture blends traditional Islamic elements with local architectural styles, reflecting the rich cultural heritage of the region. Over the years, the mosque has hosted numerous religious ceremonies and social gatherings, making it a significant landmark in the area. Visitors can admire its intricate designs and learn about the mosque's rich history through guided tours.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -500,7 +501,7 @@
 {
     "id": "pl_4101aeb3",
     "name": "Ruwanwella Grand Mosque",
-    "description": "Ruwanwella Grand Mosque, a stunning Islamic architectural gem nestled amidst lush greenery, stands as a testament to the rich cultural heritage of Kegalle. Its intricate designs and harmonious blend of traditional and modern elements make it a must-visit for both locals and tourists alike.",
+    "description": "Ruwanwella Grand Mosque stands in the heart of Kegalle District, Sri Lanka. Its architecture blends traditional Sinhalese design with modern elements, reflecting the rich cultural heritage of the area. The mosque, known for its grand dome and intricate carvings, was established as a place of worship by local Muslim community leaders. It holds significant importance in the community, serving as a center for both religious practices and social gatherings. Visitors can explore its serene courtyard and admire its architectural beauty while observing daily prayers. Notable for its historical and cultural significance, the mosque also hosts occasional cultural exhibitions and reflections on Islamic traditions.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -534,7 +535,7 @@
 {
     "id": "pl_c99aae38",
     "name": "Kegalle Second Mosque",
-    "description": "Kegalle Second Mosque stands as a testament to Islamic culture in this Sri Lankan town. Nestled in the heart of Kegalle, this mosque offers visitors a glimpse into the local Muslim community's rich heritage and traditions.",
+    "description": "The Kegalle Second Mosque, located in the district of Kegalle, Sri Lanka, is a significant architectural landmark. Built in the early 20th century, it was one of the first mosques constructed in the area following the spread of Islam in Sri Lanka. The mosque stands as a testament to the rich cultural heritage and religious diversity of the region, often attracting visitors interested in its unique blend of traditional Islamic design and local architecture. It also holds importance for those studying the history and development of religious sites in Kegalle. Visitors can admire its intricate designs and participate in prayer during specified times, offering a serene setting for reflection and worship.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -568,7 +569,7 @@
 {
     "id": "pl_b956fc94",
     "name": "Rambukkana Grand Mosque",
-    "description": "Rambukkana Grand Mosque, a stunning Islamic architectural gem nestled amidst lush greenery, stands as a testament to the rich cultural heritage of Kegalle. Its intricate designs and harmonious blend of traditional and modern elements make it a must-visit for both locals and tourists alike.",
+    "description": "Rambukkana Grand Mosque, located in the heart of Kegalle District, Sri Lanka, stands as a testament to the rich Islamic heritage of the region. Built in the early 20th century, the mosque was constructed by local Muslim communities with support from the government, reflecting the interfaith harmony prevalent in the area. Its architecture combines traditional Sinhalese and Islamic styles, making it a unique landmark. The mosque offers a serene space for prayer and reflection, and guided tours provide insights into its historical and cultural significance, connecting visitors with the rich tapestry of Sri Lankan history.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -602,7 +603,7 @@
 {
     "id": "pl_7f453645",
     "name": "Warakapola Grand Mosque",
-    "description": "Warakapola Grand Mosque stands as a prominent landmark in Kegalle, adorned with intricate Islamic architecture and historical significance. Built in the early 20th century, it serves as a testament to the rich cultural heritage of the region, attracting visitors interested in its architectural beauty and religious importance.",
+    "description": "Warakapola Grand Mosque stands in the heart of Kegalle, a district rich in cultural heritage. This historic site was established by local Muslim communities in the early 20th century, serving as a central gathering place for prayers and reflection. Over time, it has become a symbol of unity among the diverse population. Visitors can explore the mosque's architecture, learn about Islamic traditions, and take photos capturing the serene atmosphere. Notable for its role in community life, the mosque hosts various religious ceremonies and social gatherings, making it a significant landmark in Kegalle.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",

@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_6504a32f84",
     "name": "Wilpothuwewa Bridge",
-    "description": "Located in Kurunagala, Wilpothuwewa Bridge is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Wilpothuwewa Bridge, a scenic viewpoint in Kurunagala, Sri Lanka, offers visitors stunning views of the surrounding countryside. Constructed in the early 20th century, the bridge stands as a testament to local engineering prowess and serves as a popular spot for photographers and sightseers. Known for its picturesque location, the bridge attracts many tourists eager to capture its beauty in photos. Its construction reflects the ingenuity of the early 20th-century engineers who designed and built it, making it a significant landmark in the region.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Viewpoint",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_e923e87b22",
     "name": "The Cocoons viewpoint",
-    "description": "The Cocoons viewpoint is a scenic viewpoint in the Kurunagala area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Cocoons viewpoint offers panoramic views of the surrounding countryside and the distant hills. It sits atop a small hill in Kurunagala, providing visitors with a picturesque spot for photography and sightseeing. This viewpoint is a popular spot among locals and tourists alike, especially during sunrise when the sky turns a breathtaking array of colors. Historically, it was used as a lookout point by ancient Sinhalese rulers to monitor the area's movements. Today, it remains a cherished spot for enjoying the natural beauty and serenity of the region.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Viewpoint",
@@ -177,3 +177,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

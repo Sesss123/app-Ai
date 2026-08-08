@@ -1,7 +1,7 @@
 {
     "id": "pl_e8ddea82",
     "name": "Mannar Bird Watching Safari",
-    "description": "Experience the vibrant avian life at Mannar Bird Watching Safari, a sanctuary where over 200 species of birds gather. Nestled in the Northern Province, this eco-friendly park offers a glimpse into Sri Lanka’s diverse wildlife, perfect for bird enthusiasts and nature lovers alike.",
+    "description": "Mannar Bird Watching Safari, an adventure park in Mannar, Sri Lanka, offers guided bird watching tours and photography sessions. Known for its diverse array of avian species, it attracts bird enthusiasts from across the globe. The park, established in the early 21st century, provides visitors with insights into local wildlife and natural habitats, contributing significantly to the region's conservation efforts. Notable events include the annual bird migration, which draws hundreds of bird lovers eager to observe the spectacle of birds flying in formation.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_4f514fd1",
     "name": "Vankalai Flamingo Walk",
-    "description": "Vankalai Flamingo Walk is a serene wetland park in Mannar, Northern Province, where visitors can observe thousands of flamingos and other waterbirds in their natural habitat. This protected area offers a unique opportunity to learn about local ecosystems and wildlife conservation efforts.",
+    "description": "Vankalai Flamingo Walk, an adventure park nestled in Mannar, Sri Lanka, offers visitors a unique opportunity to witness the vibrant spectacle of flamingos. Known for its rich bird watching experience, the park also attracts photography enthusiasts. Educational tours provide insight into the local ecosystem and the importance of preserving these endangered birds. Established over a decade ago by local conservationists, the site has become a sanctuary for flamingos, attracting migratory birds from across the region. Visitors can explore trails that lead to viewing platforms offering panoramic views of the flamingo colonies.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

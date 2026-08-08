@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_77f668dbbd",
     "name": "Our Lady of Lourdes Shrine and Divine Mercy Retreat Center",
-    "description": "Our Lady of Lourdes Shrine and Divine Mercy Retreat Center is a place of worship in the Kegalle area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "The Our Lady of Lourdes Shrine and Divine Mercy Retreat Center in Kegalle is a sacred site dedicated to the Blessed Virgin Mary and St. Faustina, known for its serene atmosphere and spiritual retreats. Built in 1958, the shrine was established by local devotees inspired by the visions of St. Faustina, who experienced the Divine Mercy image. It offers visitors an opportunity to pray, reflect, and seek divine guidance, making it a popular pilgrimage destination for Catholics seeking solace and spiritual renewal.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_c8fdfdf12e",
     "name": "Sir Visuddarama Viharaya",
-    "description": "Sir Visuddarama Viharaya is a place of worship located in Kegalle, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Sir Visuddarama Viharaya, nestled in the Kegalle District of Sri Lanka, is a sacred Buddhist temple known for its serene atmosphere and historical significance. Founded during the 18th century, the temple was likely established by local Buddhist communities seeking a place of spiritual refuge. Notable for its intricate carvings and architectural beauty, it remains an important site for pilgrims and visitors alike, offering a tranquil retreat where devotees can engage in prayer and contemplation. Visitors also appreciate the opportunity to capture images of this charming place of worship.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_3a09ab9e61",
     "name": "Hindu Kovil",
-    "description": "Located in Kegalle, Hindu Kovil is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Hindu Kovil, a sacred temple in Kegalle, Sri Lanka, is an important site for Hindus practicing their faith. Built centuries ago, the temple is a testament to the rich cultural heritage of the region. It houses intricate carvings and statues depicting Hindu deities, and its architecture reflects a blend of traditional Sinhalese and Hindu styles. Over the years, it has witnessed numerous religious ceremonies and festivals, making it a significant place of worship for devotees. Visitors can explore the serene premises and capture memorable photos, immersing themselves in the spiritual ambiance.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_867cfacdd0",
     "name": "Jummah",
-    "description": "Jummah is a place of worship located in Kegalle, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Jummah Temple in Kegalle, Sri Lanka is a place of worship where locals gather for prayers. Known for its serene ambiance, it attracts visitors interested in its architectural beauty and cultural significance. The temple, though not widely recognized internationally, holds deep meaning for the local community, often hosting special religious ceremonies and gatherings. Visitors can explore its quiet courtyard and take photos to capture the peaceful atmosphere. Its presence in the district serves as a reminder of the rich spiritual heritage of Kegalle.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_ec6a489690",
     "name": "Pinnawala Mahamewna Asapuwa",
-    "description": "Pinnawala Mahamewna Asapuwa is a place of worship located in Kegalle, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Pinnawala Mahamewna Asapuwa, a temple in Kegalle District, Sri Lanka, is a place of worship where devotees come to pray. Known for its serene ambiance and historical importance, it attracts both locals and tourists seeking spiritual solace. The temple's origins date back to ancient times, though specific founding details are unknown. Notable for its tranquil setting, visitors often take photos of the temple's architecture and the nearby elephants, which are also a draw. Cultural and religious significance lies in its role as a site of devotion and reflection.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_bcaa254b59",
     "name": "temple",
-    "description": "temple is a place of worship located in Kegalle, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Temple in Kegalle district is a sacred site where locals gather for prayers and meditations. Its origins date back to the 16th century, making it an important religious landmark. Historically significant, the temple has hosted various religious ceremonies and festivals over the years, attracting devotees and tourists alike. Despite renovations, it retains its original architectural charm, featuring intricate carvings and ornate statues. Visitors can explore the serene grounds, snap photos, and experience a glimpse into Sri Lanka’s rich cultural heritage.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_b18ebce29c",
     "name": "Religon place",
-    "description": "Located in Kegalle, Religon place is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Religion place, also known as Religon place, is a sacred Buddhist temple nestled in the serene hills of Kegalle, Sri Lanka. Historically, the site was established by Buddhist monks in the 5th century AD, though the exact founding date is uncertain. Over time, it has become an important pilgrimage center attracting devotees seeking spiritual enlightenment and blessings. Today visitors come to pray, meditate, and take photos of the intricate carvings and statues. The temple grounds offer a tranquil setting perfect for reflection amidst its lush greenery.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -249,10 +249,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_e6a93997",
     "name": "Beligala Raja Maha Viharaya",
-    "description": "Beligala Raja Maha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a glimpse into ancient Sinhalese architecture and culture. Its serene atmosphere and historical significance make it a must-visit for those seeking spiritual enlightenment and cultural immersion.",
+    "description": "Beligala Raja Maha Viharaya, nestled in Kegalle, Sri Lanka, is a revered Buddhist temple known for its ancient architecture and rich cultural heritage. Built during the reign of King Dutugemenu, it stands as a testament to the island's rich religious history. Over centuries, it has been a center for spiritual retreats and meditation, attracting both local devotees and tourists seeking solace and insight. Visitors can explore its serene gardens and intricate carvings, while photography enthusiasts capture its timeless beauty. Cultural tours often highlight the temple's historical importance, offering insights into the island's past.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -286,7 +287,7 @@
 {
     "id": "pl_09b1fb97",
     "name": "Wattarama Raja Maha Vihara (sacred Bodhi sapling)",
-    "description": "This sacred Bodhi sapling at Wattarama Raja Maha Vihara stands as a living testament to the Buddha's enlightenment. Nestled in the lush Kegalle district, it attracts pilgrims seeking spiritual solace under the shade of this ancient tree.",
+    "description": "Wattarama Raja Maha Vihara, a sacred Buddhist temple in Kegalle, houses the ancient Bodhi sapling brought from India. It was established by Buddhist monks who sought to preserve the original Buddha’s bodhi tree. The temple offers a serene environment for prayer, meditation, and reflection on Buddhist teachings, along with opportunities for visitors to take photos as a reminder of their spiritual journey. Its rich history and cultural significance make it a popular pilgrimage site for Buddhists both locally and internationally.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -320,7 +321,7 @@
 {
     "id": "pl_532dfc0a",
     "name": "Rambukkana Rajamaha Viharaya",
-    "description": "Rambukkana Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a glimpse into ancient Sinhalese architecture and cultural heritage. Its serene atmosphere and historical significance make it a must-visit for those exploring the Sabaragamuwa province.",
+    "description": "Rambukkana Rajamaha Viharaya, nestled in the heart of Kegalle, is a revered Buddhist temple known for its ancient architecture and spiritual significance. The site dates back to the 5th century BC, making it one of the oldest and most important religious landmarks in Sri Lanka. Legend has it that the temple was founded by King Dutugemenu, a prominent figure in Sri Lankan history. It serves as a sanctuary where devotees gather for prayer and meditation, offering a serene retreat for visitors seeking solace and enlightenment. Visitors can also enjoy photography opportunities and learn about local culture through guided tours.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -354,7 +355,7 @@
 {
     "id": "pl_9fc10a7b",
     "name": "Mawanella Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene atmosphere at Mawanella Rajamaha Viharaya, a sacred Buddhist temple nestled in lush greenery, offering visitors a glimpse into the island's rich cultural heritage.",
+    "description": "Mawanella Rajamaha Viharaya, a sacred Buddhist temple nestled in the serene hills of Kegalle district, stands as a testament to ancient artistry and spiritual devotion. Built during the reign of King Mahasena in the 5th century AD, the temple houses exquisite statues and intricate murals depicting scenes from the Buddha's life. Visitors can participate in guided meditation sessions, offering a chance to connect with the tranquility and wisdom of the past. The temple's tranquil setting invites reflection and renewal amidst its rich cultural heritage.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -422,7 +423,7 @@
 {
     "id": "pl_d11c53c7",
     "name": "Ruwanwella Rajamaha Viharaya",
-    "description": "Ruwanwella Rajamaha Viharaya, a sacred Buddhist temple nestled in the lush hills of Kegalle, offers visitors a serene retreat with its intricate carvings and historical significance. This ancient site stands as a testament to the rich cultural heritage of Sri Lanka.",
+    "description": "Ruwanwella Rajamaha Viharaya, nestled in Kegalle, Sri Lanka, is a revered Buddhist temple known for its intricate carvings and panoramic views. The site dates back to the 5th century BCE, making it one of the oldest temples in Sri Lanka. Legend has it that the temple was founded by King Dutugemunu, though archaeological evidence suggests it may be even older. Visitors can explore the temple's serene atmosphere, learn about its rich history, and marvel at the statues, which depict various Buddha figures. From the temple's elevated position, one can appreciate breathtaking vistas over the surrounding countryside.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -490,7 +491,7 @@
 {
     "id": "pl_3eb30570",
     "name": "Kurulu Kele Temple, Kegalle (forest/hilltop)",
-    "description": "Discover the serene Kurulu Kele Temple nestled amidst lush forest and towering hills. This ancient Buddhist site offers a tranquil escape from the hustle of daily life, surrounded by nature’s beauty and spiritual significance.",
+    "description": "Kurulu Kele Temple stands atop a hill in Kegalle, a district known for its lush forests and serene landscapes. This ancient temple, believed to be over a century old, offers visitors a chance to pray, meditate, and engage in nature walks while taking in panoramic views of the surrounding hills and valleys. Cultural and religious significance lie in its role as a pilgrimage site, attracting devotees from across the island seeking spiritual solace. Notable for its harmonious blend of traditional architecture and natural beauty, the temple has become a popular spot for photography enthusiasts capturing the unique interplay of light and shadow.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -558,7 +559,7 @@
 {
     "id": "pl_fcaffd6c",
     "name": "Kegalle Rajamaha Viharaya (main town)",
-    "description": "Discover the spiritual heart of Kegalle at Kegalle Rajamaha Viharaya, a majestic temple nestled amidst lush gardens where ancient Buddha statues and intricate carvings tell tales of Sri Lanka's rich Buddhist heritage.",
+    "description": "Kegalle Rajamaha Viharaya, a historic Buddhist temple in the main town of Kegalle, Sri Lanka, is one of the oldest and most revered sites in the region. Founded over a thousand years ago by King Mahasena, the temple was initially built as a royal monastery and later expanded under various kings and Buddhist leaders. It holds significant cultural and religious importance, serving as a center for Buddhist practices and teachings. Visitors can experience prayer services, meditation sessions, and take photos of ancient statues and murals, offering a glimpse into the rich history and spiritual heritage of the area.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -592,7 +593,7 @@
 {
     "id": "pl_f66c4bed",
     "name": "Aranayake Rajamaha Viharaya",
-    "description": "Aranayake Rajamaha Viharaya, a sacred Buddhist temple nestled in the lush hills of Kegalle, offers visitors a serene retreat with its intricate carvings and historical artifacts that tell tales of ancient rituals and beliefs.",
+    "description": "Aranayake Rajamaha Viharaya, a sacred temple in Kegalle district, Sri Lanka, is a significant Buddhist site where devotees gather for prayer and meditation. The temple, believed to be over a thousand years old, holds great cultural and religious importance, attracting visitors interested in both its ancient architecture and spiritual significance. Visitors can also take photos to capture the serene atmosphere and engage in reflection. Over the centuries, the temple has witnessed numerous religious ceremonies and teachings, making it a place of profound spiritual experience.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -626,7 +627,7 @@
 {
     "id": "pl_78a03c71",
     "name": "Bulathkohupitiya Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene ambiance of Bulathkohupitiya Rajamaha Viharaya, a sacred Buddhist temple nestled in the lush Kegalle district. Witness intricate carvings and explore its tranquil grounds, offering a glimpse into Sri Lanka's rich cultural heritage.",
+    "description": "Bulathkohupitiya Rajamaha Viharaya, nestled in Kegalle District, is a revered Buddhist temple where ancient ruins await exploration, offering visitors a glimpse into Sri Lanka’s rich cultural heritage. The site, believed to date back over a millennium, stands as a testament to the island’s ancient spiritual landscape, attracting those seeking to learn about Buddhist traditions and practices. Its serene grounds provide an ideal backdrop for photography, while the temple itself houses artifacts and statues that reflect the evolution of Buddhism in Sri Lanka.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -694,7 +695,7 @@
 {
     "id": "pl_6ba3c96f",
     "name": "Dehiowita Rajamaha Viharaya",
-    "description": "Dehiowita Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a glimpse into ancient Sinhalese architecture and cultural heritage. Its serene atmosphere and historical significance make it a must-visit for those seeking spiritual enlightenment and cultural enrichment.",
+    "description": "Dehiowita Rajamaha Viharaya, nestled in the Kegalle district of Sri Lanka, is a revered Buddhist temple dedicated to the Buddha. Founded during the Anuradhapura period around the 3rd century BCE, it is believed to house relics of the Buddha. The temple's architecture showcases intricate carvings and statues, reflecting the rich cultural heritage of ancient Sri Lanka. Visitors can engage in prayer and meditation, take photos to capture its serene beauty, and participate in cultural tours to learn more about its historical and religious significance.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -762,7 +763,7 @@
 {
     "id": "pl_1199b736",
     "name": "Kegalle Buddhist Cultural Temple",
-    "description": "Discover the spiritual heart of Kegalle at the Kegalle Buddhist Cultural Temple, a serene sanctuary where ancient statues and intricate carvings tell tales of Buddha's teachings. Nestled amidst lush gardens, this temple offers visitors a glimpse into the rich cultural heritage of Sri Lanka.",
+    "description": "Kegalle Buddhist Cultural Temple stands in the heart of Kegalle district, a sacred site where locals gather for prayer and meditation. The temple hosts an annual cultural show showcasing traditional dances and music, along with an art and craft exhibition. Its origins date back to the early 20th century when local Buddhists decided to build a place for their spiritual practices. Notable for its blend of modern architecture with ancient traditions, it has become a hub for cultural exchange and heritage celebration in the region.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",

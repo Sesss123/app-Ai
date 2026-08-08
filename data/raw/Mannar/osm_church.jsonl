@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_0498b66766",
     "name": "St. Sebastian's Cathedral, Mannar",
-    "description": "St. Sebastian's Cathedral, Mannar is a church located in Mannar, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St. Sebastian's Cathedral in Mannar is a prominent Roman Catholic church known for its rich colonial history. Built by Portuguese settlers in the 17th century, it was later converted into a Catholic church during the Dutch rule. The cathedral features intricate Portuguese Gothic architecture and holds significant religious importance, often visited by locals and tourists alike for prayers and spiritual reflection. Its serene ambiance and historical value make it a must-visit site for those interested in Sri Lanka’s diverse religious heritage.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Church",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_ca2c4b6cee",
     "name": "Shrine Of Our Lady Of Madhu",
-    "description": "Located in Mannar, Shrine Of Our Lady Of Madhu is a church worth visiting. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "The Shrine of Our Lady of Madhu, nestled in Mannar District, Sri Lanka, is a small yet revered Catholic shrine dedicated to the Blessed Virgin Mary. It stands as a testament to the deep-rooted Christian presence in the region, attracting devotees who come to pray and seek blessings. The site's exact origins are shrouded in mystery, but it has become an important pilgrimage destination, particularly for local Catholics and tourists alike. Visitors can take photos at the shrine, which features a simple structure adorned with religious symbols and offerings.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Church",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_79b6ac92e1",
     "name": "New Cathedral Building",
-    "description": "Located in Mannar, New Cathedral Building is a church worth visiting. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "The New Cathedral Building in Mannar District stands as a prominent landmark, serving as the central church for the local Christian community. Constructed in the early 20th century, it was built by British colonial authorities to replace an older cathedral damaged during World War II. The building's architecture blends European and local influences, reflecting the colonial era's architectural fusion. Inside, intricate stained glass windows and ornate interiors create a serene atmosphere for worship and reflection. Visitors can also admire the cathedral's rich history through its exhibits, which highlight significant moments in the church's development and the community's resilience.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Church",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_f7ae1f357f",
     "name": "NANATTAN CHURCH",
-    "description": "NANATTAN CHURCH is a church located in Mannar, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Nanattan Church stands in Mannar, Sri Lanka, a small island in the northwestern part of the country. Originally built by Dutch settlers in the 17th century, it was later renovated by the British. Known for its unique blend of architectural styles, the church has become a significant landmark in the area, often visited by tourists interested in its rich history. It also attracts photographers seeking to capture its serene beauty. Prayer services are held here regularly, offering a peaceful atmosphere for visitors.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Church",
@@ -213,6 +213,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_21cfd70a",
     "name": "St. Thomas Church, Nagatalvu",

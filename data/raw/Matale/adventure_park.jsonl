@@ -1,7 +1,7 @@
 {
     "id": "pl_c8c73e76",
     "name": "Knuckles Trekking Centre",
-    "description": "The Knuckles Trekking Centre offers breathtaking views and challenging hikes through ancient tropical forests, perfect for nature enthusiasts seeking adventure and tranquility.",
+    "description": "The Knuckles Trekking Centre in Matale district offers guided treks through the Knuckles Range, a protected forest area known for its diverse flora and fauna. Established to promote eco-tourism and preserve the natural heritage, the centre provides visitors with opportunities to hike, bird watch, and take nature photographs while learning about the region's rich biodiversity and cultural significance. Established to protect and showcase the unique ecosystem of the Knuckles Range, the trekking centre fosters appreciation for Sri Lanka's natural beauty and conservation efforts.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_78a7a191",
     "name": "Dambulla Rock Climb",
-    "description": "Experience the awe-inspiring Dambulla Rock Climb, a UNESCO World Heritage site perched on a cliff overlooking the Central Province. This ancient temple, carved into the rock face, offers breathtaking views and a glimpse into Sri Lanka's rich cultural heritage.",
+    "description": "Dambulla Rock Climb is an adventurous park in Matale, Sri Lanka, offering climbing routes and panoramic views. The area features ancient rock formations, attracting both climbers and nature lovers. Known for its challenging climbs, it also offers breathtaking vistas of Dambulla Cave Temple, a UNESCO World Heritage site, making it a popular spot for photography and sightseeing. Established as a recreational destination, the rock climb has become a favorite among locals and tourists alike, preserving the natural beauty and cultural heritage of the region.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_688523bc",
     "name": "Rattota ATV Trail",
-    "description": "Experience the thrill of riding ATVs through the lush green trails of Rattota, a hidden gem in Matale District. Nestled amidst the Central Province’s natural beauty, this ATV trail offers a perfect blend of adventure and relaxation. Ideal for both beginners and experienced riders, Rattota provides a safe and exciting environment for all.",
+    "description": "The Rattota ATV Trail in Matale District offers thrilling ATV rides through scenic trails, perfect for adventure seekers and nature lovers. Visitors can capture stunning photos along the way, or simply relax and enjoy the natural beauty. Established as part of an effort to promote eco-tourism in the region, the trail has become a popular spot for locals and tourists alike. Notable events include guided tours led by local guides who share insights into the area’s rich biodiversity and cultural heritage.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_134a6a3257",
     "name": "Arisimale Beach",
-    "description": "Located in Trincomalee, Arisimale Beach is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Arisimale Beach, a picturesque viewpoint in Trincomalee, Sri Lanka, offers stunning ocean views and serene sunsets. Known for its white sandy shores and clear waters, it attracts visitors seeking a tranquil spot to capture photographs or simply enjoy the scenery. Historically, the beach has been a popular retreat for locals and tourists alike, known for its idyllic setting along the east coast of the island. Notable for its beauty and accessibility, Arisimale Beach remains a cherished destination for those exploring the coastal region.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_2bb0f19e4b",
     "name": "Lagoon",
-    "description": "Located in Trincomalee, Lagoon is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Lagoon, a scenic viewpoint in Trincomalee, Sri Lanka, offers visitors breathtaking views of the Indian Ocean. Known for its picturesque scenery, it attracts many photographers and sightseers. Historically, the area was an important port during ancient times, serving as a crucial trade route between India and the rest of Asia. Its strategic location made it a site of various conflicts throughout history, including battles between colonial powers. Today, it remains a popular spot for tourists to admire the lagoon's beauty and reflect on its rich maritime heritage.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

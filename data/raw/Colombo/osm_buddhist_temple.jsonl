@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_ad9bdd6b72",
     "name": "Gangaramaya Temple",
-    "description": "Located in Colombo, Gangaramaya Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Gangaramaya Temple, located in the heart of Colombo, Sri Lanka, is a prominent Buddhist temple known for its serene atmosphere and numerous Buddha statues. It was established in the early 20th century by the Sri Lankan Buddhist community as a place of worship and meditation. The temple hosts regular meditation sessions and exhibitions of photography related to Buddhism, attracting both locals and tourists interested in learning about Buddhist practices and art. Its rich cultural heritage makes it a significant site for those exploring Sri Lankan Buddhism and its traditions.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_d0dfaef43f",
     "name": "Sri Wardhanaramaya",
-    "description": "Sri Wardhanaramaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Wardhanaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene space for meditation and photography. The temple, established during the colonial era, holds cultural significance as it was often used by local communities for religious practices. Its architecture reflects a blend of traditional Sinhalese and Indo-Saracenic styles, making it a notable site for tourists interested in both history and art. Known for its tranquil ambiance, it attracts both devotees and curious onlookers seeking insights into Buddhism's rich heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_3ea2c40c59",
     "name": "Makumbura Purana Viharaya",
-    "description": "Located in Colombo, Makumbura Purana Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Makumbura Purana Viharaya, a Buddhist temple in Colombo, Sri Lanka, is an ancient site known for its historical significance as a place of meditation and pilgrimage. The temple's origins date back to the 5th century BC, making it one of the oldest structures in the area. It was likely built by early Buddhist monks who settled in the region, attracted by the fertile land and conducive climate. Over the centuries, Makumbura Purana Viharaya has been a center for spiritual practice, hosting numerous pilgrims seeking enlightenment and blessings. Today, visitors come to enjoy the serene atmosphere and engage in meditation, taking in the rich cultural heritage that has shaped this sacred space over millennia.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_1e9c5f25d0",
     "name": "Sri Bodhirajaramaya",
-    "description": "Sri Bodhirajaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhirajaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat for meditation and photography. The temple's origins date back to the early 20th century, making it a significant place for local Buddhists seeking spiritual solace. Its architectural design reflects traditional Sinhalese style, featuring intricate carvings and ornate architecture. Notable for its role in community gatherings and as a hub for local religious practices, it attracts both pilgrims and curious tourists interested in Buddhism's rich cultural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_24a971de7d",
     "name": "Sri Naga Viharaya",
-    "description": "Sri Naga Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Naga Viharaya, located in the heart of Colombo, is a revered Buddhist temple known for its ancient architecture and serene ambiance. It is believed to be one of the oldest temples in the city, dating back over a thousand years. The temple houses a sacred statue of the Buddha, and its grounds often attract visitors seeking solace and spiritual guidance. Known for its tranquil atmosphere and historical significance, the site offers a peaceful retreat for both locals and tourists alike, particularly those interested in meditation and photography.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_19dc737007",
     "name": "Dharmaramaya",
-    "description": "Located in Colombo, Dharmaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dharmaramaya, a Buddhist temple in Colombo, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Built during the colonial era, it combines traditional Buddhist architecture with modern design elements. The temple offers visitors a serene space for meditation and reflection, attracting both locals and tourists seeking tranquility. Visitors can also capture moments through photography, appreciating the blend of old and new within its walls. Cultural significance lies in its role as a hub for spiritual practices and community gatherings, reflecting the enduring influence of Buddhism in contemporary Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -237,7 +237,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_bba01a7c18",
     "name": "Kolonnawa Rajamaha Viharaya",
-    "description": "Located in Colombo, Kolonnawa Rajamaha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Kolonnawa Rajamaha Viharaya, a historic Buddhist temple in Colombo, Sri Lanka, stands as a testament to the island's rich religious heritage. Founded in the 5th century by King Dutugemunu, the temple was originally a royal sanctuary dedicated to Buddha. Over centuries, it has been restored several times, most recently in the early 20th century. Today, visitors come to meditate and take photos, appreciating the temple's serene beauty and spiritual atmosphere. Its ancient architecture and historical significance make it a must-visit site for both locals and tourists exploring Colombo's cultural landscape.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_e15e030329",
     "name": "Sri Subodharama Raja Maha Viharaya",
-    "description": "Located in Colombo, Sri Subodharama Raja Maha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Subodharama Raja Maha Viharaya, a Buddhist temple in Colombo, Sri Lanka, is a significant site where devotees come to meditate and take photos. The temple, though not widely recognized internationally, holds cultural importance as a place of worship and reflection for local Buddhists. It was established during the colonial era by local monks and has since been maintained by the Buddhist community. Notable for its serene atmosphere and historical context, it attracts visitors interested in Buddhist practices and architecture.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_dea4066168",
     "name": "Pepiliyana Sunethra Devi Pirivena",
-    "description": "Pepiliyana Sunethra Devi Pirivena is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pepiliyana Sunethra Devi Pirivena, a historic Buddhist temple in Colombo, stands as a testament to the city's rich cultural heritage. Constructed in the early 20th century, it was established by the Buddhist community to promote education and spiritual growth among its members. Over the years, it has hosted numerous meditation sessions and served as a focal point for local Buddhists. Its serene ambiance and historical significance make it a popular spot for visitors interested in photography and learning about traditional Buddhist practices.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_2afd54fe51",
     "name": "Vajiraramya Buddhis Temple",
-    "description": "Located in Colombo, Vajiraramya Buddhis Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Vajiraramya Buddhis Temple, located in the heart of Colombo, Sri Lanka, is a significant Buddhist site known for its serene atmosphere and historical importance. The temple, believed to date back to the 5th century, was likely constructed by local rulers as a tribute to Buddha. It holds great cultural and religious significance, attracting both locals and tourists interested in Buddhist practices and art. Visitors can enjoy meditation sessions and take photos within the temple grounds, experiencing a blend of ancient architecture and modern day serenity.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_0887cb0e4d",
     "name": "Isipathanarama Temple",
-    "description": "Located in Colombo, Isipathanarama Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Isipathanarama Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and ancient architecture. The temple, believed to be over a century old, was established by local Buddhist communities as a place of worship and meditation. It stands as a testament to the enduring faith and cultural heritage of the Sinhalese people, attracting visitors interested in both spiritual practice and historical exploration. Visitors can engage in meditation sessions and take photos of the temple’s intricate carvings and statues, which depict scenes from Buddhist scriptures.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_e89c159ed0",
     "name": "Walukarama Temple",
-    "description": "Walukarama Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Walukarama Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and historical importance. The temple was established during the colonial era by local Buddhist monks, reflecting the rich cultural tapestry of early 20th century Sri Lanka. Visitors can engage in meditation sessions and take stunning photographs of the temple’s architecture, which blends traditional Sinhalese design with modern aesthetics. Cultural significance lies in its role as a communal space where locals gather for spiritual practices and community events.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -541,7 +541,7 @@
 {
     "id": "pl_osm_49d6fa38a5",
     "name": "Balapokuna Purana Viharaya",
-    "description": "Balapokuna Purana Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Balapokuna Purana Viharaya, located in the heart of Colombo, Sri Lanka, is an ancient Buddhist temple known for its serene atmosphere and historical significance. The temple, believed to be over a thousand years old, holds cultural and religious importance for locals and visitors alike. It features intricate carvings and statues that reflect the architectural styles of the past. Regular meditation sessions and photography tours are popular activities, offering visitors a chance to experience the tranquility and beauty of this historic site.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_c8ae1201e1",
     "name": "Dharma Nikethanaya Temple",
-    "description": "Located in Colombo, Dharma Nikethanaya Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dharma Nikethanaya Temple in Colombo, Sri Lanka, is a significant Buddhist sanctuary known for its serene atmosphere and historical importance. Built in the early 20th century by Buddhist monks, it has become a popular site for meditation and photography tours. The temple's architecture combines traditional elements with modern design, offering visitors a peaceful retreat amidst vibrant city life. Notable for its role in local community gatherings and spiritual practices, it attracts both pilgrims and curious tourists seeking insight into Sri Lankan Buddhism.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -649,7 +649,7 @@
 {
     "id": "pl_osm_3affcbaf76",
     "name": "Sumanarama Temple",
-    "description": "Sumanarama Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sumanarama Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and regular meditation sessions. The temple's origins date back to the early 20th century when it was established by local Buddhist monks. It offers visitors a peaceful retreat where they can practice mindfulness and observe traditional rituals. Visitors often come to capture the temple's tranquil beauty through their cameras, making it a popular spot for both locals and tourists seeking inspiration and tranquility.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -721,7 +721,7 @@
 {
     "id": "pl_osm_e7c98c1624",
     "name": "sri sumanaramaya",
-    "description": "sri sumanaramaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sumanaramaya, located in the heart of Colombo, is a revered Buddhist temple known for its serene atmosphere and tranquil meditation halls. Founded over a century ago by local Buddhist monks, the temple has become a sanctuary for both locals and tourists seeking spiritual solace. Notable for its ancient statues and intricate carvings, it also hosts regular photography exhibitions showcasing the temple’s beauty under different light conditions. Its significance extends beyond just worship, offering visitors a peaceful retreat amidst bustling Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_54a2de7f19",
     "name": "Sri Bodhiraja Viharaya",
-    "description": "Sri Bodhiraja Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhiraja Viharaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat for meditation and photography. The temple, believed to be over a century old, was established by local Buddhist monks, who maintain its rich cultural heritage. It holds significant religious importance as a pilgrimage site, attracting devotees seeking spiritual enlightenment. Over the years, notable events such as community gatherings and cultural festivals have taken place here, fostering a sense of unity among the local Buddhist community.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -793,7 +793,7 @@
 {
     "id": "pl_osm_d7cc01edb3",
     "name": "Mattarama Buddhist Temple",
-    "description": "Mattarama Buddhist Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Mattarama Buddhist Temple stands in the heart of Colombo, Sri Lanka, a sacred site for Buddhists. The temple, believed to be over a century old, was established by local Buddhist monks and community members as a place of worship and meditation. It houses an ancient statue of the Buddha and hosts regular meditation sessions open to visitors. Known for its serene atmosphere, Mattarama is also popular among photographers seeking a picturesque backdrop. Its rich history and cultural significance make it a significant landmark in Colombo's Buddhist heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -829,7 +829,7 @@
 {
     "id": "pl_osm_88c2e9723e",
     "name": "Sri Sugatha Dharmayathanaya",
-    "description": "Sri Sugatha Dharmayathanaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sugatha Dharmayathanaya, a prominent Buddhist temple in Colombo, offers visitors a serene space for meditation and photography. Its origins date back to the early 20th century when it was established by local monks as a center for spiritual growth. Over the years, it has become an important site for those seeking solace and reflection. Cultural and religious significance lie in its role as a hub for traditional Buddhist practices, attracting devotees from across the city. Notable for its tranquil atmosphere, the temple hosts regular chanting sessions and exhibitions that highlight the rich heritage of Buddhism.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -865,7 +865,7 @@
 {
     "id": "pl_osm_0a0fbf2b97",
     "name": "Sri Maha Viharaya",
-    "description": "Sri Maha Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Maha Viharaya, located in the heart of Colombo, is a significant Buddhist temple attracting visitors with its serene atmosphere and ancient relics. Built during the reign of King Mahasena in the 3rd century BC, it is one of the earliest and most revered temples in Sri Lanka, housing a sacred tooth relic of Buddha. The temple's architecture reflects a blend of Indo-Aryan and Sinhalese styles, making it a must-visit for those interested in Buddhism and its rich cultural heritage. Visitors can participate in meditation sessions and take photos in front of the temple's impressive main hall, which is adorned with intricate carvings and murals depicting Buddhist teachings.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -901,7 +901,7 @@
 {
     "id": "pl_osm_9b46cf944d",
     "name": "Sri Bauddhaloka Maha Viharaya",
-    "description": "Sri Bauddhaloka Maha Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bauddhaloka Maha Viharaya, located in the heart of Colombo, Sri Lanka, is a significant Buddhist temple dedicated to Lord Buddha. Founded by Sir Shridath Silva Bauddhaloka in 1915, it was built as a tribute to the memory of his father, the famous Buddhist scholar and politician. The temple houses numerous statues and images of the Buddha, and its serene atmosphere makes it a popular spot for meditation and photography, attracting both local and international visitors seeking spiritual solace and picturesque moments.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -973,7 +973,7 @@
 {
     "id": "pl_osm_f4c343adbf",
     "name": "Veherakanda Temple",
-    "description": "Veherakanda Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Veherakanda Temple, nestled in the heart of Colombo, is a serene Buddhist sanctuary offering visitors a tranquil space for meditation and photography. Its origins trace back to the early 20th century, though the exact date remains uncertain. The temple is known for its harmonious blend of traditional and modern architecture, featuring a central pagoda surrounded by lush gardens. It attracts locals and tourists alike seeking peace and inspiration, making it a popular spot for both spiritual seekers and nature lovers.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1009,7 +1009,7 @@
 {
     "id": "pl_osm_570003ac5c",
     "name": "Subadrarama Temple",
-    "description": "Subadrarama Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Subadrarama Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene ambiance and tranquil atmosphere. Built during the colonial era by Portuguese missionaries, the temple was later renovated by the Dutch, reflecting the diverse influences on Sri Lankan architecture. It is now a popular spot for tourists and locals alike, offering visitors an opportunity to engage in meditation and capture its picturesque beauty through photography. Its rich history makes it a must-visit destination for those interested in both Buddhism and architectural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1045,7 +1045,7 @@
 {
     "id": "pl_osm_bf243ad510",
     "name": "Sri Devram Maha Viharaya",
-    "description": "Sri Devram Maha Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Devram Maha Viharaya, a significant Buddhist temple in Colombo, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Founded during the colonial era, the temple was established by local Buddhists seeking a place to practice their faith and conduct religious ceremonies. Over time, it has become a popular site for both locals and tourists interested in Buddhist traditions and meditation practices. Its serene atmosphere and ancient architecture make it a favorite among visitors for photography and contemplation.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1081,7 +1081,7 @@
 {
     "id": "pl_osm_09de2d6c5d",
     "name": "Sri Bodhirajaramaya",
-    "description": "Sri Bodhirajaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhirajaramaya, a Buddhist temple in Colombo, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Founded during the colonial era by Buddhist monks, it offers visitors a serene space for meditation and photography, attracting both locals and tourists seeking tranquility and inspiration. Its architectural style blends traditional Sinhalese elements with modern design, reflecting the harmonious blend of cultures in the area. Known for its tranquil atmosphere, the temple hosts various religious ceremonies and meditation sessions throughout the year.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1117,7 +1117,7 @@
 {
     "id": "pl_osm_b37455e586",
     "name": "Mahabodi Samagama",
-    "description": "Located in Colombo, Mahabodi Samagama is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Mahabodi Samagama, a significant Buddhist temple in Colombo, Sri Lanka, attracts visitors for its serene atmosphere and meditation sessions. Built over a century ago, the temple's origins trace back to a community of monks who gathered here for collective worship and study. Notable for its peaceful setting and tranquil ambiance, it has become a popular spot for both local Buddhists and tourists seeking a moment of quiet reflection amidst the bustling city. Known for its photography tours, Mahabodi Samagama offers a unique glimpse into the heart of Buddhist culture through its ancient structures and serene surroundings.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1189,7 +1189,7 @@
 {
     "id": "pl_osm_eafc4e139c",
     "name": "Vivekaramaya",
-    "description": "Located in Colombo, Vivekaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Vivekaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat through meditation practices and photo opportunities. Its origins date back to the early days of Buddhism in Sri Lanka, making it a significant site for spiritual reflection. The temple's architecture combines traditional Sinhalese design with modern elements, creating a harmonious blend that attracts both locals and tourists seeking peace and tranquility. Known for its tranquil atmosphere, it has become a popular spot for both pilgrims and casual visitors alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1261,7 +1261,7 @@
 {
     "id": "pl_osm_5391269e14",
     "name": "Sri Bodhiraja Viharaya",
-    "description": "Sri Bodhiraja Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhiraja Viharaya, a revered Buddhist temple in Colombo, stands as a testament to the rich cultural heritage of the city. Founded during the early colonial period, the temple was established by local Buddhists seeking a place of worship amidst the bustling urban landscape. Over time, it has become a significant site for both locals and tourists, offering visitors the opportunity to engage in meditation and take photographs of its serene architecture and ornate statues. Its historical importance lies in its role as a sanctuary where the local community could gather, fostering a sense of continuity and connection to traditional Buddhist practices.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1297,7 +1297,7 @@
 {
     "id": "pl_osm_5cf6719a1a",
     "name": "Sri Vijayaramaya Buddhist Temple",
-    "description": "Sri Vijayaramaya Buddhist Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Vijayaramaya Buddhist Temple, located in the heart of Colombo, is an ancient temple revered by Buddhists. It was constructed during the reign of King Vijaya in the 3rd century BCE, though exact dates and original builders remain uncertain. The temple is known for its serene atmosphere and serves as a hub for meditation and photography tours, attracting both locals and tourists seeking tranquility and inspiration. Its rich history and spiritual significance make it a popular destination for those interested in Buddhism and Sri Lankan culture.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1333,7 +1333,7 @@
 {
     "id": "pl_osm_393ae3ed29",
     "name": "Temple",
-    "description": "Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Temple in Colombo, Sri Lanka, is a significant Buddhist site where visitors can engage in meditation and photography. The temple dates back to the 5th century AD, making it one of the oldest structures in the area. It was originally constructed by King Dutugemunu as a shrine to Mahamaleha, the guardian deity of Anuradhapura. Over centuries, it has been renovated several times, each preserving its ancient charm and spiritual aura. Visitors often find it serene, offering a peaceful retreat amidst the bustling city.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1369,7 +1369,7 @@
 {
     "id": "pl_osm_4817fbcf6e",
     "name": "Sudharmaramaya Purana Viharaya",
-    "description": "Located in Colombo, Sudharmaramaya Purana Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sudharmaramaya Purana Viharaya, a Buddhist temple in Colombo, Sri Lanka, is a significant site for meditation and photography. The temple, believed to date back to the 5th century, holds cultural and religious importance, attracting visitors seeking spiritual solace and picturesque views. Built by local Buddhists, it features ancient murals and statues that depict scenes from Buddha’s life, offering insight into the rich Buddhist heritage of the region. Its serene ambiance makes it a popular spot for both tourists and locals alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1405,7 +1405,7 @@
 {
     "id": "pl_osm_801ec57cbe",
     "name": "Sri Wickramasingharamaya",
-    "description": "Located in Colombo, Sri Wickramasingharamaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Wickramasingharamaya, located in the heart of Colombo, is a significant Buddhist temple known for its serene atmosphere and ancient architecture. Built during the early 20th century by King George V as a gift to the Sinhalese community, it stands as a testament to colonial-era cultural exchange. The temple offers visitors a tranquil space for meditation and photography, attracting both local devotees and tourists seeking spiritual solace amidst the bustling city. Its rich history makes it a unique spot for those interested in understanding the complex interplay between cultures in modern-day Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1477,7 +1477,7 @@
 {
     "id": "pl_osm_1bce973727",
     "name": "Purana Maha Viharaya",
-    "description": "Purana Maha Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Purana Maha Viharaya, a significant Buddhist temple in Colombo, stands as a testament to ancient architectural prowess. Founded over a millennium ago, it was initially constructed by Buddhist monks fleeing the advancing forces of the Chola Empire. The temple's serene atmosphere attracts visitors seeking spiritual solace and meditation, while its intricate carvings and statues draw photographers exploring its rich cultural heritage. Known for its historical and religious importance, Purana Maha Viharaya remains a cherished site for both locals and tourists alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1513,7 +1513,7 @@
 {
     "id": "pl_osm_9b4377bbe3",
     "name": "Abhinawaramaya",
-    "description": "Located in Colombo, Abhinawaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Abhinawaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat for meditation and photography. Its origins date back to the early 20th century when it was established by local Buddhist monks as a center for spiritual practice. Over the years, it has become an important site for both locals and tourists seeking peace and tranquility. Cultural and religious significance lies in its role as a hub for Buddhist teachings and rituals, attracting devotees from across the island. Notable events include annual Buddha Jayanthi celebrations where devotees gather to pay homage to the Buddha.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1621,7 +1621,7 @@
 {
     "id": "pl_osm_340251f431",
     "name": "Sri Bodhirukkaramaya",
-    "description": "Located in Colombo, Sri Bodhirukkaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhirukkaramaya, a prominent Buddhist temple in Colombo, stands as a significant site where local Buddhists gather for meditation and spiritual practices. Constructed over a century ago, it was originally built by local Buddhist communities to honor the Buddha’s teachings and provide a serene space for reflection. Its architecture reflects traditional Sinhalese design elements, making it a focal point for both religious devotion and cultural heritage. Notable for its role in community gatherings and spiritual retreats, the temple also attracts visitors interested in Buddhist art and rituals.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1657,7 +1657,7 @@
 {
     "id": "pl_osm_1d44cf0c60",
     "name": "Susilaramaya",
-    "description": "Susilaramaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Susilaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat for meditation and photography enthusiasts. The temple, believed to be established over a century ago by local Buddhist monks, features intricately carved wooden statues and ornate architecture. It holds significant cultural and religious importance, attracting both locals and tourists seeking spiritual peace. Visitors can immerse themselves in quiet contemplation or capture the temple’s beauty through lens, making it a popular spot for those interested in both culture and nature.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1693,7 +1693,7 @@
 {
     "id": "pl_osm_6fe6d792c5",
     "name": "Keththarama Temple",
-    "description": "Keththarama Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Keththarama Temple, located in the heart of Colombo, Sri Lanka, is a significant Buddhist temple known for its serene atmosphere and tranquil environment. The temple, which dates back to the early 20th century, was established by local Buddhists as a place of worship and meditation. It holds great cultural and religious importance, attracting visitors interested in Buddhist practices and history. Visitors can enjoy meditation sessions and take photographs to capture the temple's beauty and serenity. Its presence in the bustling city center makes it a popular spot for both locals and tourists seeking tranquility and spiritual enrichment.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1729,7 +1729,7 @@
 {
     "id": "pl_osm_e1e0a64d05",
     "name": "Pinwathe Temple",
-    "description": "Pinwathe Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pinwathe Temple, located in the heart of Colombo, is a significant Buddhist site where devotees gather for meditation and photography. The temple, though not explicitly documented as historically important, holds cultural importance as a place of worship and reflection for many locals. Its serene atmosphere attracts visitors seeking tranquility and spiritual connection. Known for its peaceful ambiance, Pinwathe Temple offers a tranquil retreat amidst the bustling city, making it a popular spot for those looking to find solace and inspiration.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1765,7 +1765,7 @@
 {
     "id": "pl_osm_45c4a8e808",
     "name": "Dharma Sri Maha Bodhi Temple",
-    "description": "Located in Colombo, Dharma Sri Maha Bodhi Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dharma Sri Maha Bodhi Temple, located in the heart of Colombo, Sri Lanka, is a significant Buddhist site where a branch of the Bodhi tree under which Buddha attained enlightenment is believed to be growing. The temple itself was established by Buddhists from India in the 3rd century BCE, marking it as one of the oldest extant Buddhist temples in the world. Visitors can participate in meditation sessions and take photos of the sacred Bodhi tree, a testament to the enduring influence of Buddhism in Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1909,7 +1909,7 @@
 {
     "id": "pl_osm_571958f35c",
     "name": "Vipashyarama Temple",
-    "description": "Located in Colombo, Vipashyarama Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Vipashyarama Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and historical importance. The temple, believed to date back over a millennium, is a testament to the rich cultural heritage of Sri Lanka. It served as a place of worship and meditation, attracting visitors seeking spiritual solace. Notable for its harmonious blend of traditional and modern architecture, the temple often hosts photography exhibitions, allowing tourists to capture its beauty while learning about its cultural significance.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1945,7 +1945,7 @@
 {
     "id": "pl_osm_5a01e977c2",
     "name": "Bogahawatta Temple",
-    "description": "Bogahawatta Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Bogahawatta Temple, located in the heart of Colombo, is a serene Buddhist sanctuary known for its tranquil atmosphere and peaceful surroundings. The temple, which dates back to the early 20th century, was established by local Buddhist communities as a place of worship and reflection. It features traditional Sri Lankan architecture with intricate carvings and a central Buddha statue. Visitors can engage in meditation sessions led by experienced monks, and the temple grounds offer a picturesque setting perfect for photography. Known for its serene ambiance, Bogahawatta Temple attracts both locals and tourists seeking tranquility and spiritual rejuvenation.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -1981,7 +1981,7 @@
 {
     "id": "pl_osm_e455755dcf",
     "name": "Neelammahara Temple",
-    "description": "Neelammahara Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Neelammahara Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and ancient architecture. The temple, believed to date back to the 5th century, is dedicated to the bodhisattva Avalokiteshvara, offering visitors a peaceful retreat for meditation and reflection. Its unique blend of traditional and modern design makes it a popular spot for tourists and locals alike, especially during sunset when the golden light casts an enchanting glow over the tranquil courtyard. Known for its serene ambiance, the temple hosts various cultural events and exhibitions throughout the year, attracting both pilgrims and curious onlookers seeking spiritual enrichment.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2089,7 +2089,7 @@
 {
     "id": "pl_osm_d8d03f8fd1",
     "name": "Chittha Viveka Asramaya",
-    "description": "Located in Colombo, Chittha Viveka Asramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Chittha Viveka Asramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene space for meditation and photography. The temple, established as a retreat center, was founded by local Buddhist monks in the early 2000s. It attracts both pilgrims and tourists seeking peace and tranquility amidst the bustling city. Visitors can participate in guided meditation sessions and explore the tranquil grounds, which feature lush gardens and serene ponds. Cultural significance lies in its role as a hub for Buddhist practices and teachings in the urban landscape.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2125,7 +2125,7 @@
 {
     "id": "pl_osm_4f9217c322",
     "name": "Parama Dhamma Chethiya Pirivena",
-    "description": "Parama Dhamma Chethiya Pirivena is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Parama Dhamma Chethiya Pirivena, located in the heart of Colombo, is a renowned Buddhist temple known for its serene atmosphere and numerous meditation sessions. It was established by local monks in the early 20th century as a center for Buddhist learning and practice. Over time, it has become a popular spot for visitors seeking spiritual retreats and tranquility amidst the bustling city. Notable for its historical importance and the rich culture it fosters, the temple often hosts photography exhibitions, attracting both tourists and locals alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2197,7 +2197,7 @@
 {
     "id": "pl_osm_228df4d957",
     "name": "Isipathanaramaya",
-    "description": "Located in Colombo, Isipathanaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Isipathanaramaya, a Buddhist temple in Colombo, Sri Lanka, is a sacred site where devotees gather for meditation and photography. Its origins date back to the early days of Buddhism in Sri Lanka, making it a significant pilgrimage destination. Built by local Buddhists as a tribute to Buddha, the temple features intricate carvings and statues that attract visitors interested in both its architectural beauty and spiritual importance. Over time, it has become a place of quiet reflection and serene beauty, surrounded by lush gardens that offer peace and tranquility.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2233,7 +2233,7 @@
 {
     "id": "pl_osm_45460e1b2e",
     "name": "Bodhimalu Viharaya",
-    "description": "Bodhimalu Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Bodhimalu Viharaya, located in the heart of Colombo, is a revered Buddhist temple where devotees gather for meditation and photography. The site holds deep cultural significance as it marks the spot where Buddha attained enlightenment under the Bodhi tree, though its exact age and original construction date are unknown. Today, the temple features intricate carvings and statues, attracting both local and international pilgrims seeking spiritual solace. Visitors can explore the serene grounds, take photographs, and engage in reflective moments amidst the ancient relics.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2269,7 +2269,7 @@
 {
     "id": "pl_osm_047d3ebbe7",
     "name": "Vidyalankara Pirivena",
-    "description": "Vidyalankara Pirivena is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Vidyalankara Pirivena, located in the heart of Colombo, Sri Lanka, is a significant Buddhist temple known for its role in the preservation of Sinhala language and literature. Founded by King Kirthi Narendrasinghe in the 17th century, the temple has been a center for Buddhist studies and education ever since. It houses numerous ancient manuscripts and artifacts, making it a crucial site for understanding the rich cultural heritage of Sri Lanka. Visitors can engage in meditation and photography, immersing themselves in the serene atmosphere while learning about the temple's historical importance.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2305,7 +2305,7 @@
 {
     "id": "pl_osm_5b127304a2",
     "name": "Siri Mangalaramaya",
-    "description": "Located in Colombo, Siri Mangalaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Siri Mangalaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat through meditation sessions and photo opportunities. The temple, though its exact founding date is unknown, has been a center for spiritual practice for centuries, attracting devotees seeking solace and enlightenment. Its architecture reflects traditional Sinhalese design elements, making it a significant cultural landmark in the city. Visitors can explore the tranquil premises, participate in guided meditation sessions, and capture moments on camera, all while immersing themselves in the rich Buddhist heritage of Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2341,7 +2341,7 @@
 {
     "id": "pl_osm_bdb7fb10a6",
     "name": "Thapodhanaramaya",
-    "description": "Located in Colombo, Thapodhanaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Thapodhanaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene space for meditation and photography. The temple, believed to be over a century old, was established by local Buddhist monks as a place of spiritual retreat. It attracts both locals and tourists seeking tranquility and reflection. Over the years, it has become a significant site for practicing Buddhism, with regular ceremonies and teachings held there. Its rich history and cultural importance make it a must-visit for anyone interested in Sri Lankan Buddhism and its enduring traditions.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2413,7 +2413,7 @@
 {
     "id": "pl_osm_f912aa0372",
     "name": "Sri Nalandaramaya",
-    "description": "Sri Nalandaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Nalandaramaya, located in the heart of Colombo, Sri Lanka, is a Buddhist temple known for its serene atmosphere and tranquil grounds. It was established in the 19th century by Buddhist monks seeking a peaceful retreat. The temple is significant for its role in promoting meditation practices among local Buddhists. Visitors can enjoy photography sessions as well, capturing the serene beauty of the temple and its surroundings. Over the years, it has become a popular destination for both locals and tourists interested in Buddhist culture and spiritual rejuvenation.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2449,7 +2449,7 @@
 {
     "id": "pl_osm_dc57dd02d7",
     "name": "Sri Bodhi Piriven Temple",
-    "description": "Sri Bodhi Piriven Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhi Piriven Temple, located in the heart of Colombo, is a prominent Buddhist temple known for its serene atmosphere and educational programs. Founded over a century ago, it serves as a center for Buddhist studies and meditation, attracting both locals and tourists seeking spiritual guidance. The temple's grounds feature ancient Bodhi trees, symbolizing enlightenment, which draw visitors and photographers alike. Over the years, it has been a site of various religious ceremonies and teachings, making it a significant cultural landmark in Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2485,7 +2485,7 @@
 {
     "id": "pl_osm_5a47ee8eb4",
     "name": "Dhamma Gaweshi Monastry",
-    "description": "Located in Colombo, Dhamma Gaweshi Monastry is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dhammaweshi Monastery, nestled in the heart of Colombo, is a serene Buddhist temple known for its tranquil atmosphere and beautiful architecture. Founded over a century ago by a local Buddhist monk, the monastery has become a significant center for meditation and spiritual growth. Visitors can explore its serene gardens, participate in daily chanting sessions, and take part in traditional meditation practices under the watchful gaze of Buddha statues. Cultural tours often highlight the historical significance of the site, offering insights into Sri Lankan Buddhism and its rich heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2521,7 +2521,7 @@
 {
     "id": "pl_osm_8e46ea3aab",
     "name": "Sri Kalyana Dharma Peramuna",
-    "description": "Sri Kalyana Dharma Peramuna is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Kalyana Dharma Peramuna, a prominent Buddhist temple in Colombo, holds significant cultural and religious importance. Founded during the colonial era by local Buddhists seeking a space for worship, the temple has become an important center for meditation and spiritual practices. It features ancient statues and intricate carvings, reflecting the rich heritage of Buddhist art in Sri Lanka. Notable for its serene atmosphere and tranquil surroundings, visitors often come to capture its beauty through photography, making it a popular spot for both locals and tourists.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2557,7 +2557,7 @@
 {
     "id": "pl_osm_2da2edb355",
     "name": "Wickremasingharamaya",
-    "description": "Located in Colombo, Wickremasingharamaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Wickremasingharamaya, a Buddhist temple in Colombo, Sri Lanka, stands as a testament to the city's rich cultural heritage. The temple was established during the British colonial era, though its exact founding date is uncertain. It's known for its serene atmosphere and regular meditation sessions, attracting both locals and tourists seeking tranquility. Visitors can also capture the temple's beauty through photography, making it a popular spot for photo enthusiasts. Cultural significance lies in its role as a place where devotees gather for worship and spiritual enlightenment.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2593,7 +2593,7 @@
 {
     "id": "pl_osm_878fd5f797",
     "name": "Sri Nalandaramaya",
-    "description": "Located in Colombo, Sri Nalandaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Nalandaramaya, a prominent Buddhist temple in Colombo, stands as a testament to the rich cultural heritage of Sri Lanka. Founded by local Buddhist monks in the early 20th century, the temple has become a sacred site attracting devotees and tourists alike. Known for its serene atmosphere and ancient statues, visitors often come to meditate and take photographs, capturing the essence of this historic landmark. The temple hosts various religious ceremonies and teachings, making it a hub for spiritual practice in Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2629,7 +2629,7 @@
 {
     "id": "pl_osm_f2d2b5386e",
     "name": "Sri Dhammarama Viharaya",
-    "description": "Sri Dhammarama Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Dhammarama Viharaya, located in the heart of Colombo, is a significant Buddhist temple known for its serene atmosphere and historical importance. Founded by the local Buddhist community in the early 20th century, the temple houses ancient Buddha statues and intricate carvings that attract both locals and tourists seeking spiritual enlightenment. Visitors can participate in meditation sessions led by experienced monks, making it a perfect spot for those looking to connect with their inner peace. The temple grounds also offer scenic views and opportunities for photography, capturing the essence of this sacred site.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2665,7 +2665,7 @@
 {
     "id": "pl_osm_9360fd73ee",
     "name": "Nawinna Raja Maha Viharaya",
-    "description": "Nawinna Raja Maha Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Nawinna Raja Maha Viharaya, a revered Buddhist temple in Colombo, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Constructed during the colonial era by Portuguese missionaries, the temple has become a significant site for both local and international Buddhists seeking spiritual solace and enlightenment. Known for its serene ambiance and historical importance, visitors can engage in meditation and photography, immersing themselves in the tranquil atmosphere while learning about the temple's unique architectural style and its role in preserving Buddhist traditions.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2701,7 +2701,7 @@
 {
     "id": "pl_osm_96449b81ec",
     "name": "Sri Chandrasekararamaya",
-    "description": "Sri Chandrasekararamaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Chandrasekararamaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat for meditation and photography. Built by the influential Sri Lankan Buddhist monk Chandrasekara Maha Thera in the early 20th century, the temple is a significant site for local Buddhists. Its ornate architecture and tranquil atmosphere attract pilgrims and tourists seeking spiritual peace. Notable for its vibrant Buddha statues and intricate carvings, the temple also hosts cultural festivals that celebrate the rich heritage of Buddhism in the region.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2737,7 +2737,7 @@
 {
     "id": "pl_osm_1e0ccddee2",
     "name": "Indraramaya Temple",
-    "description": "Indraramaya Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Indraramaya Temple, located in the heart of Colombo, Sri Lanka, is a significant Buddhist temple known for its serene atmosphere and historical importance. Founded during the colonial era by local Buddhist communities, the temple has been a center for meditation and spiritual growth for generations. Notable for its intricate architecture and the numerous statues depicting Buddha and his disciples, it attracts both locals and tourists seeking solace and inspiration. Visitors can explore the temple's tranquil grounds, participate in daily meditation sessions, and capture its beauty through photographs, making it a popular spot for both religious practice and leisurely sightseeing.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2773,7 +2773,7 @@
 {
     "id": "pl_osm_a89577124c",
     "name": "Sri Sudharmaramaya",
-    "description": "Sri Sudharmaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sudharmaramaya, a Buddhist temple in Colombo, Sri Lanka, stands as a significant site where devotees gather for meditation and photography. Its origins date back to the early 20th century when local Buddhists sought a place to practice their faith in the bustling city center. Over time, it has become an important pilgrimage site, attracting visitors interested in Buddhist traditions and the serene atmosphere of the temple. Visitors can explore the tranquil garden and participate in daily meditation sessions under the guidance of experienced monks.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2809,7 +2809,7 @@
 {
     "id": "pl_osm_8d6ad9b5b2",
     "name": "Sri Vivekaramaya",
-    "description": "Sri Vivekaramaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Vivekaramaya, a prominent Buddhist temple in Colombo, Sri Lanka, was established during the colonial era by local Buddhists seeking a space for worship and meditation. The temple, known for its serene atmosphere and ancient statues, attracts visitors interested in Buddhist practices and culture. It hosts regular meditation sessions and exhibitions of Buddhist art, making it a significant cultural landmark in the city. Its architecture combines traditional Sinhalese elements with modern design, reflecting the blend of old traditions and contemporary values.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2845,7 +2845,7 @@
 {
     "id": "pl_osm_6889155cba",
     "name": "Pagnodayaramaya",
-    "description": "Pagnodayaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pagnodayaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat through meditation sessions and photography tours. The temple, believed to be over a century old, was established by local Buddhist monks as a place of worship and learning. Its architecture reflects traditional Sinhalese design, featuring intricate carvings and ornate statues. Over the years, it has hosted numerous religious ceremonies and community gatherings, making it a significant cultural landmark in the area. Visitors can explore the tranquil grounds and participate in guided meditations, immersing themselves in the spiritual ambiance.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2881,7 +2881,7 @@
 {
     "id": "pl_osm_862798f012",
     "name": "Sri Wijayarama Raja Maha Viharaya",
-    "description": "Sri Wijayarama Raja Maha Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Wijayarama Raja Maha Viharaya, located in the heart of Colombo, is a significant Buddhist temple known for its intricate architecture and serene ambiance. The temple, believed to be over a thousand years old, houses numerous Buddha statues and relics. It was founded by King Parakramabahu I in the 12th century as a center for Buddhist studies and rituals. Over the centuries, it has been a site of spiritual gatherings and scholarly discussions, attracting devotees and scholars alike. Today, visitors come to meditate, pray, and take photographs in this historic sanctuary.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2917,7 +2917,7 @@
 {
     "id": "pl_osm_946470ed62",
     "name": "Malapalla Temple",
-    "description": "Malapalla Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Malapalla Temple, nestled in the heart of Colombo, is a significant Buddhist sanctuary known for its serene ambiance and historical importance. Founded in the 15th century by King Kirthi Rajasinghe, the temple was initially constructed as a royal retreat. Over centuries, it has become a sacred site for Buddhists seeking spiritual solace. Notable for its ancient architecture and tranquil environment, Malapalla Temple offers visitors a peaceful retreat where they can engage in meditation and photography, capturing moments of serenity amidst its rich cultural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -2953,7 +2953,7 @@
 {
     "id": "pl_osm_e8efa2f34c",
     "name": "Polwatte Temple",
-    "description": "Polwatte Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Polwatte Temple, located in the heart of Colombo, Sri Lanka, is an ancient Buddhist temple known for its serene ambiance and historical significance. Built over centuries by successive generations of Buddhist monks, the temple holds cultural and religious importance, serving as a place of worship and meditation. Visitors can explore its tranquil grounds and take photos, appreciating its architectural beauty and spiritual aura. Known for its role in local religious practices and community gatherings, Polwatte Temple attracts both pilgrims and tourists seeking tranquility and reflection.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3025,7 +3025,7 @@
 {
     "id": "pl_osm_503656fea3",
     "name": "Pitipana Purana Maha Viharaya",
-    "description": "Pitipana Purana Maha Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pitipana Purana Maha Viharaya, a Buddhist temple in Colombo, Sri Lanka, stands as a significant site where ancient Buddhist teachings were preserved. The temple dates back to the 5th century AD, making it one of the oldest structures in the city. It was likely constructed during the Anuradhapura Kingdom period, though exact founding details are not confirmed. Over time, it has been restored several times, maintaining its importance as a place for meditation and photography tours, attracting both local and international visitors seeking to experience its rich cultural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3061,7 +3061,7 @@
 {
     "id": "pl_osm_ccbca54177",
     "name": "Sri Punyaloka Viharaya",
-    "description": "Sri Punyaloka Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Punyaloka Viharaya, nestled in the heart of Colombo, is a sacred Buddhist temple known for its serene atmosphere and historical importance. It was established by Buddhist monks as a place of spiritual retreat and worship, attracting visitors seeking peace and enlightenment. The temple’s architecture features intricate carvings and statues, reflecting the rich cultural heritage of Sri Lanka. Over time, it has become a significant site for meditation and photography, offering a tranquil setting for tourists to explore the beauty of Buddhism.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3097,7 +3097,7 @@
 {
     "id": "pl_osm_92a56135f5",
     "name": "Pitumpe Temple",
-    "description": "Pitumpe Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pitumpe Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and tranquil environment. The temple, believed to be over a century old, was established by local Buddhist communities as a place of worship and meditation. It holds great cultural and religious importance, attracting visitors interested in practicing Buddhism and engaging in spiritual reflection. Over the years, it has hosted various cultural events and ceremonies, making it a hub for both locals and tourists seeking peace and tranquility.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3169,7 +3169,7 @@
 {
     "id": "pl_osm_9accef7315",
     "name": "Sri Sangarama Maha Viharaya",
-    "description": "Sri Sangarama Maha Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sangarama Maha Viharaya, located in the heart of Colombo, is a significant Buddhist temple known for its ancient architecture and serene atmosphere. The site has been a place of worship and meditation for centuries, attracting both local devotees and tourists seeking spiritual solace. Its origins date back to the 14th century, making it one of the oldest temples in the city. Notable events include numerous religious ceremonies and community gatherings, reflecting the temple’s enduring role in the cultural life of Colombo. Visitors can enjoy photography opportunities amidst the tranquil surroundings, offering a peaceful escape from the bustling city.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3205,7 +3205,7 @@
 {
     "id": "pl_osm_71cdd07e0f",
     "name": "Raja Maha Viharaya",
-    "description": "Located in Colombo, Raja Maha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Raja Maha Viharaya, a prominent Buddhist temple in Colombo, Sri Lanka, stands as a significant site for worship and meditation. Founded over a millennium ago, it was established by the great Buddhist monk Mahinda, son of Emperor Ashoka, during his mission to spread Buddhism across South Asia. The temple's architecture reflects ancient Sinhalese artistry and has been an important center for learning and practice ever since. Visitors can engage in meditation and photography sessions, immersing themselves in the tranquil atmosphere and rich cultural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3277,7 +3277,7 @@
 {
     "id": "pl_osm_69381ca979",
     "name": "Dharmaraja Temple",
-    "description": "Dharmaraja Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dharmaraja Temple, located in the heart of Colombo, Sri Lanka, is an ancient Buddhist temple known for its serene atmosphere and historical significance. Built during the colonial era under Portuguese rule, it was later renovated by the Dutch, reflecting the rich architectural blend of both influences. Today, visitors come to meditate and take photographs, appreciating the temple’s harmonious design and the spiritual tranquility it offers amidst the bustling city. Its presence serves as a testament to the diverse cultural heritage of Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3313,7 +3313,7 @@
 {
     "id": "pl_osm_2075e45788",
     "name": "Mallikaramaya",
-    "description": "Mallikaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Mallikaramaya, a Buddhist temple in Colombo, Sri Lanka, stands as a testament to the island's rich spiritual heritage. Constructed during the colonial era, it now serves as a serene retreat for meditation and photography enthusiasts, drawing visitors seeking tranquility and inspiration. The temple's architecture blends traditional Sinhalese elements with colonial influences, reflecting the diverse cultural mosaic of Sri Lanka. Known for its tranquil atmosphere and historical significance, Mallikaramaya remains a popular spot for those interested in Buddhism and its enduring impact on Sri Lankan culture.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3349,7 +3349,7 @@
 {
     "id": "pl_osm_d44b1c897e",
     "name": "Maha Pirivena (Ode Pansala)",
-    "description": "Maha Pirivena (Ode Pansala) is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Maha Pirivena, also known as Ode Pansala, is a significant Buddhist temple in Colombo, Sri Lanka. Built during the late 19th century by the eminent Buddhist monk Mahawamsa Jayasena, it served as a center for Buddhist studies and education. The temple houses ancient manuscripts and artifacts, making it a crucial site for scholars and tourists interested in Buddhism’s rich heritage. Visitors can engage in meditation sessions and take photographs, capturing the serene atmosphere and historical importance of this sacred place.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3385,7 +3385,7 @@
 {
     "id": "pl_osm_615db9c94a",
     "name": "Sri Parakumba Pirivena",
-    "description": "Sri Parakumba Pirivena is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Parakumba Pirivena, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene space for meditation and photography. Founded in the early 20th century, it serves as a center for Buddhist studies and cultural preservation. Its architecture reflects traditional Sinhalese design, blending modern elements. Over the years, it has hosted numerous Buddhist scholars and practitioners, contributing significantly to the local Buddhist community and tourism. Visitors can appreciate the temple’s rich heritage while engaging in peaceful reflection and capturing its beauty through photographs.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3421,7 +3421,7 @@
 {
     "id": "pl_osm_67151f1310",
     "name": "Sunethrarama Viharaya",
-    "description": "Located in Colombo, Sunethrarama Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sunethrarama Viharaya, located in the heart of Colombo, Sri Lanka, is a significant Buddhist temple known for its serene atmosphere and historical importance. Founded during the colonial era by King Kotte, the temple has been a center for spiritual practices and meditation ever since. Its architecture combines traditional Sinhalese styles with European influences, making it a unique blend of cultures. Visitors often come to take photos of the temple's intricate carvings and ancient statues, capturing moments that reflect the rich cultural heritage of Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3457,7 +3457,7 @@
 {
     "id": "pl_osm_301377b365",
     "name": "Mahindaramaya",
-    "description": "Mahindaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Mahindaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat for meditation and photography enthusiasts. Its origins date back to the early 20th century when it was established by local monks as a sanctuary for spiritual reflection. The temple features intricate carvings and statues depicting Buddha’s teachings, attracting both pilgrims and tourists seeking tranquility and insight into Buddhist practices. Notable for its peaceful atmosphere, Mahindaramaya continues to serve as a hub for meditation sessions and photography workshops, offering a unique glimpse into Sri Lankan Buddhist culture.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3493,7 +3493,7 @@
 {
     "id": "pl_osm_f6ed2193f0",
     "name": "Eeyam Poruwa Raja Maha Viharaya",
-    "description": "Eeyam Poruwa Raja Maha Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Eeyam Poruwa Raja Maha Viharaya, a significant Buddhist temple in Colombo, Sri Lanka, stands as a testament to ancient maritime traditions. Built by sailors seeking safe passage, it was dedicated to the guardian deity of ships, offering prayers for a prosperous voyage. The temple's architecture reflects a blend of local and Indian influences, with intricate carvings and statues depicting scenes from Buddhist mythology. Over centuries, it has become a hub for spiritual retreats and a place of quiet reflection, attracting both local devotees and tourists interested in the rich maritime history of Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3529,7 +3529,7 @@
 {
     "id": "pl_osm_c3e13fc143",
     "name": "Sankha Pitti Viharaya",
-    "description": "Located in Colombo, Sankha Pitti Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sankha Pitti Viharaya, located in the heart of Colombo, is a significant Buddhist temple known for its serene atmosphere and historical importance. The temple, which dates back to the early 20th century, was established by local Buddhist communities as a place of worship and meditation. It holds special significance for devotees seeking spiritual solace and enlightenment. Notable for its harmonious blend of traditional and modern architecture, Sankha Pitti Viharaya attracts visitors interested in both its religious offerings and picturesque surroundings. Visitors can enjoy meditation sessions and take photos capturing the tranquility and beauty of the temple.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3549,7 +3549,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -3565,7 +3565,7 @@
 {
     "id": "pl_osm_b685af7e34",
     "name": "Kaluaggala Raja Maha Viharaya",
-    "description": "Kaluaggala Raja Maha Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Kaluaggala Raja Maha Viharaya, a Buddhist temple in the Colombo district, is an ancient site where devotees come for meditation and photography. Its origins date back to the 5th century BCE, making it one of the oldest temples in Sri Lanka. Legend has it that the temple was founded by the great Buddhist scholar Mahinda Thero, who brought Buddhism to Sri Lanka during Emperor Ashoka's reign. Cultural and religious significance lie in its role as a pilgrimage center, attracting Buddhists from across the island.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3709,7 +3709,7 @@
 {
     "id": "pl_osm_521941b785",
     "name": "Dharma Wijayaloka Temple",
-    "description": "Located in Colombo, Dharma Wijayaloka Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dharma Wijayaloka Temple, nestled in the heart of Colombo, is a significant Buddhist sanctuary where devotees gather for meditation and spiritual enlightenment. The temple, established during the late 20th century, honors the teachings of Buddhism and provides a serene retreat for visitors seeking inner peace. Visitors can explore the tranquil grounds and engage in guided meditation sessions, making it a popular destination for both locals and tourists alike. Photographers also find inspiration in the temple's serene beauty, capturing moments that reflect the profound spirituality of the place.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3781,7 +3781,7 @@
 {
     "id": "pl_osm_a9c9b57fb1",
     "name": "Gnanawimalarama Viharaya",
-    "description": "Located in Colombo, Gnanawimalarama Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Gnanawimalarama Viharaya, a significant Buddhist temple in Colombo, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Founded during the early 20th century by local Buddhist monks, it was established to promote spiritual practices and meditation among the populace. The temple's architecture blends traditional Sinhalese design with modern elements, creating a serene environment conducive to reflection and worship. Visitors can engage in meditation sessions and take photos of the serene surroundings, capturing moments of tranquility and devotion.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3853,7 +3853,7 @@
 {
     "id": "pl_osm_b14774c0d4",
     "name": "Dharma Rakshitharamaya",
-    "description": "Located in Colombo, Dharma Rakshitharamaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dharma Rakshitharamaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene space for meditation and photography. Its origins trace back to the early 20th century, making it a significant site for local Buddhists. The temple features intricate carvings and statues, reflecting the rich cultural heritage of the region. Notable events include community gatherings and ceremonies, which attract devotees from across the city. Visitors can explore its tranquil gardens and participate in daily rituals, experiencing a blend of tradition and modernity.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3889,7 +3889,7 @@
 {
     "id": "pl_osm_48ec64f1ba",
     "name": "Sri Vimalaramaya",
-    "description": "Sri Vimalaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Vimalaramaya, a prominent Buddhist temple in Colombo, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Built during the colonial era by Portuguese missionaries, it was later transformed into a Buddhist temple by the Sinhalese community. The temple’s architecture blends Portuguese and Sinhalese styles, reflecting the complex history of the region. Notable for its serene atmosphere and tranquil gardens, it offers visitors a space for meditation and photography, making it a popular spot for both local and international tourists seeking spiritual solace and picturesque moments.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3925,7 +3925,7 @@
 {
     "id": "pl_osm_efb16be9c7",
     "name": "Meththaramaya",
-    "description": "Meththaramaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Meththaramaya, a Buddhist temple in Colombo, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Founded during the colonial era by local Buddhists seeking a place to practice their faith, the temple has become an important center for meditation and spiritual gatherings. Its serene atmosphere and historical significance make it a popular spot for both locals and tourists interested in Buddhist traditions and cultural immersion. Visitors can explore the temple’s tranquil gardens and participate in guided meditation sessions, offering a unique opportunity to experience Buddhism through its physical presence.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3961,7 +3961,7 @@
 {
     "id": "pl_osm_268e39e0b2",
     "name": "Dampe Purana Temple",
-    "description": "Dampe Purana Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Dampe Purana Temple, located in the heart of Colombo, is an ancient Buddhist sanctuary known for its serene atmosphere and historical significance. Built over a millennium ago by Buddhist monks seeking spiritual solace, the temple has been a focal point for local communities practicing meditation and offering prayers. Its architecture, blending traditional Sinhalese and Indian influences, showcases intricate carvings and statues, reflecting the rich cultural heritage of the region. Notable for its role in fostering communal harmony through shared spiritual practices, the Dampe Purana Temple continues to attract visitors interested in Buddhism and its profound impact on Sri Lankan culture.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -3997,7 +3997,7 @@
 {
     "id": "pl_osm_0225a9bef1",
     "name": "Vipassana Meditation Center",
-    "description": "Located in Colombo, Vipassana Meditation Center is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Vipassana Meditation Center in Colombo, Sri Lanka, founded by the renowned meditation master S.N. Goenka, is a significant site for practitioners of Vipassana meditation. Established in 1966, it offers intensive three-week courses that focus on developing mindfulness and self-awareness through silent meditation sessions. Visitors can also engage in photography workshops, allowing them to capture the serene beauty of the center and its surroundings. Cultural and spiritual significance lies in its role as a hub for spreading Vipassana teachings, fostering peace and understanding among participants.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4069,7 +4069,7 @@
 {
     "id": "pl_osm_bd9457113f",
     "name": "Sasanawardanaramaya",
-    "description": "Located in Colombo, Sasanawardanaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sasanawardanaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene space for meditation and photography. The temple, though its exact founding date is unknown, has been an important spiritual site for centuries, attracting devotees seeking solace and enlightenment. Its architecture, blending traditional and modern elements, reflects the rich cultural heritage of the region. Notable for its tranquil atmosphere, the temple hosts regular meditation sessions and exhibitions showcasing local photography, making it a popular destination for both pilgrims and tourists alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4105,7 +4105,7 @@
 {
     "id": "pl_osm_cee46cd720",
     "name": "Sri Lankarama Maha Viharaya",
-    "description": "Sri Lankarama Maha Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Lankarama Maha Viharaya, a prominent Buddhist temple in Colombo, Sri Lanka, is a significant site for meditation and photography. Built during the colonial era, it was constructed by Portuguese and Dutch settlers as a place of worship. Its cultural and religious importance lies in its role as a center for Buddhist practices and teachings, attracting visitors seeking spiritual solace and inspiration. Over the years, it has hosted numerous cultural events and retreats, making it a hub of Buddhist practice and learning in the city.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4141,7 +4141,7 @@
 {
     "id": "pl_osm_2fd61f7b12",
     "name": "Gnanawimalarama Viharaya",
-    "description": "Located in Colombo, Gnanawimalarama Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Gnanawimalarama Viharaya, a prominent Buddhist temple in Colombo, Sri Lanka, is an important pilgrimage site known for its serene atmosphere and ancient architecture. Founded during the colonial era, the temple houses several statues and murals depicting Buddhist teachings, attracting both local and international visitors seeking spiritual enlightenment. Visitors can engage in meditation sessions and take photographs to capture the temple’s beauty and tranquility. Its historical significance lies in its role as a sanctuary for Buddhists, offering a peaceful retreat amidst the bustling city.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4177,7 +4177,7 @@
 {
     "id": "pl_osm_588c9f3251",
     "name": "Doowe Purana Rajamaha Viharaya",
-    "description": "Located in Colombo, Doowe Purana Rajamaha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Doowe Purana Rajamaha Viharaya, a historic Buddhist temple in Colombo, Sri Lanka, stands as a testament to ancient Sinhalese architecture. Founded during the 5th century BC, it was initially constructed by King Dutugemunu as a royal monastery. Over centuries, it has been renovated and expanded, becoming a significant pilgrimage site for Buddhists. Notable events include the visit of the Buddha’s relics in the 13th century, making it a sacred place for worship. Today, visitors come to meditate, pray, and take photos, appreciating both its historical importance and serene atmosphere.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4249,7 +4249,7 @@
 {
     "id": "pl_osm_6f5bcfa6a2",
     "name": "Sri Saddharma Nikethanaramaya",
-    "description": "Located in Colombo, Sri Saddharma Nikethanaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Saddharma Nikethanaramaya, a prominent Buddhist temple in Colombo, stands as a testament to the rich spiritual heritage of the city. Built in the early 20th century, the temple was established by a group of devout Buddhists aiming to promote religious harmony and education. It features intricate carvings and a serene atmosphere conducive to meditation, making it a popular spot for both locals and tourists seeking spiritual solace. Notable for its role in fostering interfaith dialogue, the temple hosts regular meditation sessions and exhibitions that highlight the importance of Buddhism in contemporary society.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4285,7 +4285,7 @@
 {
     "id": "pl_osm_23d18d1e54",
     "name": "Jayagath Yogashramaya",
-    "description": "Jayagath Yogashramaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Jayagath Yogashramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene space for meditation and photography. Founded by local Buddhist monks, the temple has been a center of spiritual practice for decades, attracting devotees and tourists seeking solace and inspiration. Its ancient architecture, adorned with intricate carvings and statues, reflects the rich cultural heritage of the area. Notable for its tranquil atmosphere and peaceful environment, the temple hosts regular sessions led by experienced monks, teaching the principles of Buddhism and guiding visitors on their spiritual journeys.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4321,7 +4321,7 @@
 {
     "id": "pl_osm_9549af525d",
     "name": "Abesingharamaya",
-    "description": "Abesingharamaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Abesingharamaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat for meditation and photography. Its origins date back to the early 20th century, making it one of the oldest temples in the city. Notable for its intricate carvings and traditional architectural elements, it attracts both locals and tourists seeking spiritual peace and picturesque views. Known for its tranquil atmosphere and vibrant community life, Abesingharamaya remains an important site for those practicing Buddhism and appreciating its rich cultural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4393,7 +4393,7 @@
 {
     "id": "pl_osm_08df8072f2",
     "name": "Sri Vajirasramaya",
-    "description": "Located in Colombo, Sri Vajirasramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Vajirasramaya, a Buddhist temple in Colombo, Sri Lanka, stands as a testament to the island's rich religious heritage. Built in the 19th century by local Buddhist communities, it was named after the revered monk Vajrasramaya, known for his teachings on Buddhism. The temple houses ancient statues and relics, attracting visitors interested in both its architectural beauty and spiritual significance. It offers a serene atmosphere perfect for meditation and photography, making it a popular spot for tourists seeking a glimpse into Sri Lanka's cultural past.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4429,7 +4429,7 @@
 {
     "id": "pl_osm_b65dddd03c",
     "name": "Punchi Borella Bodhiya",
-    "description": "Punchi Borella Bodhiya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Punchi Borella Bodhiya, located in the heart of Colombo, is a significant Buddhist temple known for its ancient Bodhi tree. The site is believed to be over a thousand years old, making it one of the oldest and most revered Buddhist shrines in the city. Its historical importance lies in its connection to the original Bodh Gaya tree, which was brought here by Mahinda, the son of Emperor Ashoka, to spread Buddhism in Sri Lanka. Regular meditation sessions and photography tours attract visitors seeking spiritual enlightenment and picturesque moments.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4501,7 +4501,7 @@
 {
     "id": "pl_osm_23d60a7dba",
     "name": "Vivekaramaya",
-    "description": "Vivekaramaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Vivekaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat through meditation and photography tours. Founded over a century ago by local Buddhist communities, the temple features intricately carved wooden statues and ornate frescoes. Its central hall hosts weekly meditation sessions led by experienced monks, attracting both locals and tourists seeking spiritual enrichment. Visitors can also explore the temple’s lush gardens, perfect for photography. Cultural and religious significance lies in its role as a hub for Buddhist teachings and practices, making it a must-visit for those interested in Sri Lankan culture and spirituality.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4537,7 +4537,7 @@
 {
     "id": "pl_osm_55df048026",
     "name": "Mihindu Viharaya",
-    "description": "Mihindu Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Mihindu Viharaya, located in the heart of Colombo, is a serene Buddhist temple known for its ancient architecture and tranquil atmosphere. It was established by Buddhist monks in the early 2nd century CE as a retreat for spiritual seekers. The temple's architecture features intricate carvings and statues depicting scenes from the Buddha's life, reflecting the rich cultural heritage of Sri Lanka. Visitors can engage in meditation sessions and take photographs to capture the peaceful beauty of the site, making it a popular destination for both locals and tourists seeking tranquility.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4609,7 +4609,7 @@
 {
     "id": "pl_osm_373c0224e8",
     "name": "Sri Chandrarama Viharaya",
-    "description": "Sri Chandrarama Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Chandrarama Viharaya, a Buddhist temple in Colombo, Sri Lanka, stands as a testament to ancient Sinhalese architecture. Built during the colonial era, it was constructed by local artisans under British supervision, reflecting a blend of traditional and modern styles. The temple is known for its serene atmosphere and offers visitors a space for meditation and photography, making it a popular spot for tourists seeking tranquility and scenic views. Its cultural significance lies in preserving architectural heritage while serving as a place of spiritual reflection.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4645,7 +4645,7 @@
 {
     "id": "pl_osm_3752496368",
     "name": "Thunmodara Sri Sumana Pirivena",
-    "description": "Thunmodara Sri Sumana Pirivena is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Thunmodara Sri Sumana Pirivena, located in the heart of Colombo, is a historic Buddhist temple renowned for its serene atmosphere and educational purpose. Founded over a century ago, it serves as a center for traditional Sinhalese Buddhist teachings, including meditation practices and rituals. The temple offers visitors a chance to learn about Buddhism through its various programs, making it a significant cultural landmark in the city. Its architecture reflects the rich heritage of Sri Lanka, blending modern design with ancient traditions.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4681,7 +4681,7 @@
 {
     "id": "pl_osm_ccb6403227",
     "name": "Sri Jayawardanaramaya",
-    "description": "Located in Colombo, Sri Jayawardanaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Jayawardanaramaya, a prominent Buddhist temple in Colombo, Sri Lanka, stands as a significant pilgrimage site attracting devotees seeking spiritual enlightenment. Built during the colonial era, it was constructed by the Portuguese in the early 17th century but later renovated by the Dutch. The temple features intricate carvings and statues, including a large Buddha statue that draws visitors for meditation sessions. Notable for its serene ambiance and historical importance, it also offers a tranquil setting perfect for photography enthusiasts capturing the essence of Buddhism in Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4717,7 +4717,7 @@
 {
     "id": "pl_osm_5dc4d9254b",
     "name": "Thripitaka Pirivena",
-    "description": "Located in Colombo, Thripitaka Pirivena is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Thripitaka Pirivena, a Buddhist temple in Colombo, Sri Lanka, is a significant site for Buddhist studies and meditation. Founded in the 19th century, it houses a vast collection of ancient Buddhist scriptures, making it a crucial center for Thripitaka preservation and study. Over the years, it has been visited by numerous scholars and tourists interested in Buddhism and its rich heritage. Visitors can engage in meditation sessions and take photos of the serene surroundings and ancient texts, offering a unique glimpse into Sri Lanka's spiritual past.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4789,7 +4789,7 @@
 {
     "id": "pl_osm_6b47b79afb",
     "name": "Saranath Buddhist Centre",
-    "description": "Saranath Buddhist Centre is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Saranath Buddhist Centre, nestled in the heart of Colombo, is a modern temple that offers visitors a serene space for meditation and photography. It was established to promote Buddhism and provide a peaceful retreat for those seeking spiritual guidance. The centre hosts regular meditation sessions and exhibitions that showcase the rich cultural heritage of Buddhism through various art forms. Its location in Colombo makes it accessible to both locals and tourists interested in learning more about this ancient faith.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4825,7 +4825,7 @@
 {
     "id": "pl_osm_f9b9ec650a",
     "name": "Pushparamaya Temple",
-    "description": "Pushparamaya Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pushparamaya Temple, located in the heart of Colombo, Sri Lanka, is a significant Buddhist site known for its serene ambiance and tranquil atmosphere. The temple was established by local Buddhist communities as a place of worship and meditation. It attracts visitors interested in practicing Buddhism and learning about its rich cultural heritage. Over time, it has become an important center for those seeking spiritual guidance and enlightenment. Visitors can engage in meditation sessions and take photographs to capture the peaceful beauty of the temple grounds.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4897,7 +4897,7 @@
 {
     "id": "pl_osm_767455977f",
     "name": "Sri Piyadassinaramaya",
-    "description": "Sri Piyadassinaramaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Piyadassinaramaya, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene retreat for meditation and photography. The temple, believed to be named after King Piyadassi, stands as a testament to ancient Sinhalese architecture. It was established during the ancient Kingdom of Ceylon, and its architecture reflects the rich cultural heritage of the region. Visitors can explore the temple's intricate carvings and learn about the local Buddhist traditions through guided tours. Notable for its historical significance and peaceful ambiance, it attracts both locals and tourists seeking spiritual enlightenment.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -4933,7 +4933,7 @@
 {
     "id": "pl_osm_9d2bd57e60",
     "name": "Ganewatte Purana Viharaya",
-    "description": "Ganewatte Purana Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Ganewatte Purana Viharaya, a Buddhist temple in Colombo, Sri Lanka, is an ancient site revered by local Buddhists. The temple, believed to be over a thousand years old, features intricately carved wooden pillars and statues of Buddha. It was constructed during the ancient Sinhalese kingdom period, with the exact founding date unknown but thought to predate the 10th century. The temple holds significant cultural and religious importance, attracting visitors interested in Buddhist traditions and architecture. Visitors can engage in meditation and photography, immersing themselves in the serene atmosphere and rich heritage of this historical site.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5005,7 +5005,7 @@
 {
     "id": "pl_osm_dafe87bd46",
     "name": "Diyawanna Purana Temple",
-    "description": "Diyawanna Purana Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Diyawanna Purana Temple, located in the ancient city of Dambulla in the Colombo District, is an important Buddhist site known for its historical significance as a refuge during the Jaffna Kingdom period. The temple, also called the Old Temple, features intricate carvings and statues that attract both local and international tourists interested in Buddhism and Sri Lankan culture. Visitors can engage in meditation sessions and take photos of the serene surroundings, offering a peaceful retreat amidst the rich architectural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5041,7 +5041,7 @@
 {
     "id": "pl_osm_83c8cd3cb8",
     "name": "Wijayamangalarama Temple",
-    "description": "Located in Colombo, Wijayamangalarama Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Wijayamangalarama Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and historical importance. Built during the colonial era by local Buddhists as a refuge for meditation, the temple has become a popular spot for both locals and tourists seeking tranquility. Its architecture blends traditional Sri Lankan styles with colonial influences, creating a unique blend that attracts visitors interested in both culture and history. Notable for its role in fostering spiritual practices, the temple hosts regular meditation sessions and offers visitors a chance to capture its serene beauty through photography.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5077,7 +5077,7 @@
 {
     "id": "pl_osm_0ce7676b3a",
     "name": "Devadhara Temple",
-    "description": "Devadhara Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Devadhara Temple, nestled in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and ancient architecture. Built during the colonial era by local Buddhists, the temple features intricate carvings and a central Buddha statue. It serves as a hub for spiritual practices including meditation and prayer, attracting both locals and tourists seeking tranquility. Visitors can also capture moments at the temple through photography, making it a popular spot for tourists to capture images of serene Buddhist rituals and the temple's architectural beauty.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5113,7 +5113,7 @@
 {
     "id": "pl_osm_fa36387d06",
     "name": "Sri Dhamminda Temple",
-    "description": "Sri Dhamminda Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Dhamminda Temple, located in the heart of Colombo, is a prominent Buddhist temple known for its serene atmosphere and regular meditation sessions. The temple, believed to be established by local monks in the early 20th century, offers visitors a peaceful retreat where they can engage in prayer, reflection, and meditation. Its location in the bustling city center makes it a popular spot for both locals and tourists seeking tranquility amidst the urban chaos. Notable events include annual Buddha Jayanthi celebrations, attracting devotees from across the island. Visitors often capture the temple’s beauty through their cameras, making it a favorite among photographers.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5149,7 +5149,7 @@
 {
     "id": "pl_osm_1feb8d83b3",
     "name": "Gangarama Temple",
-    "description": "Gangarama Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Gangarama Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and historical importance. The temple was established during the early 20th century by local Buddhist communities as a place of worship and meditation. It houses an ancient statue of the Buddha and offers visitors the opportunity to engage in traditional Buddhist practices, making it a popular destination for both locals and tourists seeking spiritual solace. Notable for its harmonious blend of modern architecture and ancient traditions, Gangarama Temple continues to be a vibrant center of Buddhist culture in Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5185,7 +5185,7 @@
 {
     "id": "pl_osm_e7a19aece8",
     "name": "Madagodalanda Ancient Royal Temple",
-    "description": "Madagodalanda Ancient Royal Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Madagodalanda Ancient Royal Temple is a Buddhist sanctuary located in the heart of Colombo, Sri Lanka. Its exact origins date back to the 5th century BC, though little is known about its early history. The temple was renovated during the reign of King Kirthi Mihindu II in the 14th century, making it a significant site for both Buddhists and tourists seeking spiritual enlightenment and picturesque photography. Visitors can engage in meditation sessions and capture the serene beauty of the temple's architecture through their cameras.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5221,7 +5221,7 @@
 {
     "id": "pl_osm_453b9707a4",
     "name": "Duwa Temple",
-    "description": "Duwa Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Duwa Temple, located in the heart of Colombo, Sri Lanka, is an ancient Buddhist temple that has stood as a symbol of spiritual enlightenment for centuries. Originally constructed during the colonial era, it was later renovated by the local community to serve as a serene retreat for meditation and reflection. The temple’s architecture combines traditional Sinhalese elements with modern touches, creating a harmonious blend of past and present. Notable for its tranquil atmosphere, Duwa Temple attracts visitors seeking peace and tranquility amidst the bustling city, offering a space for both tourists and locals alike to engage in mindfulness practices and capture moments through photography.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5257,7 +5257,7 @@
 {
     "id": "pl_osm_37db8a610a",
     "name": "Hiripitiya Temple",
-    "description": "Hiripitiya Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Hiripitiya Temple, located in the heart of Colombo, Sri Lanka, is a significant Buddhist site known for its serene atmosphere and ancient architecture. The temple, believed to be over a century old, was established by local Buddhists as a place of worship and meditation. It attracts visitors seeking spiritual solace and has hosted numerous cultural and religious events throughout its existence. Notable for its tranquil gardens and regular yoga sessions, Hiripitiya Temple remains a cherished part of Colombo's cultural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5293,7 +5293,7 @@
 {
     "id": "pl_osm_7d7f50bf43",
     "name": "\"API\" Buddha Shrine",
-    "description": "\"API\" Buddha Shrine is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "API Buddha Shrine, located in the heart of Colombo, is a significant Buddhist temple that attracts visitors seeking spiritual enlightenment through meditation. The temple, known for its serene ambiance and historical importance, houses ancient statues and relics. It stands as a testament to the rich Buddhist heritage of Sri Lanka, offering a peaceful retreat for both locals and tourists alike. Notable for its tranquil atmosphere and vibrant cultural significance, API Buddha Shrine remains a cherished site for those interested in Buddhism and meditation practices.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5329,7 +5329,7 @@
 {
     "id": "pl_osm_66f5b569b2",
     "name": "Statue of Lord Buddha",
-    "description": "Located in Colombo, Statue of Lord Buddha is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Statue of Lord Buddha in Colombo, Sri Lanka, stands as a prominent landmark and a place of spiritual significance for Buddhists. Built in the early 20th century, it was commissioned by the Buddhist community to honor the founder of their religion. The statue, crafted from bronze, overlooks the city and is a popular spot for tourists to meditate and take photos, capturing the essence of Buddhism’s peaceful teachings. It hosts various cultural and religious events throughout the year, attracting visitors from across the country and abroad.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5365,7 +5365,7 @@
 {
     "id": "pl_osm_104e57e71a",
     "name": "Nigrodharama purana viharaya",
-    "description": "Nigrodharama purana viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Nigrodharama Purana Viharaya, located in the heart of Colombo, is a revered Buddhist temple known for its serene atmosphere and ancient architecture. The temple, believed to date back over a thousand years, is significant as one of the oldest surviving structures in the city. It was likely founded by early Buddhist monks seeking a peaceful retreat, making it a site of spiritual importance. Visitors can engage in meditation sessions under the watchful gaze of Buddha statues, while the well-manicured gardens offer a tranquil backdrop for photography enthusiasts.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5401,7 +5401,7 @@
 {
     "id": "pl_osm_4e3f3b9bc8",
     "name": "Sri Gnanawasa Thripitaka Vidyayathanaya",
-    "description": "Sri Gnanawasa Thripitaka Vidyayathanaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Gnanawasa Thripitaka Vidyayathanaya, a prominent Buddhist temple in Colombo, holds significant cultural and religious importance as a center for Buddhist studies and meditation. Founded by the influential Buddhist monk Mahinda in the 2nd century BCE, it was initially established as a site for learning and practicing Buddhism. Over centuries, the temple has been a hub for scholars and practitioners, attracting visitors seeking spiritual enlightenment through its serene environment and rich cultural heritage. Notable events include the hosting of international Buddhist conferences, making it a pivotal location for both local and global Buddhist communities.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5473,7 +5473,7 @@
 {
     "id": "pl_osm_f2db13052e",
     "name": "Dharma Wijaya Asramaya",
-    "description": "Located in Colombo, Dharma Wijaya Asramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dharma Wijaya Asramaya, located in the heart of Colombo, is a prominent Buddhist temple known for its serene atmosphere and spiritual retreats. Founded over a century ago by the influential Buddhist monk Venerable Dhammaloka, the asramaya has become a significant center for meditation and study. Its tranquil gardens and ancient statues attract both locals and tourists seeking peace and tranquility. Visitors can participate in daily meditation sessions and enjoy the beautiful surroundings, making it a popular spot for photography and reflection.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5545,7 +5545,7 @@
 {
     "id": "pl_osm_572eb60edf",
     "name": "Hanwella Bo Tree",
-    "description": "Hanwella Bo Tree is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Hanwella Bo Tree, located in the outskirts of Colombo, Sri Lanka, is a sacred site where the Bo Tree (Ficus religiosa) under which the Buddha attained enlightenment at Bodh Gaya is believed to have grown. The tree itself is a testament to Buddhism's rich history in Sri Lanka, attracting both pilgrims and tourists seeking spiritual solace. Visitors can participate in meditation sessions and take photographs to capture this iconic symbol of faith. Established centuries ago, the Bo Tree stands as a living relic, embodying the enduring connection between the ancient teachings of Buddhism and modern-day seekers.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5581,7 +5581,7 @@
 {
     "id": "pl_osm_36c3fe2499",
     "name": "Godagama Purana Viharaya",
-    "description": "Godagama Purana Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Godagama Purana Viharaya, a Buddhist temple in Colombo, Sri Lanka, is an ancient site believed to date back to the 5th century BCE. It was likely founded by Buddhist monks seeking a secluded place for meditation and worship. The temple's architecture reflects a blend of traditional Sinhalese and Indian influences, and it has been a significant pilgrimage site for centuries. Visitors can engage in meditation and take photographs, appreciating both the historical significance and serene atmosphere of this sacred place.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5653,7 +5653,7 @@
 {
     "id": "pl_osm_2efb2fd1a5",
     "name": "Pahathgama Bodi Tree",
-    "description": "Pahathgama Bodi Tree is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pahathgama Bodi Tree, a sacred Buddhist site in Colombo, Sri Lanka, stands as a testament to the ancient faith. The exact origins of this boddhi tree, believed to be a descendant of the original Bodhi under which Buddha attained enlightenment, remain shrouded in mystery. It draws visitors seeking spiritual solace and peace, offering a serene environment for meditation and photography. Known for its historical and cultural importance, the boddhi tree is a focal point for Buddhists and tourists alike, symbolizing the enduring legacy of Buddhism in Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5725,7 +5725,7 @@
 {
     "id": "pl_osm_b01816b67b",
     "name": "Kahanthota Temple",
-    "description": "Located in Colombo, Kahanthota Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Kahanthota Temple, nestled in the heart of Colombo, is a significant Buddhist sanctuary known for its serene atmosphere and tranquil ambiance. The temple, believed to be over a century old, was established by local Buddhist monks seeking a peaceful retreat. It offers visitors a chance to engage in meditation and take stunning photography, capturing the essence of serenity and culture. Over the years, it has become a cherished site for both locals and tourists, appreciating its blend of traditional architecture and modern tranquility.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5761,7 +5761,7 @@
 {
     "id": "pl_osm_0077e48dbf",
     "name": "Buddhist Center",
-    "description": "Buddhist Center is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Buddhist Center, located in the heart of Colombo, Sri Lanka, is a prominent Buddhist temple where visitors can engage in meditation practices and capture serene photographs of the temple grounds. The site, though not explicitly known by its current name, has been a significant center for Buddhist teachings and rituals for centuries, attracting devotees and tourists alike. Its architecture reflects traditional Sinhalese design, featuring intricate carvings and ornate decorations that tell stories of ancient Buddhist lore. Over the years, it has hosted numerous ceremonies and gatherings, making it a pivotal location in the local Buddhist community.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5797,7 +5797,7 @@
 {
     "id": "pl_osm_d148301c56",
     "name": "Piyarathanarama Temple",
-    "description": "Located in Colombo, Piyarathanarama Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Piyarathanarama Temple, located in the heart of Colombo, Sri Lanka, is a significant Buddhist temple known for its serene atmosphere and ancient architecture. It was established by local Buddhist monks as a place of worship and meditation over 200 years ago. The temple’s intricate carvings and ornate statues attract visitors seeking spiritual solace and peace. Notable events include annual Buddha Jayanthi celebrations, where devotees gather to pay homage to the Buddha. Visitors can also capture moments at the temple’s picturesque grounds, making it a popular spot for photography enthusiasts.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5833,7 +5833,7 @@
 {
     "id": "pl_osm_35e53b809e",
     "name": "Galvihara Temple",
-    "description": "Located in Colombo, Galvihara Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Galvihara Temple, located in the heart of Colombo, is an ancient Buddhist sanctuary known for its serene atmosphere and historical significance. Founded centuries ago, it was once a hub for spiritual retreats and meditation sessions. Over time, the temple has become a popular spot for tourists and locals alike, offering visitors a chance to capture its picturesque beauty through photographs. Its rich history and cultural importance make it a must-visit destination for those interested in Buddhism and Sri Lankan heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5869,7 +5869,7 @@
 {
     "id": "pl_osm_56fd1d1548",
     "name": "Bodhiraja Viharaya",
-    "description": "Bodhiraja Viharaya is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Bodhiraja Viharaya, located in the heart of Colombo, is a significant Buddhist temple known for its serene atmosphere and ancient architecture. Built during the reign of King Mahasena in the 5th century AD, it holds great religious importance as a site where Buddha's relics were enshrined. The temple's intricate carvings and well-preserved statues attract both local and international visitors interested in Buddhist culture and history. Visitors can participate in meditation sessions and take photos to capture the tranquil beauty of this historic landmark.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5941,7 +5941,7 @@
 {
     "id": "pl_osm_f844cb92dd",
     "name": "Borella Bodiya",
-    "description": "Located in Colombo, Borella Bodiya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Borella Bodiya, a Buddhist temple in Colombo, stands as a serene sanctuary for those seeking spiritual reflection. Constructed during the early colonial period, it was originally built by local Buddhists as a place of worship. Over time, it has become a popular site for meditation and photography, attracting visitors interested in both its historical significance and serene atmosphere. The temple's architecture reflects a blend of traditional Sri Lankan and colonial influences, making it a unique spot in Colombo's cultural landscape.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -5977,7 +5977,7 @@
 {
     "id": "pl_osm_6468ec9e1b",
     "name": "Jayashekararamaya Kuppiyawatte",
-    "description": "Jayashekararamaya Kuppiyawatte is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Jayashekararamaya Kuppiyawatte, a Buddhist temple in Colombo, Sri Lanka, offers visitors a serene space for meditation and photography. Its origins date back to ancient times, though specific details about its construction and founding remain undocumented. The temple is significant as a place of spiritual retreat, attracting devotees and tourists alike seeking tranquility and inspiration. Visitors can explore the temple's architecture, participate in daily meditation sessions, and capture moments through their cameras, making it a popular spot for both local and international tourists.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6013,7 +6013,7 @@
 {
     "id": "pl_osm_84babe9739",
     "name": "Lumbini Monastery",
-    "description": "Located in Colombo, Lumbini Monastery is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Lumbini Monastery in Colombo, Sri Lanka, stands as a serene sanctuary dedicated to Buddhism. Located in the city center, it offers visitors a tranquil space for meditation and photography. The site commemorates the birthplace of Buddha, believed to be in Nepal, making it a significant pilgrimage destination for Buddhists. Established in the early 20th century, the monastery attracts both local and international tourists seeking spiritual solace. Its peaceful setting amidst bustling Colombo provides a perfect retreat for those looking to reflect on the teachings of the Buddha.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6049,7 +6049,7 @@
 {
     "id": "pl_osm_c171d92c28",
     "name": "Sri Vinayalankararamaya Temple",
-    "description": "Sri Vinayalankararamaya Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Vinayalankararamaya Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and tranquil meditation gardens. The temple, believed to be over a century old, houses ancient statues and relics that attract visitors seeking spiritual guidance. Its architecture blends traditional Sinhalese styles with modern elements, creating a harmonious blend of past and present. Visitors often come to take photos in front of the temple’s iconic golden pagoda, which stands as a symbol of peace and enlightenment.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6085,7 +6085,7 @@
 {
     "id": "pl_osm_02f22c0f5c",
     "name": "Siri Perakumba Viharaya",
-    "description": "Siri Perakumba Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Siri Perakumba Viharaya, nestled in the heart of Colombo, is a serene Buddhist temple known for its ancient architecture and tranquil atmosphere. It was established during the early 2nd century BC as a pilgrimage site for Buddhists, attracting devotees seeking spiritual solace. The temple features intricately carved wooden pillars and ornate statues, reflecting the rich cultural heritage of Sri Lanka. Visitors can partake in meditation sessions and capture the serene beauty through photography, making it a popular destination for both locals and tourists alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6121,7 +6121,7 @@
 {
     "id": "pl_osm_c0dd81d5d0",
     "name": "Tapodaramaya Temple",
-    "description": "Tapodaramaya Temple is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Tapodaramaya Temple, located in the heart of Colombo, Sri Lanka, is an ancient Buddhist temple known for its serene atmosphere and historical significance. The temple dates back to the 5th century AD and was constructed during the Anuradhapura Kingdom era. It holds cultural and religious importance as it houses several Buddha statues and relics. Visitors can engage in meditation and photography sessions, capturing the tranquil beauty of the temple. Known for its historical and spiritual value, Tapodaramaya Temple attracts both local and international tourists seeking peace and tranquility.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6157,7 +6157,7 @@
 {
     "id": "pl_osm_19ed35aae4",
     "name": "Sri Sambuddhaloka Viharaya",
-    "description": "Sri Sambuddhaloka Viharaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sambuddhaloka Viharaya, located in the heart of Colombo, is a revered Buddhist temple dedicated to Lord Buddha. Built during the colonial era, it was established by local Buddhists seeking a place to meditate and pray. The temple’s architecture blends traditional Sinhalese styles with European influences, reflecting the cultural integration of the time. Notable for its serene atmosphere, visitors often come to practice meditation and take photographs of the ancient statues and intricate carvings, making it a popular spot for both locals and tourists.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6177,7 +6177,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -6193,7 +6193,7 @@
 {
     "id": "pl_osm_652ea0f6cb",
     "name": "Vivekaramaya Temple",
-    "description": "Vivekaramaya Temple is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Vivekaramaya Temple, located in the heart of Colombo, is a significant Buddhist site known for its serene atmosphere and ancient architecture. Built during the colonial era, it was originally constructed as a church but later converted into a Buddhist temple. The temple’s most striking feature is its large Buddha statue, which draws visitors from around the world for meditation sessions and photography opportunities. It holds cultural and religious importance, serving as a place of worship and a hub for spiritual practices.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6229,7 +6229,7 @@
 {
     "id": "pl_osm_c56ed6be72",
     "name": "Sri Bodhirukkaramaya",
-    "description": "Sri Bodhirukkaramaya is a Buddhist temple in the Colombo area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhirukkaramaya, located in the heart of Colombo, is a significant Buddhist temple known for its serene atmosphere and historical importance. The temple, believed to date back to the 14th century, was once a center for spiritual retreats and meditation practices. It stands as a testament to the rich cultural heritage of Colombo, attracting both locals and tourists seeking peace and tranquility amidst its ancient architecture and lush gardens. Notable for its role in local Buddhist traditions, the temple hosts various ceremonies and meditation sessions, making it a popular destination for those interested in Buddhist culture and spirituality.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6265,7 +6265,7 @@
 {
     "id": "pl_osm_07e7addbe5",
     "name": "Khethumathi Viharaya",
-    "description": "Located in Colombo, Khethumathi Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Khethumathi Viharaya, located in the heart of Colombo, is a revered Buddhist temple known for its ancient architecture and serene ambiance. The temple dates back to the 14th century and is believed to be one of the oldest structures in the city, offering visitors a glimpse into Sri Lanka's rich Buddhist heritage. Over the years, it has been a significant site for spiritual practices and communal gatherings, attracting both locals and tourists seeking peace and tranquility. Visitors can enjoy meditation sessions and take photographs to capture the temple's architectural beauty and the tranquil surroundings.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6301,7 +6301,7 @@
 {
     "id": "pl_osm_b3321a09fc",
     "name": "Mahamevnawa Bodhignana Monastery",
-    "description": "Mahamevnawa Bodhignana Monastery is a Buddhist temple located in Colombo, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Mahamevnawa Bodhignana Monastery, nestled in the heart of Colombo, is a serene Buddhist temple known for its tranquil atmosphere and serene grounds. It was established in the late 20th century by a prominent Sri Lankan monk seeking to preserve traditional Buddhist practices. The monastery offers visitors a peaceful retreat through meditation sessions and photography tours, allowing tourists to capture the beauty of this sacred space. Its presence in the bustling city center makes it a unique destination for those seeking tranquility amidst urban life.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Buddhist Temple",
@@ -6333,3 +6333,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

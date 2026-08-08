@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_2b73d9edbe",
     "name": "Ammaduwa Kuda Kathragama Dewalaya",
-    "description": "Ammaduwa Kuda Kathragama Dewalaya is an archaeological site located in Ratnapura, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Ammaduwa Kuda Kathragama Dewalaya, an archaeological site in Ratnapura, Sri Lanka, is a ruin site that draws visitors interested in ancient architecture and history. Little is known about its original construction or religious purpose, but it offers a glimpse into the island's pre-colonial past. Historians suggest it may date back to the 4th century CE, possibly associated with Buddhist or Hindu practices. Today, it stands as a testament to the region's rich heritage, attracting those curious about Sri Lanka's ancient sites.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Ruins",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_82ec3d2261",
     "name": "Waulpane Ruins",
-    "description": "Located in Ratnapura, Waulpane Ruins is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Waulpane Ruins, an archaeological site in Ratnapura, Sri Lanka, offer a glimpse into the island's ancient past. The ruins, believed to date back to the Anuradhapura period, consist of stone structures and walls that stand as silent testimonies to the civilization that once thrived here. Visitors can explore these remnants, taking photos to capture their unique architectural beauty and historical significance. The site holds cultural and religious importance, though exact details of its founding and original purpose are shrouded in time. It attracts history enthusiasts and those interested in prehistoric Sri Lankan architecture.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Ruins",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_3c6861bb84",
     "name": "Ballanbendipelessa",
-    "description": "Located in Ratnapura, Ballanbendipelessa is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Ballanbendipelessa, an archaeological site in Ratnapura, Sri Lanka, offers visitors a glimpse into the island's ancient past. The ruins, believed to date back to the 3rd century BC, were likely constructed by early Buddhist settlers as part of their religious practices. Over time, they became a significant center of learning and culture, attracting scholars and pilgrims. Today, the site is a popular spot for tourists eager to explore its well-preserved structures and learn about its rich history through guided tours. Photography enthusiasts can capture the serene ruins and the lush surrounding landscape.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Ruins",
@@ -155,7 +155,7 @@
     "_osm_type": "way",
     "_osm_id": 561752812,
     "_source_global_id": "8eafed89-0a14-4724-9794-95ff6f491d7d",
-    "opening_hours": "Check locally",
+    "opening_hours": "sunrise-sunset",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -165,7 +165,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -177,3 +177,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_612d959f4c",
     "name": "coconut",
-    "description": "Located in Galle, coconut is a nature reserve worth visiting. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Coconut National Park, nestled in the verdant hills of Galle, Sri Lanka, offers visitors a chance to observe diverse wildlife including monkeys, birds, and even occasionally leopards. The park, established to protect an ancient coconut palm forest, provides a serene escape from urban life. Visitors can hike through trails that wind through lush vegetation, spotting the park's namesake trees along the way. Established to preserve the unique ecosystem and native species, the park also plays a role in local conservation efforts.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "National Park",
@@ -11,7 +11,7 @@
     "_osm_type": "way",
     "_osm_id": 1207929781,
     "_source_global_id": "10483a35-f370-418d-ba42-0660e66e90a5",
-    "opening_hours": "Check locally",
+    "opening_hours": "kaikawala",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

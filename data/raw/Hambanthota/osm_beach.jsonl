@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_0852cd2d72",
     "name": "Marakolliya Beach",
-    "description": "Located in Hambanthota, Marakolliya Beach is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Marakolliya Beach, located in Hambanthota, Sri Lanka, offers visitors a stretch of sandy shores perfect for swimming and sunbathing. The area, though not explicitly known for ancient ruins or significant historical events, attracts locals and tourists alike seeking a peaceful seaside retreat. Historically, the beach has been a popular spot for local fishermen and families enjoying the warm ocean waters and golden sands. Cultural significance lies in its role as a natural gathering place where locals come to relax and socialize.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Sandy Beach",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

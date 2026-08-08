@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_a57f19e32e",
     "name": "Berendi Kovil",
-    "description": "Berendi Kovil is a Hindu kovil located in Kegalle, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Berendi Kovil stands in Kegalle, Sri Lanka, a sacred Hindu temple dedicated to Lord Murugan, the god of war and wisdom. Built over centuries, it's believed to be a site where ancient Tamil traders worshipped their deities, adding a rich tapestry of Tamil heritage to Sri Lankan culture. The Kovil, known for its intricate carvings and harmonious architecture, draws devotees and visitors alike for prayers and spiritual reflections, while its serene beauty also invites tourists to capture its timeless charm through lenses.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_d7e68459fd",
     "name": "Nawagamuwa Paththini Devalaya",
-    "description": "Nawagamuwa Paththini Devalaya is a Hindu kovil in the Kegalle area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Nawagamuwa Paththini Devalaya, a Kovil in Kegalle District, Sri Lanka, is a sacred Hindu temple dedicated to Lord Murugan. It stands as a testament to the rich cultural heritage of the region, attracting devotees who come for prayer and spiritual enlightenment. The temple's origins date back to ancient times, though exact construction dates are undocumented. Notable for its serene ambiance and historical significance, visitors often take photos to commemorate their visit, making it a popular spot for tourists exploring Kegalle’s religious sites.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -69,10 +69,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_42038e49",
     "name": "Sri Kathirvelautha Swamy Temple, Kegalle",
-    "description": "This ancient Hindu temple, dedicated to Lord Murugan, stands majestically amidst lush greenery. Built in the 17th century, its intricate carvings and ornate architecture reflect the rich cultural heritage of Kegalle. Visitors can explore the serene premises and learn about the local traditions and beliefs.",
+    "description": "The Sri Kathirvelautha Swamy Temple in Kegalle, a Kovil dedicated to Lord Murugan, stands as a testament to ancient Tamil influences in Sri Lanka. Constructed during the 18th century by Tamil immigrants, the temple houses intricate carvings and a towering vimana. Visitors can explore the serene temple grounds, learn about local traditions, and marvel at the architectural beauty. Notable for its blend of Hindu and Sinhalese styles, it remains an important cultural site in Kegalle, attracting both devotees and tourists seeking insight into Sri Lanka’s diverse heritage.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -106,7 +107,7 @@
 {
     "id": "pl_1898eea6",
     "name": "Sri Kalpandara Temple, Ambanpattiya",
-    "description": "Discover the sacred Sri Kalpandara Temple, nestled amidst lush greenery in Ambanpattiya. This ancient Hindu site offers a serene atmosphere where devotees gather to pay homage to Lord Shiva. Witness intricate carvings and explore the temple’s tranquil courtyard, a perfect spot for reflection and worship.",
+    "description": "Sri Kalpandara Temple in Ambanpattiya, Kegalle, is a sacred Hindu Kovil where devotees gather for prayer and meditation. The temple, believed to date back to the 16th century, is known for its intricate architecture and the legend of the local deity Kalpandara Perumal. Notable for its serene atmosphere and picturesque surroundings, the temple also attracts visitors interested in photography and reflection. Known for its historical and spiritual importance, it serves as a hub for local religious practices and community gatherings.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -174,7 +175,7 @@
 {
     "id": "pl_f4f2f57f",
     "name": "Sri Kathirvelautha Swamy Temple, Parakkaduvai",
-    "description": "This ancient Hindu temple, located in Parakkaduvai, is a sacred site dedicated to Lord Murugan. Built over 200 years ago, its intricate carvings and ornate architecture reflect the rich cultural heritage of Sri Lanka. Visitors can explore the serene premises and learn about the local traditions and beliefs.",
+    "description": "Sri Kathirvelautha Swamy Temple, located in Parakkaduvai, Kegalle, is a revered Hindu Kovil dedicated to Lord Murugan. The temple dates back to the early 20th century and is believed to have been constructed by devotees seeking blessings from the deity. It stands as a significant pilgrimage site, attracting worshippers and tourists alike who come to pray, meditate, take photos, and reflect on spiritual journeys. The temple's architecture reflects traditional Hindu design elements, with intricate carvings and a serene ambiance that invites reflection. Visitors often leave offerings of flowers, fruits, and small statues of Lord Murugan.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -208,7 +209,7 @@
 {
     "id": "pl_9aaa48dc",
     "name": "Sri Muththumariyamman Temple, Puwakpitya",
-    "description": "This ancient Hindu temple, dedicated to Muththumariyamman, stands majestically amidst lush greenery. Built over 200 years ago, its intricate carvings and ornate architecture reflect the rich cultural heritage of Sri Lanka. Visitors can explore the serene premises and learn about the local traditions and beliefs.",
+    "description": "Sri Muththumariyamman Temple in Puwakpitya, Kegalle district, is a sacred Hindu Kovil dedicated to the goddess Muththumariyamman. The temple stands as a testament to local traditions and craftsmanship, with its intricate carvings and architectural beauty attracting visitors. Notable for its serene atmosphere and historical significance, the temple grounds offer a peaceful retreat for those seeking spiritual connection. Visitors can learn about the local traditions and culture, making it a popular spot for both locals and tourists. Photos of the temple’s exquisite architecture capture its timeless charm.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -242,7 +243,7 @@
 {
     "id": "pl_41e5b583",
     "name": "Kegalle Sri Sivan Kovil",
-    "description": "Kegalle Sri Sivan Kovil stands as a sacred Hindu temple nestled amidst lush greenery, offering visitors a glimpse into the rich cultural heritage of Sri Lanka. This ancient site, adorned with intricate carvings and statues, attracts both locals and tourists seeking spiritual enlightenment and historical insight.",
+    "description": "Kegalle Sri Sivan Kovil, a sacred Hindu temple in the Kegalle district, stands as a testament to the rich cultural heritage of Sri Lanka. Built over centuries, the Kovil honors Lord Shiva, attracting devotees who come for prayer, meditation, and cultural tours. Its architectural beauty and serene ambiance make it a popular spot for tourists seeking insights into Sri Lankan traditions. Notable for its historical significance, the Kovil has witnessed numerous cultural and religious events, reflecting the deep-rooted devotion of its community.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",

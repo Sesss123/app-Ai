@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_932fccc894",
     "name": "Kanniya Hot Water Wells",
-    "description": "Kanniya Hot Water Wells is a point of interest located in Trincomalee, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kanniya Hot Water Wells, located in Trincomalee, Sri Lanka, are a group of natural hot springs known for their therapeutic properties. The exact age and construction date of these wells are unknown, but they have been used by locals for centuries as a source of healing water. Visitors can soak in the warm waters, which offer relaxation and potential health benefits, while also appreciating the natural beauty of the area. Nearby, there are also traditional bathing areas where locals traditionally gather. This site is significant for both its historical use and its present-day appeal as a wellness destination.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Other",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_614c67a580",
     "name": "Arisimalai Fishing Point",
-    "description": "Located in Trincomalee, Arisimalai Fishing Point is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Arisimalai Fishing Point, located in the picturesque Trincomalee district, is a popular spot for tourists to watch the sunset over the Indian Ocean. Known for its serene beauty and vibrant marine life, the point offers visitors a chance to see colorful fish and turtles swimming near the shore. Historically, the area has been a significant fishing ground for centuries, providing sustenance for local communities. Today, it attracts nature lovers and photographers who appreciate its natural splendor. Notable events include the annual fishing festival held here, where locals gather to celebrate their heritage and share traditional practices.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_96e0e4e579",
     "name": "Pigeon Island Tours",
-    "description": "Pigeon Island Tours is a point of interest in the Trincomalee area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Pigeon Island Tours, located in Trincomalee, Sri Lanka, offers visitors a unique opportunity to explore an island known for its strategic importance during colonial times. The island was fortified by the Portuguese, Dutch, and British, each leaving their mark on its history. Today, visitors can admire the remnants of these fortifications and learn about the significant naval battles that took place here, including the Battle of Trincomalee in 1782, which played a crucial role in the maritime history of the region. Guided tours provide insights into the island's rich cultural heritage and ongoing efforts to preserve its historical sites.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_6e9428cde1",
     "name": "Deer Park",
-    "description": "Deer Park is a point of interest in the Trincomalee area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Deer Park in Trincomalee, Sri Lanka is a small area known for its serene greenery and historical significance. It is believed to be named after the deer that once roamed freely in the park. The park is a popular spot for visitors to take photos and admire the lush landscape, often accompanied by the sound of local birds. Its exact founding date is unknown, but it has been an integral part of the region's landscape for centuries, reflecting the area's rich biodiversity and cultural heritage.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Other",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

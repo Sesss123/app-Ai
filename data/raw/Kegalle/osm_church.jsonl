@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_316367e941",
     "name": "St. Mary's Church",
-    "description": "St. Mary's Church is a church in the Kegalle area of Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St Mary's Church in Kegalle, Sri Lanka, is an important Anglican church known for its beautiful architecture and rich history dating back to the late 19th century. Built by British colonialists, the church stands as a testament to early Christian missionary efforts in the region. It was constructed to serve the local Anglican community and became a significant place of worship and social gathering. Notable for its intricate stained glass windows and well-preserved interior, the church has hosted numerous weddings and religious ceremonies, making it a beloved landmark in the area. Its serene setting and historical significance make it a popular spot for both locals and tourists.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_ae1f384ff1",
     "name": "St. Mary's Catholic Church Yatantota",
-    "description": "St. Mary's Catholic Church Yatantota is a church located in Kegalle, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St Mary's Catholic Church in Yatantota, Kegalle District, is an important place of worship where locals and visitors gather for prayers. The church stands as a testament to the rich Catholic heritage in the region, though its exact founding date remains undocumented. Known for its serene architecture and peaceful atmosphere, it offers a tranquil setting for those seeking spiritual solace. Visitors can also appreciate its picturesque location, often surrounded by lush greenery. Despite the lack of specific founding details, the church continues to serve as a significant landmark in the community.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_1772e0d2ee",
     "name": "Kudagama palliya",
-    "description": "Located in Kegalle, Kudagama palliya is a church worth visiting. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Kudagama palliya, a small church nestled in the lush greenery of Kegalle District, offers visitors a serene space for prayer and contemplation. Its origins trace back to the early days of Christian missionary work in Sri Lanka, though specific details of its construction or founding figures are unknown. The church stands as a testament to the enduring presence of Christianity in the region, attracting both local worshippers and curious tourists interested in its historical and cultural significance. Visitors can explore the tranquil grounds, taking photos to capture the picturesque setting and the simple beauty of this sacred site.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",
@@ -105,10 +105,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_56e4cce2",
     "name": "Kegalle St. Anthony's RC Church",
-    "description": "Kegalle St. Anthony's RC Church stands as a testament to the rich Christian heritage of the region, its ornate interior featuring intricate wood carvings and a serene atmosphere that draws visitors seeking spiritual solace.",
+    "description": "Kegalle St. Anthony's RC Church stands in the heart of Kegalle District, Sri Lanka, serving as a place of worship for Roman Catholics. Founded in the early 20th century, the church was built by local community members and priests, reflecting the deep faith and resilience of the area's inhabitants. Over the years, it has hosted numerous prayer services and gatherings, becoming an integral part of the community life. Visitors can explore the serene interior, admire the intricate carvings, and take photos to capture the beauty and tranquility of the church.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",
@@ -142,7 +143,7 @@
 {
     "id": "pl_27ceeba6",
     "name": "Kegalle St. Mary's Anglican Church",
-    "description": "Kegalle St. Mary's Anglican Church stands as a historical gem in the heart of Kegalle district, adorned with intricate carvings and a serene atmosphere that invites visitors to explore its rich Anglican heritage.",
+    "description": "Kegalle St. Mary's Anglican Church stands in the heart of Kegalle, a historic town known for its rich cultural heritage. The church, a significant landmark, was established by British colonialists in the late 19th century, serving as a symbol of their influence over the local population. Its ornate architecture reflects Victorian aesthetics, featuring intricate carvings and stained glass windows. Over the years, the church has hosted numerous religious ceremonies and community gatherings, making it an important site for both locals and tourists interested in learning about Sri Lanka's diverse religious landscape.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",
@@ -176,7 +177,7 @@
 {
     "id": "pl_1208f3ec",
     "name": "Mawanella St. Joseph's Church",
-    "description": "Mawanella St. Joseph's Church stands as a testament to the rich Catholic heritage of Kegalle. Nestled amidst lush greenery, this historic church offers visitors a serene atmosphere and a glimpse into the local culture.",
+    "description": "Mawanella St. Joseph's Church stands in the heart of Kegalle District, Sri Lanka, known for its serene ambiance and spiritual offerings. Founded in the early 20th century by a local community, the church has become a significant gathering place for worship and reflection. Regular prayer services and meditation sessions attract visitors seeking solace and tranquility. Its picturesque location makes it a popular spot for photography, offering both tourists and locals a glimpse into the rich cultural tapestry of the region.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",
@@ -210,7 +211,7 @@
 {
     "id": "pl_e092c3e1",
     "name": "Ruwanwella St. Mary's Church",
-    "description": "Ruwanwella St. Mary's Church stands as a testament to the rich Christian heritage of Kegalle. Nestled amidst lush greenery, this historic church offers visitors a glimpse into the island's religious past, featuring intricate carvings and a serene atmosphere that draws both locals and tourists alike.",
+    "description": "Ruwanwella St. Mary's Church stands in Kegalle District, Sri Lanka, known for its ornate architecture and serene setting. The church was established in the early 20th century by British missionaries, blending Gothic and Indo-Saracenic styles. Its distinctive bell tower and stained glass windows draw visitors to explore its richly decorated interior. Beyond the church, the surrounding hills offer breathtaking views, making it a popular spot for photography and leisurely walks. Notable for its architectural heritage and peaceful atmosphere, Ruwanwella St. Mary's Church attracts tourists interested in both its historical significance and natural beauty.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",

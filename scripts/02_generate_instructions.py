@@ -22,6 +22,7 @@ Usage:
 """
 
 import json
+import math
 import random
 from pathlib import Path
 
@@ -33,6 +34,20 @@ TRAINING_DIR = Path(__file__).resolve().parent.parent / "data" / "training"
 SYSTEM_PROMPT_EN = (
     "You are TripMe, a warm and knowledgeable Sri Lankan travel voice assistant. "
     "Reply naturally in English, using only the facts provided about each place."
+)
+
+# Same voice/grounding rule as SYSTEM_PROMPT_EN, plus one extra line: think
+# through the request before answering, and show that thinking. Kept as its
+# own short prompt (not a longer general-purpose one) so only the scenario
+# that actually needs visible reasoning - trip planning, where there are
+# real tradeoffs to weigh (budget, pace, interests, day count) - pays for it.
+SYSTEM_PROMPT_TRIP_PLAN_EN = (
+    "You are TripMe, a warm and knowledgeable Sri Lankan travel voice assistant. "
+    "Reply naturally in English, using only the facts provided about each place. "
+    "Before giving the plan, briefly think through the request out loud - which "
+    "stops fit the interests and pace, whether the total cost fits the budget, "
+    "and anything about weather or safety worth weighing - then give the final "
+    "plan as JSON."
 )
 
 
@@ -721,6 +736,91 @@ PACE_STOPS_PER_DAY = {
     "packed": (3, 4),
 }
 
+# Rough average travel speed by road_condition, used only to turn a
+# haversine straight-line distance into an approximate driving time. This is
+# NOT real routing (no actual road network, no traffic) - it's a cheap
+# same-district estimate that's still far more honest than treating every
+# pair of stops as equally far apart, which is what a plain random shuffle
+# implicitly does. road_condition is read off the destination stop, since
+# that's the road you're arriving on.
+AVG_SPEED_KMH_BY_ROAD = {
+    "Paved": 40,
+    "Unpaved": 20,
+    "Mixed": 30,
+}
+DEFAULT_AVG_SPEED_KMH = 30
+
+
+def haversine_km(lat1: float, lng1: float, lat2: float, lng2: float) -> float:
+    """Straight-line distance between two lat/lng points, in kilometers."""
+    r = 6371.0
+    phi1, phi2 = math.radians(lat1), math.radians(lat2)
+    dphi = math.radians(lat2 - lat1)
+    dlambda = math.radians(lng2 - lng1)
+    a = math.sin(dphi / 2) ** 2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
+    return 2 * r * math.asin(math.sqrt(a))
+
+
+def travel_time_minutes(distance_km: float, road_condition: str) -> int:
+    speed = AVG_SPEED_KMH_BY_ROAD.get(road_condition, DEFAULT_AVG_SPEED_KMH)
+    return round(distance_km / speed * 60)
+
+
+def nearest_neighbor_order(places: list, start: dict) -> list:
+    """Greedy nearest-neighbor ordering: starting from `start`, repeatedly
+    picks whichever remaining place is closest (haversine) to the last one
+    added. Not an optimal route (that's a much harder problem), but it
+    turns a random stop order into a sensible "visit what's nearby next"
+    order using only real coordinates, which is what actually matters for
+    a same-day, same-district itinerary."""
+    remaining = places[:]
+    ordered = [start]
+    remaining.remove(start)
+    while remaining:
+        last = ordered[-1]
+        nxt = min(
+            remaining,
+            key=lambda p: haversine_km(last["lat"], last["lng"], p["lat"], p["lng"]),
+        )
+        ordered.append(nxt)
+        remaining.remove(nxt)
+    return ordered
+
+
+def cluster_into_days(places: list, days: int, min_stops: int, max_stops: int,
+                       rng: random.Random) -> list:
+    """Splits `places` into up to `days` day-groups, each geographically
+    coherent rather than an arbitrary slice. Picks a random unused place as
+    the day's seed, then greedily claims its nearest unused neighbors up to
+    that day's stop count - so a day's stops are the ones actually close to
+    each other, not whichever ones happened to land in the same slice of a
+    shuffled list."""
+    remaining = places[:]
+    day_groups = []
+    for _ in range(days):
+        if not remaining:
+            break
+        stops_today_count = min(rng.randint(min_stops, max_stops), len(remaining))
+        if stops_today_count <= 0:
+            break
+        seed = rng.choice(remaining)
+        remaining.remove(seed)
+        group = [seed]
+        for _ in range(stops_today_count - 1):
+            if not remaining:
+                break
+            nxt = min(
+                remaining,
+                key=lambda p: haversine_km(seed["lat"], seed["lng"], p["lat"], p["lng"]),
+            )
+            group.append(nxt)
+            remaining.remove(nxt)
+        # Sequence this day's stops as a nearest-neighbor route starting
+        # from the seed, so consecutive stops in the plan are actually
+        # close to each other rather than in pick order.
+        day_groups.append(nearest_neighbor_order(group, seed))
+    return day_groups
+
 
 def day_theme_en(categories_today: list) -> str:
     """Short label from the day's actual categories - 'Waterfalls & Nature
@@ -767,20 +867,34 @@ def safety_tip_en(stops_today: list) -> str:
 
 def notes_en(stops_today: list) -> str:
     """Practical facts as a compact list, not prose - opening hours, price,
-    and activities per stop, exactly as stored (no rounding/estimating)."""
+    activities, and (from stop 2 onward) the haversine-estimated travel leg
+    from the previous stop, exactly as computed (no rounding beyond what
+    travel_time_minutes already does)."""
     lines = []
-    for p in stops_today:
-        lines.append(
+    for i, p in enumerate(stops_today):
+        entry = (
             f"{p['name']}: {p['opening_hours']}, {money_en(p['ticket_price'])}, "
             f"activities: {p['activities'].lower()}"
         )
+        if i > 0:
+            prev = stops_today[i - 1]
+            dist_km = haversine_km(prev["lat"], prev["lng"], p["lat"], p["lng"])
+            mins = travel_time_minutes(dist_km, p.get("road_condition", ""))
+            entry += f" (~{dist_km:.1f} km / ~{mins} min from {prev['name']})"
+        lines.append(entry)
     return " | ".join(lines)
 
 
 def human_text_en(day_num: int, stops_today: list) -> str:
-    stop_clauses = [
-        f"{p['name']} ({money_en(p['ticket_price'])})" for p in stops_today
-    ]
+    stop_clauses = []
+    for i, p in enumerate(stops_today):
+        clause = f"{p['name']} ({money_en(p['ticket_price'])})"
+        if i > 0:
+            prev = stops_today[i - 1]
+            dist_km = haversine_km(prev["lat"], prev["lng"], p["lat"], p["lng"])
+            mins = travel_time_minutes(dist_km, p.get("road_condition", ""))
+            clause = f"about {mins} min away, {clause}"
+        stop_clauses.append(clause)
     stops_text = stop_clauses[0] if len(stop_clauses) == 1 else ", then ".join(stop_clauses)
     return sentence(f"day {day_num}: {stops_text}")
 
@@ -831,20 +945,12 @@ def build_trip_plan(destination_district: str, budget_lkr: int, days: int,
     if len(matching_places) < 2:
         return None
 
-    shuffled = matching_places[:]
-    rng.shuffle(shuffled)
     min_stops, max_stops = PACE_STOPS_PER_DAY.get(pace, (2, 3))
+    day_groups = cluster_into_days(matching_places, days, min_stops, max_stops, rng)
 
     day_results = []
-    cursor = 0
     running_cost = 0
-    for day_num in range(1, days + 1):
-        stops_today_count = min(rng.randint(min_stops, max_stops), len(shuffled) - cursor)
-        if stops_today_count <= 0:
-            break
-        stops_today = shuffled[cursor:cursor + stops_today_count]
-        cursor += stops_today_count
-
+    for day_num, stops_today in enumerate(day_groups, start=1):
         theme = day_theme_en([p["category_id"] for p in stops_today])
         day_cost = sum(p["ticket_price"] for p in stops_today)
         running_cost += day_cost
@@ -876,7 +982,69 @@ def build_trip_plan(destination_district: str, budget_lkr: int, days: int,
         "days": day_results,
         "total_estimated_cost_lkr": running_cost,
         "within_budget": running_cost <= budget_lkr,
+        # Internal only - used to narrate the reasoning trace (how big was
+        # the candidate pool this plan was picked from). Popped off before
+        # the plan is serialized into the assistant's JSON output.
+        "_matching_pool_size": len(matching_places),
     }
+
+
+def reasoning_en(request: dict, plan: dict, matching_pool_size: int) -> str:
+    """Narrates the actual decision behind `plan` - grounded in the same
+    numbers already computed for it (day themes, per-day cost, safety flags,
+    interest/pace matches), not a generic 'let me think' filler. Every claim
+    here must trace back to a real field on the plan or request; nothing is
+    invented just to sound thoughtful."""
+    interests_text = " and ".join(request["interests"])
+    lines = [
+        sentence(
+            f"the traveler wants a {request['pace']}-paced {request['days']}-day trip "
+            f"in {request['destination']} focused on {interests_text}"
+        ),
+        sentence(
+            f"there are {matching_pool_size} places in {request['destination']} matching "
+            f"those interests, enough to fill {len(plan['days'])} day"
+            f"{'s' if len(plan['days']) != 1 else ''} without repeating a stop"
+        ),
+    ]
+
+    for day in plan["days"]:
+        stops = day["stops"]
+        stop_names = ", ".join(s["name"] for s in stops)
+        if len(stops) > 1:
+            day_km = sum(
+                haversine_km(stops[i - 1]["lat"], stops[i - 1]["lng"], stops[i]["lat"], stops[i]["lng"])
+                for i in range(1, len(stops))
+            )
+            lines.append(sentence(
+                f"day {day['day']} groups {stop_names} together as a {day['day_theme'].lower()}, "
+                f"ordered by proximity so consecutive stops are close - about {day_km:.1f} km "
+                f"of travel between them in total"
+            ))
+        else:
+            lines.append(sentence(f"day {day['day']} groups {stop_names} together as a {day['day_theme'].lower()}"))
+        if day["safety_tip"] and not day["safety_tip"].startswith("No particular safety"):
+            lines.append(sentence(day["safety_tip"]))
+
+    cost = plan["total_estimated_cost_lkr"]
+    budget = request["budget_lkr"]
+    if plan["within_budget"]:
+        headroom = budget - cost
+        if cost == 0:
+            lines.append(sentence("every stop on this plan is free to enter, so it comfortably fits any budget"))
+        else:
+            lines.append(sentence(
+                f"total cost comes to {cost} rupees against a {budget} rupee budget, "
+                f"leaving {headroom} rupees of headroom, so this fits"
+            ))
+    else:
+        over_by = cost - budget
+        lines.append(sentence(
+            f"total cost comes to {cost} rupees, which is {over_by} rupees over the "
+            f"{budget} rupee budget - flagging that rather than quietly dropping a stop"
+        ))
+
+    return " ".join(lines)
 
 
 def build_trip_plan_examples(places_by_district: dict, rng: random.Random, num_variants: int = 6) -> list:
@@ -919,6 +1087,10 @@ def build_trip_plan_examples(places_by_district: dict, rng: random.Random, num_v
                 "interests": interests,
                 "pace": pace,
             }
+            matching_pool_size = plan.pop("_matching_pool_size")
+            reasoning = reasoning_en(request, plan, matching_pool_size)
+            assistant_content = f"{reasoning}\n\n{json.dumps(plan, ensure_ascii=False)}"
+
             all_ids = [s["place_id"] for day in plan["days"] for s in day["stops"]]
             examples.append({
                 "lang": "en",
@@ -926,9 +1098,9 @@ def build_trip_plan_examples(places_by_district: dict, rng: random.Random, num_v
                 "place_ids": all_ids,
                 "district": district,
                 "messages": [
-                    {"role": "system", "content": SYSTEM_PROMPT_EN},
+                    {"role": "system", "content": SYSTEM_PROMPT_TRIP_PLAN_EN},
                     {"role": "user", "content": json.dumps(request, ensure_ascii=False)},
-                    {"role": "assistant", "content": json.dumps(plan, ensure_ascii=False)},
+                    {"role": "assistant", "content": assistant_content},
                 ],
             })
     return examples

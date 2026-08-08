@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_780510381d",
     "name": "Mahatma Gandhi Statue",
-    "description": "Mahatma Gandhi Statue is a historic landmark located in Batticaloa, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Mahatma Gandhi Statue stands in Batticaloa, a historic district known for its rich cultural heritage. Dedicated to the memory of the Indian independence leader, it was erected as a tribute to his philosophy and principles. Built in 2008, the statue symbolizes peace and unity, attracting visitors interested in learning about Gandhi's impact on global movements. It's a popular spot for tourists and locals alike, offering a serene place to reflect on social and political issues. Nearby, there are also historical sites like the Batticaloa Fort, adding to the area's significance.",
     "district_id": "Batticaloa",
     "province_id": "Eastern",
     "category_id": "Building",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_5ab7b74d5a",
     "name": "selvapuram cemetery",
-    "description": "Located in Batticaloa, selvapuram cemetery is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Selvapuram Cemetery, a historic landmark in Batticaloa, Sri Lanka, stands as a poignant remembrance site where thousands of people, predominantly Tamils, rest after their passing. Established in the early 20th century, it was initially a small plot of land but grew over time due to the high death toll during the civil war. The cemetery, now a silent witness to the region's tumultuous past, holds significant cultural and religious importance, serving as a place of reflection and pilgrimage for locals and visitors alike. It features well-tended graves, many adorned with personal tributes and flowers, creating a serene yet somber atmosphere.",
     "district_id": "Batticaloa",
     "province_id": "Eastern",
     "category_id": "Building",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_8eec57cdde",
     "name": "Cemetery",
-    "description": "Cemetery is a historic landmark located in Batticaloa, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Cemetery in Batticaloa District is a historic site where numerous graves and monuments stand testament to the area's rich colonial past and more recent history. Established by the Dutch East India Company in the 17th century, it was later expanded under British rule. The cemetery holds significant religious and cultural importance, with notable figures buried alongside local residents. Visitors can explore the serene grounds, taking photos and admiring the architecture, which includes Gothic-style tombs and ornate headstones. It's a poignant place to reflect on the passage of time and the lives that once shaped this region.",
     "district_id": "Batticaloa",
     "province_id": "Eastern",
     "category_id": "Building",
@@ -177,3 +177,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_b8be2606c8",
     "name": "Thummodara Ranmudu Ella",
-    "description": "Thummodara Ranmudu Ella is a point of interest in the Colombo area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Thummodara Ranmudu Ella, also known as the Elephant Rock, is a natural rock formation located in the outskirts of Colombo, Sri Lanka. It features a large rock face that resembles an elephant, attracting visitors who seek to see its unique shape. The site is a popular spot for sightseeing, offering panoramic views and a chance to appreciate Sri Lanka’s natural beauty. Little is known about its specific history or religious importance, though it has likely been admired by locals and tourists for centuries.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_fc63038039",
     "name": "Ella Uda Ella",
-    "description": "Ella Uda Ella is a point of interest in the Colombo area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Ella Uda Ella, also known as Ella Rock, is a natural rock formation in the Ella area of central Sri Lanka, near the Nuwara Eliya district. It is a popular spot for tourists and locals alike, offering scenic views and a tranquil atmosphere. The exact date of its formation and the people responsible for its name remain unknown, though it has been a local landmark for centuries. Visitors can admire the rock's rugged beauty and take photos at this picturesque spot.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_aaa827067f",
     "name": "Fishing at Bolgoda Lake",
-    "description": "Fishing at Bolgoda Lake is a point of interest located in Colombo, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Fishing at Bolgoda Lake, located in the outskirts of Colombo, is a serene spot where locals and tourists alike can enjoy a leisurely boat ride through the lake's crystal-clear waters. The area offers opportunities to see diverse wildlife including migratory birds and exotic fish species. Its picturesque setting and tranquil atmosphere make it a popular destination for those seeking a break from urban life. Known for its untouched beauty and rich biodiversity, Bolgoda Lake is a testament to Sri Lanka's natural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -83,7 +83,7 @@
     "_osm_type": "node",
     "_osm_id": 4732044624,
     "_source_global_id": "9d69d1fb-dec0-4eb8-9422-bd0c516f7bfc",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 09:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_07818c632a",
     "name": "Urban Ruin",
-    "description": "Urban Ruin is a point of interest located in Colombo, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Urban Ruin, an ancient structure in Colombo, stands as a testament to the city's rich architectural heritage. Constructed during the colonial era, it was once part of a larger complex that housed government offices and administrative buildings. The ruins, now largely abandoned, offer visitors a glimpse into the past, their remnants hinting at the bustling life that once thrived within the walls. Despite being neglected over time, the Urban Ruin remains a fascinating site for those interested in the history of Colombo and its evolution under different rulers.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_f3c06ef369",
     "name": "Okada Temple",
-    "description": "Okada Temple is a point of interest located in Colombo, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Okada Temple, also known as the Temple of the Tooth, is a revered Buddhist temple in Colombo, Sri Lanka. It houses the relic tooth of Buddha, believed to be his tusk. The temple has been a significant pilgrimage site attracting devotees from around the world. Built by King Valagamba in the 3rd century BC, it was later restored by the Portuguese and Dutch before being renovated by the British. Today, it stands as a testament to centuries of religious and historical importance. Visitors can admire intricate carvings and statues while learning about its rich cultural and religious heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_14b59c9758",
     "name": "Pettah Market",
-    "description": "Pettah Market is a point of interest located in Colombo, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Pettah Market, located in the bustling Pettah district of Colombo, is a vibrant marketplace that has been a hub of commerce and culture for centuries. Originally established as a small trading area in the 17th century, it expanded over time to become one of the largest markets in Sri Lanka, known for its diverse array of goods including spices, textiles, and traditional crafts. The market attracts both locals and tourists, offering a glimpse into Sri Lankan culture and daily life. Notable for its rich history and the numerous local stories associated with its landmarks, Pettah Market remains a central point of interest for visitors exploring Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_5cce3db17f",
     "name": "Island Scuba",
-    "description": "Located in Colombo, Island Scuba is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Island Scuba is an intriguing spot in Colombo, a popular destination for scuba diving and snorkeling. Located on the western coast, it offers visitors a unique opportunity to explore underwater marine life, including colorful coral reefs and diverse sea creatures. The area has been attracting divers and snorkelers for years, known for its clear waters and rich biodiversity. Visitors can take guided tours led by experienced instructors, providing a chance to learn about local marine ecosystems while enjoying the serene beauty of the ocean.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_01b6454253",
     "name": "Sathutu Uyana",
-    "description": "Sathutu Uyana is a point of interest in the Colombo area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Sathutu Uyana, also known as the Secret Garden, is a verdant oasis in the heart of Colombo, offering visitors a respite from the city's hustle. Historically significant, it was once a private garden belonging to a wealthy family, now open to the public. The garden features exotic plants, a pond, and walkways lined with old trees, creating an enchanting retreat. It's a popular spot for locals and tourists alike, providing a glimpse into the past through its lush greenery and tranquil atmosphere.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -263,7 +263,7 @@
     "_osm_type": "node",
     "_osm_id": 10107620993,
     "_source_global_id": "2f6cb872-777e-4a3e-a306-2e2dbf9dfe47",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Fr 09:00-19:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_0b84dda789",
     "name": "Moratuwa Clock Tower",
-    "description": "Moratuwa Clock Tower is a point of interest in the Colombo area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Moratuwa Clock Tower stands as a prominent landmark in Colombo's Moratuwa district, a historic site that has stood since the early 20th century. Constructed in 1908, the tower was part of a larger civic building that housed administrative offices and served as a symbol of the British colonial era. Today, it's a popular spot for tourists, offering panoramic views of the city and a glimpse into Sri Lanka's architectural heritage. Its presence reminds visitors of the island's rich colonial past and its enduring legacy in modern Sri Lanka.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_dab7397812",
     "name": "Good Market fair trade and organic market",
-    "description": "Located in Colombo, Good Market fair trade and organic market is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Good Market in Colombo's Pettah district is a vibrant hub for local and international artisans selling organic produce and fair-trade goods. Established over a decade ago, it has become a popular spot for tourists and locals alike, offering a glimpse into sustainable living practices. Visitors can explore stalls filled with fresh fruits, vegetables, spices, and handmade crafts, all produced with ethical labor practices and environmentally conscious methods. Notable for its commitment to sustainability, the market hosts various workshops and events promoting eco-friendly living, making it more than just a place to shop.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -335,7 +335,7 @@
     "_osm_type": "node",
     "_osm_id": 13011179161,
     "_source_global_id": "9baed673-6a33-423a-aa99-5cceabce824c",
-    "opening_hours": "Check locally",
+    "opening_hours": "Sa 08:00-12:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_e79fedcf6c",
     "name": "White Triangle Building",
-    "description": "White Triangle Building is a point of interest in the Colombo area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The White Triangle Building, located in the heart of Colombo, was constructed in the early 20th century as part of the city's modernization efforts. It stands as a testament to colonial architecture, blending elements of European design with local materials. The building's distinctive white exterior and triangular shape make it a notable landmark, often featured in photography tours of the city. Its construction marked a period of significant urban development in Colombo, reflecting the growth and changing face of the capital during that era.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_78d4ffea95",
     "name": "Pettah Floating Market",
-    "description": "Located in Colombo, Pettah Floating Market is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Pettah Floating Market in Colombo, Sri Lanka, is a vibrant marketplace located on the Pettah canal, known for its diverse array of fresh produce, spices, textiles, and local crafts. Historically, the market has been a hub for commerce and trade, dating back centuries. It offers visitors a unique glimpse into traditional Sri Lankan culture and daily life, with numerous food stalls and street vendors adding to its charm. Known for its bustling atmosphere and rich cultural heritage, Pettah Floating Market is a must-see for tourists exploring Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_dc0b0fa584",
     "name": "Historic Cargills building",
-    "description": "Historic Cargills building is a point of interest located in Colombo, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Historic Cargills building stands as a testament to Colombo's colonial past, standing in the heart of the city's commercial district. Constructed in 1874, it was once part of the Cargills trading company, which played a significant role in importing goods from India. Today, it offers visitors a glimpse into the city's rich history, with its ornate facade and interior features reflecting Victorian architecture. It now houses various shops and serves as an important point for sightseeing, providing a unique perspective on the evolution of Colombo's business landscape.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_a8776cec61",
     "name": "Lloyds Building",
-    "description": "Located in Colombo, Lloyds Building is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Lloyds Building, located in the heart of Colombo's business district, was constructed in the early 20th century as part of the city's rapid development. It stands as a testament to the architectural styles prevalent during that era, featuring a blend of colonial and modernist elements. The building has witnessed numerous corporate headquarters moves over the decades, serving as a landmark for both locals and tourists. Today, it offers panoramic views of the city skyline, making it a popular spot for sightseeing.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_7522591c0f",
     "name": "Arcade Independence Square Park",
-    "description": "Arcade Independence Square Park is a point of interest in the Colombo area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Arcade Independence Square Park, located in the heart of Colombo, is a small public space named after the independence movement. It was established in the early 20th century as a gathering spot for local communities. Today, it serves as a popular spot for locals and tourists to relax, socialize, and take in the vibrant street life around it. Known for its colorful arcade buildings lining the square, it’s a reminder of the city’s rich colonial heritage and ongoing community spirit.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -541,7 +541,7 @@
 {
     "id": "pl_osm_154b875aa4",
     "name": "G L P Bird Park",
-    "description": "G L P Bird Park is a point of interest in the Colombo area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "G L P Bird Park, located in the heart of Colombo, is a popular spot for bird enthusiasts and nature lovers. The park, named after its founder George Lyne Perera, opened in 1954 and now houses over 200 species of birds. It was established to promote awareness about wildlife conservation and offers visitors a chance to observe various native and exotic birds in their natural habitats. Visitors can take guided tours, enjoy bird watching, and learn about the importance of preserving Sri Lanka’s diverse avian life.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_b350cf65a3",
     "name": "Old Colombo Lighthouse;Chatham Street Clock Tower",
-    "description": "Old Colombo Lighthouse;Chatham Street Clock Tower is a point of interest in the Colombo area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Old Colombo Lighthouse stands at the end of Chatham Street, a historic site in Colombo, Sri Lanka, once a vital navigation aid for ships entering the port. The lighthouse, erected in the early 20th century, was built by British colonial authorities to guide mariners through the treacherous waters of the Galle Fort. It has been designated as a heritage site, preserving a piece of Colombo’s maritime history. Nearby, visitors can also check out the Chatham Street Clock Tower, a charming Victorian-era clock tower that once housed the lighthouse keepers' quarters. Both landmarks offer a glimpse into Colombo's rich maritime past.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Other",
@@ -609,3 +609,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_ba682b55a2",
     "name": "Demala Maha Says stupa ruins",
-    "description": "Demala Maha Says stupa ruins is a historic landmark in the Polonnaruwa area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Demala Maha Saya stupa ruins stand as a testament to ancient Buddhist architecture in Polonnaruwa, a district rich in historical sites. Constructed during the reign of King Parakramabahu I, these ruins are believed to be the remains of a large monastery complex. The site's cultural and religious importance lies in its association with the king's patronage of Buddhism, reflecting the era's emphasis on monastic life and learning. Today, visitors can explore the crumbling structures, marveling at the craftsmanship that once supported a vast community of monks and scholars.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_d7da90ab07",
     "name": "Buddha",
-    "description": "Located in Polonnaruwa, Buddha is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Buddha, a historic landmark in Polonnaruwa, Sri Lanka, stands as a testament to the country's rich Buddhist heritage. Constructed during the reign of King Parakramabahu I in the 14th century, it features a reclining Buddha figure carved into a large stone block. The statue, measuring over 13 meters in length, is considered one of the largest reclining Buddhas in Asia. Its serene presence attracts visitors who come to admire its intricate carvings and take photos, making it a popular spot for tourists exploring the ancient city.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Building",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_c49afc8368",
     "name": "Vanni Kuda Madu Church",
-    "description": "Vanni Kuda Madu Church is a historic landmark in the Polonnaruwa area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Vanni Kuda Madu Church, a historic landmark in Polonnaruwa, Sri Lanka, stands as a testament to the rich architectural heritage of the region. Built during the reign of King Parakramabahu I in the 13th century, it was originally a Buddhist temple but later converted into a Hindu shrine. Its unique blend of Buddhist and Hindu architectural elements reflects the syncretic culture of ancient Sri Lanka. The church features intricate carvings and a central sanctuary adorned with ancient statues, making it a significant site for both local and international tourists interested in the country's diverse religious history.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Building",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_fc979bd153",
     "name": "Vatadage",
-    "description": "Located in Polonnaruwa, Vatadage is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Vatadage, a historic building in Polonnaruwa, Sri Lanka, is an ancient temple structure known for its intricate stone carvings and architectural beauty. Built during the reign of King Parakramabahu I in the 14th century, it served as a Buddhist shrine and was likely used for rituals and ceremonies. Its ornate facade and central Buddha statue make it a significant site for tourists interested in Buddhist architecture and history. Visitors can admire the detailed sculptures and explore the serene courtyard, experiencing a piece of Polonnaruwa's rich cultural heritage.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Building",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_531b607844",
     "name": "Lankatilaka Temple",
-    "description": "Lankatilaka Temple is a historic landmark in the Polonnaruwa area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Lankatilaka Temple, located in Polonnaruwa, is a historic landmark known for its intricate stone carvings and architectural beauty. Built during the reign of King Parakramabahu I in the 13th century, it stands as a testament to ancient Sri Lankan craftsmanship. The temple’s main attraction is its impressive facade adorned with detailed sculptures depicting scenes from Buddhist mythology and daily life. Notable events include its role in royal ceremonies and its significance as a pilgrimage site for Buddhists. Visitors often capture its serene beauty through photographs, making it a popular spot for sightseeing.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Building",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_d77b9e20c2",
     "name": "Tivanka Image House",
-    "description": "Located in Polonnaruwa, Tivanka Image House is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Tivanka Image House, a historic landmark in Polonnaruwa, Sri Lanka, stands as a testament to ancient Sinhalese architecture. Constructed during the reign of King Parakramabahu I, this image house served as a repository for Buddhist images and relics. Its intricate carvings and architectural features showcase the artistic prowess of the time. As a popular site for tourists, visitors can explore its serene surroundings and take photographs, appreciating its historical and cultural significance. The structure, now a UNESCO World Heritage Site, attracts many pilgrims and curious onlookers seeking insights into the rich heritage of Polonnaruwa.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Building",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_cf90bae0b8",
     "name": "Parakramabahu I",
-    "description": "Parakramabahu I is a historic landmark in the Polonnaruwa area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Parakramabahu I, a historic landmark in Polonnaruwa, Sri Lanka, stands as a testament to ancient architectural prowess. Built during the 12th century, it was constructed by King Parakramabahu I, known for his significant contributions to irrigation systems and water management. The temple, a blend of Hindu and Buddhist elements, features intricate carvings and a sacred pond, attracting visitors interested in both its historical and cultural significance. Visitors can explore its serene grounds and capture its beauty through photographs, making it a popular spot for sightseeing and photography enthusiasts.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Building",
@@ -249,3 +249,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

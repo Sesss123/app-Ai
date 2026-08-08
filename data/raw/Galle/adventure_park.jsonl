@@ -1,7 +1,7 @@
 {
     "id": "pl_753fb344",
     "name": "Galle Surf School",
-    "description": "Galle Surf School offers a unique surfing experience on the picturesque beaches of Galle, perfect for both beginners and seasoned surfers. Nestled along the Southern coast, this school provides lessons and equipment rentals, making it a go-to spot for those seeking to catch some waves in a beautiful setting.",
+    "description": "Galle Surf School stands at the heart of Galle's bustling surf culture, offering surf lessons and beach walks for both beginners and seasoned surfers. The school's location on Galle's picturesque coastline makes it a popular spot for visitors to learn to catch those first waves or simply enjoy the sun-kissed beaches. Notable for its experienced instructors and serene ocean views, it's become a go-to destination for anyone looking to explore Galle's natural beauty through water-based activities. Established in 2015, Galle Surf School has grown into an integral part of Galle's tourism scene, fostering a love for the local waters among locals and tourists alike.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_83566140",
     "name": "Jungle Beach Scuba",
-    "description": "Jungle Beach Scuba offers a unique scuba diving experience at Jungle Beach, where visitors can explore vibrant coral reefs and encounter a variety of marine life. Nestled in Galle, this adventure park is perfect for both beginners and experienced divers, offering guided tours and equipment rentals.",
+    "description": "Jungle Beach Scuba, an adventure park in Galle, Sri Lanka, offers scuba diving and snorkeling experiences along pristine beaches. The park provides guided tours led by experienced instructors, allowing visitors to explore underwater marine life while learning about local marine ecosystems. Established to promote sustainable tourism and protect the coral reefs, Jungle Beach Scuba supports conservation efforts through regular beach cleanups and educational programs. Visitors can also learn about the rich maritime history of the region, including ancient shipwrecks and Dutch colonial ruins visible underwater.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_4c877cbe",
     "name": "Hikkaduwa Water Sports",
-    "description": "Hikkaduwa Water Sports is a vibrant adventure park nestled along the pristine shores of Hikkaduwa Beach. Experience thrilling water sports like surfing, kayaking, and paddleboarding under the warm Southern sun, all while enjoying the local culture and friendly atmosphere.",
+    "description": "Hikkaduwa Water Sports, an adventure park in Galle, Sri Lanka, offers activities like surfing, kayaking, and paddleboarding. The area attracts surfers and water enthusiasts year-round, with its consistent swells and clear waters. Known for its popularity among locals and tourists alike, Hikkaduwa has become a hub for water sports, offering lessons and rentals for beginners. Its golden sandy beaches and calm lagoons make it perfect for all kinds of water activities, making it a favorite spot for both casual visitors and dedicated surfers.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -96,10 +96,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_7c508a67de",
     "name": "Sea Turtle Hatchery",
-    "description": "Sea Turtle Hatchery is an attraction in the Galle area of Sri Lanka. It's a popular spot for a family day out.",
+    "description": "Sea Turtle Hatchery, an adventurous activity park in Galle, Sri Lanka, offers visitors the chance to observe and learn about sea turtle conservation efforts. The hatchery focuses on protecting these endangered species through monitoring nests and releasing hatchlings into the ocean. Established by local environmental groups in the early 2000s, it provides a unique opportunity to see baby turtles emerging from their sandy nests at night. Visitors can watch the turtles as they crawl towards the sea under the guidance of experienced guides, learning about the importance of preserving marine life and the delicate ecosystem of the Indian Ocean.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -136,7 +137,7 @@
 {
     "id": "pl_osm_9c67abada9",
     "name": "Turtle Farm",
-    "description": "Turtle Farm is an attraction in the Galle area of Sri Lanka. It's a popular spot for a family day out.",
+    "description": "Turtle Farm, an adventurous park in Galle, Sri Lanka, offers visitors the unique experience of wildlife watching, particularly focusing on the conservation of endangered sea turtles. Established as a sanctuary and educational center, it aims to raise awareness about marine life preservation. The farm's activities include guided tours where visitors can learn about turtle nesting habits, hatchling release programs, and the importance of protecting these creatures. It's a significant spot for those interested in nature and conservation, offering a glimpse into the vital role these animals play in the ecosystem.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -173,7 +174,7 @@
 {
     "id": "pl_osm_7d4a71e070",
     "name": "Turtle Hatchery Hikkaduwa",
-    "description": "Turtle Hatchery Hikkaduwa is an attraction located in Galle, Sri Lanka. It's a popular spot for a family day out.",
+    "description": "The Turtle Hatchery in Hikkaduwa, a part of Galle District, Sri Lanka, offers visitors an opportunity to witness and learn about sea turtle conservation efforts. Managed by local authorities and international organizations, this hatchery is a significant site for the protection and study of endangered turtle species, particularly the Green and Hawksbill turtles. Established to protect these creatures and their nests, the hatchery provides a unique experience for tourists interested in nature and conservation. Visitors can observe the hatching process and learn about the importance of preserving marine life.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -210,7 +211,7 @@
 {
     "id": "pl_osm_32cb407a4c",
     "name": "Sea Turtle Conservation Project",
-    "description": "Sea Turtle Conservation Project is an attraction located in Galle, Sri Lanka. It's a popular spot for a family day out.",
+    "description": "Sea Turtle Conservation Project, an adventure park in Galle, Sri Lanka, offers visitors the chance to observe sea turtles in their natural habitat. The project focuses on conservation efforts and education about these endangered species. Established with the aim to protect local turtle populations, it attracts both locals and tourists interested in wildlife watching and learning about marine life preservation. Known for its commitment to sustainable practices, the park plays a vital role in raising awareness about the importance of preserving coastal ecosystems.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -247,7 +248,7 @@
 {
     "id": "pl_osm_520527f18a",
     "name": "Sea Turtle Research Project",
-    "description": "Located in Galle, Sea Turtle Research Project is an attraction worth visiting. It's a popular spot for a family day out.",
+    "description": "Sea Turtle Research Project is an adventurous park in Galle, Sri Lanka, offering wildlife watching tours where visitors can observe sea turtles nesting on the nearby beaches. The project was established by local conservationists in 2005 to protect the critically endangered green turtle population. Notable events include turtle hatchlings being released into the ocean each year, marking the end of their conservation journey. Visitors learn about the importance of preserving these ancient creatures and their habitats through guided tours and educational talks.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -284,7 +285,7 @@
 {
     "id": "pl_osm_7a9f5ede63",
     "name": "Victor Hasselblad Sea Turtle Research & Conservation Center",
-    "description": "Located in Galle, Victor Hasselblad Sea Turtle Research & Conservation Center is an attraction worth visiting. It's a popular spot for a family day out.",
+    "description": "The Victor Hasselblad Sea Turtle Research & Conservation Center, located in Galle, Sri Lanka, is an adventure park offering unique wildlife watching experiences. Named after the renowned Swedish photographer Hasselblad, the center focuses on sea turtle conservation. Established to study and protect these endangered species, it offers visitors a chance to observe turtles in their natural habitat, learning about their lifecycle and the importance of preserving marine ecosystems. The center also conducts educational programs and awareness campaigns to engage local communities and tourists in turtle conservation efforts.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -304,7 +305,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -321,7 +322,7 @@
 {
     "id": "pl_osm_e4aef26d73",
     "name": "Turtle Hatchery",
-    "description": "Turtle Hatchery is an attraction in the Galle area of Sri Lanka. It's a popular spot for a family day out.",
+    "description": "The Turtle Hatchery in Galle, Sri Lanka, is an adventurous park where visitors can observe sea turtle nesting sites and hatchlings. Located on the beach, it offers a unique opportunity to see these endangered species in their natural habitat. The site has been protected for decades by local communities and conservationists, preserving the turtles' breeding grounds. Notable events include the annual release of hatchlings into the ocean, showcasing the importance of this ecosystem. Visitors can learn about turtle conservation efforts and participate in educational programs.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Adventure Park",

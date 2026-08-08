@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_e6bcb93ea6",
     "name": "Mohideen Grand Mosque",
-    "description": "Located in Anuradhapura, Mohideen Grand Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "The Mohideen Grand Mosque in Anuradhapura, a historic district in Sri Lanka, is a significant landmark attracting both local and international visitors. Built in the early 21st century, it stands as a testament to the blending of Islamic architectural elements with traditional Sri Lankan design. This mosque, known for its unique blend of cultures, is a place of worship and community gathering for the growing Muslim population in the region. Its construction was part of efforts to accommodate the increasing number of Muslims in the area, making it a culturally rich site that also serves as a symbol of unity and coexistence. Visitors can explore its serene courtyard and intricate interior, experiencing a harmonious fusion of faith and architecture.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_90906d2170",
     "name": "Kalawewa Jumma Grand Masjid",
-    "description": "Kalawewa Jumma Grand Masjid is a mosque located in Anuradhapura, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "The Kalawewa Jumma Grand Masjid, located in the Anuradhapura district of Sri Lanka, is an important Islamic place of worship. Constructed in the early 20th century, it stands as a testament to the growing Muslim population in the region. The grand mosque offers visitors a serene setting for prayer and reflection, with its architectural design blending traditional elements with modern aesthetics. It also attracts tourists interested in capturing its unique beauty through photographs, making it a popular spot for photo enthusiasts.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_c931293e64",
     "name": "Thakiyya masjid",
-    "description": "Thakiyya masjid is a mosque located in Anuradhapura, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Thakiyya masjid, located in the heart of Anuradhapura, is a historic mosque built during the late medieval period. It holds cultural and religious significance as it was once an important site for both local Muslim communities and visitors seeking spiritual guidance. The mosque features intricate architectural elements reflecting the style of that era, with its white domes and red-tiled roof. Despite being relatively small, it attracts many tourists interested in its historical and architectural beauty. Notable for its role in local Islamic practices and as a testament to the rich heritage of Anuradhapura, Thakiyya masjid continues to be a significant landmark in the city.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_c5e66b03da",
     "name": "Mihintale Jumma Masjidh",
-    "description": "Located in Anuradhapura, Mihintale Jumma Masjidh is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Mihintale Jumma Masjidh, located in the heart of Anuradhapura district, is a historic mosque known for its architectural beauty and spiritual significance. Originally constructed as a small shrine temple, it was later converted into a mosque during the British colonial period. The site holds deep religious and cultural importance, attracting visitors who come to pray and take photographs, appreciating its blend of ancient and modern elements. Its history intertwines with the rich tapestry of Anuradhapura's past, making it a unique destination for those interested in both religion and history.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_1a5f074adb",
     "name": "Mosque",
-    "description": "Mosque is a mosque in the Anuradhapura area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Mosque in Anuradhapura, Sri Lanka is an ancient structure known for its historical significance as one of the oldest mosques in the country. Built during the medieval period, it was likely constructed by Muslim traders and artisans who settled in Anuradhapura during the Chola invasions. The mosque played a crucial role in the local community, serving as a place of worship and social gathering. Today, it attracts visitors interested in learning about the rich cultural heritage and architectural beauty of Anuradhapura, offering a glimpse into the diverse history of the region.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_0afb5bf343",
     "name": "kiwulakada jummah mosque",
-    "description": "Located in Anuradhapura, kiwulakada jummah mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Kiwulakada Jummah Mosque, located in Anuradhapura, Sri Lanka, is a prominent mosque known for its significant role in the local Muslim community. It was established during the reign of King Gajabahu II in the 2nd century AD, making it one of the oldest mosques in the country. The mosque's architecture reflects a blend of Islamic and traditional Sri Lankan styles, and it has been a place of worship and congregation for Muslims in the area for centuries. Notable events include Friday prayers where locals gather under the mosque's towering dome, creating a harmonious blend of faith and culture. Visitors can also explore the mosque's serene courtyard and learn about its rich history through various exhibits.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_1410b40301",
     "name": "Mihintale Jummah Masjidh",
-    "description": "Located in Anuradhapura, Mihintale Jummah Masjidh is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Mihintale Jummah Masjidh, a small but significant mosque in Anuradhapura, Sri Lanka, stands as a testament to the diverse religious landscape of the region. Its exact origins are unclear, but it has been an important site for local Muslims for generations. The mosque is open for prayer and offers visitors a glimpse into the community's presence in the area, though it lacks the grandeur of larger mosques found elsewhere in the country. Visitors can also appreciate the architectural details and perhaps take photos to capture the serene atmosphere of this historic spot.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -249,10 +249,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_3acae338",
     "name": "Anuradhapura Grand Mosque",
-    "description": "Anuradhapura Grand Mosque, a stunning Islamic landmark in the heart of Anuradhapura, stands as a testament to the city's rich cultural heritage. Built in the early 19th century, it's a harmonious blend of traditional Sri Lankan architecture and Islamic design, featuring intricate carvings and a serene courtyard.",
+    "description": "The Anuradhapura Grand Mosque, located in the heart of Anuradhapura, is a prominent Islamic place of worship standing on the site of ancient Anuradhapura city. Built in the early 20th century, it was constructed by local Muslim community leaders and has become a significant landmark, often visited for prayer and reflection. Notable for its blend of traditional Islamic architecture and local influences, the mosque also hosts photography exhibitions and guided tours that highlight the rich history and culture of the region.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -286,7 +287,7 @@
 {
     "id": "pl_ccf0ee92",
     "name": "Anuradhapura Second Mosque",
-    "description": "Anuradhapura Second Mosque, a serene Islamic landmark in the heart of Anuradhapura, stands as a testament to the city's rich cultural tapestry. Built in the early 19th century, this mosque offers visitors a glimpse into Sri Lanka's diverse religious heritage, with its intricate architecture and historical significance.",
+    "description": "The Anuradhapura Second Mosque, nestled in the heart of Anuradhapura, Sri Lanka, stands as a silent witness to the rich tapestry of religious diversity in the ancient city. Originally constructed during the colonial era, it was built by local Muslim artisans and has become a significant place of worship and reflection for the Muslim community. Known for its intricate architecture and historical importance, the mosque also offers visitors an opportunity to learn about the cultural integration and peaceful coexistence that characterized Anuradhapura’s multicultural past. Engage in prayer, take photographs to capture its serene beauty, or join guided tours to explore its historical significance.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",
@@ -320,7 +321,7 @@
 {
     "id": "pl_b72ae792",
     "name": "Anuradhapura New Town Mosque",
-    "description": "Anuradhapura New Town Mosque stands as a testament to the harmonious blend of Islamic architecture and traditional Sri Lankan culture. Nestled amidst lush gardens, this mosque offers visitors a serene retreat with its intricate designs and historical significance.",
+    "description": "Anuradhapura New Town Mosque, located in the Anuradhapura district of Sri Lanka, is a modern Islamic place of worship established after the original Anuradhapura New Town was developed in the early 21st century. It serves as a focal point for local Muslim communities and offers prayer times, making it a significant gathering spot. Visitors can also capture moments at the mosque through photography, appreciating its architectural design and the community spirit it fosters. Reflecting on its purpose and role, the mosque embodies the growing Muslim population in Anuradhapura, contributing to the city's multicultural fabric.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Mosque",

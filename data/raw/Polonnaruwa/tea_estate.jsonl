@@ -1,7 +1,7 @@
 {
     "id": "pl_d124c981",
     "name": "Kaudulla National Park",
-    "description": "Kaudulla National Park is a stunning wildlife sanctuary in Polonnaruwa, North Central Province, known for its annual elephant gatherings. Home to over 10,000 elephants, it offers a unique glimpse into Sri Lanka’s natural heritage, making it a must-visit for nature enthusiasts.",
+    "description": "Kaudulla National Park, nestled in Polonnaruwa, Sri Lanka, offers visitors a chance to observe elephants and birds in their natural habitat. Established as a nature reserve, it plays a crucial role in conserving local wildlife. Cultural tours are available, allowing visitors to learn about the park’s rich history and the significance of its ecosystems. Historically, Kaudulla was an important site for ancient Sinhalese kings, who would gather to witness the annual floodwaters, which enriched the land with nutrients. Today, it remains a vital sanctuary for endangered species, attracting both nature enthusiasts and cultural historians alike.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "National Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_7e990dbf",
     "name": "Minneriya National Park",
-    "description": "Discover the mesmerizing Minneriya National Park, where up to 5,000 elephants gather in the dry season, creating a spectacle of nature. This sanctuary offers a glimpse into the ancient life cycle of these majestic creatures.",
+    "description": "Minneriya National Park, a nature reserve in Polonnaruwa, Sri Lanka, offers visitors opportunities to observe elephants and birds. The park, established in 1985, preserves the ancient Minneriya Tract, a wetland area where thousands of wild elephants gather seasonally. This site is significant as it has been a crucial watering hole for migratory birds and wildlife for centuries. Cultural tours are available to learn more about the park’s rich history and the local culture, which dates back over 2,000 years to the Anuradhapura Kingdom.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "National Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_d7757ca0",
     "name": "Angammedilla National Park",
-    "description": "Angammedilla National Park, nestled in the lush Polonnaruwa district, offers a serene retreat where nature lovers can explore its diverse flora and fauna while avoiding the flooding risks of the Parakrama Samudra catchment area.",
+    "description": "Angammedilla National Park, nestled in Polonnaruwa, offers visitors a chance to explore diverse flora and fauna while enjoying bird watching and nature walks. Established to protect local biodiversity, the park also provides opportunities for cultural tours, offering insights into the region’s rich heritage. Historically, the area has been significant for its ancient temples and ruins, though these are not directly associated with the park itself. Cultural tours often highlight nearby sites like the Mahaweli Ganga and the ruins of ancient Buddhist monasteries.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "National Park",
@@ -100,7 +100,7 @@
 {
     "id": "pl_d3e01c51",
     "name": "Flood Plains National Park",
-    "description": "Explore the Flood Plains National Park, a verdant sanctuary where the Mahaweli River’s seasonal floods create a dynamic ecosystem. Home to diverse wildlife and lush landscapes, it offers a unique glimpse into Sri Lanka's natural heritage.",
+    "description": "Flood Plains National Park, located in Polonnaruwa, is a protected area known for its diverse wildlife including numerous bird species. Established to conserve the region's rich biodiversity, it offers visitors opportunities to observe elephants and take nature photographs. The park's lush wetlands and forests attract a variety of birds, making it a popular spot for bird watchers. Historically significant, it was once part of ancient kingdoms and holds ecological importance as a habitat for endangered species. Visitors can explore trails and enjoy guided tours led by experienced rangers.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "National Park",
@@ -133,7 +133,7 @@
 {
     "id": "pl_2cb9a701",
     "name": "Somawathiya National Park",
-    "description": "Discover the ancient ruins and lush landscapes of Somawathiya National Park, a hidden gem in Polonnaruwa. This serene park offers a glimpse into Sri Lanka’s rich cultural heritage and natural beauty, perfect for nature lovers and history buffs alike.",
+    "description": "Somawathiya National Park, nestled in Polonnaruwa, offers visitors a chance to explore its natural beauty while learning about its rich cultural heritage. Established as a national park in 1985, it preserves ancient ruins and forests, including the Somawathiya Temple, which dates back to the 12th century. The park provides cultural tours, allowing visitors to learn about the historical significance of the site and its role in the region’s past. Photography enthusiasts can capture the serene landscapes and wildlife, while those seeking peace can engage in meditation sessions amidst the tranquil surroundings.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "National Park",
@@ -162,3 +162,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

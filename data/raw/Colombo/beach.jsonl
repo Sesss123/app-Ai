@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_83468bfc59",
     "name": "Dehiwala Beach",
-    "description": "Located in Colombo, Dehiwala Beach is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Dehiwala Beach, located in the heart of Colombo, is a popular sandy stretch where locals and tourists alike come to enjoy the sun and sea. The area was once part of the ancient port city of Anuradhapura, which explains why it holds historical significance as a site of early maritime trade. Today, Dehiwala Beach offers visitors a chance to swim and sunbathe, making it a perfect spot for a relaxing day at the seaside. Its proximity to the city center makes it easily accessible for those exploring Colombo's vibrant culture and bustling streets.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -38,7 +38,7 @@
 {
     "id": "pl_osm_52016ef7c9",
     "name": "Wellawatte Beach",
-    "description": "Wellawatte Beach is a beach located in Colombo, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Wellawatte Beach, located in the bustling Colombo District, offers a stretch of golden sand popular among locals and tourists alike for swimming and sunbathing. The beach has been a favorite spot for decades, known for its calm waters and warm hospitality. Historically, Wellawatte Beach was a quiet fishing village until it became part of Colombo’s growing urban landscape in the mid-20th century. Today, it’s a vibrant hub where families gather, young people play beach volleyball, and couples stroll along the shore, making it a beloved retreat for those seeking relaxation and recreation.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -75,7 +75,7 @@
 {
     "id": "pl_osm_f69c9e998c",
     "name": "Golden Beach",
-    "description": "Located in Colombo, Golden Beach is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Golden Beach, located in the heart of Colombo, Sri Lanka, offers visitors a picturesque stretch of sandy shores perfect for swimming and sunbathing. The beach has been a popular spot for locals and tourists alike for decades, known for its crystal-clear waters and gentle waves. Historically, the area was once part of ancient Colombo, where early settlers established their homes and businesses along the coast. Today, it remains a vibrant hub of relaxation and recreation, attracting families and honeymooners seeking a tranquil escape on the sea.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -112,7 +112,7 @@
 {
     "id": "pl_8d8218a7",
     "name": "Galle Face Green Beach",
-    "description": "Galle Face Green Beach, located in Colombo’s heart, offers a picturesque urban oasis with its pristine waters, perfect for swimming, sunbathing, and picnicking. Surrounded by lush greenery and bustling city life, it's a haven for locals and tourists alike.",
+    "description": "Galle Face Green Beach, also known as Galle Face Green, is an iconic urban beach in Colombo, Sri Lanka. Named after the nearby Galle Fort, the green expanse has been a popular spot for locals and tourists alike for over a century. Originally a cricket ground, it now serves as a vibrant public space where visitors can swim, sunbathe, and enjoy picnics. The beach's history dates back to the British colonial era, making it a significant part of Colombo's urban landscape and cultural heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Urban Beach",

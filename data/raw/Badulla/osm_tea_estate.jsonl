@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_e85566a5f9",
     "name": "Tea",
-    "description": "Located in Badulla, Tea is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Tea estates in Badulla, particularly in areas like Kandyella and Welimada, offer visitors a glimpse into Sri Lanka's rich tea industry. These estates, some dating back to the early 20th century, were established by British planters as part of their colonial enterprise. Today, they provide opportunities for tourists to walk through lush tea gardens, take in the panoramic views, and learn about the tea-making process. Photography enthusiasts can capture the serene beauty of these landscapes, often accompanied by local guides who share stories of the plantation's history and cultural significance.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_13c6efa5e3",
     "name": "Tea",
-    "description": "Located in Badulla, Tea is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Tea estates in Badulla, Sri Lanka, date back to the late 19th century when British colonists introduced tea cultivation to the region. Today, visitors can explore these lush estates, often on foot, to experience the traditional methods of tea picking and processing. Photography enthusiasts capture the serene landscapes, ancient tea plantations, and the unique architecture of colonial-era buildings. Walking tours offer insights into the history and culture of tea production, highlighting the craftsmanship and dedication that have made Sri Lankan tea renowned worldwide.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_b3133398d2",
     "name": "tea estate",
-    "description": "tea estate is a tea estate located in Badulla, Sri Lanka. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Badulla's tea estates, like the one here, are a testament to the region's rich agricultural heritage dating back over a century. Established in the early 1900s by British planters, these estates were at the heart of the global tea industry. Today, visitors can explore the lush tea gardens, learn about the art of tea picking, and take in panoramic views of the surrounding tea plantations and mountains. Photography enthusiasts capture the serene beauty while walkers meander through winding paths, feeling the earth beneath their feet.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_f8dec868a1",
     "name": "tea estate",
-    "description": "Located in Badulla, tea estate is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "The tea estate in Badulla, Sri Lanka, offers visitors a chance to explore lush green茶园, with panoramic views of the surrounding tea plantations. The estate has been producing high-quality Ceylon tea for over a century, with its roots dating back to the early 20th century when British colonialists established it. Today, guided tours allow tourists to learn about the tea-making process, meet local farmers, and take stunning photographs of the verdant landscape. Notable events include the annual tea festival, where visitors can taste different varieties of Ceylon tea.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_10901217f9",
     "name": "Dayaraba Estate",
-    "description": "Dayaraba Estate is a tea estate located in Badulla, Sri Lanka. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Dayaraba Estate, nestled in the lush tea plantations of Badulla, offers visitors a serene escape from the hustle of city life. The estate was established in the early 20th century by British colonialists, who saw the potential of the area's fertile soil for tea cultivation. Over time, it became a significant producer of high-quality Ceylon tea, known for its distinctive flavor and aroma. Today, visitors can stroll through the estate's well-manicured gardens, take in the panoramic views, and capture the beauty of this historic site on camera.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -177,3 +177,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

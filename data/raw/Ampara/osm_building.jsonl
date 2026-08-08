@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_6cc5bce62e",
     "name": "Masjid Ul Jannah",
-    "description": "Masjid Ul Jannah is a historic landmark located in Ampara, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Masjid Ul Jannah, a historic landmark in Ampara District, Sri Lanka, stands as a testament to the rich Islamic heritage of the region. Built during the early 20th century, it was commissioned by local Muslim leaders to serve as a community center and mosque. The structure features intricate Islamic architectural elements, including ornate arches and domes, reflecting the cultural and religious significance of the building. Over the years, it has hosted various community gatherings and religious ceremonies, making it an important site for both locals and tourists interested in learning about Sri Lanka's diverse cultural tapestry.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_8d15682a85",
     "name": "Monument of Aranthalawa Buddhist monk massacre",
-    "description": "Monument of Aranthalawa Buddhist monk massacre is a historic landmark in the Ampara area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Monument of Aranthalawa Buddhist monk massacre stands as a somber reminder of a tragic event in Sri Lankan history. Built on the site where Buddhist monks were killed by separatist rebels in 2009, it now serves as a poignant memorial. The monument honors the memory of those lost and raises awareness about the conflict’s impact. Visitors can pay their respects and learn about the cultural and religious significance of the area, which holds deep meaning for local communities. Engage with the site through photos and reflection, understanding its role in contemporary Sri Lankan history.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Building",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

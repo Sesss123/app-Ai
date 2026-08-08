@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_bfa6e9698b",
     "name": "Deval",
-    "description": "Deval is a place of worship located in Polonnaruwa, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Deval, a sacred temple in Polonnaruwa, Sri Lanka, stands as a testament to ancient Buddhist devotion. Built during the reign of King Parakramabahu I in the 13th century, it was an important pilgrimage site where devotees would pray and seek blessings. The temple's architecture showcases intricate carvings and statues, reflecting the artistic prowess of the period. Today, visitors come to Deval to pay their respects, take photos of its serene beauty, and experience a connection to Sri Lanka's rich cultural heritage.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_9aedfd167a",
     "name": "Sis Priyanthi",
-    "description": "Sis Priyanthi is a place of worship located in Polonnaruwa, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Sis Priyanthi Temple, located in Polonnaruwa, Sri Lanka, is a sacred Buddhist site known for its serene atmosphere and historical importance. Built during the reign of King Parakramabahu I, it holds significant cultural and religious value as a testament to ancient Sri Lankan architecture and devotion. Visitors can admire the temple's intricate carvings and participate in prayers, making it a popular pilgrimage spot for Buddhists. Its tranquil setting and rich history make it an essential stop for tourists exploring the cultural heritage of Polonnaruwa.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_156eef1e39",
     "name": "Isipathanaraamaya Temple",
-    "description": "Isipathanaraamaya Temple is a place of worship located in Polonnaruwa, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Isipathanaraamaya Temple, located in Polonnaruwa, Sri Lanka, is an ancient Buddhist temple known for its serene atmosphere and historical significance. Built during the Polonnaruwa period, around the 12th century, it was constructed by King Parakramabahu I as part of his ambitious rebuilding project to restore the city's glory. The temple's architecture showcases intricate carvings and statues, reflecting the rich artistic heritage of the region. It remains a popular site for locals and tourists alike, offering a peaceful retreat for prayers and contemplation amidst its well-maintained grounds.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_1689ddc966",
     "name": "Sri Mangala Bodhirajarama Viharaya",
-    "description": "Sri Mangala Bodhirajarama Viharaya is a place of worship located in Polonnaruwa, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Sri Mangala Bodhirajarama Viharaya, a sacred Buddhist temple in Polonnaruwa, stands as a testament to ancient Sri Lankan architecture and religious devotion. Built during the Polonnaruwa Kingdom era, it was likely constructed by King Parakramabahu I in the 12th century to honor the guardian deity of the kingdom. Its intricate carvings and well-preserved statues reflect the artistic splendor of that period, making it a significant site for both locals and tourists seeking insight into Sri Lankan religious heritage and architectural craftsmanship.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Temple",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_a57caa3f42",
     "name": "Nagalakanda Temple",
-    "description": "Located in Polonnaruwa, Nagalakanda Temple is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Nagalakanda Temple, nestled in Polonnaruwa district, is a sacred site where devotees gather to pray and seek blessings. The temple, believed to be over a thousand years old, holds deep religious significance as it was once an important pilgrimage center attracting worshippers from across the island. Its architectural style reflects Polonnaruwa's rich cultural heritage, blending elements of Indian and local traditions. Notable for its serene beauty and historical importance, Nagalakanda Temple continues to draw visitors interested in Buddhism and ancient Sri Lankan culture.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Temple",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

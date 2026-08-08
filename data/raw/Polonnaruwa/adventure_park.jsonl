@@ -1,7 +1,7 @@
 {
     "id": "pl_a98e6b25",
     "name": "Polonnaruwa Boat Safari",
-    "description": "Experience the serene Polonnaruwa Boat Safari, where ancient ruins meet tranquil waters. Glide through the lush landscapes of Polonnaruwa, past the ruins of temples and monasteries, on a boat ride that offers a unique perspective on this historical gem. Witness the beauty of Polonnaruwa’s natural and cultural heritage all at once.",
+    "description": "Polonnaruwa Boat Safari offers visitors an adventurous way to explore the ancient ruins of Polonnaruwa. Boats navigate through the serene lakes, offering a unique perspective on the well-preserved temples and statues. The safari includes guided tours that highlight the historical and cultural significance of each site, providing insights into the past civilizations that once thrived in the region. Visitors can learn about the city's transformation from a capital to a ruin over centuries, making it a popular spot for both tourists and historians.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_d9e92e96",
     "name": "Minneriya Elephant Gathering",
-    "description": "Experience the magic of Minneriya where up to 5,000 elephants gather annually, creating a breathtaking sight that showcases the natural beauty and harmony between humans and nature. This site is a testament to the region's rich wildlife and cultural heritage.",
+    "description": "The Minneriya Elephant Gathering, an iconic wildlife spectacle in Polonnaruwa, Sri Lanka, is a popular destination for nature lovers and wildlife enthusiasts. This natural phenomenon occurs annually when thousands of elephants congregate at the Minneriya Tank to drink water and graze, often drawing visitors to watch these majestic creatures up close. The gathering attracts photographers and bird watchers alike, offering a unique glimpse into the rich biodiversity of Sri Lanka's wilderness. Historically significant, the area has been a crucial watering hole for migratory elephants for centuries, reflecting the region's importance in Sri Lankan ecology.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_4dd42ec2",
     "name": "Dimbulagala Trek",
-    "description": "Discover Dimbulagala Trek, a majestic adventure park nestled in Polonnaruwa’s North Central Province. This ancient site offers breathtaking views, challenging hikes, and a rich history dating back centuries. Experience nature at its finest with panoramic vistas and thrilling trails.",
+    "description": "Dimbulagala Trek, nestled in Polonnaruwa, offers adventurous hikers breathtaking views and serene nature walks. This trek takes you through ancient ruins and lush forests, providing opportunities for photography and nature viewing. The area's rich history dates back to the 1st century BC, when it was an important Buddhist pilgrimage site. Notable events include the construction of Dimbulagala Temple by King Kirti Sri Rajasinghe in the 17th century. Today, visitors can explore the temple ruins and learn about the site's cultural and religious significance, making it a must-visit for history buffs and nature lovers alike.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

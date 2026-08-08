@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_87fef7d0a7",
     "name": "Zaviya Mosque",
-    "description": "Zaviya Mosque is a mosque in the Badulla area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Zaviya Mosque, located in the heart of Badulla, Sri Lanka, is an important Islamic landmark. Its origins date back to the early days of Islam's introduction to the region, though the exact founding date remains uncertain. The mosque, known for its architectural simplicity and historical significance, has been a central gathering place for local Muslim communities over the centuries. Notable for its role in community life, it often hosts prayers and serves as a focal point for cultural and religious events. Visitors can explore its serene courtyard and admire its modest yet dignified design.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_c05606c939",
     "name": "Badulupitiya Mosque",
-    "description": "Badulupitiya Mosque is a mosque located in Badulla, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "The Badulupitiya Mosque, nestled in the picturesque district of Badulla, Sri Lanka, is a significant Islamic landmark. Its origins date back to the early 20th century, constructed by local Muslim communities as a place of worship. The mosque stands as a testament to the rich cultural tapestry of Sri Lanka, blending architectural elements from various eras. It plays a crucial role in the community, serving as a focal point for both daily prayers and special occasions. Visitors can explore its serene interior adorned with intricate designs, while photographers appreciate its striking architecture.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_adabdc9ac1",
     "name": "Puwakgodamulla Mosque",
-    "description": "Puwakgodamulla Mosque is a mosque in the Badulla area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Puwakgodamulla Mosque, located in the Badulla District of Sri Lanka, is a significant Islamic place of worship. The mosque was established during the colonial era by local Muslim communities. It stands as a testament to the rich cultural heritage of Badulla, hosting daily prayers and attracting visitors interested in its architectural beauty and historical importance. Notable for its blend of traditional and modern design, the mosque also hosts occasional cultural events and exhibitions, making it a hub for both spiritual and cultural gatherings.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_d9b251e186",
     "name": "Welimada Mosque",
-    "description": "Located in Badulla, Welimada Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Welimada Mosque, located in the town of Welimada in the Badulla District of Sri Lanka, is a significant Islamic landmark serving as a place of worship for local Muslim community. The mosque, which dates back to the early 20th century, was constructed by local artisans under the patronage of the colonial administration. It holds cultural and religious importance, hosting prayers and gatherings for the Muslim population in the area. Visitors can also capture moments at the mosque through photography, appreciating its architectural design and historical significance.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_1c036a0f4d",
     "name": "Moragolla Mosque",
-    "description": "Located in Badulla, Moragolla Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Moragolla Mosque, located in the town of Moragolla, Badulla District, Sri Lanka, is a historic mosque known for its unique architectural style and significant role in the local community. Built during the British colonial era as a place of worship for the Muslim population, it has been an integral part of the area's social fabric for over a century. Notable for its blend of Islamic and colonial influences, the mosque often hosts communal prayers and serves as a gathering point for various religious and cultural events. Visitors can explore its serene courtyard and learn about its rich history through guided tours available on request.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_60d58abb36",
     "name": "Badulla Jumma Masjid",
-    "description": "Located in Badulla, Badulla Jumma Masjid is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "The Badulla Jumma Masjid is an important Islamic place of worship located in the Badulla district of Sri Lanka. It was established during the colonial era as part of efforts to accommodate the growing Muslim population. The mosque is known for its unique architectural design and serves as a community hub where locals gather for prayers and social gatherings. Its cultural significance lies in its role in fostering unity among Sri Lanka's diverse ethnic groups. Notable events include Eid celebrations where the mosque becomes a focal point for religious festivities and community bonding.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_5fabcbf856",
     "name": "Rockhill Mosque",
-    "description": "Located in Badulla, Rockhill Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "The Rockhill Mosque, located in the picturesque town of Badulla, Sri Lanka, is an important Islamic landmark. It was established during the colonial era by the British administration as a place of worship for the local Muslim community. Over time, it has become a significant site for both locals and tourists, offering a serene retreat for prayers and a unique viewpoint of the surrounding landscape. Notable for its architectural design and historical context, the mosque stands as a testament to the rich tapestry of cultures that have shaped Sri Lanka.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_62116d93d3",
     "name": "kottagoda jummah masjith",
-    "description": "Located in Badulla, kottagoda jummah masjith is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Kottagoda Jummah Masjid, located in the heart of Badulla District, is a prominent Islamic place of worship known for its distinctive architecture. Built in the early 20th century, it serves as a central gathering point for local Muslim communities. Over the years, it has hosted numerous religious ceremonies and social gatherings, playing a significant role in the cultural life of the area. Visitors can explore the mosque's serene courtyard and admire its intricate designs, which reflect the rich architectural heritage of Badulla.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -321,10 +321,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_332a1fff",
     "name": "Badulla Town Mosque",
-    "description": "Discover the spiritual heart of Badulla Town at the Badulla Town Mosque, a serene place of worship nestled amidst lush greenery. This historic mosque stands as a testament to the rich cultural tapestry of Sri Lanka, offering visitors a glimpse into the lives of its Muslim inhabitants.",
+    "description": "The Badulla Town Mosque stands in the heart of Badulla town, a place where prayer and reflection intertwine with the fabric of local life. Constructed during British colonial times, it has been a silent witness to the community's growth and changes over the decades. Visitors can admire its architectural elegance and take photos of its intricate designs, while also finding peace and tranquility within its walls. The mosque offers a serene retreat for those seeking solace and relaxation amidst its warm and welcoming atmosphere.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -358,7 +359,7 @@
 {
     "id": "pl_525b629e",
     "name": "Bandarawela Grand Mosque",
-    "description": "Bandarawela Grand Mosque stands as a silent witness to the rich Islamic heritage of this region. Nestled amidst lush greenery, it offers visitors a serene atmosphere and a glimpse into the local culture and traditions.",
+    "description": "The Bandarawela Grand Mosque, located in the heart of Badulla District, is a significant place of worship for Muslims in the region. Built in the early 20th century, it stands as a testament to the rich cultural heritage of the area. The mosque, known for its harmonious blend of traditional Islamic architecture and local aesthetics, has become an important gathering spot for both locals and tourists. Visitors can explore its serene courtyard and learn about the mosque's architectural features during guided tours. Notable for its unique blend of styles, the Grand Mosque also hosts various cultural events and exhibitions throughout the year, making it a vibrant center of community life.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -392,7 +393,7 @@
 {
     "id": "pl_15719fdf",
     "name": "Badulla Second Mosque",
-    "description": "The Badulla Second Mosque, nestled amidst lush tea plantations, is a serene Islamic sanctuary where visitors can appreciate its intricate architecture and learn about the local Muslim community's rich cultural heritage.",
+    "description": "The Badulla Second Mosque, located in the picturesque district of Badulla, Sri Lanka, stands as a significant architectural landmark. Built in the early 20th century, it serves as a place of worship for local Muslims. The mosque, known for its harmonious blend of traditional Islamic architecture and modern design, has been an integral part of the community for decades. Notable for its serene prayer spaces and ornate minarets, it often draws visitors interested in both its spiritual significance and the rich culture of Badulla. Visitors can also enjoy photography opportunities capturing the mosque’s unique features against the backdrop of lush tea plantations.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -426,7 +427,7 @@
 {
     "id": "pl_b26c14d4",
     "name": "Badulla New Mosque",
-    "description": "Discover the serene beauty of Badulla New Mosque, a stunning Islamic landmark nestled amidst lush greenery. This historic site offers visitors a glimpse into Sri Lanka's rich cultural tapestry, featuring intricate architecture and a tranquil atmosphere that draws both locals and tourists alike.",
+    "description": "The Badulla New Mosque, a prominent landmark in the heart of Badulla, stands as a testament to the rich cultural tapestry of Sri Lanka. Constructed in the early 21st century, this mosque has become an integral part of the local community, offering a space for both prayer and reflection. As a hub of worship and community gathering, it reflects the harmonious blend of faith and tradition in contemporary Sri Lanka. Visitors can explore its serene ambiance and perhaps capture images that encapsulate the peaceful coexistence of different cultures within the island.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Mosque",

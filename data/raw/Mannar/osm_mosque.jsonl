@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_fa4256dd9c",
     "name": "Kootte Mosque",
-    "description": "Kootte Mosque is a mosque in the Mannar area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Kootte Mosque, located in the Mannar district of Sri Lanka, is an important Islamic landmark. Its origins date back to the 18th century, though specific construction details are uncertain. The mosque serves as a place of worship and community gathering for local Muslims. It also attracts visitors interested in its architectural design and historical significance. Notable for its blend of traditional and modern elements, it stands as a testament to the rich cultural heritage of the region. Visitors can explore the serene courtyard and learn about the mosque's role in the local Muslim community.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Mosque",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_87bf7dc1b6",
     "name": "Uppukulam Jummah Mosque",
-    "description": "Uppukulam Jummah Mosque is a mosque in the Mannar area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Uppukulam Jummah Mosque stands in Mannar, Sri Lanka, a small island in the northwestern part of the country. It was established as a community space by local Muslims following the arrival of significant Muslim settlers in the early 20th century. The mosque is an important gathering point for prayers and community activities, reflecting the rich Islamic heritage in the region. Notable for its architectural design and the warm hospitality of its congregation, it has hosted various religious ceremonies and social gatherings over the years.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Mosque",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_37fa647b64",
     "name": "RASOOL PUTHUVELI MASJID",
-    "description": "RASOOL PUTHUVELI MASJID is a mosque in the Mannar area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "The RASOOL PUTHUVELI MASJID, a historic mosque in Mannar, Sri Lanka, stands as a testament to the rich Islamic heritage of the region. Built during the 18th century by Muslim traders and artisans, it was named after a local Muslim saint, Puthuveli Baba, known for his benevolence and miracles. The mosque's architecture showcases a blend of Indo-Saracenic style, featuring intricate carvings and domes. It has been an important gathering place for both locals and pilgrims, hosting prayers and community events. Its historical significance lies not just in its architectural beauty but also in the stories of its founder and the community it represents.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Mosque",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

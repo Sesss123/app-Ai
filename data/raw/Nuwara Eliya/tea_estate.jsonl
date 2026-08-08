@@ -1,7 +1,7 @@
 {
     "id": "pl_e86bca69",
     "name": "Horton Plains National Park",
-    "description": "Discover the Horton Plains National Park, a pristine highland sanctuary in Central Province, Sri Lanka, known for its diverse wildlife, ancient tea plantations, and breathtaking panoramic views. This UNESCO Global Geopark offers a unique blend of nature and culture, perfect for nature lovers and adventure seekers alike.",
+    "description": "Horton Plains National Park, nestled in Nuwara Eliya District, offers visitors a glimpse into Sri Lanka’s natural beauty. Established as a nature reserve in 1988, it protects a unique ecosystem that includes the world’s smallest elephant population. The park’s high altitude supports diverse flora and fauna, including endangered species. Visitors can explore tea plantations on guided tours, while bird watchers enjoy spotting local and migratory birds. Notable events like the annual bird festival add to the park’s appeal, drawing nature enthusiasts and wildlife lovers alike.",
     "district_id": "Nuwara Eliya",
     "province_id": "Central",
     "category_id": "National Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_93b01510",
     "name": "Hakgala Strict Nature Reserve",
-    "description": "Discover Hakgala Strict Nature Reserve, a lush botanical gem nestled in the Central Province’s highlands. Spanning over 100 acres, this sanctuary showcases a diverse array of flora and fauna, including rare orchids and exotic birds. Its serene beauty and tranquil atmosphere make it a perfect retreat for nature lovers and hikers alike.",
+    "description": "The Hakgala Strict Nature Reserve, nestled in the Nuwara Eliya district, offers visitors a chance to explore a lush forest home to an array of flora and fauna. Established in 1954, the reserve was originally created to protect the Hakgala Tea Garden, now a popular spot for birdwatching and photography. Notable species include the Sri Lankan jungle fowl and the Malayan flying squirrel. Hikers can enjoy steep trails leading to viewpoints offering panoramic vistas of tea plantations and surrounding hills. Cultural significance lies in its role as a sanctuary for wildlife, promoting environmental conservation in the region.",
     "district_id": "Nuwara Eliya",
     "province_id": "Central",
     "category_id": "Strict Nature Reserve",

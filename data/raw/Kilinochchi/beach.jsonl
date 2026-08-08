@@ -34,7 +34,7 @@
 {
     "id": "pl_c38e04c5",
     "name": "Mulankavil Beach",
-    "description": "Mulankavil Beach, nestled along the rugged coast of Northern Sri Lanka, offers pristine sandy shores and crystal-clear waters perfect for swimming and snorkeling. Its secluded location makes it a hidden gem for nature lovers and adventure seekers.",
+    "description": "Mulankavil Beach, located in the picturesque district of Kilinochchi, Sri Lanka, offers visitors a serene stretch of sandy shores perfect for swimming, snorkeling, and sunbathing. The beach, though relatively unknown to many, has become a popular spot for locals seeking a tranquil retreat. Historically, the area was once a fishing village, but over time it transformed into a laid-back beach destination. Its crystal-clear waters and vibrant coral reefs attract divers and snorkelers, making it a haven for those who appreciate nature's beauty.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Sandy Beach",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

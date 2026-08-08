@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_78566f7083",
     "name": "Sri Nimalaramaya",
-    "description": "Sri Nimalaramaya is a place of worship located in Matara, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Sri Nimalaramaya Temple in Matara, Sri Lanka, is a revered Buddhist site known for its ancient architecture and serene ambiance. Dedicated to the Buddha, it stands as a testament to centuries-old traditions. The temple's origins date back to the colonial era, though its exact construction period remains unclear. Over time, it has become an important pilgrimage center, attracting visitors seeking spiritual solace and enlightenment. Visitors can explore the temple's tranquil grounds, take part in prayer ceremonies, and capture memorable photos of this sacred place.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_6f229f2762",
     "name": "Nilwella Minikirula Viharaya",
-    "description": "Nilwella Minikirula Viharaya is a place of worship located in Matara, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Nilwella Minikirula Viharaya, nestled in the Matara district of Sri Lanka, is a sacred Buddhist temple known for its serene atmosphere and historical significance. The temple, believed to date back to the 5th century, was likely constructed during the reign of King Dutugemunu, a prominent figure in Sri Lankan history. Its architectural features and religious practices reflect the rich cultural heritage of the region, making it a significant pilgrimage site for Buddhists. Visitors can explore the temple grounds, participate in prayers, and capture memorable photographs that capture the tranquil beauty of this ancient place.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_ae30abb413",
     "name": "Buddha Statue",
-    "description": "Buddha Statue is a place of worship in the Matara area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Matara's Buddha Statue, a prominent landmark in the district, stands as a testament to the city's rich Buddhist heritage. The statue, crafted from a single block of stone, symbolizes the enduring faith of Sri Lanka's population. Originally built during the reign of King Wickramabahu III in the 14th century, it was restored in the 20th century by the local community. Visitors come to pray, meditate, and take photos, appreciating both the historical significance and the serene beauty of this ancient monument.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_4833c3f64a",
     "name": "Bo Tree",
-    "description": "Bo Tree is a place of worship in the Matara area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Bo Tree, also known as the Sacred Ficus, stands in Matara, Sri Lanka, a testament to ancient Buddhist traditions. The tree is believed to be a descendant of the original Bo Tree under which the Buddha attained enlightenment. It has been a site of pilgrimage for centuries, attracting devotees seeking spiritual blessings. Locally revered, it symbolizes the enduring connection between Buddhism and Sri Lankan culture. Visitors can take photos and pray at this sacred spot, a poignant reminder of faith and heritage.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_07da578435",
     "name": "Sudharmaramaya- Makandura",
-    "description": "Located in Matara, Sudharmaramaya- Makandura is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Sudharmaramaya-Makandura, a sacred Buddhist temple in Matara, Sri Lanka, stands as a testament to ancient religious practices. Its exact origins date back to the 5th century BC, making it one of the oldest temples in the area. Legend has it that the temple was built by King Dutugemunu, who ruled over much of Sri Lanka during the 2nd century BC. It served as a center for spiritual gatherings and remains an important pilgrimage site for Buddhists. Visitors can explore the serene premises, pray, and take photos, appreciating the blend of ancient architecture and modern reverence.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -177,10 +177,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_dc6d30f8",
     "name": "Weherahena Raja Maha Viharaya (Tunnel Temple)",
-    "description": "Discover the ancient and mysterious Weherahena Raja Maha Viharaya (Tunnel Temple), a hidden gem nestled in Matara's lush jungle. This unique Buddhist temple features intricate carvings and a historic tunnel that adds to its allure. Explore its serene surroundings and learn about its rich cultural significance.",
+    "description": "The Weherahena Raja Maha Viharaya, also known as the Tunnel Temple, stands in Matara, Sri Lanka, a sacred site where ancient traditions blend with modern exploration. Built during the 5th century AD, the temple features a unique underground passage, believed to date back to King Dutugemunu's reign. Visitors can explore this historic tunnel, marvel at the intricately carved walls, and learn about the temple's rich cultural and religious significance, making it a must-visit for history enthusiasts and art lovers alike.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -214,7 +215,7 @@
 {
     "id": "pl_3f7b90a9",
     "name": "Polhena Raja Maha Viharaya",
-    "description": "Polhena Raja Maha Viharaya, a sacred Buddhist temple nestled in the Matara district, offers visitors a serene retreat with intricate carvings and statues that tell tales of ancient Sri Lanka’s spiritual heritage.",
+    "description": "Polhena Raja Maha Viharaya, located in Matara, Sri Lanka, is a significant Buddhist temple known for its ancient architecture and rich cultural heritage. Built during the reign of King Kirthi Nissanka Malla in the 13th century, it holds immense religious importance as a place of worship and meditation. The temple features intricate carvings and statues depicting scenes from the Jataka tales, offering visitors a glimpse into ancient Buddhist teachings. Known for its historical tours, Polhena Raja Maha Viharaya attracts both local pilgrims and tourists seeking to understand the island’s rich religious past.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -248,7 +249,7 @@
 {
     "id": "pl_51080aaf",
     "name": "Mirissa Rajamaha Viharaya (Paravi Dupatha – Parrot Rock Buddha)",
-    "description": "Mirissa Rajamaha Viharaya, also known as Paravi Dupatha or Parrot Rock Buddha, is a stunning Buddhist temple nestled on a cliff overlooking the Indian Ocean. This ancient site features a serene Buddha statue carved into the rock face, offering visitors breathtaking views and spiritual reflection.",
+    "description": "Mirissa Rajamaha Viharaya, also known as Paravi Dupatha or Parrot Rock Buddha, is a sacred Buddhist temple in Matara, Sri Lanka. The temple features a striking Buddha statue carved into a cliff face overlooking the ocean, a popular spot for photography and reflection. It holds cultural and religious significance, attracting visitors who admire its natural beauty and spiritual aura. Notable for its unique rock formation, the site has become a favorite among tourists seeking serene ocean views and a moment of quiet contemplation.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -316,7 +317,7 @@
 {
     "id": "pl_0b98ceeb",
     "name": "Dikwella Wewurukannala Viharaya (Giant Buddha reclining 50m)",
-    "description": "Discover the awe-inspiring Dikwella Wewurukannala Viharaya, where a colossal 50-meter reclining Buddha statue stands majestically, a testament to ancient Buddhist artistry. This serene site offers visitors a glimpse into Sri Lanka’s rich cultural heritage and spiritual landscape.",
+    "description": "Dikwella Wewurukannala Viharaya, a colossal Buddha reclining statue in Matara, Sri Lanka, stands as a testament to ancient Buddhist artistry. Constructed over a century ago by local artisans, it measures an impressive 50 meters in length, creating a mesmerizing sight. The temple's serene atmosphere attracts visitors who come to reflect, capture its beauty through photography, and appreciate its profound artistic value. Its construction reflects the rich heritage of Matara, making it a significant landmark for both locals and tourists alike.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -350,7 +351,7 @@
 {
     "id": "pl_e6e6317f",
     "name": "Kataluwa Purvarama, Matara vicinity",
-    "description": "Kataluwa Purvarama, located in the Matara vicinity, is a serene Buddhist temple nestled amidst lush greenery. Its ancient architecture and tranquil setting make it a must-visit for those seeking spiritual solace and natural beauty.",
+    "description": "Kataluwa Purvarama, located in the Matara vicinity, is a sacred Buddhist temple known for its serene atmosphere and historical importance. Built during the reign of King Kirthi Rajasinghe in the late 17th century, it was constructed as a protective structure for the main temple in Matara. Over time, it has become an integral part of local religious practices, attracting devotees seeking blessings and spiritual enlightenment. Visitors can experience the temple's tranquility through prayer and meditation sessions, while photography enthusiasts capture its ancient beauty, and nature lovers enjoy guided walks around the tranquil surroundings.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -384,7 +385,7 @@
 {
     "id": "pl_ca04cd41",
     "name": "Akuressa Rajamaha Viharaya",
-    "description": "Akuressa Rajamaha Viharaya, a sacred Buddhist temple nestled in the lush Matara district, offers visitors a serene retreat with its ancient statues and intricate carvings. This site is a testament to Sri Lanka's rich cultural heritage, attracting both pilgrims and tourists seeking spiritual enlightenment.",
+    "description": "Akuressa Rajamaha Viharaya, located in Matara, Sri Lanka, is a significant Buddhist temple known for its ancient architecture and historical importance. Built during the reign of King Kirthi Mihindu II in the 13th century, it houses a revered statue of Buddha. The temple has been a center for spiritual practices and learning throughout centuries, attracting visitors who come to pray, meditate, and learn about its rich cultural heritage. It also offers guided tours, art exhibitions, and crafts, making it a popular destination for both locals and tourists seeking a glimpse into Sri Lanka’s ancient traditions.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -418,7 +419,7 @@
 {
     "id": "pl_3bce87c9",
     "name": "Kamburupitiya Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene atmosphere at Kamburupitiya Rajamaha Viharaya, a sacred Buddhist temple nestled in Matara, Southern Sri Lanka, offering visitors a glimpse into the island's rich cultural heritage.",
+    "description": "Kamburupitiya Rajamaha Viharaya, an ancient Buddhist temple in Matara, Sri Lanka, stands as a testament to the island's rich religious heritage. The site is believed to date back over a thousand years, making it one of the oldest temples in the region. Legend has it that the temple was initially constructed by King Kirthi Mihindu II, though archaeological evidence suggests it may be even older. Over the centuries, the structure has undergone several renovations, preserving its original architecture while incorporating elements from later periods. Visitors can explore its ancient ruins, pray and meditate, and take photos to capture the serene beauty and historical significance of this sacred place.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -452,7 +453,7 @@
 {
     "id": "pl_a07a222b",
     "name": "Deniyaya Rajamaha Viharaya",
-    "description": "Deniyaya Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a glimpse into ancient Sri Lankan culture and architecture. Its serene atmosphere and historical significance make it a must-visit for those seeking spiritual enlightenment and cultural immersion.",
+    "description": "Deniyaya Rajamaha Viharaya, a sacred Buddhist temple in Matara, Sri Lanka, stands as a testament to ancient Sinhalese architecture and culture. Built during the Anuradhapura period, this temple holds immense religious and historical significance, with its intricate carvings and statues depicting scenes from the Jataka tales. It was once a site of great spiritual importance, attracting devotees and scholars seeking enlightenment and wisdom. Today, it continues to be a place of prayer and meditation, offering visitors a glimpse into Sri Lanka's rich cultural heritage through guided tours and photography opportunities.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -520,7 +521,7 @@
 {
     "id": "pl_88d52ce5",
     "name": "Kotapola Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene ambiance of Kotapola Rajamaha Viharaya, a sacred Buddhist temple nestled in Matara, Southern Sri Lanka, offering visitors a glimpse into the island's rich cultural heritage.",
+    "description": "Kotapola Rajamaha Viharaya, an ancient temple in Matara, Sri Lanka, stands as a testament to the island's rich Buddhist heritage. Founded over a millennium ago by King Mahasena, it was initially a royal monastery and later became a significant center for Buddhist learning and practice. Its architecture reflects a blend of traditional Sinhalese and Indian influences, with intricate carvings and a towering central stupa. Visitors can explore its serene ruins, pray at the temple, and reflect on the profound teachings of Buddhism.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -588,7 +589,7 @@
 {
     "id": "pl_c5a0aacf",
     "name": "Mulatiyana Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene atmosphere at Mulatiyana Rajamaha Viharaya, a sacred Buddhist temple nestled in Matara's lush hills, offering visitors a glimpse into Sri Lanka's rich cultural heritage.",
+    "description": "Mulatiyana Rajamaha Viharaya, a sacred temple in Matara, Sri Lanka, houses ancient Buddha statues and offers insights into Buddhist teachings. This site has been an important pilgrimage center for centuries, attracting visitors seeking spiritual enlightenment and cultural enrichment. Its rich history traces back to the 5th century BCE, making it one of the oldest Buddhist temples in Sri Lanka. Notable events include the visit of the Indian Emperor Ashoka, who converted to Buddhism, and numerous monks who lived and taught here over time.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -622,7 +623,7 @@
 {
     "id": "pl_a7c70870",
     "name": "Pitabeddara Rajamaha Viharaya",
-    "description": "Discover the ancient Pitabeddara Rajamaha Viharaya, a serene Buddhist temple nestled amidst lush gardens. This historic site offers a glimpse into Sri Lanka’s rich cultural heritage, featuring intricate carvings and a tranquil atmosphere that draws visitors seeking spiritual enlightenment.",
+    "description": "Pitabeddara Rajamaha Viharaya, a revered Buddhist temple in Matara, Sri Lanka, stands as a testament to ancient religious architecture. Constructed during the Anuradhapura kingdom era, the temple's intricate carvings and architectural elements reflect the rich cultural heritage of the region. Its serene ambiance attracts visitors seeking spiritual reflection and meditation, while its picturesque location offers stunning views. Over centuries, it has witnessed numerous religious ceremonies and teachings by esteemed monks, making it a significant site for both locals and tourists alike.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -690,7 +691,7 @@
 {
     "id": "pl_3aff6cff",
     "name": "Thihagoda Rajamaha Viharaya",
-    "description": "Thihagoda Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its ancient statues and intricate carvings. This site is a testament to Sri Lanka’s rich cultural heritage, attracting both pilgrims and nature lovers alike.",
+    "description": "Thihagoda Rajamaha Viharaya, a sacred Buddhist temple in Matara, Sri Lanka, stands as a testament to ancient religious practices. Built during the 5th century AD, it was established by Buddhist monks seeking a serene retreat. The temple's architecture reflects traditional Sinhalese style, with intricate carvings and a central stupa that houses relics. It remains an important pilgrimage site, attracting visitors interested in both its spiritual significance and historical beauty. Visitors can engage in prayer, meditation, take photographs, and enjoy nature walks around the grounds.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -724,7 +725,7 @@
 {
     "id": "pl_3373a711",
     "name": "Gandara Rajamaha Viharaya",
-    "description": "Gandara Rajamaha Viharaya, a sacred Buddhist temple nestled in Matara district, showcases intricate carvings and statues that narrate ancient tales of Buddhism, making it a must-visit for history enthusiasts.",
+    "description": "Gandara Rajamaha Viharaya, a revered Buddhist temple in Matara, Sri Lanka, stands as a testament to ancient architectural prowess and rich cultural heritage. Founded over a thousand years ago, it was constructed by Buddhist monks seeking solace and enlightenment under the guidance of local rulers. Notable for its intricate carvings depicting scenes from the life of the Buddha, the temple attracts visitors eager to learn about the profound teachings and historical context that shaped Buddhist civilization. Visitors can also take stunning photos to capture the serene beauty and historical significance of this sacred site.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Temple",

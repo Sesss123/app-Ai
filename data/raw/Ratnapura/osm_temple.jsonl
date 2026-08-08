@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_d416c9c582",
     "name": "Darul huda- Madrasa",
-    "description": "Located in Ratnapura, Darul huda- Madrasa is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Darul huda-Madrasa, a historic temple in Ratnapura, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Built in the 19th century, it served as an educational institution where students learned Islamic theology and Arabic studies under the guidance of local scholars. The madrasa also played a significant role in preserving and promoting the Islamic faith through regular prayers and teachings. Today, visitors can admire its architectural beauty and participate in the daily prayers, making it a cherished site for both locals and tourists seeking spiritual connection.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_452d78df81",
     "name": "Miriswatha Masjid",
-    "description": "Miriswatha Masjid is a place of worship located in Ratnapura, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Miriswatha Masjid, located in Ratnapura, Sri Lanka, is a significant Islamic place of worship. Its origins date back to the 18th century, though specific construction details are not widely documented. The mosque is known for its simple yet elegant architecture, featuring a single dome and rows of prayer halls. It holds cultural and religious importance for the local Muslim community, who gather here for prayers and communal gatherings. Visitors can also take photos as the mosque’s serene beauty attracts tourists interested in its architectural charm.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_320f12d3ab",
     "name": "Temple",
-    "description": "Located in Ratnapura, Temple is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Temple in Ratnapura, a sacred place of worship, draws devotees and visitors alike for prayer and spiritual reflection. Originating as a simple structure, it has grown over centuries, reflecting the rich Buddhist heritage of the region. The temple holds significant cultural and religious importance, serving as a symbol of devotion and peace. Its architecture, adorned with intricate carvings, showcases the skill and artistry of ancient craftsmen. Notable for its serene atmosphere and tranquil surroundings, it often hosts cultural festivals and ceremonies, connecting locals and tourists through shared traditions and beliefs.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_a836ccc6b2",
     "name": "dakma class",
-    "description": "dakma class is a place of worship located in Ratnapura, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Dakma Class Temple, located in Ratnapura, Sri Lanka, is a small but revered place of worship. It was established by local Buddhist monks several centuries ago as a center for spiritual reflection and community gatherings. The temple's architecture reflects traditional Sinhalese design, featuring intricate carvings and a central Buddha statue. Visitors can engage in prayer and meditation, while photography is permitted under respectful guidelines. Dakma Class Temple holds significant cultural and religious importance, serving as a symbol of continuity and faith for the community.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Temple",
@@ -249,3 +249,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

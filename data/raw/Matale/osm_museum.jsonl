@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_22d6d7f0a8",
     "name": "Aluvihare Walauwe",
-    "description": "Aluvihare Walauwe is a museum located in Matale, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Aluvihare Walauwe, located in Matale District, Sri Lanka, is a museum that showcases archaeological artifacts and exhibits related to ancient Buddhist settlements in the area. Founded in the early 20th century, the museum houses a collection of stone sculptures, pottery, and coins dating back to the Anuradhapura period, offering visitors insights into the rich cultural heritage of the region. Visitors can explore the museum’s exhibits while enjoying the serene surroundings, making it a popular spot for both locals and tourists interested in history and culture.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_eb5a3480f5",
     "name": "Sigiriya Museum",
-    "description": "Sigiriya Museum is a museum in the Matale area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Sigiriya Museum, located in Matale District, Sri Lanka, is an intriguing stop for visitors interested in ancient history and art. The museum houses artifacts and exhibits related to Sigiriya, a UNESCO World Heritage Site known for its ancient palace and rock fortress. Built by King Kasyapa in the 5th century CE, Sigiriya was once a royal retreat but fell into disuse over time. Today, the museum showcases the rich cultural heritage of this site, providing insights into the past through its collection of relics and artworks. Visitors can learn about the construction, daily life, and cultural practices of the ancient Sinhalese civilization that once thrived here.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Museum",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_07c0a46701",
     "name": "Buddhist Museum",
-    "description": "Buddhist Museum is a museum located in Matale, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Buddhist Museum in Matale district showcases artifacts and exhibits dedicated to Buddhism, reflecting the rich cultural heritage of the region. Founded over a century ago by local Buddhist communities, it houses ancient manuscripts, statues, and religious relics, offering visitors an insight into the spiritual practices and beliefs of the Sinhalese people. Guided tours highlight significant events and figures in Buddhist history, making it a must-visit for anyone interested in understanding the profound impact of Buddhism on Sri Lankan culture.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Museum",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_8a0a754509",
     "name": "Museum of Wall Paintings",
-    "description": "Museum of Wall Paintings is a museum located in Matale, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Museum of Wall Paintings in Matale district showcases ancient wall paintings from various archaeological sites across Sri Lanka. Built to preserve and educate the public about the country's rich cultural heritage, it features murals depicting scenes from prehistoric times to early civilizations. The museum, established by local historians and archaeologists, offers insights into Sri Lanka's ancient art and history through guided tours and educational exhibits. Visitors can learn about significant cultural and religious aspects that shaped the island's identity over millennia.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Museum",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

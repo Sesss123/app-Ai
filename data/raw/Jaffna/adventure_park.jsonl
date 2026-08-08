@@ -1,7 +1,7 @@
 {
     "id": "pl_1139152b",
     "name": "Jaffna Cycling Trail",
-    "description": "Experience the Jaffna Cycling Trail, a scenic route through lush greenery and historical sites, offering cyclists a chance to explore the rich cultural heritage of Northern Sri Lanka. This 20-kilometer path winds through ancient temples, vibrant villages, and breathtaking landscapes, making it a must-visit for adventure seekers and history buffs alike.",
+    "description": "Jaffna Cycling Trail, an adventure park in Jaffna, Sri Lanka, offers cyclists a scenic route through the heart of Jaffna. The trail includes sections of old colonial roads and new cycling paths, passing by local villages and historic sites. Visitors can explore the rich cultural heritage and learn about the history of the region through guided tours, offering insights into the area’s past. Notable landmarks along the way include the Jaffna Fort and the Dutch Reformed Church, each site telling stories of different eras and cultures.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_184cef75",
     "name": "Casuarina Kite Surf",
-    "description": "Casuarina Kite Surf stands out as a unique adventure park in Jaffna, offering kite surfing lessons and equipment rentals amidst lush greenery and scenic views. Experience the thrill of flying kites over the water while learning from experienced instructors.",
+    "description": "Casuarina Kite Surf, an adventure park nestled in the heart of Jaffna, offers kite surfing, photography opportunities, and relaxation spots. Known for its scenic coastal views, the park attracts both locals and tourists seeking adrenaline-pumping experiences and serene moments. Established by local entrepreneurs in 2015, it has become a popular destination for water sports enthusiasts, providing safety training and equipment rentals. Its picturesque location near the historic Fort Frederick makes it a unique spot for visitors to combine fun with historical exploration.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_63967548",
     "name": "Nainativu Boat Adventure",
-    "description": "Nainativu Boat Adventure offers a unique boat ride experience through the serene waters of Nainativu Island, perfect for adrenaline seekers and nature lovers. Enjoy breathtaking views of the island’s lush greenery and crystal-clear waters while navigating through narrow channels and shallow waters.",
+    "description": "Nainativu Boat Adventure is an adventurous park located in the Jaffna district of Sri Lanka. Visitors can enjoy boat rides through serene waters, take nature walks along the shore, and spot various bird species during their stay. The park offers a unique opportunity to explore Nainativu Island, known for its rich biodiversity and historical significance as a former Buddhist monastery. Historically, the island was once a retreat for monks, and today it stands as a testament to ancient culture and natural beauty.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -96,6 +96,7 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_d24775f0ff",
     "name": "St.Mary's Community Centre Gym Club",

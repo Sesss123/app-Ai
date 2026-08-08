@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_5f5346802c",
     "name": "Reservation",
-    "description": "Reservation is a nature reserve in the Kurunagala area of Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Reservation National Park, located in Kurunagala, Sri Lanka, offers visitors a chance to observe diverse wildlife through guided hikes and nature trails. Established as a conservation area to protect local flora and fauna, the park attracts nature enthusiasts and wildlife watchers from across the country. Historically, the land was part of ancient royal hunting grounds, but the modern park was officially inaugurated in 2010 by the then President. Visitors can explore the park's various ecosystems, including wetlands and grasslands, while keeping an eye out for the region's unique bird species and other native wildlife.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "National Park",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_7ac7abc305",
     "name": "Reservation",
-    "description": "Reservation is a nature reserve located in Kurunagala, Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Reservation National Park, nestled in the verdant hills of Kurunagala, offers visitors a chance to observe Sri Lanka's diverse wildlife through guided hikes and safaris. Established as a sanctuary to protect endemic species, it has become a popular spot for nature enthusiasts seeking to see elephants, leopards, and various birdlife. The park, rich in biodiversity, also serves as an educational hub, teaching locals and tourists alike about conservation efforts. Its rolling landscapes and clear streams provide a tranquil setting where visitors can reconnect with nature.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "National Park",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_c5fc261141",
     "name": "Nisala Suwa Arana",
-    "description": "Nisala Suwa Arana is a nature reserve in the Kurunagala area of Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Nisala Suwa Arana, a national park in Kurunagala, offers visitors opportunities to observe diverse wildlife through guided hikes. The park, established to protect local flora and fauna, features lush forests, streams, and a variety of bird species. Its rich biodiversity makes it a crucial habitat for endangered animals. Historically, the area was known as Nisala, an ancient kingdom in Sri Lanka, but its exact connection to this modern-day park remains unclear. Visitors can explore the park's natural beauty while learning about its ecological importance.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "National Park",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

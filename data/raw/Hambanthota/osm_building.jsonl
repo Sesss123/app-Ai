@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_a7c21b9363",
     "name": "Tomb of Andare: the Court Jester",
-    "description": "Tomb of Andare: the Court Jester is a historic landmark in the Hambanthota area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Tomb of Andare, a historic building in Hambanthota, Sri Lanka, stands as a testament to the local tradition of preserving the stories of court jesters. Legend has it that Andare was a jester in the royal court whose wit and humor were so celebrated he was immortalized in stone. While the exact date of construction remains uncertain, the tomb's intricate carvings and historical inscriptions suggest it was built sometime during the colonial period. It attracts visitors interested in the history of local folklore and culture, offering a unique glimpse into the past through its well-preserved art and engravings.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_39d7e8d33a",
     "name": "War Heroes' Monument",
-    "description": "War Heroes' Monument is a historic landmark in the Hambanthota area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The War Heroes' Monument stands in Hambanthota, a district in southeastern Sri Lanka, honoring those who served during the Liberation War against the Tamil Tigers. Constructed in the early 21st century, it commemorates the bravery and sacrifices of soldiers who fought for the island's unity. The monument features a central statue of a fallen hero, surrounded by plaques listing the names of the deceased. Visitors often take photos at the site, reflecting on the country's struggle for peace and freedom.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Building",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_3da4569f47",
     "name": "Tsunami memorial",
-    "description": "Located in Hambanthota, Tsunami memorial is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Tsunami memorial stands in Hambanthota, a district hit hard by the 2004 Indian Ocean tsunami, a tragedy that claimed thousands of lives. The memorial was constructed as a tribute to those lost and as a reminder of the devastating impact of natural disasters. Visitors can take photos at the site, which features plaques listing names of victims and touching artworks depicting scenes from the disaster. It serves as a somber yet important reminder of resilience and the need for preparedness.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Building",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

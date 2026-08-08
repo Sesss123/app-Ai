@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_dfa471d115",
     "name": "Ranmasu Uyana",
-    "description": "Ranmasu Uyana is a nature reserve in the Anuradhapura area of Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Ranmasu Uyana, a national park in Anuradhapura, offers visitors opportunities to observe wildlife and engage in hiking. The park, established as a sanctuary for elephants, provides a glimpse into Sri Lanka's rich biodiversity. Historically, Ranmasu Uyana was part of the ancient royal palace complex, where the royal family would keep their elephants. Today, it serves as a vital habitat for several endangered species, including Asian elephants, making it a crucial conservation site. Visitors can explore trails that wind through lush vegetation, offering a chance to see native flora and fauna in their natural environment.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "National Park",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

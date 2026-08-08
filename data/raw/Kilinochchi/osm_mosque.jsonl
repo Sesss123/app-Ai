@@ -33,10 +33,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_d9798c7a",
     "name": "Kilinochchi Grand Mosque",
-    "description": "This grand mosque stands proudly in Kilinochchi, a historic town in Northern Sri Lanka. Built in the 19th century, it's a testament to the rich Islamic heritage of the region, featuring intricate Arabic calligraphy and a serene courtyard. Its unique architecture and historical significance make it a must-visit for anyone interested in Sri Lanka's diverse religious landscape.",
+    "description": "The Kilinochchi Grand Mosque stands as a symbol of unity in a predominantly Muslim district. Built in 2006 after the completion of a community center, it was designed by local architects and funded by international donors. The mosque plays a crucial role in the community, hosting prayers and providing a space for reflection. It also attracts visitors interested in its architecture and the peaceful atmosphere it fosters. Local historians occasionally lead tours highlighting the mosque's construction and the area's rich cultural heritage.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Mosque",

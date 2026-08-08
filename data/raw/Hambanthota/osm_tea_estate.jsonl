@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_f416a93288",
     "name": "Pattiyapola Mahawewa - Irrigable Area",
-    "description": "Pattiyapola Mahawewa - Irrigable Area is a tea estate in the Hambanthota area of Sri Lanka. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Pattiyapola Mahawewa, an irrigable tea estate in Hambanthota, Sri Lanka, offers visitors a serene retreat through its rolling tea plantations. Historically, the estate was established by local farmers in the early 20th century, blending traditional practices with modern tea cultivation techniques. Today, it serves as a popular spot for photography enthusiasts and nature lovers, allowing them to experience the lush greenery and tranquility of the region. Notable events include annual tea festivals where locals gather to celebrate their rich agricultural heritage.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Tea Estate",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_a873266362",
     "name": "ISM Logo",
-    "description": "Located in Badulla, ISM Logo is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "ISM Logo, a historic landmark in Badulla, is a prominent building known for its distinctive architecture and rich history. Originally constructed as a government office in the early 20th century, it now serves as a popular spot for photographers and tourists interested in local culture and colonial-era structures. Notable for its unique blend of traditional and modern design, ISM Logo stands as a testament to the architectural evolution of the region. Its serene surroundings make it a favorite among visitors seeking a glimpse into Sri Lanka’s past.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_295846f143",
     "name": "Nagadeepa Dagoba",
-    "description": "Nagadeepa Dagoba is a historic landmark located in Badulla, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Nagadeepa Dagoba, a historic landmark in Badulla District, Sri Lanka, stands as a testament to ancient Buddhist architecture. Built during the reign of King Dutugemunu in the 2nd century BCE, it was once part of a network of dagobas used for meditation and learning. The dagoba, which translates to 'mountain of relics,' houses sacred Buddhist ashes and scriptures. Its construction marked a significant period in Sri Lankan history, reflecting the island's rich cultural heritage. Today, visitors come to admire its serene beauty and learn about its profound religious and historical importance.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Building",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_591301c8c2",
     "name": "Dhowa Buddha Statue",
-    "description": "Dhowa Buddha Statue is a historic landmark in the Badulla area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Dhowa Buddha Statue stands in the picturesque town of Badulla, Sri Lanka, a striking monument carved into the rock face of a hillside. Commissioned by the local Buddhist community, the statue was carved in 2008 by skilled artisans using traditional methods. It depicts the reclining Buddha, a serene image that symbolizes the Buddha’s journey through past, present, and future lives. Visitors often come to take photos and admire the statue, which overlooks the surrounding landscape, making it a popular spot for tourists and locals alike.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Building",
@@ -105,6 +105,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_f59a82e0",
     "name": "Municipal Council Building",

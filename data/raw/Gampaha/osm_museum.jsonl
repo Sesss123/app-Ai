@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_ae0d1fbf55",
     "name": "Railway Museum",
-    "description": "Railway Museum is a museum in the Gampaha area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Railway Museum in Gampaha district showcases exhibits on Sri Lanka's rich railway heritage, including vintage locomotives, old train tickets, and photographs. Built in 1906, the museum houses over 150 items, many of which are unique to Sri Lanka. Notable events like the introduction of steam trains in 1863 and the electrification of the network in the 1970s are highlighted, offering visitors insights into the island's transportation evolution. Cultural significance lies in preserving memories of a once-vital transport system that connected major cities and towns across the country.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Museum",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_49d688a2",
     "name": "Nuwara Eliya Adventure Zone",
-    "description": "Nuwara Eliya Adventure Zone offers thrilling zip-lining, rock climbing, and abseiling amidst lush tea plantations and dense forests. Experience the thrill of adventure in a picturesque setting that blends natural beauty with adrenaline-pumping activities.",
+    "description": "The Nuwara Eliya Adventure Zone, nestled in the Nuwara Eliya District of Sri Lanka, offers thrilling zip-lining over lush tea plantations, challenges rock climbers with steep ascents, and abseils down waterfalls, making it a popular spot for adrenaline seekers. Established in 2010, the park attracts visitors seeking a unique blend of natural beauty and high-adrenaline experiences. Visitors can enjoy panoramic views while zipping through the forest canopy, test their climbing skills on sheer rock faces, and descend safely with guided abseiling sessions.",
     "district_id": "Nuwara Eliya",
     "province_id": "Central",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_3f32df1b",
     "name": "Moon Plains Paragliding",
-    "description": "Moon Plains Paragliding offers breathtaking paragliding experiences over lush green landscapes and misty valleys. Nestled in Nuwara Eliya, this adventure park provides thrilling rides for both beginners and experts, offering stunning views of the Central Province’s natural beauty.",
+    "description": "Moon Plains Paragliding, an adventure park nestled in the verdant hills of Nuwara Eliya, offers breathtaking paragliding experiences over scenic landscapes. The area's lush vegetation and dramatic mountain vistas make it a popular spot for both beginners and experienced flyers. Visitors can also enjoy photography opportunities and scenic drives around the site, where they can witness the beauty of nature and perhaps catch glimpses of local wildlife. Established as a recreational hub, Moon Plains Paragliding has become a favorite among adventure seekers and nature lovers alike.",
     "district_id": "Nuwara Eliya",
     "province_id": "Central",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_1382a95e",
     "name": "Horton Plains Hiking",
-    "description": "Experience the breathtaking Horton Plains Hiking trail, a UNESCO Global Geopark site that offers panoramic views of the Central Province’s lush tea plantations and misty cloud forests. This iconic trek is perfect for nature lovers and adventure seekers, offering a glimpse into Sri Lanka’s natural heritage.",
+    "description": "The Horton Plains Hiking Adventure Park in Nuwara Eliya offers breathtaking trails through the heart of the Central Province. Established by the British colonial government as a highland retreat, it was named after Sir Robert Horton, the first Governor of Ceylon. The park's diverse ecosystems support over 200 bird species, making it a haven for nature lovers and wildlife enthusiasts. Visitors can hike along scenic paths, photograph the unique flora and fauna, and experience the tranquility of this untouched wilderness. Notable events include the annual bird festival, where locals and visitors alike gather to celebrate the rich biodiversity of the region.",
     "district_id": "Nuwara Eliya",
     "province_id": "Central",
     "category_id": "Adventure Park",
@@ -96,6 +96,7 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_c15a77559f",
     "name": "Lake Gregory Park",

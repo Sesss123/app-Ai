@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_5c378c0718",
     "name": "Flamingos",
-    "description": "Located in Colombo, Flamingos is a nature reserve worth visiting. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Flamingos National Park, nestled in the verdant heart of Colombo, offers visitors a unique opportunity to observe the vibrant red Flamingos that gather here during their migratory season. Established as a nature reserve, the park provides a sanctuary for these majestic birds, along with numerous other species of flora and fauna. Visitors can enjoy guided hikes through the park, spotting the colorful flamingos alongside water lilies and lush greenery. The park also hosts regular bird-watching tours, allowing visitors to witness the spectacle of thousands of flamingos gathering on the wetlands. This protected area plays a crucial role in conserving local biodiversity and educating the public about the importance of environmental stewardship.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "National Park",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_033588a49c",
     "name": "Natural Forest Patch",
-    "description": "Natural Forest Patch is a nature reserve in the Colombo area of Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Natural Forest Patch, a national park in the heart of Colombo, offers visitors a unique opportunity to explore lush greenery and diverse wildlife. Established to protect an area of tropical forest, it provides a sanctuary for local flora and fauna. Visitors can enjoy guided hikes through the park, spotting native species such as langurs and birds. The park also plays a crucial role in the city’s ecosystem, contributing to air quality and serving as a vital habitat for endangered species. Established decades ago, it has become a cherished spot for both locals and tourists seeking a slice of nature amidst urbanization.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "National Park",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_c2d06e76b8",
     "name": "Attidiya Bird Sanctuary",
-    "description": "Attidiya Bird Sanctuary is a nature reserve located in Colombo, Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Attidiya Bird Sanctuary, located in the outskirts of Colombo, is a protected area designated as a national park where visitors can observe diverse bird species. Established in 1973, it covers an area of about 52 hectares. The sanctuary offers a unique opportunity for bird watchers and nature enthusiasts to see local and migratory birds such as the Malayan Woodpecker, Asian Koel, and Common Mynah. Visitors can take guided tours led by trained guides who provide insights into the sanctuary's flora and fauna. Notable events include the arrival of migratory birds during winter months, attracting thousands of bird lovers and researchers.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "National Park",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

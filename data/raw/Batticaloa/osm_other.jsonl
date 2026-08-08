@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_69e1fb18c7",
     "name": "M A N D U R",
-    "description": "Located in Batticaloa, M A N D U R is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Mandur, a small village in Batticaloa District, Sri Lanka, is a charming site known for its serene beaches and lush greenery. Historically significant, it was once an important port town during the colonial era, known for trading with India. Today, Mandur attracts tourists with its picturesque setting and traditional fishing villages nearby. Notable for its rich cultural heritage, the area also features ancient temples and ruins. Visitors can explore local markets, relax on the beach, and experience the local way of life.",
     "district_id": "Batticaloa",
     "province_id": "Eastern",
     "category_id": "Other",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_e200c82c11",
     "name": "Kaluthawalai",
-    "description": "Kaluthawalai is a point of interest in the Batticaloa area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kaluthawalai, a small but significant site in Batticaloa District, Sri Lanka, is a historic village known for its ancient ruins and traditional architecture. The origins of Kaluthawalai date back to the 16th century, though exact details of its founding remain unclear. It holds cultural importance as a hub for local artisans and a gathering place for community events. Today, visitors can explore remnants of old temples and houses, offering insights into the region’s rich heritage. Known for its serene beauty and tranquil atmosphere, Kaluthawalai attracts nature lovers and those interested in historical tours.",
     "district_id": "Batticaloa",
     "province_id": "Eastern",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_eb02e7d05f",
     "name": "Kadakan Kal",
-    "description": "Located in Batticaloa, Kadakan Kal is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Kadakan Kal, an intriguing Other site in Batticaloa District, Sri Lanka, is believed to be an ancient Hindu temple dedicated to the god Shiva. Its exact construction date and original builder remain unknown, but it stands as a testament to the rich cultural heritage of the region. Visitors can explore the ruins and admire the architectural remnants, learning about the local history and spirituality. Nearby, the ancient stone carvings and the traditional village life offer a glimpse into the past and present of Batticaloa.",
     "district_id": "Batticaloa",
     "province_id": "Eastern",
     "category_id": "Other",
@@ -177,3 +177,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

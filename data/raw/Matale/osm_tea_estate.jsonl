@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_fcea308a31",
     "name": "tea plantation",
-    "description": "tea plantation is a tea estate located in Matale, Sri Lanka. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "The tea plantation in Matale, Sri Lanka, offers visitors a chance to explore lush green tea gardens and learn about the craft of tea production. Established over a century ago by British colonialists, this estate has become an important part of Sri Lankan culture, known for its high-quality Ceylon tea. Visitors can take guided tours through the plantation, marvel at the traditional tea-making process, and enjoy panoramic views of the surrounding hills. Photography enthusiasts can capture the serene beauty of the tea plantations, while nature lovers can walk the trails, breathe fresh air, and immerse themselves in the tranquil atmosphere.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Tea Estate",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_696730d0fa",
     "name": "tea plantation",
-    "description": "Located in Matale, tea plantation is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "The tea plantation in Matale, Sri Lanka, stretches across lush green hills, a testament to the country's rich tea industry. Established in the early 20th century by local farmers and later expanded by international companies, it offers visitors a chance to walk through the verdant fields, photograph the sprawling tea bushes, and learn about traditional tea-making techniques. The plantation hosts cultural tours where visitors can interact with locals, tasting authentic tea and learning about the unique blend of Sri Lankan culture and British colonial influence.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Tea Estate",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

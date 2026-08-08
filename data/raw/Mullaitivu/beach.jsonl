@@ -34,7 +34,7 @@
 {
     "id": "pl_8afcd13b",
     "name": "Kokkilai Beach (Black Sand)",
-    "description": "Kokkilai Beach (Black Sand), nestled along the Mullaitivu coast, offers a mesmerizing black sand stretch where the sea meets the shore. This pristine beach, known for its unique color, attracts visitors seeking a tranquil escape from the chaos of urban life.",
+    "description": "Kokkilai Beach, also known as Black Sand Beach, is a unique black sand stretch along the Mullaitivu coast in Sri Lanka. Known for its striking black sands, the beach attracts visitors seeking sunbathing and swimming. The area's black sand is believed to be formed by volcanic activity, though the exact geological formation remains a subject of local legend and scientific debate. Photographers flock here to capture the mesmerizing contrast of black sand and turquoise waters, making Kokkilai Beach a popular spot for both leisure and photography enthusiasts.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Black Sand Beach",
@@ -67,7 +67,7 @@
 {
     "id": "pl_c89e5c23",
     "name": "Nayaru Beach",
-    "description": "Nayaru Beach, nestled along the Mullaitivu coast, offers crystal-clear waters and stunning views of the Indian Ocean. This picturesque lagoon-side spot is perfect for swimming, snorkeling, and relaxing under the warm sun.",
+    "description": "Nayaru Beach, nestled in Mullaitivu, offers a serene lagoon-side experience perfect for swimming and snorkeling amidst vibrant marine life. Historically significant as a small fishing village, Nayaru has seen growth over recent decades, becoming a popular spot for tourists seeking tranquility and natural beauty. Its calm waters and clear visibility make it ideal for those interested in underwater exploration. Visitors can relax on the beach, soak up the sun, and perhaps catch glimpses of local culture through friendly interactions with the community.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Lagoon-side Beach",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

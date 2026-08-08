@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_fe73b22369",
     "name": "Tsunami monument",
-    "description": "Tsunami monument is a historic landmark in the Kalutara area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Tsunami monument stands as a somber reminder of the devastating 2004 Indian Ocean tsunami that struck Sri Lanka, claiming many lives in Kalutara District. Built to honor the victims and commemorate the disaster, the monument features a collection of stones representing each affected province. It also includes a poignant plaque detailing the event and its impact on the region. Visitors can take photos in front of the monument, reflecting on the tragedy while admiring the resilience of the local community.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_01ec6e5172",
     "name": "Watch - Clock Tower",
-    "description": "Watch - Clock Tower is a historic landmark located in Kalutara, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Watch Clock Tower, standing tall in Kalutara District, is a historic landmark that stands as a testament to the town's rich colonial past. Built in 1873 by the British administration, it was initially used as a timekeeper for the local watchmakers. Over the years, it has become an iconic symbol of Kalutara, attracting visitors who come to take photographs and enjoy the sightseeing opportunities it offers. Today, it stands as a reminder of the town’s history and serves as a focal point for community gatherings and celebrations.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Building",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

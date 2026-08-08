@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_27ad4ceab6",
     "name": "Highway Museum, Kiribathkumbura.",
-    "description": "Highway Museum, Kiribathkumbura. is a museum located in Kandy, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Highway Museum, located in Kiribathkumbura, is a unique museum situated in a historic house converted into a cultural center. It showcases artifacts and documents related to the ancient highways of Kandy, highlighting the trade routes and their impact on the region's economy and culture. The museum also features exhibits on the local heritage and history, attracting visitors interested in learning about Sri Lanka's rich past. Known for its blend of traditional and modern elements, it offers a glimpse into the country's development over centuries.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_9b6eb77dac",
     "name": "Ceylon Tea Museum",
-    "description": "Ceylon Tea Museum is a museum located in Kandy, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Ceylon Tea Museum in Kandy, Sri Lanka, offers visitors a glimpse into the rich history and cultural heritage of tea production in the region. Built in 1867, the museum was initially constructed by the British to showcase tea plantation techniques. It houses exhibits detailing the evolution of tea cultivation, traditional methods, and the impact of tea on the local economy and society. Notable events include the first tea auction held there in 1867, which marked the beginning of Sri Lanka's tea industry. Visitors can learn about the labor-intensive process of tea production, from planting to harvesting, through interactive displays and audio guides.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -47,7 +47,7 @@
     "_osm_type": "node",
     "_osm_id": 3276843504,
     "_source_global_id": "d6e2d00c-2ad5-42ab-8f3d-ce36df7f68e9",
-    "opening_hours": "Check locally",
+    "opening_hours": "Tu-Sa 08:30-16:30; Su 08:30-15:30",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_448c73ef00",
     "name": "National Railway Musuem",
-    "description": "National Railway Musuem is a museum in the Kandy area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Railway Musuem in Kandy, Sri Lanka, showcases exhibits on the country's railway history dating back to the early 20th century. Established to preserve the nation's transportation heritage, it houses vintage train carriages, locomotives, and photographs, providing visitors with an insight into how railways played a crucial role in Sri Lanka's development and connectivity. Notable events include the opening of the first railway line in 1863 connecting Colombo to Galle, which marked the beginning of rail transport in the island.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_c0b2442d12",
     "name": "Gem & Mineral Museum",
-    "description": "Gem & Mineral Museum is a museum in the Kandy area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Gem & Mineral Museum in Kandy is a dedicated space showcasing a collection of precious and semi-precious stones, minerals, and artifacts. It houses exhibits on gemology, mineralogy, and the cultural significance of gems in local traditions and beliefs. Founded by a local entrepreneur keen on preserving Sri Lanka's rich mineral heritage, the museum opened its doors in 2005. Visitors can learn about gem mining practices, ancient jewelry making techniques, and the geological processes that form these natural treasures. Notable for its educational programs and guided tours, it attracts both locals and tourists interested in geology and jewelry appreciation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_b0e5ff1c17",
     "name": "Plant Seed Museum",
-    "description": "Plant Seed Museum is a museum located in Kandy, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Plant Seed Museum in Kandy, Sri Lanka, is a small but fascinating institution dedicated to preserving and showcasing over 30,000 unique plant seeds from around the world. Founded in 1926 by the then Governor of Ceylon, Sir Robert Nathan, it was initially intended as a botanical garden but later transformed into a museum. The collection includes seeds from various endangered species, highlighting the importance of biodiversity and conservation efforts. Visitors can learn about the ecological significance of seed preservation and gain insights into the rich biodiversity of Sri Lanka and beyond. It's a must-visit for nature lovers and those interested in environmental history.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_ef46f13814",
     "name": "Natural Gems and Gemological Museum",
-    "description": "Located in Kandy, Natural Gems and Gemological Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Natural Gems and Gemological Museum in Kandy is a dedicated space showcasing Sri Lanka's rich gemstone heritage. Founded in 1987, it houses an extensive collection of precious and semi-precious gems, including rubies, sapphires, and emeralds, each piece accompanied by detailed information on their origin, formation, and historical significance. The museum also offers gemology classes, where visitors can learn about gem identification and care. It's a must-visit for gem enthusiasts and those interested in the cultural and economic importance of Sri Lanka's gem industry.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -191,7 +191,7 @@
     "_osm_type": "node",
     "_osm_id": 5333411524,
     "_source_global_id": "75bc5d6d-843e-4c7c-b32a-3daec614e8a9",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 08:30-17:30",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_3de2a6d25b",
     "name": "National Museum of Kandy",
-    "description": "Located in Kandy, National Museum of Kandy is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Museum of Kandy, located in the heart of Kandy, houses an extensive collection of artifacts and exhibits that chronicle the rich history and culture of Sri Lanka. Built in 1874 by the British, it was initially used as a residence for the colonial governor. Today, it showcases ancient manuscripts, royal regalia, Buddhist statues, and traditional costumes, offering visitors a glimpse into the island’s past. The museum also hosts regular exhibitions on various themes related to Sri Lankan heritage, making it a must-visit for anyone interested in learning about the country’s history and art.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -227,7 +227,7 @@
     "_osm_type": "way",
     "_osm_id": 177112956,
     "_source_global_id": "53c224e9-c07c-4e72-a20e-7755c9261265",
-    "opening_hours": "Check locally",
+    "opening_hours": "Tu-Sa 9:00-17:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_7677c57937",
     "name": "International Buddhist Museum",
-    "description": "Located in Kandy, International Buddhist Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The International Buddhist Museum in Kandy, Sri Lanka, houses artifacts and exhibits that chronicle the rich history and spiritual practices of Buddhism. Established to preserve and educate the public about Buddhist heritage, it showcases statues, manuscripts, and traditional items from various periods, including ancient texts written on palm leaves. The museum also features a gallery dedicated to contemporary artists who explore Buddhist themes through modern mediums. It attracts visitors interested in learning about the religion’s profound impact on culture and society.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -263,7 +263,7 @@
     "_osm_type": "way",
     "_osm_id": 191377761,
     "_source_global_id": "c97973a4-dfed-412a-81ef-5e70124a66ca",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 08:00-19:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_cfe63c56cb",
     "name": "Old Royal Palace",
-    "description": "Old Royal Palace is a museum located in Kandy, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Old Royal Palace in Kandy, Sri Lanka, now converted into a museum, houses artifacts and royal paraphernalia from the time of the Kandyan Kings. Constructed during the 17th century, it was once the residence of the last independent king of Kandy, Sri Wickrama Rajasinghe. The palace's rich history makes it a significant site for those interested in Sri Lankan heritage and royal culture. Visitors can learn about the kingdom's decline and the eventual British colonization through exhibits and guided tours.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_ac117a88f0",
     "name": "Raja Museum",
-    "description": "Raja Museum is a museum located in Kandy, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Raja Museum in Kandy, Sri Lanka, houses artifacts and exhibits that chronicle the rich history and culture of the ancient kingdoms of Sri Lanka. Built by the Kandyan kings in the 19th century, it was originally constructed as a royal palace. Today, it serves as a repository for items of historical and cultural significance, including ancient manuscripts, religious relics, and traditional artifacts. The museum also hosts regular exhibitions on the history of Kandy and its people, making it a popular destination for both locals and tourists interested in learning about Sri Lankan heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_2b984dcf27",
     "name": "National Railway Museum",
-    "description": "National Railway Museum is a museum located in Kandy, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Railway Museum in Kandy, Sri Lanka, houses artifacts and exhibits related to the country's railway history. Established in 1976, it showcases locomotives, carriages, and photographs tracing the development of Sri Lanka's rail network from colonial times through independence. Notable items include an early steam locomotive and a vintage dining car. Visitors can learn about significant milestones such as the construction of the first railway line connecting Colombo and Jaffna in 1860, which was crucial for the island's economic growth. The museum also hosts temporary exhibitions featuring contemporary railway-related themes, offering insights into the nation's transportation heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Museum",
@@ -393,3 +393,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_56bb2ac463",
     "name": "Namal Pokuna Vihara Ruins",
-    "description": "Located in Polonnaruwa, Namal Pokuna Vihara Ruins is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Namal Pokuna Vihara Ruins, located in Polonnaruwa, are remnants of an ancient Buddhist temple complex dating back to the Polonnaruwa Kingdom era around the 12th century. The site features well-preserved stone structures including a small pond and a sanctuary, believed to have been used for rituals and meditation by monks. It holds significant cultural and religious importance as a testament to the rich architectural heritage of ancient Sri Lanka. Visitors can explore the ruins, take photos, and appreciate the intricate carvings and sculptures that showcase the craftsmanship of that time.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -11,7 +11,7 @@
     "_osm_type": "node",
     "_osm_id": 5422362397,
     "_source_global_id": "9d7db4a7-5cee-408f-83ad-6459e82568f6",
-    "opening_hours": "Check locally",
+    "opening_hours": "sunrise-sunset",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -21,7 +21,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_d521af2eda",
     "name": "Pansalgodella Historical Place",
-    "description": "Located in Polonnaruwa, Pansalgodella Historical Place is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Pansalgodella Historical Place, an archaeological site in Polonnaruwa, Sri Lanka, is a remnant of ancient ruins where locals and tourists explore remnants of Buddhist architecture. The site, dating back to the 12th century, features ancient stone carvings and structures believed to be remnants of a former monastery. Its historical importance lies in its connection to the Polonnaruwa kingdom and the Theravada Buddhist tradition. Notable events include pilgrimages and ceremonies held at the site, though specific details are limited due to lack of comprehensive historical records. Visitors often take photos of the well-preserved stupa and monolithic figures, appreciating the blend of art and religion from centuries past.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -47,7 +47,7 @@
     "_osm_type": "node",
     "_osm_id": 5502618377,
     "_source_global_id": "7b031c4b-9e32-4e8b-a3a9-19f375c24127",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_99a907d423",
     "name": "Alahana Pirivena",
-    "description": "Alahana Pirivena is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Alahana Pirivena, an ancient ruins in Polonnaruwa, Sri Lanka, was originally built as a Buddhist school by King Parakramabahu I in the 13th century. The site features well-preserved stone carvings and statues, including a Buddha statue with a broken head, believed to be the oldest surviving Buddha image in Sri Lanka. Visitors can explore the ruins, take photos, and learn about the cultural and religious importance of this educational institution, which played a crucial role in preserving Buddhist teachings during the Polonnaruwa period.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_c5b313cb8c",
     "name": "Pabalu Vehera",
-    "description": "Pabalu Vehera is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Pabalu Vehera, an archaeological site in Polonnaruwa, Sri Lanka, is a ruined Buddhist temple dating back to the reign of King Parakramabahu I in the 13th century. The structure was likely built as a meditation hall or vihara, reflecting the importance of religious practice during the Polonnaruwa period. It stands as a testament to ancient engineering skills, with its well-preserved architectural elements offering insights into medieval Sinhalese construction techniques. Visitors can explore the ruins, capturing moments through photography, while appreciating the site's historical and cultural significance.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_50a893ce7b",
     "name": "Polonnaruwa Quadrangle",
-    "description": "Located in Polonnaruwa, Polonnaruwa Quadrangle is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Polonnaruwa Quadrangle, an archaeological site in Polonnaruwa, Sri Lanka, comprises ruins of ancient cities and temples. It includes the famous Temple of the Tooth, where the relic of the Buddha’s tooth is enshrined, attracting pilgrims from around the world. The area was the capital of the ancient Sinhalese kingdom from the 5th to the 12th century CE, making it a hub of cultural and religious significance. Visitors can explore the ruins, take photos, and learn about the rich history of this sacred land.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_2e151fb9a8",
     "name": "Lotus Pond",
-    "description": "Located in Polonnaruwa, Lotus Pond is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Lotus Pond, an archaeological site in Polonnaruwa, Sri Lanka, was part of the ancient city of Polonnaruwa. It is believed to be named after the lotus pond mentioned in ancient texts. The site includes ruins of monasteries and temples, offering insights into the architectural styles and religious practices of the Anuradhapura and Polonnaruwa periods. Visitors can explore the ruins, take photos, and appreciate the historical significance of this area, which played a crucial role in the country’s religious and cultural heritage.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_c725cc34be",
     "name": "Royal Palace",
-    "description": "Royal Palace is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Royal Palace, an archaeological site in Polonnaruwa, Sri Lanka, was once the royal residence of kings during the Anuradhapura and Polonnaruwa periods. It served as a symbol of power and wealth, reflecting the grandeur of ancient Sri Lankan royalty. The ruins provide insight into the architectural styles and construction techniques of the time, though much of the structure has been lost over centuries. Visitors can explore the site, marvel at the remnants of the past, and take photos to capture the historical significance of this sacred place.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_bdc1ca1aac",
     "name": "Tomb of King Nissankamalla",
-    "description": "Tomb of King Nissankamalla is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Tomb of King Nissankamalla, an archaeological site in Polonnaruwa, Sri Lanka, is a small stone structure believed to be the final resting place of King Nissankamalla, a ruler of the ancient kingdom of Anuradhapura. The site, though modest, holds historical significance as it marks the burial place of a significant figure in Sri Lankan history, adding depth to the country's rich past. Visitors can explore the site, take photos, and reflect on the legacy of this king, whose reign contributed to the political landscape of ancient Sri Lanka.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_15fe1fafda",
     "name": "Bisokotuwa",
-    "description": "Bisokotuwa is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Bisokotuwa, an archaeological site in Polonnaruwa, Sri Lanka, was an ancient administrative center where kings and nobles lived during the Polonnaruwa kingdom period. The ruins include a palace complex, a royal bath, and residential quarters. Notable for its well-preserved structures, Bisokotuwa offers visitors a glimpse into medieval Sri Lankan life, making it a significant site for history enthusiasts and archaeologists. Visitors can explore the site, take photos, and learn about its role in the country's political landscape, dating back to the 12th century.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_ec145059f3",
     "name": "Ancient Northern Entrance",
-    "description": "Ancient Northern Entrance is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Ancient Northern Entrance, an archaeological site in Polonnaruwa, marks the entrance to the ancient city of Polonnaruwa. Built during the reign of King Parakramabahu I in the 13th century, it features intricate carvings and served as a gateway for dignitaries and pilgrims entering the sacred grounds. Its historical importance lies in its role as a ceremonial entry point, highlighting the grandeur and administrative layout of the ancient capital. Visitors can explore the well-preserved ruins, taking photos to capture the site's architectural beauty and historical significance.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_1bfbc4da58",
     "name": "Nagalakanda Ruins",
-    "description": "Nagalakanda Ruins is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Nagalakanda Ruins, an archaeological site in Polonnaruwa, Sri Lanka, offer insights into ancient civilizations. The ruins date back to the Polonnaruwa period, around the 12th century AD, when they were part of a larger complex used by the royal family. Notable structures include a few standing pillars and walls, remnants of a once grand temple complex. The site holds cultural significance as it reflects the architectural styles and engineering prowess of that era. Photography is popular among visitors capturing the crumbling beauty and imagining past scenes.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -417,7 +417,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_5c1a794f07",
     "name": "Nissanka Latha Mandapaya",
-    "description": "Nissanka Latha Mandapaya is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Nissanka Latha Mandapaya, an ancient ruins in Polonnaruwa district, Sri Lanka, is believed to have been constructed during the reign of King Nissanka Malla around the 5th century AD. The imposing stone structure, adorned with intricate carvings and inscriptions, served as a royal assembly hall where important state matters were discussed. Its ornate architecture and historical importance make it a significant site for archaeologists and historians alike, offering insights into ancient Sri Lankan royal life and culture. Visitors can explore the ruins while taking photos to capture their beauty and historical significance.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_309b12853b",
     "name": "Bodhi Tree Shrine",
-    "description": "Bodhi Tree Shrine is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Bodhi Tree Shrine in Polonnaruwa, Sri Lanka, is an archaeological site where visitors can explore the remains of ancient ruins including a sacred Bodhi tree, said to be a sapling from the original Bodhi under which the Buddha attained enlightenment. This site holds great religious significance as it commemorates the introduction of Buddhism to Sri Lanka. Photographers flock here to capture the serene atmosphere and the ancient tree, believed to date back to the 3rd century BCE. Visitors can learn about the tree's history and its role in spreading Buddhist teachings throughout the island.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -613,7 +613,7 @@
 {
     "id": "pl_osm_6020b0f1ad",
     "name": "Sat Mahal Prasadaya",
-    "description": "Located in Polonnaruwa, Sat Mahal Prasadaya is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Sat Mahal Prasadaya, an archaeological site in Polonnaruwa, Sri Lanka, consists of ruins of ancient buildings believed to be remnants of a royal residence. Constructed during the Polonnaruwa period, these structures were likely used by kings and nobles as a palace complex. The site offers visitors a glimpse into the architectural and cultural heritage of ancient Sri Lanka, with its well-preserved stone walls and foundations. Photography tours are popular, allowing tourists to capture images of the historical remains set against the backdrop of lush greenery.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -649,7 +649,7 @@
 {
     "id": "pl_osm_d0f4c4d86c",
     "name": "Council Chamber",
-    "description": "Located in Polonnaruwa, Council Chamber is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Council Chamber, an archaeological site in Polonnaruwa, Sri Lanka, is a remnant of the ancient capital city of the Sri Lankan kings. Built during the reign of King Parakramabahu I in the 14th century, it served as a meeting place for royal officials. The chamber was constructed using locally quarried granite stones, showcasing the architectural prowess of the time. Today, visitors can explore this historic structure, take photos, and marvel at its well-preserved interiors, which include intricately carved pillars and a raised platform where important decisions were made. Its significance lies in providing insight into the governance and administration of ancient Sri Lanka.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -685,7 +685,7 @@
 {
     "id": "pl_osm_bdb4ae272d",
     "name": "Siva Devalaya",
-    "description": "Located in Polonnaruwa, Siva Devalaya is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Siva Devalaya, an archaeological site in Polonnaruwa, Sri Lanka, is a ruin of a Hindu temple dedicated to Lord Shiva. Constructed during the reign of King Parakramabahu I in the 13th century, it stands as a testament to ancient Sri Lankan architecture. The temple was once adorned with intricate carvings and sculptures depicting scenes from Hindu mythology. Its historical importance lies in its role as a focal point for the island's Hindu community and as a symbol of the rich cultural heritage of Polonnaruwa. Visitors can explore the ruins, take photographs, and appreciate the architectural beauty and historical significance of this site.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -721,7 +721,7 @@
 {
     "id": "pl_osm_5dc459c6d3",
     "name": "Siva Devalaya",
-    "description": "Siva Devalaya is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Siva Devalaya, an archaeological site in Polonnaruwa, Sri Lanka, is a remnant of ancient Buddhist architecture. Built during the reign of King Parakramabahu I, it was dedicated to the Hindu god Shiva. The site features intricately carved stone pillars and a small shrine. It holds cultural significance as a testament to Polonnaruwa's rich heritage and the blend of Hindu and Buddhist influences in Sri Lankan architecture. Visitors can explore the ruins, take photos, and learn about the site's historical importance through local guides.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_31bba28d72",
     "name": "Nissankalata Mandapa",
-    "description": "Nissankalata Mandapa is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Nissankalata Mandapa, an archaeological site in Polonnaruwa, Sri Lanka, is a ruined structure believed to be part of the ancient irrigation system of Polonnaruwa. Constructed during the reign of King Parakramabahu I in the 14th century, it was part of a network designed to manage water flow across the kingdom. The mandapa itself served as a small shelter or pavilion, likely used by officials overseeing the irrigation works. Its existence highlights the advanced engineering skills of medieval Sri Lanka, making it a significant site for understanding the country's agricultural and administrative past. Visitors can explore the ruins, take photos, and appreciate the craftsmanship that went into constructing such structures centuries ago.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -793,7 +793,7 @@
 {
     "id": "pl_osm_b6ba045378",
     "name": "Menik Vehera",
-    "description": "Menik Vehera is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Menik Vehera, an archaeological site in Polonnaruwa, Sri Lanka, is a ruined temple complex dating back to the Polonnaruwa period (11th century CE). Built by King Parakramabahu I, it was once part of a larger Buddhist monastery. The site features well-preserved stone carvings and sculptures depicting scenes from Buddhist scriptures. Notable events include its construction under royal patronage, making it a significant example of ancient Sri Lankan architecture and art. Visitors can explore the ruins, take photos, and appreciate the historical and cultural importance of this site.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -829,7 +829,7 @@
 {
     "id": "pl_osm_2e8f57b005",
     "name": "Monastic Hospital",
-    "description": "Monastic Hospital is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Monastic Hospital ruins, located in Polonnaruwa, Sri Lanka, are remnants of an ancient hospital complex that served as a refuge for monks and pilgrims during the Polonnaruwa period. Constructed during the 12th century, the site includes structures such as a chapel, living quarters, and a central courtyard, reflecting the Buddhist tradition of providing care for the sick and weary. The hospital played a crucial role in the region’s healthcare system, offering sanctuary and medical aid to travelers and monks alike. Today, visitors can explore the well-preserved ruins, marvel at the craftsmanship, and take photographs to capture the historical significance of this once vibrant institution.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -865,7 +865,7 @@
 {
     "id": "pl_osm_5bb2fc47f0",
     "name": "Baddha Sima Malakaya",
-    "description": "Located in Polonnaruwa, Baddha Sima Malakaya is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Baddha Sima Malakaya, an archaeological site in Polonnaruwa, Sri Lanka, is believed to be an ancient royal garden or pleasure ground. The site is surrounded by ruins and statues, including a large stone lion, which once guarded the entrance. It is thought to have been constructed during the Polonnaruwa period, around the 12th century AD, under King Parakramabahu I. The garden was likely used for royal leisure and as a symbol of power and wealth. Visitors can explore the well-preserved structures and take photos, appreciating the intricate carvings and the tranquil setting.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -901,7 +901,7 @@
 {
     "id": "pl_osm_4b7a6a44b7",
     "name": "Hospital complex",
-    "description": "Located in Polonnaruwa, Hospital complex is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Hospital complex in Polonnaruwa, Sri Lanka, was an ancient hospital constructed during the Polonnaruwa period, likely under King Parakramabahu I around the 12th century. It served as a center for medical care and was equipped with facilities such as a dispensary, a pharmacy, and a mortuary. The complex has been rediscovered by archaeologists, revealing a wealth of information about healthcare practices in ancient Sri Lanka. Visitors can explore the ruins, take photos, and learn about the historical importance of this site.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -937,7 +937,7 @@
 {
     "id": "pl_osm_c06d032194",
     "name": "Ancient Auditorium",
-    "description": "Ancient Auditorium is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Ancient Auditorium, located in Polonnaruwa, was constructed during the reign of King Parakramabahu I around the 12th century. This architectural marvel served as both a performing arts venue and a gathering place for important ceremonies. Its grand structure and intricate carvings reflect the cultural richness and artistic prowess of ancient Sri Lanka. Visitors can explore the ruins, taking in the impressive sight of the auditorium’s tiered seating and ornate decorations. Photography is encouraged to capture the historical beauty of this site.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -973,7 +973,7 @@
 {
     "id": "pl_osm_0cdc6d56e8",
     "name": "Audience Hallof Nissankamalla",
-    "description": "Audience Hallof Nissankamalla is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Audience Hall of Nissankamalla was constructed during the reign of King Mahasen of the Polonnaruwa kingdom in the 11th century CE. It served as an important administrative and ceremonial space where royal audiences were held. The hall, a testament to ancient architectural prowess, showcases intricate stone carvings and a raised platform where kings would sit to meet their subjects. Its construction and use highlight the political and social structures of medieval Sri Lanka, making it a significant archaeological site for understanding early Sri Lankan civilization.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1009,7 +1009,7 @@
 {
     "id": "pl_osm_d0b37c6ae5",
     "name": "Council Chamber of Nissankamalla",
-    "description": "Council Chamber of Nissankamalla is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Council Chamber of Nissankamalla, an archaeological site in Polonnaruwa, Sri Lanka, was constructed during the reign of King Nissanka Malla in the 12th century. This chamber served as a central administrative building, reflecting the political and economic power of the kingdom. It is a testament to ancient engineering and architectural skills, featuring intricate carvings and a symmetrical layout typical of Polonnaruwa-era structures. Visitors can explore the chamber, taking photos of its well-preserved ruins, which provide insight into the daily life and governance of the time.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1045,7 +1045,7 @@
 {
     "id": "pl_osm_b70a2833be",
     "name": "Demala Maha Seya",
-    "description": "Located in Polonnaruwa, Demala Maha Seya is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Demala Maha Seya, an ancient ruins in Polonnaruwa, Sri Lanka, is a significant Buddhist temple complex built during the reign of King Parakramabahu I in the 14th century. It houses several important relics including the Buddha's collarbone and a tooth relic, making it a sacred pilgrimage site. The site also features elaborate stone carvings and statues, offering insights into Polonnaruwa's rich architectural heritage. Visitors can explore the temple grounds and take photos of its intricate designs, experiencing both historical and artistic value.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1081,7 +1081,7 @@
 {
     "id": "pl_osm_cd04d22fb4",
     "name": "Naipena Viharaya",
-    "description": "Naipena Viharaya is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Naipena Viharaya, an archaeological site in Polonnaruwa, Sri Lanka, is believed to be a former Buddhist temple dating back to the Polonnaruwa period between the 11th and 13th centuries AD. The site features ruins including a stupa and monolithic pillars, remnants of ancient architecture that reflect the rich cultural heritage of the region. Visitors can explore the site, take photos, and appreciate the historical significance of these structures. Known for its historical and architectural importance, Naipena Viharaya offers insights into the past civilizations of Sri Lanka.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1117,7 +1117,7 @@
 {
     "id": "pl_osm_21aaf3c5b0",
     "name": "Royal Palace of King Parakramabahu",
-    "description": "Royal Palace of King Parakramabahu is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Royal Palace of King Parakramabahu, located in Polonnaruwa, Sri Lanka, was constructed during the reign of King Parakramabahu I in the 13th century. This ancient ruins stand as a testament to the architectural prowess of the Anuradhapura era, blending both Hindu and Buddhist influences. The palace complex includes several structures such as the Audience Hall and the Royal Baths, which were used for ceremonial purposes and royal bathing rituals. Its construction and subsequent destruction reflect the political and social changes that occurred in ancient Sri Lanka. Visitors can explore these remnants, taking photos to capture the historical significance of this site.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1153,7 +1153,7 @@
 {
     "id": "pl_osm_3db9cd2b6e",
     "name": "Monk's Cell",
-    "description": "Monk's Cell is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Monk's Cell, an ancient archaeological site in Polonnaruwa, Sri Lanka, was likely constructed during the reign of King Parakramabahu I in the 14th century. It is believed to be a small structure where Buddhist monks lived and studied. The site features ruins including a small cell and a meditation chamber, offering visitors a glimpse into early Polonnaruwa architecture and religious practices. Photography tours are popular, allowing tourists to capture images of the serene ruins and learn about their historical context.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1189,7 +1189,7 @@
 {
     "id": "pl_osm_e4cc74312b",
     "name": "Monk's Cell",
-    "description": "Monk's Cell is an archaeological site located in Polonnaruwa, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Monk's Cell, an ancient ruins in Polonnaruwa, was constructed during the reign of King Parakramabahu I in the 13th century. It is believed to be a small cell or hermitage where Buddhist monks lived isolated from the bustling city. The site features intricately carved stone pillars and a simple yet serene layout reflecting the era's architectural style. Its significance lies in offering insight into the monastic life and spiritual practices of the time, making it a popular spot for tourists interested in Sri Lankan history and culture.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1225,7 +1225,7 @@
 {
     "id": "pl_osm_7c24e828e6",
     "name": "Hall",
-    "description": "Hall is an archaeological site in the Polonnaruwa area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Hall, an archaeological site in Polonnaruwa, Sri Lanka, was once part of the ancient city of Polonnaruwa. Built during the reign of King Parakramabahu I in the 13th century, Hall served as a royal palace and administrative center. The ruins include a series of temples and courtyards, reflecting the architectural style of the period. Today, visitors explore these remnants, taking photos to capture the historical beauty and cultural significance of this site. Known for its historical and religious importance, Hall attracts tourists interested in learning about ancient Sri Lankan civilization and royalty.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1297,7 +1297,7 @@
 {
     "id": "pl_osm_1ff4ff7369",
     "name": "Monk's Cell",
-    "description": "Located in Polonnaruwa, Monk's Cell is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Monk's Cell, an ancient archaeological site in Polonnaruwa, Sri Lanka, was constructed during the reign of King Parakramabahu I around the 13th century. It is believed to be a small cell-like structure used as a meditation space by Buddhist monks. The site features intricate carvings and architectural elements typical of Polonnaruwa era, making it a significant example of medieval Sri Lankan art and culture. Visitors can explore the ruins and take photos, appreciating the blend of simplicity and grandeur that defines this historical gem.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Ruins",
@@ -1329,3 +1329,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_6ccb6fde24",
     "name": "Badulla Museum",
-    "description": "Badulla Museum is a museum in the Badulla area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Badulla Museum, nestled in the heart of Badulla District, showcases artifacts and exhibits highlighting the rich cultural and natural heritage of the region. Built in 1935 by the British colonial administration, it houses a collection of local art, traditional textiles, and historical documents, providing visitors with an insight into the history and lifestyle of the area's inhabitants. Notable for its well-curated exhibitions, the museum also organizes regular cultural programs and workshops, making it a popular destination for both locals and tourists interested in learning about Sri Lanka's diverse culture and traditions.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_3eaeab15db",
     "name": "35",
-    "description": "35 is a museum in the Badulla area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "35 is a small but well-curated museum located in Badulla, Sri Lanka, showcasing local artifacts and natural specimens. Founded in 1927 by the then Governor of Ceylon, Sir Edward Arnold, it was initially a private collection that later became a public institution. The museum houses over 4000 items, including fossils, minerals, and ethnographic objects, reflecting the rich biodiversity and cultural heritage of the region. Notable exhibits include ancient Buddhist relics and traditional tools, providing visitors with insights into the natural history and indigenous culture of Badulla.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Museum",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

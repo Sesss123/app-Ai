@@ -1,7 +1,7 @@
 {
     "id": "pl_010de1c2",
     "name": "Wilpattu National Park",
-    "description": "Wilpattu National Park, a vast wilderness sanctuary in Puttalam, North Western Province, offers a unique blend of untouched nature, ancient ruins, and diverse wildlife. This expansive park is home to over 100 species of birds, including the elusive leopard, and its unique soda lakes, known as villus, provide a fascinating glimpse into Sri Lanka’s natural heritage.",
+    "description": "Wilpattu National Park, located in Puttalam, Sri Lanka, is a vast nature reserve known for its unique karst formations called \"wilupatas\" or ponds. It was established in 1978 to protect the diverse wildlife and natural beauty. The park is significant for its high biodiversity, including several endangered species like the Asian elephant and leopards. Visitors can enjoy jeep safaris to spot these animals in their natural habitat, as well as bird watching and photography opportunities. Notable events include the annual elephant migration through the park.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "National Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_01a00a3d",
     "name": "Anawilundawa Sanctuary",
-    "description": "Anawilundawa Sanctuary, a Ramsar wetland and important migratory bird habitat, offers visitors a chance to witness nature at its finest. Located in Puttalam, this sanctuary is a haven for bird watchers and nature enthusiasts, with its diverse ecosystem and tranquil environment.",
+    "description": "Anawilundawa Sanctuary, nestled in Puttalam District of Sri Lanka, is a Ramsar wetland designated as a sanctuary since 1996. It's a crucial habitat for over 200 species of birds, making it a prime spot for bird watchers and photographers. Visitors can enjoy the serene environment while observing various avian life, including endangered species like the Painted Stork. The sanctuary also offers opportunities for relaxation and enjoying nature’s beauty, drawing tourists and locals alike to experience its unique ecosystem and rich biodiversity.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Sanctuary (Ramsar Wetland)",
@@ -63,3 +63,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

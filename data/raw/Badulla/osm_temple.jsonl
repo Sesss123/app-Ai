@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_31470f62ec",
     "name": "Silmiyapura Jummah Masjid",
-    "description": "Silmiyapura Jummah Masjid is a place of worship located in Badulla, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Silmiyapura Jummah Masjid, located in the picturesque town of Badulla, is a significant mosque that plays an important role in the local Muslim community. It was established during the colonial era as part of efforts to integrate religious practices into the existing British administrative structure. The masjid stands as a testament to the harmonious coexistence between different cultures and religions in Sri Lanka, serving as a place of worship and a focal point for communal gatherings. Visitors can explore its serene courtyard and learn about the rich tapestry of faiths that have woven together in this multicultural nation.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_dadda6555e",
     "name": "Buddha Statue",
-    "description": "Buddha Statue is a place of worship in the Badulla area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "The Buddha Statue in Badulla, Sri Lanka, stands as a prominent landmark, attracting both local devotees and tourists. The statue, a symbol of peace and enlightenment, was erected to commemorate the Buddha's teachings and serves as a site for meditation and reflection. Built in the early 21st century, it overlooks the town, offering visitors panoramic views and serene surroundings. Visitors can pray at the temple, take photos, and absorb the tranquil atmosphere, making it a popular destination for those seeking spiritual rejuvenation.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_8edd9b096a",
     "name": "Aranmanai Kali Temple Passara",
-    "description": "Located in Badulla, Aranmanai Kali Temple Passara is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "The Aranmanai Kali Temple in Passara, Badulla District, Sri Lanka, is an ancient Hindu temple dedicated to the goddess Kali. Constructed during the colonial era, it features intricate carvings and a sacred pond. The temple holds cultural and spiritual significance for local Hindu communities, and visitors can explore its serene surroundings and take photos, though photography inside is restricted. Notable for its historical architecture and its role in local religious practices, the temple attracts both pilgrims and tourists seeking insight into Sri Lanka’s diverse religious heritage.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_e6b00a65c6",
     "name": "Church of Elshadai",
-    "description": "Church of Elshadai is a place of worship in the Badulla area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "The Church of Elshadai, located in the picturesque town of Badulla, Sri Lanka, is a unique temple dedicated to the worship of God Almighty. It was established by local Buddhist monks in the early 20th century as a place to pray and reflect. The church features intricate wood carvings and a serene interior adorned with Buddhist symbols alongside Christian imagery, reflecting the harmonious coexistence of cultures in Sri Lanka. Visitors can admire the architectural blend and take photos, capturing the essence of this distinctive religious site.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_f1e425fba3",
     "name": "Peessagama Temple",
-    "description": "Peessagama Temple is a place of worship in the Badulla area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Peessagama Temple, nestled in the lush hills of Badulla, is a sacred site where devotees gather to pray and seek blessings. The temple, believed to be over a century old, was constructed by local Buddhist communities to honor the Buddha. Its serene atmosphere and historical significance make it a popular destination for tourists and locals alike, offering visitors a glimpse into Sri Lanka's rich cultural heritage. Notable for its intricate carvings and traditional architecture, Peessagama Temple stands as a testament to the enduring faith and craftsmanship of Sri Lankan Buddhists.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -177,10 +177,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_17cd1cc5",
     "name": "Muthiyangana Raja Maha Viharaya (Solosmasthana)",
-    "description": "Discover the ancient and serene Muthiyangana Raja Maha Viharaya, a jewel of Uva Province. This temple, nestled amidst lush greenery, houses intricate Buddha statues and offers a tranquil retreat from daily life. Its well-preserved architecture and historical significance make it a must-visit for Buddhists and history enthusiasts alike.",
+    "description": "Muthiyangana Raja Maha Viharaya, also known as Solosmasthana, is an ancient Buddhist temple in the Badulla district of Sri Lanka. It holds great religious significance as one of the most important pilgrimage sites for Buddhists, attracting visitors for prayer and meditation. The temple's architecture showcases traditional Sinhalese style, with intricate carvings and statues. Notable for its serene environment, it also offers opportunities for photography and nature walks, allowing tourists to appreciate both the spiritual and natural beauty of the area.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -214,7 +215,7 @@
 {
     "id": "pl_97bbad3f",
     "name": "Dowa Rock Temple, Bandarawela (12m rock Buddha)",
-    "description": "Discover the awe-inspiring Dowa Rock Temple, Bandarawela, where a 12-meter Buddha statue carved into the rock face offers a unique glimpse into ancient Buddhist art and craftsmanship. This serene site is a testament to the region's rich cultural heritage and natural beauty.",
+    "description": "The Dowa Rock Temple, nestled in Bandarawela, Badulla District, features a striking 12-meter high Buddha statue carved into the rock face. This ancient temple, believed to date back to the 3rd century BCE, offers visitors a unique blend of natural beauty and spiritual reflection. The temple’s origins are shrouded in mystery, but it stands as a testament to early Buddhist influences in Sri Lanka. Photographers flock to capture the breathtaking view and serene atmosphere, while those seeking deeper cultural insights can learn about the rich history and beliefs associated with this sacred site.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -248,7 +249,7 @@
 {
     "id": "pl_38a48513",
     "name": "Bogoda Raja Maha Viharaya (near oldest wooden bridge)",
-    "description": "Discover the ancient Bogoda Raja Maha Viharaya, nestled near the oldest wooden bridge. This serene temple, dating back centuries, offers a glimpse into Sri Lanka’s rich Buddhist heritage. Marvel at its intricate carvings and explore the tranquil surroundings that have remained unchanged for generations.",
+    "description": "Bogoda Raja Maha Viharaya, an ancient Buddhist temple near the oldest wooden bridge in Badulla, offers visitors a glimpse into Sri Lanka's rich religious heritage. The site, believed to date back over a thousand years, features well-preserved ruins and stands as a testament to the island's ancient civilizations. Notable for its historical significance and serene setting, the temple attracts both pilgrims and history enthusiasts. Nearby, the wooden bridge, dating back to the early 20th century, provides a contrast to the ancient architecture, showcasing different eras of engineering and construction in the region.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -282,7 +283,7 @@
 {
     "id": "pl_e7c5173a",
     "name": "Bandarawela Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene ambiance of Bandarawela Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush tea plantations. This historic site offers visitors a glimpse into Sri Lanka’s rich cultural heritage and natural beauty.",
+    "description": "Bandarawela Rajamaha Viharaya, a sacred Buddhist temple in Badulla District, stands as a testament to ancient architectural prowess. Founded during the Anuradhapura Kingdom era, the temple was constructed by King Dutugemunu in the 2nd century BC. It's a site of immense spiritual importance, attracting devotees seeking blessings and tranquility. Visitors can explore the serene temple grounds, admire the intricately carved pillars, and learn about the rich history through local guides. Not far away, tea plantation tours offer a delightful contrast to the temple experience, allowing tourists to taste the famous Ceylon tea while appreciating the lush greenery and traditional farming practices.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -316,7 +317,7 @@
 {
     "id": "pl_1ad42d42",
     "name": "Ella Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene atmosphere at Ella Rajamaha Viharaya, a sacred Buddhist temple nestled in the picturesque Ella Valley. This site offers a glimpse into Sri Lanka’s rich cultural heritage and natural beauty.",
+    "description": "Ella Rajamaha Viharaya, nestled in the Badulla district, is a revered Buddhist temple known for its serene atmosphere and panoramic views. Founded by Buddhist monks, the temple has been a center of spiritual practice and meditation for centuries. Its architecture, blending traditional and modern elements, offers visitors a peaceful retreat amidst lush greenery and mountain vistas. Notable for its historical importance and as a hub for local and visiting practitioners, Ella Rajamaha Viharaya remains a sacred site attracting pilgrims and seekers alike.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -350,7 +351,7 @@
 {
     "id": "pl_8a335cd9",
     "name": "Haputale Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene ambiance of Haputale Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offering visitors a glimpse into Sri Lanka’s rich cultural heritage.",
+    "description": "Haputale Rajamaha Viharaya, nestled in the Badulla district, is an ancient Buddhist temple dating back over a thousand years. The site features well-preserved ruins and intricate carvings, reflecting the rich cultural heritage of Sri Lanka. Visitors can explore the ancient structures, pray at the temple, and enjoy the tranquil gardens, offering a serene retreat amidst nature. Its historical significance lies in being one of the oldest temples in the region, serving as a testament to the enduring faith and architectural prowess of past generations.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -384,7 +385,7 @@
 {
     "id": "pl_40c939de",
     "name": "Wellimada Rajamaha Viharaya",
-    "description": "Explore the ancient ruins and serene atmosphere at Wellimada Rajamaha Viharaya, a sacred Buddhist temple nestled in the lush Uva Province, offering visitors a glimpse into Sri Lanka’s rich cultural heritage.",
+    "description": "Wellimada Rajamaha Viharaya, located in the Badulla district of Sri Lanka, is a revered Buddhist temple known for its ancient architecture and rich cultural heritage. The temple dates back to the 5th century CE and is believed to be one of the oldest structures in the region. It played a significant role during the Kandyan Kingdom era, serving as a center for spiritual practices and community gatherings. Notable events include the visit by the famous Buddhist scholar Mahasi Sayadaw in the early 20th century. Visitors can engage in prayer, meditation, photography, and guided historical tours to explore the temple’s profound history and serene beauty.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -418,7 +419,7 @@
 {
     "id": "pl_c5698148",
     "name": "Hali Ela Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene ambiance of Hali Ela Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offering visitors a glimpse into Sri Lanka's rich cultural heritage.",
+    "description": "Hali Ela Rajamaha Viharaya, a sacred Buddhist temple in Badulla District, houses ancient ruins dating back over a thousand years. Legend has it that the site was once a royal residence before becoming a revered temple, making it a significant pilgrimage destination. The temple grounds are adorned with intricate carvings and statues, offering visitors a glimpse into ancient Sinhalese art and culture. Visitors can explore the ruins, pray at the temple, and relax under the shade of ancient trees, connecting with both history and nature.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -486,7 +487,7 @@
 {
     "id": "pl_90597be4",
     "name": "Mahiyanganaya Raja Maha Viharaya (Solosmasthana; Badulla District)",
-    "description": "Discover the ancient Mahiyanganaya Raja Maha Viharaya, a sacred Buddhist temple nestled amidst lush greenery. This Solosmasthana site offers a glimpse into Sri Lanka's rich cultural heritage, featuring intricate carvings and serene architecture that attract both pilgrims and tourists seeking spiritual enlightenment.",
+    "description": "Mahiyanganaya Raja Maha Viharaya, located in the Badulla District of Sri Lanka, is a significant Buddhist temple known as a Solosmasthana, a site of special pilgrimage importance. The temple dates back to the 3rd century BCE, making it one of the oldest and most revered sites in the region. It houses ancient Buddha statues and relics, attracting both local and international pilgrims who come to pray, meditate, and learn about Buddhism's rich heritage. Visitors can also enjoy nature walks and photography opportunities amidst the temple's serene surroundings.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -588,7 +589,7 @@
 {
     "id": "pl_35fb10b4",
     "name": "Soranatota Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene ambiance of Soranatota Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery and historical significance. This site offers a glimpse into the rich cultural heritage of Uva Province, with its well-preserved statues and intricate carvings that tell tales of yore.",
+    "description": "Soranatota Rajamaha Viharaya, a sacred Buddhist temple in Badulla, Sri Lanka, stands as a testament to the rich architectural heritage of ancient Sri Lanka. Constructed during the Anuradhapura period, it is believed to date back over 2000 years, making it one of the oldest temples in the region. The temple’s intricate carvings and statues depict scenes from Buddha’s life, offering visitors a glimpse into the spiritual and artistic traditions of early Sri Lanka. It serves as a place of reflection and pilgrimage for Buddhists, attracting devotees seeking solace and enlightenment.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -690,7 +691,7 @@
 {
     "id": "pl_9506c8f3",
     "name": "Spring Valley Estate Temple (plantation heritage)",
-    "description": "Spring Valley Estate Temple stands amidst lush tea plantations, a serene sanctuary where ancient Buddha statues and intricate carvings tell tales of Uva's rich Buddhist heritage. Nestled in the heart of Badulla district, this temple offers visitors a unique blend of cultural and natural beauty.",
+    "description": "Spring Valley Estate Temple, nestled in the lush tea plantations of Badulla, stands as a testament to colonial-era Sri Lankan culture. Built by British plantation owners in the early 20th century, the temple was initially a place of worship for workers, now serving as a serene spot for visitors to reflect on plantation heritage. Notable for its ancient Buddha statues, the temple also offers insights into the rich cultural tapestry woven by colonial and local influences. Visitors can learn about the estate's history through guided tours, experiencing firsthand the blend of Eastern spirituality and Western architecture.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -724,7 +725,7 @@
 {
     "id": "pl_4b2979ce",
     "name": "Ettampitiya Rajamaha Viharaya",
-    "description": "Ettampitiya Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its ancient statues and intricate carvings. This site is a testament to the rich cultural heritage of Uva Province.",
+    "description": "Ettampitiya Rajamaha Viharaya, nestled in the picturesque hills of Badulla, is a revered Buddhist temple known for its ancient architecture and serene ambiance. Founded over a millennium ago by Buddhist monks seeking solace and spiritual growth, the temple has been a center of prayer and meditation for generations. Notable for its intricate carvings and well-preserved statues, it attracts both local devotees and curious tourists eager to experience the tranquility and spiritual depth of this sacred site. Visitors can also capture the beauty of the temple through their cameras, making it a perfect spot for reflection and photography.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -758,7 +759,7 @@
 {
     "id": "pl_8f4b92e1",
     "name": "Diyatalawa Rajamaha Viharaya",
-    "description": "Discover the ancient charm of Diyatalawa Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery. This historic site offers a glimpse into Sri Lanka’s rich cultural heritage, featuring intricate carvings and serene ambiance that attract both pilgrims and nature lovers alike.",
+    "description": "Diyatalawa Rajamaha Viharaya, nestled in the heart of Badulla District, is a revered Buddhist temple dedicated to the Buddha. Built during the reign of King Dutugemunu in the 2nd century BCE, the temple stands as a testament to ancient Sinhalese architecture and religious devotion. Its serene environment attracts both locals and tourists seeking spiritual enlightenment through prayer and meditation, while nature lovers enjoy guided walks around the lush surroundings. Notable for its historical significance and tranquil setting, the site has hosted numerous religious ceremonies and retreats over centuries.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -792,7 +793,7 @@
 {
     "id": "pl_3fa2bd51",
     "name": "Badulla Kataragama Viharaya (separate from Devalaya)",
-    "description": "This ancient and serene Kataragama Viharaya stands apart from its Devalaya counterpart, housing relics of revered Buddhist icons and offering a tranquil retreat for pilgrims and seekers seeking spiritual enlightenment.",
+    "description": "The Badulla Kataragama Viharaya, while separate from the Devalaya, is a revered Buddhist temple in the Badulla district, known for its serene atmosphere and sacred ground where devotees come to pray, meditate, reflect on Buddhist teachings, and take photos to capture the spiritual essence. Built during the colonial era, it stands as a testament to the blending of traditional and modern practices in Sri Lankan Buddhism. The temple's importance lies in its role as a sanctuary for both local and visiting pilgrims seeking solace and enlightenment.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Temple",

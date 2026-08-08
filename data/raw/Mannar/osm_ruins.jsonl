@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_c11b9134c5",
     "name": "Arippu Dutch Fort",
-    "description": "Arippu Dutch Fort is an archaeological site located in Mannar, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Arippu Dutch Fort, an archaeological site in Mannar, Sri Lanka, stands as a testament to colonial era fortifications. Built by the Dutch in the early 17th century, it served as a strategic stronghold against rival European powers. The fort was later abandoned and fell into disrepair, becoming a popular spot for tourists interested in ancient ruins and maritime history. Visitors can explore the remnants of the walls and bastions, taking photos to capture the imposing structure against the backdrop of the Indian Ocean.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Ruins",
@@ -33,6 +33,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_6025a51a",
     "name": "Murungan Raja Maha Viharaya",

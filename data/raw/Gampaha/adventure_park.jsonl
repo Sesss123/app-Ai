@@ -34,7 +34,7 @@
 {
     "id": "pl_dc0ba501",
     "name": "Henarathgoda Canopy Walk",
-    "description": "Discover the unique canopy walk at Henarathgoda, a thrilling adventure park nestled amidst lush greenery. Experience breathtaking views and zip through the treetops for a truly unforgettable journey.",
+    "description": "The Henarathgoda Canopy Walk, nestled in the lush greenery of Gampaha District, offers visitors an exhilarating experience with its zip line tour and treetop adventure. Spanning across a network of platforms and bridges high up in the jungle canopy, it provides a unique perspective of nature. Bird watching is also a popular activity, with many species frequenting the area. The park has been a local favorite for adventurous tourists seeking thrilling experiences while learning about Sri Lanka's rich biodiversity. Established by local conservationists, it aims to promote environmental awareness through recreational activities.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Adventure Park",
@@ -96,10 +96,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_4049cd7fcc",
     "name": "Turtle Farm",
-    "description": "Located in Gampaha, Turtle Farm is an attraction worth visiting. It's a popular spot for a family day out.",
+    "description": "Turtle Farm, an adventure park nestled in the picturesque district of Gampaha, Sri Lanka, offers visitors the unique opportunity to observe and learn about sea turtles in their natural habitat. The farm, which has been operational for over two decades, provides a sanctuary for these endangered creatures, attracting both local and international tourists interested in wildlife watching and conservation efforts. Notable events include turtle nesting programs and educational workshops held throughout the year, educating visitors about the importance of protecting marine life.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Adventure Park",
@@ -183,7 +184,7 @@
     "_osm_type": "way",
     "_osm_id": 343482760,
     "_source_global_id": "7ff9bd15-894d-4e7a-8465-7e7e3136e23b",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 08:00-15:00; PH off",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -210,7 +211,7 @@
 {
     "id": "pl_osm_d0bad1224e",
     "name": "Children park",
-    "description": "Located in Gampaha, Children park is an attraction worth visiting. It's a popular spot for a family day out.",
+    "description": "The Children's Adventure Park in Gampaha district offers a variety of rides and activities designed for families, providing hours of entertainment and fun for children. Nestled in the heart of the city, it's a popular spot where families can enjoy leisurely days together, making memories that last a lifetime. Built to cater to the growing needs of young adventurers, the park features roller coasters, bumper cars, and a carousel, all surrounded by lush greenery and vibrant playgrounds. It's a testament to the community's commitment to enrich the lives of children through fun-filled experiences.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Adventure Park",

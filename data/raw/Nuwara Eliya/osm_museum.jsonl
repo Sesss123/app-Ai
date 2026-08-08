@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_487c709cea",
     "name": "Victoria Museum",
-    "description": "Victoria Museum is a museum in the Nuwara Eliya area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Victoria Museum in Nuwara Eliya, a historical site in the hill country, houses artifacts and exhibits reflecting the rich colonial history of the region. Built in 1868 by the British colonial administration as a gift for Queen Victoria on her Golden Jubilee, the museum showcases items related to early tea plantation development and local culture. It was a hub for scientific research and education until the 1950s, when it fell into disuse. Today, visitors can learn about the tea industry’s evolution and the social history of the time through its collections, making it a significant stop for those interested in the area’s past.",
     "district_id": "Nuwara Eliya",
     "province_id": "Central",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_8a3362a4c8",
     "name": "Mackwoods Museum",
-    "description": "Mackwoods Museum is a museum located in Nuwara Eliya, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Mackwoods Museum, located in the picturesque Nuwara Eliya district, is a museum that showcases the history and culture of the region. Originally built as Mackwoods Tea Estate in the early 20th century, the museum now houses artifacts and documents related to tea cultivation, local flora and fauna, and the history of the estate. It offers visitors a unique insight into the development of tea production in Sri Lanka, along with guided tours led by knowledgeable staff. Visitors can learn about the significant role Nuwara Eliya played in tea farming during colonial times and its continued importance today.",
     "district_id": "Nuwara Eliya",
     "province_id": "Central",
     "category_id": "Museum",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_f99ac7d17d",
     "name": "Kovil",
-    "description": "Kovil is a Hindu kovil in the Mannar area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Kovil in Mannar district is a sacred Hindu temple where devotees gather for prayers and rituals. The exact origins of the Kovil are unknown, but it holds great religious significance as a place of worship for local Hindu communities. Its architectural style reflects a blend of traditional and contemporary elements, making it a unique site for visitors interested in both spirituality and culture. Notable events include annual festivals that attract pilgrims from across the region, showcasing the Kovil's enduring importance in the community.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Kovil",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_4feda96642",
     "name": "Hindu Temple",
-    "description": "Hindu Temple is a Hindu kovil located in Mannar, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "The Hindu Temple in Mannar, Sri Lanka, is an ancient Kovil dedicated to Hindu deities. It stands as a testament to the rich cultural heritage of the region, attracting devotees who come to pray and seek blessings. The temple’s architecture showcases intricate carvings and sculptures, reflecting the skillful craftsmanship of local artisans. Over centuries, it has been a site of significant religious and cultural events, connecting the community through shared rituals and traditions. Visitors can also take photos to capture the serene beauty and historical significance of this sacred place.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Kovil",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_6abc47ed43",
     "name": "Thiruketheeswaram Temple",
-    "description": "Located in Mannar, Thiruketheeswaram Temple is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Thiruketheeswaram Temple, located in Mannar, Sri Lanka, is a significant Hindu Kovil dedicated to Lord Shiva. Its origins date back to ancient times, though exact construction dates are uncertain. The temple holds great cultural and religious importance, attracting devotees from across the island seeking blessings and spiritual guidance. Notable for its serene atmosphere and well-preserved architecture, it also features intricate carvings and statues. Visitors often come to pray and capture moments through their cameras, making it a popular spot for both locals and tourists alike.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Kovil",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_98896e5a05",
     "name": "Eluthoor Ambal temple",
-    "description": "Located in Mannar, Eluthoor Ambal temple is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Eluthoor Ambal temple, a Kovil in Mannar, Sri Lanka, is a sacred Hindu site where devotees gather for prayers and seek blessings. The temple's origins date back to ancient times, though specific construction dates are unknown. It holds great cultural and religious significance, attracting pilgrims and tourists who come to pay homage and witness its spiritual aura. Notable events include the annual temple festival, which draws thousands of visitors each year. The temple's serene ambiance and rich history make it a must-visit destination for those interested in Hindu culture and spirituality.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Kovil",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

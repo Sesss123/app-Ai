@@ -1,7 +1,7 @@
 {
     "id": "pl_f4e3c74d",
     "name": "Pinnawala Elephant Walk",
-    "description": "Experience the heartwarming sight of baby elephants at Pinnawala Elephant Walk, a sanctuary where orphaned and abandoned elephants are raised and cared for by local communities. This unique park offers a glimpse into the life of these gentle giants in a natural setting, making it a must-visit for animal lovers and nature enthusiasts.",
+    "description": "Pinnawala Elephant Walk, located in the Kegalle district of Sri Lanka, is an adventurous activity park where visitors can observe and photograph elephants up close. The park was established in 1975 by the Sri Lankan government to protect orphaned and injured elephants. Guided tours allow tourists to learn about these gentle giants and their conservation efforts. This unique experience offers a chance to see Asian elephants in their natural habitat, making it a popular attraction for both locals and tourists.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_8830772e",
     "name": "Rambukkana Cycling Trail",
-    "description": "Experience the thrill of cycling through lush green trails and scenic vistas along the Rambukkana Cycling Trail, a hidden gem in Kegalle. This off-road path winds through diverse landscapes, offering cyclists a chance to explore nature at its best.",
+    "description": "The Rambukkana Cycling Trail, nestled in the lush green hills of Kegalle, offers cyclists an exhilarating route through scenic landscapes. This adventure park, known for its challenging yet rewarding cycling paths, attracts both locals and tourists eager to explore nature and local wildlife. Alongside cycling, visitors can enjoy bird watching and nature photography, capturing the beauty of Sri Lanka's diverse ecosystem. Established over a decade ago, the trail has become a popular spot for fitness enthusiasts and nature lovers alike, featuring well-marked routes suitable for all skill levels.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Adventure Park",
@@ -96,10 +96,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_033b603daf",
     "name": "Pinnawala Elephant Orphanage",
-    "description": "Pinnawala Elephant Orphanage is an attraction in the Kegalle area of Sri Lanka. It's a popular spot for a family day out.",
+    "description": "Pinnawala Elephant Orphanage, located in Kegalle, Sri Lanka, is an adventure park offering wildlife watching experiences. Established in 1975 by the Wildlife Department, it was founded to protect orphaned elephants. The orphanage provides a safe haven for rescued baby elephants until they are old enough to be released into the wild. Visitors can watch these gentle giants being fed and cared for, along with other animals such as monkeys and birds. It's a popular spot for families and nature enthusiasts, offering a unique opportunity to see these majestic creatures up close.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Adventure Park",
@@ -136,7 +137,7 @@
 {
     "id": "pl_osm_3b70a17302",
     "name": "Pinnawela Zoo",
-    "description": "Located in Kegalle, Pinnawela Zoo is an attraction worth visiting. It's a popular spot for a family day out.",
+    "description": "Pinnawela Zoo, located in Kegalle, Sri Lanka, is an adventure park where visitors can observe rescued elephants and other exotic animals. The zoo was established in 1941 by the then Ceylon government as a sanctuary for elephants, offering them a safe haven away from the poachers and harsh realities of the wild. It now also serves as a training center for mahouts, local elephant caretakers, teaching them skills to care for and manage these gentle giants. Visitors can watch the elephants being cared for, interact with the keepers, and learn about the conservation efforts at the park.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Adventure Park",
@@ -173,7 +174,7 @@
 {
     "id": "pl_osm_8d6985d12d",
     "name": "Ape Gama",
-    "description": "Ape Gama is an attraction located in Kegalle, Sri Lanka. It's a popular spot for a family day out.",
+    "description": "Ape Gama, an adventure park nestled in the lush hills of Kegalle, offers a range of thrilling rides and family fun activities that delight visitors of all ages. Originally established as a small amusement park by local entrepreneurs in the 1970s, it has grown over the years into a popular destination for adrenaline seekers and families alike. Notable rides include the Sky Soar roller coaster and the Jungle Trail zip line course. Despite its modern appeal, Ape Gama retains a charm that connects it to its roots, making it a beloved spot for locals and tourists.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Adventure Park",

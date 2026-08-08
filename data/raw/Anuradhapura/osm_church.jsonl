@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_d9dd72fe6b",
     "name": "St. Anthony's Church",
-    "description": "St. Anthony's Church is a church located in Anuradhapura, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St. Anthony's Church in Anuradhapura, Sri Lanka is an Anglican church founded in the late 19th century by British colonial administrators. It stands as a testament to the blending of cultures during colonial times, with its distinctive architecture combining European and local influences. The church offers visitors a peaceful setting for prayer and contemplation, surrounded by lush greenery. Its serene atmosphere makes it a popular spot for tourists and locals alike, capturing the essence of Anuradhapura's rich history through its architectural beauty.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Church",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_f44abd63a4",
     "name": "Pothanegama Catholic Church",
-    "description": "Pothanegama Catholic Church is a church in the Anuradhapura area of Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Pothanegama Catholic Church stands in Anuradhapura, a district rich with ancient ruins, and is a place where locals and visitors alike come to pray. The church, though not much older than a century, holds cultural and religious significance as part of the growing Catholic community in the area. It was established by early settlers who sought a place of worship, blending modern architecture with traditional Sri Lankan aesthetics. Notable for its serene setting and the warm atmosphere it creates, the church often hosts cultural events and exhibitions, adding to the vibrant social life of Anuradhapura.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Church",
@@ -105,10 +105,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_84d4af60",
     "name": "Anuradhapura St. Mary's Church (RC)",
-    "description": "Anuradhapura St. Mary's Church stands as a testament to the harmonious blend of ancient Sri Lankan architecture and Christian faith. Nestled amidst lush gardens, this historic church offers visitors a glimpse into the rich cultural tapestry of Anuradhapura, where time seems to pause.",
+    "description": "Anuradhapura St. Mary's Church stands in the heart of Anuradhapura, a district renowned for its ancient ruins. The church, a remnant of British colonial influence, was established during the early 20th century. Its construction marked the integration of Western architectural styles with local traditions. Visitors can explore its interior, marveling at its blend of colonial and Sinhalese elements. Adjacent to the church is a tranquil garden, offering a respite from the bustling city. Nearby, one can also find several ancient Buddhist temples and monuments, providing a comprehensive experience of Anuradhapura's rich heritage.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Church",
@@ -142,7 +143,7 @@
 {
     "id": "pl_dd6a13cf",
     "name": "Anuradhapura St. John's CSI Church",
-    "description": "Anuradhapura St. John's CSI Church stands as a testament to Christian heritage in ancient Anuradhapura. Nestled amidst serene ruins, this church offers a glimpse into Sri Lanka's rich religious history, blending traditional architecture with modern elements.",
+    "description": "Anuradhapura St. John's CSI Church stands in the heart of ancient Anuradhapura, Sri Lanka, where it was established by Christians who migrated here during Portuguese rule in the 16th century. The church, nestled amidst centuries-old ruins, offers visitors a unique blend of modern worship and ancient heritage. Services are held on Sundays, attracting both locals and tourists interested in the blend of traditional Christian practices with local culture. Visitors can also explore the ancient ruins of nearby ruins like the Ruwanweliseya, a testament to Sri Lanka's rich past.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Church",

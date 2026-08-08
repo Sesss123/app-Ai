@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_a0e685c993",
     "name": "Thileepan Memorial",
-    "description": "Thileepan Memorial is a historic landmark located in Jaffna, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Thileepan Memorial, a historic landmark in Jaffna, stands as a tribute to Thileepan, a revered figure in Tamil culture. Built in the 19th century, it commemorates Thileepan, a hero known for his resistance against colonial rule. The memorial is significant for its blend of architectural styles reflecting British and local influences, making it a focal point for both locals and tourists interested in the region's rich history. Visitors often gather here to take photos and reflect on the past, making it a popular spot for sightseeing and cultural exploration.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_b4034cef54",
     "name": "Ariyalai heritage centennial monument",
-    "description": "Ariyalai heritage centennial monument is a historic landmark in the Jaffna area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Ariyalai heritage centennial monument stands as a testament to the rich cultural history of Jaffna. Constructed in 1921, it was built by local artisans under the supervision of colonial administrators. The monument commemorates the centenary of a significant event in Jaffna’s history, marking a pivotal moment in the region's development. Today, it serves as a popular spot for photography and sightseeing, offering visitors a glimpse into the past and a chance to appreciate the craftsmanship and architectural beauty of the era.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Building",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_50f64fb422",
     "name": "Jaffna scout group 2016",
-    "description": "Jaffna scout group 2016 is a historic landmark located in Jaffna, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Jaffna Scout Group 2016 building, a historic landmark in Jaffna, Sri Lanka, stands as a testament to the community efforts and unity during a significant period. Originally constructed as a scout camp, it now serves as a popular photography spot and sightseeing venue, attracting visitors interested in its architectural charm and the story of youth empowerment. Built in 1960, the structure has been renovated several times, maintaining its original character while incorporating modern amenities. It played a crucial role in fostering leadership skills among young Jaffna residents, making it a cherished site for locals and tourists alike.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Building",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_02a7acb106",
     "name": "Thanthai Selva",
-    "description": "Located in Jaffna, Thanthai Selva is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Thanthai Selva, a historic landmark in Jaffna, stands as a testament to the rich architectural heritage of the region. Constructed during the British colonial era, it was once an administrative office. Today, it offers visitors a glimpse into the past through its well-preserved colonial architecture. Photography enthusiasts flock here to capture its picturesque exterior, while sightseers explore its grounds, often imagining the bustling office life that once filled its halls. Cultural and historical tours highlight the building’s role in the local governance, connecting visitors to the rich tapestry of Jaffna's past.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Building",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_bce61fd35d",
     "name": "Honorable Visvanathar Kasiipillai founder of Sri Barwathy Vidyasalai",
-    "description": "Located in Jaffna, Honorable Visvanathar Kasiipillai founder of Sri Barwathy Vidyasalai is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "The Honorable Visvanathar Kasiipillai founded the Sri Barwathy Vidyasalai in Jaffna, Sri Lanka, a significant educational institution that played a pivotal role in preserving Tamil culture during colonial times. The building itself, a historic landmark, stands as a testament to his vision and dedication. Visitors can explore the premises, which now serve as a museum, showcasing artifacts and documents related to the school's rich history, including memorabilia from key events and personalities associated with it. Engage in photography and sightseeing, immersing yourself in the legacy of this revered educational pioneer.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Building",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_09b72a9caf",
     "name": "St. Don Bosco Statue",
-    "description": "Located in Jaffna, St. Don Bosco Statue is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "The St. Don Bosco Statue stands in Jaffna, Sri Lanka, a landmark dedicated to the patron saint of youth and poor. Commissioned by the Catholic community, the statue was unveiled in 2013. It commemorates St. Don Bosco, an Italian priest known for his work with the underprivileged, and serves as a focal point for Catholic pilgrims and visitors interested in learning about his life and teachings. The statue itself is a symbol of hope and inspiration, attracting many tourists who come to take photos and admire the craftsmanship.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Building",
@@ -357,6 +357,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_ae067237",
     "name": "Ruins of Hindu Kovil",

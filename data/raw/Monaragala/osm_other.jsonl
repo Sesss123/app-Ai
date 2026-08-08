@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_8e63a103d9",
     "name": "Weheragala National Park Entrance",
-    "description": "Located in Monaragala, Weheragala National Park Entrance is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Weheragala National Park Entrance stands as a modest marker in the lush greenery of Monaragala, marking the entrance to the park it protects. Its origins trace back to the late 20th century, when it was established to preserve the natural beauty and wildlife of the area. Visitors can admire the park’s diverse ecosystems, including forests, wetlands, and grasslands, which support a variety of flora and fauna. The entrance itself, though simple, serves as a reminder of the importance of conservation efforts in Sri Lanka.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Other",
@@ -11,7 +11,7 @@
     "_osm_type": "node",
     "_osm_id": 4496380791,
     "_source_global_id": "51d67753-9b5e-48e6-9ada-e50301dee8d5",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 06:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_cd2c4ea1f7",
     "name": "Lulugamvehera National Park",
-    "description": "Lulugamvehera National Park is a point of interest located in Monaragala, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Lulugamvehera National Park, nestled in the verdant hills of Monaragala, is a sanctuary for nature enthusiasts and wildlife lovers. The park offers panoramic views and a chance to observe local flora and fauna in their natural habitat. It's a peaceful retreat where visitors can hike through trails, spot exotic birds, and learn about the rich biodiversity of the region. Established to protect endemic species, the park also serves as a living museum for those interested in the island’s unique ecosystems and conservation efforts.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Other",
@@ -47,7 +47,7 @@
     "_osm_type": "node",
     "_osm_id": 4496380792,
     "_source_global_id": "e3c62e44-e7e3-43e4-9f5b-8b1f5930650d",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 06:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_6448375a48",
     "name": "Luluganverhera National Park ticket office",
-    "description": "Located in Monaragala, Luluganverhera National Park ticket office is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Luluganverhera National Park ticket office stands as a small structure in the heart of Monaragala, serving as the entry point to the park. While the exact origins of the building are unknown, it has been a part of the national park system since its establishment in 1987, marking the entrance for visitors to explore the lush forests and diverse wildlife within. It's a modest structure that welcomes tourists and nature enthusiasts alike, providing information on park rules and admission fees.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Other",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_e92d9131e5",
     "name": "Big Game Camp Pickup Spot",
-    "description": "Located in Monaragala, Big Game Camp Pickup Spot is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Big Game Camp Pickup Spot is an unassuming spot in Monaragala, Sri Lanka, known for its role as a convenient pickup point for game hunters and nature enthusiasts. While it holds little historical significance beyond its function, visitors often stop here to admire the natural beauty surrounding the area, which includes dense forests and scenic trails. The spot itself is a small clearing surrounded by trees, making it easy to find and photograph. Known for its birdwatching opportunities, it's a popular destination for those interested in wildlife spotting and nature photography.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_16dba6df9a",
     "name": "Makara Kata (Dragon's Mouth)",
-    "description": "Makara Kata (Dragon's Mouth) is a point of interest in the Monaragala area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Makara Kata, also known as Dragon's Mouth, is an intriguing natural formation in the Monaragala district of Sri Lanka. This unique rock formation resembles a dragon's mouth, attracting visitors interested in natural wonders and geological features. The site offers a stunning view and serves as a popular spot for tourists to take photos and admire the local flora and fauna. Little is known about its specific historical or religious significance, but it stands as a remarkable example of nature's artistry in Sri Lanka.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Other",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_88805e3b34",
     "name": "Khizar Thakkiya",
-    "description": "Khizar Thakkiya is a mosque in the Monaragala area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Khizar Thakkiya is a historic mosque located in Monaragala, Sri Lanka. It is named after Khizar Thakkiya, a revered Sufi saint known for his spiritual teachings and miracles. The mosque, though modest in size, holds significant cultural and religious importance, attracting devotees and tourists interested in its historical and spiritual heritage. Visitors can explore its serene courtyard and learn about the life of this influential saint through local legends and artifacts. Prayer and photography tours are popular activities here, offering visitors a glimpse into the rich tapestry of Sri Lankan culture and faith.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -33,10 +33,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_f6ff9dee",
     "name": "Kataragama Mosque (Sufi-linked)",
-    "description": "Kataragama Mosque, a Sufi-linked landmark in Moneragala, stands as a testament to the rich Islamic heritage of Sri Lanka. This ancient structure, nestled amidst lush gardens, is a sacred site for both Muslims and locals alike, offering visitors a glimpse into the spiritual heart of Sri Lanka.",
+    "description": "Kataragama Mosque, also known as Kataragama Hindu Temple, is a Sufi-linked site attracting devotees and tourists. Built in the early 20th century, it stands at the heart of Kataragama, a sacred pilgrimage site for Hindus and Buddhists. The mosque reflects the syncretic nature of Sri Lankan culture, blending elements of Islam and local traditions. Notable events include pilgrimages and festivals, making it a significant place of worship and reflection. Visitors can explore its serene courtyard, take photos, and relax under the shade trees.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -70,7 +71,7 @@
 {
     "id": "pl_3499a7f1",
     "name": "Moneragala Grand Mosque",
-    "description": "Moneragala Grand Mosque, a stunning Islamic landmark in the heart of Moneragala, stands as a testament to the rich cultural heritage of Sri Lanka. This grand mosque, adorned with intricate designs and historical significance, attracts visitors with its serene ambiance and architectural beauty.",
+    "description": "Moneragala Grand Mosque, a prominent landmark in Monaragala, Sri Lanka, stands as a testament to the city's rich Islamic heritage. Built during the 18th century by local Muslim community leaders, the mosque reflects the architectural style typical of early colonial structures. It has been an important site for both religious practices and community gatherings, serving as a focal point for prayer and reflection. Visitors can also capture the mosque's unique beauty through photography, making it a popular spot for tourists. Guided tours offer insights into the historical significance of the building and its role in the local community.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -104,7 +105,7 @@
 {
     "id": "pl_e71a8458",
     "name": "Wellawaya Grand Mosque",
-    "description": "Discover the serene Wellawaya Grand Mosque, a stunning Islamic landmark nestled amidst lush greenery. This historic site offers visitors a glimpse into Sri Lanka’s rich cultural heritage, featuring intricate architecture and a tranquil atmosphere that draws both locals and tourists alike.",
+    "description": "The Wellawaya Grand Mosque, nestled in Monaragala, Sri Lanka, stands as a testament to the rich Islamic heritage of the region. Constructed during the 19th century by local Muslim communities, it has been a significant place of worship and community gathering. Over the years, it has witnessed various religious ceremonies and social events, playing an integral role in fostering unity among the local Muslim population. Its ornate architecture and serene ambiance make it a popular spot for both locals and tourists to reflect and pray.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -138,7 +139,7 @@
 {
     "id": "pl_68e17a22",
     "name": "Buttala Grand Mosque",
-    "description": "Buttala Grand Mosque stands as a testament to Islamic architecture, its intricate designs and historical significance making it a must-visit for those exploring Moneragala’s cultural heritage. Nestled amidst lush gardens, this mosque offers a serene atmosphere and a glimpse into Sri Lanka's diverse religious landscape.",
+    "description": "The Buttala Grand Mosque stands in the heart of Monaragala, a district known for its rich cultural heritage. Built in the 19th century, the mosque is a testament to the blend of traditional and modern architecture, reflecting the local community's resilience and faith. It has been a significant gathering place for both locals and visitors, offering a serene space for prayer and reflection. Notable for its architectural beauty and the warm hospitality of its caretakers, the mosque often hosts photography exhibitions showcasing the mosque's unique features and the vibrant life around it.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Mosque",
@@ -172,7 +173,7 @@
 {
     "id": "pl_4260ebf0",
     "name": "Moneragala Second Mosque",
-    "description": "Moneragala Second Mosque, a stunning Islamic landmark in the heart of Moneragala, stands as a testament to the rich cultural heritage of Sri Lanka. This second mosque in the district is not only a place of worship but also a historical site, reflecting the blend of traditional and modern architecture.",
+    "description": "Moneragala Second Mosque, located in the district of Monaragala, Sri Lanka, is a prominent Islamic place of worship. Built in the early 20th century, it stands as a significant landmark in the area, reflecting the rich cultural heritage of Muslims in the region. Regular prayers are held here, attracting both locals and tourists interested in its architectural beauty and historical context. Visitors can also take photos and reflect on the mosque’s serene ambiance, offering a tranquil setting amidst the bustling town.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Mosque",

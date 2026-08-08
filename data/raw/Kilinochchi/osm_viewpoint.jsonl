@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_7744f82099",
     "name": "Dutch Fort Elephantpass Ruins",
-    "description": "Located in Kilinochchi, Dutch Fort Elephantpass Ruins is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Dutch Fort Elephantpass Ruins, located in the Kilinochchi district of Sri Lanka, is a historic viewpoint offering panoramic views of the surrounding landscape. The fort was constructed by the Dutch East India Company in the 17th century as a strategic stronghold, though little remains of the original structure today. Visitors can take photos and enjoy the scenic views, appreciating the site’s historical importance and natural beauty. Elephantpass, named after the ancient elephant pass through the region, has been a crucial trade route throughout history, connecting various parts of Sri Lanka.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Viewpoint",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_1f43d516cc",
     "name": "Dutch Fort Beschutter Ruins",
-    "description": "Located in Kilinochchi, Dutch Fort Beschutter Ruins is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Dutch Fort Beschutter Ruins, a viewpoint in Kilinochchi, Sri Lanka, offers stunning views of the surrounding area. Built by the Dutch in the early 17th century as a defensive structure, it now stands as a poignant reminder of colonial times. The fort was named after a local hero, Jan van Besighem, who was killed during a battle against Portuguese forces. Today, visitors can take in panoramic vistas while imagining the past battles that once took place here, making it a unique spot for both history buffs and nature lovers.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Viewpoint",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

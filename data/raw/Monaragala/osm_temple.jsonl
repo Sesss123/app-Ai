@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_86317cf194",
     "name": "Sri Sivasubramaniyam Devalaya",
-    "description": "Located in Monaragala, Sri Sivasubramaniyam Devalaya is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Sri Sivasubramaniyam Devalaya is a revered Hindu temple in Monaragala, Sri Lanka, dedicated to Lord Subramaniam. The temple stands as a testament to the rich cultural heritage of the region, attracting devotees and tourists alike. Built in the early 20th century, it houses intricate carvings and statues that reflect the artistic excellence of that era. Notable for its annual festival, which draws thousands of worshippers, the temple also features a serene courtyard where visitors can take photographs and meditate under the watchful gaze of the deity.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_bbb8b93cae",
     "name": "Pothubandana Rajaha Viharaya",
-    "description": "Pothubandana Rajaha Viharaya is a place of worship located in Monaragala, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Pothubandana Rajaha Viharaya is a sacred Buddhist temple located in Monaragala, Sri Lanka, known for its ancient architecture and serene ambiance. The temple, believed to date back to the 5th century, was likely constructed by local rulers or monks as part of a network of monasteries and shrines that supported the spread of Buddhism. Notable for its architectural integrity and the presence of ancient statues, it attracts both pilgrims and tourists seeking spiritual enlightenment and picturesque views. Visitors can explore the temple grounds, take photos, and participate in prayer sessions, offering a blend of cultural heritage and modern-day reverence.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_3ee637a8ef",
     "name": "Kebiliththa Devalaya",
-    "description": "Kebiliththa Devalaya is a place of worship located in Monaragala, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Kebiliththa Devalaya, a sacred temple in Monaragala, Sri Lanka, is an important pilgrimage site where devotees come to pray and seek blessings. Its origins date back to ancient times, though exact founding details are unknown. The temple's architecture showcases traditional Sinhalese style, featuring intricate carvings and ornate decorations. Notable for its serene ambiance and tranquil atmosphere, it attracts both local worshippers and tourists interested in Buddhist culture and heritage. Visitors can take photos inside under strict guidelines to capture the temple's beauty and spiritual essence.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -141,6 +141,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_a2dd7219",
     "name": "Moneragala Rajamaha Viharaya (town)",
@@ -178,7 +179,7 @@
 {
     "id": "pl_293a1b95",
     "name": "Dambegoda Rajamaha Viharaya",
-    "description": "Dambegoda Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its ancient statues and intricate carvings. This site stands as a testament to Sri Lanka’s rich cultural heritage, attracting both pilgrims and nature lovers alike.",
+    "description": "Dambegoda Rajamaha Viharaya, nestled in the heart of Monaragala, is a revered Buddhist temple known for its ancient architecture and serene atmosphere. The site dates back to the 5th century BC, making it one of the oldest structures in Sri Lanka dedicated to Buddha. Notable for its intricate carvings and the presence of a sacred tree believed to be over a thousand years old, the temple attracts both locals and tourists seeking spiritual solace. Visitors can explore its peaceful grounds, engage in prayer and meditation, take photos to capture its beauty, and enjoy a nature walk through its lush surroundings.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -212,7 +213,7 @@
 {
     "id": "pl_340d994b",
     "name": "Okkampitiya Rajamaha Viharaya",
-    "description": "Explore the ancient ruins and serene atmosphere at Okkampitiya Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery and historical significance. This site offers a glimpse into Sri Lanka’s rich cultural heritage and spiritual journey.",
+    "description": "Okkampitiya Rajamaha Viharaya, a revered Buddhist temple in Monaragala, Sri Lanka, stands as a testament to ancient spiritual practices. Founded during the Anuradhapura period around the 3rd century BCE, the temple was likely constructed by King Dutugemini, who ruled over much of Sri Lanka. Over centuries, it has been a site of profound religious significance, attracting pilgrims seeking solace and enlightenment. Today, visitors can engage in prayer, meditation, take photographs to capture its serene beauty, or simply reflect on the rich cultural heritage it embodies.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -246,7 +247,7 @@
 {
     "id": "pl_9f5b5f73",
     "name": "Buttala Rajamaha Viharaya",
-    "description": "Buttala Rajamaha Viharaya, a sacred Buddhist temple nestled in the lush greenery of Moneragala district, offers visitors a glimpse into ancient Sri Lankan culture through its intricate carvings and serene ambiance.",
+    "description": "Buttala Rajamaha Viharaya, nestled in Monaragala, Sri Lanka, is a revered Buddhist temple known for its ancient architecture and spiritual significance. It dates back over a millennium, making it one of the oldest temples in the region. Legend has it that the site was once a sacred bathing pond for Buddha. Over time, it evolved into a monastery, attracting devotees seeking enlightenment and peace. Today, visitors can explore its serene ambiance, participate in prayer and meditation, take photos to capture its beauty, and reflect on life’s deeper meanings.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -280,7 +281,7 @@
 {
     "id": "pl_5667402b",
     "name": "Wellawaya Rajamaha Viharaya",
-    "description": "Discover the ancient splendor of Wellawaya Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery. This historic site offers a glimpse into Sri Lanka’s rich cultural heritage, featuring intricate carvings and a serene atmosphere that draws visitors seeking spiritual enlightenment.",
+    "description": "Wellawaya Rajamaha Viharaya, nestled in Monaragala, Sri Lanka, is a sacred Buddhist temple known for its serene grounds and rich cultural heritage. The temple, believed to date back to the 5th century BC, houses ancient Buddha statues and intricate carvings. Visitors can learn about the temple's historical significance and the profound teachings of Buddhism, while picturesque surroundings offer a peaceful retreat. Photographs often capture the temple's beauty, making it a popular spot for tourists seeking tranquility and insight into Sri Lankan culture.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -382,7 +383,7 @@
 {
     "id": "pl_41cdae5f",
     "name": "Medagama Rajamaha Viharaya",
-    "description": "Medagama Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, stands as a testament to ancient Sri Lankan architecture and culture. Its serene atmosphere and historical significance make it a must-visit for those seeking spiritual enlightenment and cultural immersion.",
+    "description": "Medagama Rajamaha Viharaya, a sacred temple in Monaragala, Sri Lanka, houses ancient Buddha statues and scriptures. It's believed to date back to the 5th century BC, making it one of the oldest Buddhist sites in the region. The temple is renowned for its serene atmosphere and serves as a significant pilgrimage site, attracting visitors who seek spiritual enlightenment and reflection. Visitors can engage in prayer, meditation, photography, and reflection, all while immersing themselves in the rich cultural heritage of Sri Lanka.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -416,7 +417,7 @@
 {
     "id": "pl_4b0eb9c6",
     "name": "Thanamalvila Rajamaha Viharaya",
-    "description": "Discover the ancient relics and serene atmosphere at Thanamalvila Rajamaha Viharaya, a sacred Buddhist temple nestled in the Monaragala district. This site offers a glimpse into Sri Lanka’s rich cultural heritage, featuring intricate carvings and a tranquil setting that draws visitors seeking spiritual enlightenment.",
+    "description": "Thanamalvila Rajamaha Viharaya, a sacred Buddhist temple in Monaragala, Sri Lanka, is renowned as one of the oldest temples in the region. Constructed during the reign of King Mahasena of the Anuradhapura kingdom in the 3rd century BCE, it holds immense cultural and religious significance, attracting pilgrims and visitors seeking spiritual enlightenment and reflection. Over the centuries, the temple has been renovated several times, preserving its ancient architecture and rich heritage. Visitors can engage in prayer, meditation, take photographs to capture the serene surroundings, and reflect on the timeless teachings of Buddhism.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -484,7 +485,7 @@
 {
     "id": "pl_a9f04c17",
     "name": "Mahiyangana Rajamaha Viharaya (border area)",
-    "description": "Discover the ancient Mahiyangana Rajamaha Viharaya, a sacred Buddhist temple nestled in the border area, known for its well-preserved statues and intricate carvings that date back centuries. This site offers a glimpse into Sri Lanka’s rich cultural heritage and spiritual journey.",
+    "description": "The Mahiyangana Rajamaha Viharaya, a sacred temple in the border area of Monaragala, Sri Lanka, houses ancient statues and offers insights into Buddhist history. Perched on a hilltop, it provides breathtaking panoramic views, making it a popular destination for both tourists and locals seeking spiritual enlightenment. Built during the Anuradhapura period, the temple's architecture reflects the rich cultural heritage of ancient Sri Lanka. Its serene setting and historical significance make it a must-visit site for those interested in Buddhism and the country's ancient monuments.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -518,7 +519,7 @@
 {
     "id": "pl_abe8384b",
     "name": "Sinharaja border Rajamaha Viharaya area",
-    "description": "Explore the ancient ruins and serene temples at Sinharaja border Rajamaha Viharaya, a hidden gem nestled amidst lush tea plantations. This sacred site offers a glimpse into Sri Lanka’s rich Buddhist heritage, featuring intricate carvings and historical significance.",
+    "description": "Rajamaha Viharaya, located in the Sinharaja border area, is an ancient Buddhist temple nestled within the Sinharaja Forest Reserve, a UNESCO World Heritage Site. The temple dates back to the 15th century, making it one of the oldest structures in the region. It holds significant religious and cultural importance, attracting visitors interested in both its historical and natural beauty. Visitors can explore the ancient ruins, take photographs of the lush tea plantations, and learn about the rich Buddhist history and culture that surrounds this sacred site.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",
@@ -552,7 +553,7 @@
 {
     "id": "pl_eafeb301",
     "name": "Gal Oya area Rajamaha Viharaya",
-    "description": "Discover the ancient Rajamaha Viharaya nestled amidst the lush Gal Oya area, a serene Buddhist sanctuary with intricate carvings and historical significance that draws visitors seeking a glimpse into Sri Lanka’s rich cultural heritage.",
+    "description": "The Gal Oya area Rajamaha Viharaya, nestled in the picturesque Monaragala district, is an ancient Buddhist temple known for its intricate architecture and serene setting. Built during the reign of King Mahasena in the 5th century CE, it stands as a testament to early Sri Lankan craftsmanship. The temple’s central stupa, a focal point for meditation and reflection, attracts visitors seeking spiritual peace and enlightenment. Visitors can explore the temple’s well-preserved ruins, learn about local Buddhist traditions, and appreciate the harmony between man and nature that characterizes this sacred site.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Temple",

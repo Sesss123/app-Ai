@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_54275a8d2b",
     "name": "The United Pentecostal Church kataragama",
-    "description": "The United Pentecostal Church kataragama is a church located in Monaragala, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "The United Pentecostal Church Kataragama, located in the picturesque town of Monaragala, is a significant place of worship where thousands gather for prayer and healing. Established in the early 20th century by Pentecostal missionaries, it stands as a beacon of faith in the region. Known for its unique architecture and vibrant community life, the church hosts regular services and healing sessions, attracting visitors from across Sri Lanka and beyond. Its walls bear witness to the spiritual journey of many, making it a cherished site for both locals and tourists alike.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Church",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_2930e16bd5",
     "name": "St. Anthony 's Church",
-    "description": "St. Anthony 's Church is a church located in Monaragala, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St Anthony's Church in Monaragala, Sri Lanka is a historic Anglican church known for its ornate architecture and vibrant community life. Founded in the early 20th century by British settlers, the church stands as a testament to colonial influence in the region. It hosts regular prayer services and occasionally organizes cultural events, drawing visitors interested in both its architectural beauty and its rich religious heritage. Its distinctive steeple can be seen from miles around, making it a popular spot for tourists and locals alike.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Church",
@@ -69,10 +69,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_db786d70",
     "name": "Kataragama St. Mary's Church",
-    "description": "Kataragama St. Mary's Church stands as a testament to the harmonious blend of Christian architecture and local culture. Nestled amidst lush greenery, this historic church offers visitors a serene atmosphere and a glimpse into the spiritual life of Sri Lanka’s diverse population.",
+    "description": "Kataragama St. Mary's Church stands in Monaragala, Sri Lanka, a small Anglican church known for its peaceful atmosphere and spiritual significance. The church was established in the early 20th century and is visited by many seeking solace and inspiration. Its serene setting makes it a popular spot for prayer, meditation, photography, and reflection, attracting both locals and tourists seeking tranquility. Known for its simple yet elegant architecture, the church overlooks lush greenery, offering visitors a moment of quiet amidst nature.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Church",
@@ -106,7 +107,7 @@
 {
     "id": "pl_e73abe1d",
     "name": "Moneragala St. Joseph's Church",
-    "description": "Moneragala St. Joseph's Church stands as a testament to the rich Catholic heritage of Uva Province. Nestled in the heart of the district, this historic church offers visitors a glimpse into Sri Lanka's religious past with its intricate architecture and serene ambiance.",
+    "description": "Moneragala St. Joseph's Church stands as a testament to the rich Catholic heritage of Monaragala. Built in the early 20th century, it was constructed by local Catholics who sought a place of worship. The church's interior features intricate carvings and a beautiful altar, reflecting the craftsmanship of its builders. Visitors can explore the church's serene surroundings, learn about the local Catholic community, and reflect on its history. Its construction marked a significant step towards preserving religious freedom in the region.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Church",
@@ -140,7 +141,7 @@
 {
     "id": "pl_5a793d16",
     "name": "Bibile St. Anthony's Church",
-    "description": "Bibile St. Anthony's Church stands as a testament to Moneragala's rich Christian heritage, its ornate interior featuring intricate frescoes and a towering crucifix. This historic site offers visitors a glimpse into the past through its well-preserved architecture and religious artifacts.",
+    "description": "Bibile St. Anthony's Church stands in Monaragala, a small town in central Sri Lanka, known for its ornate interior and historical significance as a site where early Christian communities thrived. Founded by St. Anthony himself according to local legend, the church has been a center of worship and learning for centuries, preserving stories of early Christianity in Sri Lanka. Visitors can explore its richly decorated walls, learn about the church's role in local Christian heritage, and take photos to capture its beauty and historical importance.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Church",

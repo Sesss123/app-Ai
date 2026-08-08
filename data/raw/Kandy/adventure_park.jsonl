@@ -1,7 +1,7 @@
 {
     "id": "pl_c27a4177",
     "name": "Kandy Zipline & Canopy",
-    "description": "Experience the thrill of Kandy Zipline & Canopy, where adrenaline-pumping ziplines soar through lush jungle canopy, offering breathtaking views and a unique adventure park experience in the heart of Kandy’s Central Province.",
+    "description": "Kandy Zipline & Canopy is an adrenaline-pumping adventure park nestled in the heart of Kandy, offering visitors thrilling ziplining and canopy tours. The park features breathtaking views of the surrounding hills and forests, perfect for those seeking an exhilarating experience. Established to provide locals and tourists with a unique way to explore the area, it has become a popular spot for adventure seekers. Visitors can soar through the treetops, feeling the rush of speed and height as they traverse the canopy.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_a136f306",
     "name": "Hanthana Trekking Centre",
-    "description": "Hanthana Trekking Centre stands as a gem in Kandy’s adventure park, offering breathtaking views, challenging hikes, and a unique blend of nature and culture. Nestled amidst lush forests, it’s a perfect spot for those seeking a mix of physical challenge and cultural immersion.",
+    "description": "The Hanthana Trekking Centre, nestled in the lush hills of Kandy, offers adventurous treks through scenic trails, perfect for nature enthusiasts. Established as a local initiative to promote eco-tourism, the centre attracts hikers and bird watchers alike. It stands at the foot of Hanthana Peak, offering panoramic views of the surrounding countryside. Historically, the area has been a retreat for both locals and pilgrims visiting nearby temples, making it a significant spot for cultural and spiritual exploration. Visitors can explore the diverse flora and fauna while learning about the region's rich heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

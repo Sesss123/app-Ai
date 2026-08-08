@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_1d8c078ae3",
     "name": "Dedigama Museum",
-    "description": "Dedigama Museum is a museum in the Kegalle area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Dedigama Museum in Kegalle, Sri Lanka, showcases artifacts and exhibits related to local culture and history. Founded in 1973, the museum was established by the Dedigama Amunagama Peramuna, a local community organization. It houses a collection of traditional clothing, tools, and photographs, providing insights into the daily life and customs of the region. Notable for its ethnographic displays, the museum also features a section dedicated to the history of the area, including notable events and figures. Visitors can learn about the rich heritage of Kegalle through guided tours and interactive displays.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_948301ae64",
     "name": "Dedigama Musium",
-    "description": "Located in Kegalle, Dedigama Musium is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Dedigama Museum, located in the picturesque town of Kegalle, houses an array of artifacts and exhibits that chronicle the rich cultural heritage of the region. Established in 1985, the museum showcases ancient artifacts, traditional costumes, and local textiles, offering visitors a glimpse into the history and lifestyle of Sri Lanka's rural communities. Notable among its collections is a collection of Buddhist relics and scriptures, highlighting the significant role Buddhism has played in shaping the cultural landscape of the area. The museum also hosts regular educational programs and workshops, making it a popular destination for both locals and tourists interested in learning about Sri Lanka's diverse heritage.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Museum",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_c7b519930b",
     "name": "හෙම්මාතගම බෞද්ධ මන්දිරය",
-    "description": "හෙම්මාතගම බෞද්ධ මන්දිරය is a museum located in Kegalle, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Hemmethagama Temple Museum, located in Kegalle District, Sri Lanka, is a small yet historically significant site offering visitors insights into ancient Buddhist practices through its exhibits. The temple, though not a functioning place of worship, houses artifacts and relics that provide a glimpse into the rich cultural heritage of the region. Notable among these are ancient statues and manuscripts, which together tell stories of the island's spiritual and architectural evolution. Visitors can learn about the local Buddhist traditions and the historical development of the area's religious landscape.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Museum",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_6f0eb5536f",
     "name": "Calvary",
-    "description": "Calvary is a place of worship located in Vavuniya, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Calvary, a small yet significant temple in Vavuniya, Sri Lanka, is believed to be an ancient structure that holds deep religious importance for local Buddhists. The exact origins of the site are shrouded in mystery, but it is often associated with Buddhist pilgrimage routes. Visitors come to pray and take photos at this serene location, which overlooks the surrounding landscape and offers a tranquil setting for reflection. Its humble presence stands as a testament to the enduring faith of the community.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_fbbe65b79b",
     "name": "Catholic Church",
-    "description": "Located in Vavuniya, Catholic Church is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "The Catholic Church in Vavuniya stands as a testament to the enduring presence of Christianity in Sri Lanka. Built during colonial times under Portuguese rule, it was later expanded under Dutch influence. Today, it serves as a significant place of worship for local Catholics, offering a serene setting for prayer and reflection. Its architecture blends European and Asian influences, reflecting the diverse cultural heritage of the region. Visitors can explore its interior adorned with ancient paintings and statues, while outside, the churchyard holds graves of early missionaries and converts. Photographs are welcome, capturing the beauty of this historic site.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_0c0ae3e024",
     "name": "Amman temple",
-    "description": "Located in Vavuniya, Amman temple is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Amman temple in Vavuniya, Sri Lanka is a sacred Hindu site where devotees gather for prayers and rituals. The temple, though modest in scale, holds deep spiritual importance to local Hindu communities. It was established by devotees seeking a place to honor their deities, offering a space for worship and reflection. Over time, it has become an integral part of the community, hosting festivals and ceremonies that bring together people from different backgrounds. Visitors can admire intricate carvings and statues as they explore the temple grounds, which also feature a small pond and garden. Photography is permitted, allowing tourists to capture the serene atmosphere and architectural beauty of the Amman temple.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_e7c558729a",
     "name": "45002 IYANAR TEMPLE",
-    "description": "Located in Vavuniya, 45002 IYANAR TEMPLE is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "The 45002 Iyanar Temple, nestled in the serene Vavuniya district of Sri Lanka, is a sacred site where devotees gather for prayer and contemplation. Its unique name, believed to be a combination of numbers and deity names, reflects the temple's historical importance as a place of worship for local communities. Built over a century ago by local artisans and priests, the temple stands as a testament to traditional Sri Lankan architecture and craftsmanship. It has witnessed numerous religious festivals and community gatherings, making it a significant cultural landmark in the region.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_79dc41dad0",
     "name": "45005 SAKAYA MARRY TEMPLE (சகாயமாதா ஆலயம்)",
-    "description": "45005 SAKAYA MARRY TEMPLE (சகாயமாதா ஆலயம்) is a place of worship located in Vavuniya, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "The 45005 Sakaya Mary Temple, also known as the Vavuniya Alayam, is a significant Buddhist temple in Vavuniya District, Sri Lanka. It was established during the early 20th century by local Buddhist communities as a place of worship and spiritual practice. The temple features intricate carvings and architectural elements typical of traditional Sri Lankan temples, reflecting the rich cultural heritage of the region. Visitors can explore the temple grounds, participate in daily prayers, and take photos to capture the serene beauty and historical significance of this sacred site.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_9c254453f9",
     "name": "Buddhist Shrine Room",
-    "description": "Located in Vavuniya, Buddhist Shrine Room is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "The Buddhist Shrine Room, nestled in Vavuniya, Sri Lanka, is a sacred space dedicated to Buddhist worship. Historically, the temple was established by local monks in the early 20th century. It holds great cultural and religious significance as a place where devotees can seek solace and pray for peace. The room features intricate carvings and murals depicting Buddhist scriptures, attracting both locals and tourists seeking spiritual enrichment. Visitors often take photos to commemorate their visit, making it a popular spot for pilgrimage and reflection.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_caca05a943",
     "name": "Sai Baba Centre",
-    "description": "Located in Vavuniya, Sai Baba Centre is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "The Sai Baba Centre in Vavuniya is a revered site where devotees gather to pray and seek blessings. It commemorates the life and teachings of Sai Baba, an Indian saint revered by many in Sri Lanka. The temple, though modest, holds great spiritual importance attracting pilgrims from across the country. Visitors come to offer flowers, light lamps, and participate in rituals, making it a significant hub for Sai Baba devotees in the region. Beyond its religious function, the centre also allows for photography, offering a glimpse into the serene atmosphere and devotion of its visitors.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -285,3 +285,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

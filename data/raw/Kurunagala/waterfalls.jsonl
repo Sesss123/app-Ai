@@ -1,7 +1,7 @@
 {
     "id": "pl_d4e58390",
     "name": "Ibbagala Falls",
-    "description": "Ibbagala Falls, a breathtaking cascade nestled in the lush Kurunegala district, offers visitors a serene escape with its cascading waters and picturesque surroundings. Known for its natural beauty and tranquil atmosphere, it’s a perfect spot for a refreshing swim or a peaceful stroll.",
+    "description": "Ibbagala Falls, a cascade in Kurunagala, Sri Lanka, offers visitors a chance to swim, picnic, and enjoy nature walks. The falls, though unnamed historically, have been a popular spot for locals and tourists alike, known for their refreshing waters and scenic views. Local legends speak of an ancient temple once standing near the falls, but no concrete evidence exists. Today, the area remains a tranquil retreat, perfect for those seeking natural beauty and a break from the hustle of daily life.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Cascade",
@@ -34,7 +34,7 @@
 {
     "id": "pl_b8e92efb",
     "name": "Mawathagama Falls",
-    "description": "Mawathagama Falls, a majestic plunge into nature’s splendor, stands as a testament to the raw power of Kurunegala’s waterways. Surrounded by lush greenery and ancient trees, these cascading waters offer a refreshing escape from the heat, perfect for both casual visitors and intrepid hikers seeking adventure.",
+    "description": "Mawathagama Falls, located in Kurunagala, Sri Lanka, is a picturesque plunge waterfall where visitors can swim, hike, and take stunning photographs. The falls are part of a popular hiking trail that winds through lush forests and offers breathtaking views. Local legend credits the falls' formation to a mythical king who was cursed by a local deity, leading to their dramatic descent. This site has been a pilgrimage destination for centuries, attracting devotees seeking blessings. Known for its natural beauty and spiritual significance, Mawathagama Falls remains a cherished spot for locals and tourists alike.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Plunge",
@@ -67,7 +67,7 @@
 {
     "id": "pl_7fecafe0",
     "name": "Galgamuwa Falls",
-    "description": "Galgamuwa Falls, a tiered cascade that plunges into a serene pool, offers visitors a breathtaking sight of nature’s power. Nestled in the lush Kurunegala district, these falls are a testament to the region's natural beauty and tranquility.",
+    "description": "Galgamuwa Falls, a tiered waterfall in Kurunagala, Sri Lanka, draws visitors with its cascading waters perfect for photography and reflection. The falls are part of the Galgamuwa National Heritage Park, which also includes ancient temples and ruins, offering a glimpse into the region's rich cultural heritage. Local legend speaks of a mythical king who built the falls as a gift, though no concrete historical evidence exists. Visitors often meditate by the water’s edge, appreciating the natural beauty while contemplating life's simple pleasures.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Tiered",
@@ -100,7 +100,7 @@
 {
     "id": "pl_1f9d3406",
     "name": "Nikaweratiya Falls",
-    "description": "Nikaweratiya Falls, a stunning natural wonder in Kurunegala, North Western Province, features a cascading waterfall that plunges into a crystal-clear pool below. Witness the breathtaking sight of water tumbling down over jagged rocks, creating a mesmerizing spectacle that draws visitors from all corners of the island.",
+    "description": "Nikaweratiya Falls, a stunning fan-shaped waterfall nestled in Kurunagala, Sri Lanka, offers visitors breathtaking views and serene moments. The falls, formed by the confluence of two streams, attract nature lovers and photographers seeking picturesque backdrops. A short nature walk leads to a tranquil spot where one can immerse in the natural beauty, cool off in the refreshing waters, and reflect on the tranquility of the area. Known for its serene ambiance and perfect photo opportunities, Nikaweratiya Falls has become a popular spot for tourists and locals alike.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Fan",
@@ -166,7 +166,7 @@
 {
     "id": "pl_1f06195e",
     "name": "Kuliyapitiya Falls",
-    "description": "Discover the awe-inspiring Kuliyapitiya Falls, a plunge into nature’s splendor where the mighty waters plummet over a cliff, creating a mesmerizing spectacle that has captivated visitors for generations. Nestled in the heart of Kurunegala district, these falls offer a perfect blend of natural beauty and tranquility, making them a must-visit destination for nature lovers and adventure seekers alike.",
+    "description": "Kuliyapitiya Falls, a stunning plunge waterfall in Kurunagala, Sri Lanka, offers visitors a chance to swim, hike, and capture its beauty through photography. The falls are a popular spot for locals and tourists alike, known for their refreshing waters and picturesque setting. Known locally as \"Kuliyapitiya,\" meaning \"white fall\" in Sinhala, the waterfall is a testament to nature's power and a significant natural landmark in the area. Its cascading waters attract many, making it a favorite destination for adventure seekers and nature lovers.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Plunge",
@@ -199,7 +199,7 @@
 {
     "id": "pl_b999bf5a",
     "name": "Bingiriya Falls",
-    "description": "Bingiriya Falls, a Horsetail waterfall in Kurunegala district, North Western Province, is a stunning natural wonder with its cascading waters and picturesque setting. Known for its dramatic peak flow during the NE monsoon season, it offers visitors a breathtaking sight that is both spectacular and potentially dangerous.",
+    "description": "Bingiriya Falls, a horsetail waterfall located in Kurunagala, Sri Lanka, draws visitors with its cascading waters and scenic beauty. Known for its reflective surface and lush surroundings, it offers a perfect spot for photography enthusiasts. A short nature walk along the falls' edge provides a closer look at this natural wonder, often visited by locals seeking tranquility and peace. The falls are a testament to the area's rich natural heritage, though specific historical details about its construction or founding remain unknown.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Horsetail",
@@ -232,7 +232,7 @@
 {
     "id": "pl_5df1975a",
     "name": "Pannala Falls",
-    "description": "Pannala Falls, a breathtaking cascade nestled in the lush Kurunegala district, offers visitors a serene spot for refreshing swims and awe-inspiring views. Surrounded by verdant hills and vibrant flora, this natural wonder is a perfect destination for nature lovers and adventure seekers alike.",
+    "description": "Pannala Falls, a cascade in Kurunagala, Sri Lanka, offers visitors a picturesque spot for swimming, picnicking, and photography. The falls, known locally as \"The Waterfall of the Gods,\" are part of the ancient Kuruwa civilization, whose ruins can be seen in the nearby area. Local legend tells that the falls were formed by a god who threw his sword into the river, creating the water flow. Today, the falls attract nature lovers and those seeking tranquility in the serene surroundings.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Cascade",
@@ -265,7 +265,7 @@
 {
     "id": "pl_1db78c37",
     "name": "Narammala Falls",
-    "description": "Narammala Falls, a breathtaking natural wonder located in Kurunegala district, showcases cascading waterfalls that plunge into crystal-clear pools, offering visitors a serene escape from the hustle of daily life. The falls are a testament to nature’s beauty and a perfect spot for those seeking tranquility and relaxation.",
+    "description": "Narammala Falls, a block of water cascading in the lush greenery of Kurunagala, offers visitors refreshing swims, perfect picnic spots, and scenic photo opportunities. The falls, a natural wonder, have been a popular spot for locals and tourists alike for generations. Legend has it that a local king used to bathe here, making it a sacred site. Today, families often gather under the trees to enjoy the cool waters and the picturesque surroundings, creating a serene escape from the hustle of daily life.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Block",
@@ -298,7 +298,7 @@
 {
     "id": "pl_06f6b04b",
     "name": "Kurunegala Town Falls",
-    "description": "Discover the serene Kurunegala Town Falls, a picturesque waterfall nestled in the heart of Kurunegala town. Surrounded by lush greenery and vibrant local life, this natural wonder offers a refreshing escape from the hustle of city life.",
+    "description": "Kurunegala Town Falls, a segmented waterfall in Kurunegala, Sri Lanka, offers visitors opportunities for photography, relaxation, and nature walks. The falls are a natural wonder attracting both locals and tourists seeking scenic beauty and tranquility. Known for its cascading waters and lush greenery, the area also hosts cultural events and festivals, reflecting the rich heritage of the region. Visitors can explore the falls' surroundings, enjoying the cool mist and vibrant flora while learning about the local ecosystem and traditional practices.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Segmented",
@@ -331,7 +331,7 @@
 {
     "id": "pl_32da5285",
     "name": "Hettipola Falls",
-    "description": "Hettipola Falls, a stunning plunge waterfall nestled in the lush Kurunegala district, offers visitors a refreshing glimpse into nature’s raw power. Surrounded by verdant hills and vibrant flora, this picturesque spot is perfect for those seeking a tranquil escape from the hustle of daily life.",
+    "description": "The Hettipola Falls, a stunning plunge in Kurunagala, Sri Lanka, offer visitors refreshing swims, perfect picnic spots, and breathtaking photo opportunities. The falls, formed by the confluence of two rivers, have been a natural attraction for centuries, drawing locals and tourists alike. Legend has it the falls were once home to a mythical creature, adding an enchanting touch to the area's folklore. Visitors can explore the serene surroundings, feeling the cool mist on their skin as they soak in the beauty of nature's splendor.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Plunge",
@@ -364,7 +364,7 @@
 {
     "id": "pl_78bfc30d",
     "name": "Wariyapola Falls",
-    "description": "Discover the serene beauty of Wariyapola Falls, a multi-step cascade nestled in the lush Kurunegala district. Witness nature’s masterpiece as water tumbles down the steep incline, creating a picturesque spectacle that draws visitors from far and wide.",
+    "description": "The Wariyapola Falls, nestled in the lush hills of Kurunagala, Sri Lanka, are a serene multi-step waterfall offering a tranquil retreat for nature lovers. The falls, a natural marvel, have been a popular spot for photographers and hikers seeking scenic views and refreshing walks along the cascading waters. Local folklore speaks of an ancient temple once standing near the falls, though its exact origins and historical significance are shrouded in mystery. Today, visitors can soak in the beauty of the falls while enjoying the cool mist, perfect for a moment of serenity amidst the picturesque setting.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Multi-step",
@@ -397,7 +397,7 @@
 {
     "id": "pl_7d1a075b",
     "name": "Melsiripura Falls",
-    "description": "Melsiripura Falls, a breathtaking natural wonder in Kurunegala, showcases cascading water that forms a picturesque block, perfect for those seeking a serene escape from the hustle of daily life. Its crystal-clear waters and lush greenery create a tranquil backdrop that invites visitors to immerse themselves in nature’s beauty.",
+    "description": "The Melsiripura Falls, located in the picturesque district of Kurunagala, Sri Lanka, is a natural block waterfall known for its refreshing plunge and cascading waters. Surrounded by lush greenery, it offers visitors a serene spot for swimming, picnicking, and photography. The falls are a popular destination for locals and tourists alike, attracting families and nature enthusiasts seeking a tranquil escape. Legend has it that the falls were once a sacred site for ancient rituals, though exact historical records are lacking. Today, they remain a testament to the area’s natural beauty and cultural heritage.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Block",
@@ -430,7 +430,7 @@
 {
     "id": "pl_93b652d8",
     "name": "Padeniya Falls",
-    "description": "Discover the cascading beauty of Padeniya Falls, a tiered waterfall nestled in the lush Kurunegala district. Witness nature’s splendor as water tumbles down tier after tier, creating a mesmerizing sight that’s perfect for both relaxation and photography.",
+    "description": "Padeniya Falls, located in Kurunagala, Sri Lanka, is a tiered waterfall offering visitors stunning cascades perfect for photography. Known for its serene beauty, it attracts nature lovers and hikers seeking a tranquil escape. The falls, though unnamed historically, have become a popular spot for locals and tourists alike, appreciated for its picturesque views and refreshing waters. Notable for its role in local folklore, the falls have seen various cultural and recreational activities over the years, drawing visitors interested in its natural splendor and the stories associated with it.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Tiered",

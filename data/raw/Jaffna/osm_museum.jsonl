@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_d4c36fdfdb",
     "name": "Jaffna Archeological Museum",
-    "description": "Jaffna Archeological Museum is a museum in the Jaffna area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Jaffna Archeological Museum, located in the heart of Jaffna, houses artifacts and relics from various eras reflecting the rich cultural heritage of the region. Founded in 1954 by the British colonial administration, it showcases a collection of ancient pottery, sculptures, and coins, providing insight into Jaffna's past. Notable exhibits include a 2nd century BCE stone inscription and a bronze statue dating back to the 3rd century BCE. The museum also features a gallery dedicated to the history of the Jaffna Kingdom, highlighting the contributions of the Tamil-speaking people. It attracts visitors interested in learning about Jaffna’s historical and cultural significance, making it a must-visit for those exploring the area.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Museum",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

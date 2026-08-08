@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_f9cd03877b",
     "name": "Samangala Caves",
-    "description": "Samangala Caves is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Samangala Caves are an ancient archaeological site in Ampara District, Sri Lanka, known for their rock-cut temples and monasteries carved into the cliffs. The caves date back to the 3rd century BC, though the exact construction period remains uncertain. They hold cultural and religious significance, believed to be part of the Buddhist heritage of the region. Visitors can explore these unique structures, marveling at the intricate carvings and the natural beauty of the surroundings. Photography is popular among tourists, capturing the serene atmosphere and architectural wonders of the caves.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -21,7 +21,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_069a2b8908",
     "name": "Samangala Caves",
-    "description": "Samangala Caves is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Samangala Caves, located in Ampara District, Sri Lanka, are an archaeological site comprising ancient rock shelters. Their origins date back to prehistoric times, though the exact period remains debated among historians. The caves feature engravings and paintings that provide insight into early human life in the region. Visitors can explore these unique rock art sites, capturing them on film as part of their experience. Cultural significance lies in understanding the evolution of human civilization through tangible evidence left by our ancestors.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -57,7 +57,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_f336c402c4",
     "name": "Rajagala Achaelogical Site",
-    "description": "Rajagala Achaelogical Site is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Rajagala, an archaeological site in Ampara District, offers visitors insights into ancient Sri Lankan civilization. The ruins date back to the 3rd century BCE, believed to be part of a larger Buddhist complex that included monasteries and stupas. Legend has it that the area was once a stronghold of the Kalinga kingdom. Today, it stands as a testament to early Sri Lankan culture, attracting tourists interested in ancient ruins and historical exploration. Visitors can take guided tours to learn more about its rich past, while photographers appreciate the unique architectural elements and serene setting.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -83,7 +83,7 @@
     "_osm_type": "node",
     "_osm_id": 7274264687,
     "_source_global_id": "f80361e8-9689-4432-a4b8-fc878d9ea10f",
-    "opening_hours": "Check locally",
+    "opening_hours": "sunrise-sunset",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -93,7 +93,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_3ed1b85687",
     "name": "Bambaragasthalawa Naga Pabbatha Monastery",
-    "description": "Located in Ampara, Bambaragasthalawa Naga Pabbatha Monastery is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Bambaragasthalawa Naga Pabbatha Monastery, an archaeological site in Ampara District, Sri Lanka, is a remnant of ancient monastic ruins. Little is known about its original purpose or construction, but it offers visitors a chance to explore the remains of a forgotten past. The monastery sits atop a hill, offering panoramic views and a tranquil atmosphere, making it a popular spot for photography and leisurely walks. Its significance lies in its potential to uncover more about early Buddhist settlements in the region.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_9a3e9ba207",
     "name": "Stupa",
-    "description": "Stupa is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Stupa in Ampara District, Sri Lanka, is an ancient archaeological site dating back over a thousand years. Built by Buddhist monks as a monument to Buddha, it holds immense religious and cultural significance. Local legends speak of a significant event where the local king converted to Buddhism after visiting the stupa, marking a pivotal moment in the island's history. Visitors can explore the ruins, take photos, and appreciate the intricate carvings and architecture, offering a glimpse into the rich heritage of the region.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_155684fb37",
     "name": "3rd Mile Post Archaeological Site",
-    "description": "Located in Ampara, 3rd Mile Post Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The 3rd Mile Post Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site known for its historical significance. It was established during the colonial era by the British as a post station along the old road connecting Colombo to Jaffna. The site features remnants of colonial-era structures, including a well-preserved watchtower and a small administrative building. Notable for its architectural elements and historical context, it attracts visitors interested in local colonial history and those who enjoy exploring archaeological sites. Its importance lies in providing insight into the transportation infrastructure and administrative systems of the time.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_740f93bf67",
     "name": "Veheragala Rock Cave Temple",
-    "description": "Located in Ampara, Veheragala Rock Cave Temple is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Veheragala Rock Cave Temple, an archaeological site in Ampara District, Sri Lanka, is a collection of ancient rock-cut caves and ruins. The temple complex was likely carved into the rock by Buddhist monks during the ancient Anuradhapura Kingdom period, though exact dates and construction details remain uncertain. Visitors can explore the cave system, take photos, and marvel at the natural beauty combined with ancient artistry. Notable for its historical and cultural significance, the site attracts both locals and tourists interested in Sri Lanka's rich heritage.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_8ec5127044",
     "name": "Mihindu Stupa",
-    "description": "Located in Ampara, Mihindu Stupa is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Mihindu Stupa, located in Ampara District, Sri Lanka, is an archaeological site offering visitors a glimpse into ancient Buddhist heritage. Constructed during the Anuradhapura Kingdom era, it stands as a testament to the island's rich religious past. The stupa, believed to be over 1500 years old, was likely built by King Dutugemunu, though exact dates are uncertain. Its serene location amidst lush greenery attracts both historians and nature lovers, who come to explore its historical significance and take stunning photographs.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_3752c9afb7",
     "name": "ancient building",
-    "description": "ancient building is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The ancient building in Ampara district, once a revered Buddhist temple, now stands as a haunting reminder of the past. Built during the colonial era by British administrators, it was constructed on the site of an older Hindu temple. Its ruins tell stories of cultural exchange and blending, reflecting the complex history of the region. Today, visitors can explore the remnants, taking photos to capture the silent echoes of time. Cultural significance lies in its blend of architectural styles and the tales it whispers of colonial rule and indigenous traditions.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_ccb02679e0",
     "name": "Arms Giving Hall",
-    "description": "Arms Giving Hall is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Arms Giving Hall, an archaeological site in Ampara District, Sri Lanka, was originally constructed as a place where soldiers would ceremonially give back their weapons after completing their service. Now largely abandoned, it stands as a testament to the island's military past. Its historical importance lies in its role during the Second World War, though little is known about its construction date or specific builders. Today visitors can explore the ruins, capturing images of what remains, a poignant reminder of the island's wartime history.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_2c5a09a538",
     "name": "Uposataghara",
-    "description": "Located in Ampara, Uposataghara is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Uposataghara, an archaeological site in Ampara District, Sri Lanka, is a collection of ruins believed to date back to the ancient kingdoms of Sri Lanka. The exact origins and purpose of these structures remain somewhat mysterious, though they likely served as temples or administrative centers during the island's rich prehistoric and early historical periods. Visitors can explore the site, marvel at the remnants of ancient architecture, and take photos to capture the historical significance of this place. Known for its serene setting and historical intrigue, Uposataghara offers a glimpse into the past for those interested in Sri Lanka's rich heritage.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_ef1f0daa57",
     "name": "Stupa",
-    "description": "Stupa is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Stupa in Ampara District, Sri Lanka, is an ancient archaeological site that draws visitors interested in its serene beauty and historical intrigue. Built during the Anuradhapura Kingdom era, around the 3rd century BCE, it served as a monument to Buddha's relics. The structure, known for its intricate carvings and harmonious architecture, has stood through centuries, preserving a piece of Sri Lanka's rich Buddhist heritage. Visitors can explore the tranquil surroundings, take photographs, and reflect on the site's enduring significance.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_fbd59917a7",
     "name": "Ancient Building",
-    "description": "Ancient Building is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Ancient Building, located in Ampara District, Sri Lanka, is an archaeological site that has been largely untouched by modernity. Originally constructed as a royal palace during the Anuradhapura Kingdom era, it later served as a Buddhist monastery. The building features intricate carvings and remains of ancient murals, offering insights into the architectural techniques and cultural practices of the past. Visitors can explore the ruins, taking photos to capture the historical beauty, making it a significant destination for those interested in Sri Lankan history and culture.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -541,7 +541,7 @@
 {
     "id": "pl_osm_0f5be08394",
     "name": "Modayamalai Rock",
-    "description": "Modayamalai Rock is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Modayamalai Rock, an archaeological site in Ampara District, Sri Lanka, is a prominent ancient ruin featuring rock formations. Its exact age and construction period are uncertain, though it is believed to hold historical and cultural significance related to prehistoric settlements or early civilizations. Visitors can explore the site and take photos, appreciating the natural beauty and potential archaeological artifacts. Known for its unique rock formations and serene surroundings, Modayamalai Rock attracts both local and international tourists seeking insights into Sri Lanka’s rich prehistoric past.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_3178eecb9a",
     "name": "Panama Rajamaha Vihara Buddhist Ruins",
-    "description": "Located in Ampara, Panama Rajamaha Vihara Buddhist Ruins is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The ruins of Panama Rajamaha Vihara, an ancient Buddhist temple, stand as silent witnesses to the rich cultural heritage of Ampara District. Constructed in the 1st century BC, the site was once a center of learning and worship, reflecting the island's early Buddhist influences. Its architectural remnants and inscriptions offer insights into the region's past, making it a significant archaeological site for understanding Sri Lanka's ancient history. Visitors can explore the tranquil ruins, capturing images that tell stories of an era long gone.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -613,7 +613,7 @@
 {
     "id": "pl_osm_759ef224c1",
     "name": "Neelagirihela Ancient Temple",
-    "description": "Neelagirihela Ancient Temple is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Neelagirihela Ancient Temple, located in Ampara District, Sri Lanka, is an archaeological site comprising ruins of an ancient temple. Its origins date back to the prehistoric period, though the exact founding date remains unknown. The temple has been a significant place of worship and pilgrimage, attracting visitors interested in its architectural remnants and historical context. Today, it offers a glimpse into Sri Lanka's rich past through its well-preserved stone structures and intricate carvings. Visitors can explore the temple grounds, take photos, and learn about its cultural and religious importance.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -649,7 +649,7 @@
 {
     "id": "pl_osm_5a9a8852f0",
     "name": "Bogahalanda Natabun Viharaya",
-    "description": "Bogahalanda Natabun Viharaya is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Bogahalanda Natabun Viharaya, an archaeological site in Ampara District, Sri Lanka, is a ruin where ancient Buddhist monks once gathered to pray and study. The viharaya, believed to be over a thousand years old, has remnants of intricate carvings and architectural elements reflecting the region's rich cultural heritage. Visitors can explore the site, take photos, and learn about the historical significance of Buddhism in this part of Sri Lanka, though exact founding dates and information on its original structure remain subjects of local legends and historical research.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -685,7 +685,7 @@
 {
     "id": "pl_osm_1a0f462b78",
     "name": "Pankanda Hela Archaeological Ruins",
-    "description": "Pankanda Hela Archaeological Ruins is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Pankanda Hela Archaeological Ruins, located in Ampara District, Sri Lanka, are remnants of ancient settlements dating back over 2000 years. The site features stone structures and pottery shards hinting at the lives of early settlers. Local legend speaks of a mythical hero named Pankanda who once lived there. Though no concrete evidence supports this, the ruins attract visitors interested in prehistoric Sri Lankan history and culture. Photography tours are popular as visitors capture the serene ruins against the backdrop of lush jungle.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -721,7 +721,7 @@
 {
     "id": "pl_osm_7be1e74288",
     "name": "Shastrawela Monastic Temple",
-    "description": "Shastrawela Monastic Temple is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Shastrawela Monastic Temple, located in the Ampara district of Sri Lanka, is an archaeological site featuring ruins of ancient monastic structures. The temple's origins date back to the early Buddhist period, though specific founding details remain unclear. Over time, it served as a center for religious and educational activities, attracting scholars and pilgrims. Today, visitors can explore the remains, taking photos to capture the historical significance of this site. Notable events include the pilgrimage routes passing through here, connecting various monasteries across the island.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_505895fcb4",
     "name": "Kiripokunahela Monastic Ruins",
-    "description": "Kiripokunahela Monastic Ruins is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Kiripokunahela Monastic Ruins, located in Ampara District, Sri Lanka, are remnants of an ancient monastic complex dating back to the medieval period. The site, which includes ruins of stupas, monasteries, and living quarters, holds significant archaeological value as it provides insights into the religious and cultural practices of the region's past inhabitants. Known for their intricate stone carvings and architectural features, these ruins attract visitors interested in exploring the history and artistry of Sri Lanka's monastic heritage. Photography enthusiasts also find the ruins a captivating subject for capturing their unique beauty.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -793,7 +793,7 @@
 {
     "id": "pl_osm_f9242a31ad",
     "name": "Abayasinghepura Archaeological Site",
-    "description": "Abayasinghepura Archaeological Site is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Abayasinghepura Archaeological Site, located in Ampara District, is an ancient ruins site featuring remnants of a Buddhist monastery. The site holds historical significance as it was once a center of learning and culture during the ancient Sri Lankan kingdoms. Notable for its well-preserved stupa and monolithic Buddha statue, visitors can explore the site, take photos, and learn about the rich cultural heritage it represents. Known for its historical and archaeological importance, the site attracts tourists interested in ancient Sri Lankan architecture and Buddhism.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -829,7 +829,7 @@
 {
     "id": "pl_osm_6eca53867f",
     "name": "Radella Archaeological Site I",
-    "description": "Radella Archaeological Site I is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Radella Archaeological Site I, located in the Ampara district of Sri Lanka, is an ancient ruins site known for its well-preserved stone structures. The site's exact age and original purpose remain subjects of scholarly debate, though it is believed to date back several centuries. Notable for its historical and cultural significance, the area has seen various periods of occupation and use by different communities over time. Visitors can explore the remains, taking photos to capture the ancient beauty and learn more about the region's rich heritage through guided tours available on-site.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -865,7 +865,7 @@
 {
     "id": "pl_osm_7c23d218ce",
     "name": "Radella Archaeological Site II",
-    "description": "Located in Ampara, Radella Archaeological Site II is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Radella Archaeological Site II, located in the Ampara district of Sri Lanka, is an ancient ruins site that offers visitors a glimpse into the region's rich prehistoric past. While the exact origins and construction details are not well-documented, the site features well-preserved stone structures and pottery shards scattered around, hinting at a settlement that thrived thousands of years ago. The area has seen various cultural influences over time, making it a significant spot for archaeologists and historians. Visitors can explore the site, take photos, and perhaps learn more about the local history through guided tours if available.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -901,7 +901,7 @@
 {
     "id": "pl_osm_8a1bafaac0",
     "name": "Radella Reservoir Archaeological Site",
-    "description": "Radella Reservoir Archaeological Site is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Radella Reservoir Archaeological Site, nestled in the Ampara district of Sri Lanka, is an ancient reservoir dating back to the 3rd century BCE. It was constructed by the ancient Tamils, possibly as part of their irrigation system to support agriculture. The site is significant for its historical and cultural value, offering insights into early Sri Lankan engineering and water management practices. Today, visitors can explore the ruins, marvel at the craftsmanship, and take photographs to capture its serene beauty and historical importance.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -937,7 +937,7 @@
 {
     "id": "pl_osm_4682183f19",
     "name": "Kunukala Lagoon Archaeological Site",
-    "description": "Kunukala Lagoon Archaeological Site is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Kunukala Lagoon Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site where the lagoon's rich history is evident through well-preserved stone structures and artifacts. The site holds cultural and religious significance, believed to be part of a larger prehistoric settlement. Notable for its serene beauty and tranquil surroundings, visitors can explore the remains while taking photos, appreciating the blend of nature and history. Despite limited information on exact origins, the site offers a glimpse into the past, making it a must-visit for those interested in Sri Lanka’s archaeological heritage.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -973,7 +973,7 @@
 {
     "id": "pl_osm_0867ce4211",
     "name": "Nelumpath Pokuna Ruins",
-    "description": "Nelumpath Pokuna Ruins is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Nelumpath Pokuna Ruins, located in Ampara District, Sri Lanka, are remnants of an ancient water storage facility dating back over a thousand years. Historians believe the site was constructed by the ancient Tambralingha kingdom around the 1st century AD. Its primary purpose was to collect rainwater for irrigation and drinking. Today, visitors can explore these ruins, take photographs, and learn about the site's historical importance through local guides. The area also offers insights into the region's rich cultural heritage.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1009,7 +1009,7 @@
 {
     "id": "pl_osm_3309843caa",
     "name": "Kongala",
-    "description": "Located in Ampara, Kongala is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Kongala, an archaeological site in Ampara District, Sri Lanka, is a remnant of ancient ruins attracting visitors interested in exploring and taking photographs. The exact age and original purpose of Kongala remain unknown, but it has been a significant landmark for centuries, possibly serving as a fort or settlement. Local legends suggest it was once a stronghold, though archaeological evidence confirms its age and construction methods. Today, Kongala stands as a testament to the region's rich past, offering insights into the island's ancient heritage.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1045,7 +1045,7 @@
 {
     "id": "pl_osm_df4983d386",
     "name": "Sengamuwa Archaeological Site",
-    "description": "Located in Ampara, Sengamuwa Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Sengamuwa Archaeological Site, nestled in Ampara District, Sri Lanka, is an ancient ruin site that has been attracting visitors interested in history and archaeology. Its origins date back to the early Iron Age, with evidence suggesting the area was inhabited as far back as the 3rd century BCE. Local legends speak of a forgotten kingdom, though scholarly consensus places its construction around the 2nd century CE by the Tamil Cholas, a significant cultural and military power in South India. Notable events include the site’s potential connection to trade routes and the influence on local cultures. Today, it offers a glimpse into the past through well-preserved ruins, offering visitors a chance to explore and photograph the remnants of a civilization that once thrived in this region.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1081,7 +1081,7 @@
 {
     "id": "pl_osm_4381d2aeca",
     "name": "Sengamuwa Pansalgoda Archaeological Site",
-    "description": "Sengamuwa Pansalgoda Archaeological Site is an archaeological site located in Ampara, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Sengamuwa Pansalgoda Archaeological Site in Ampara District, Sri Lanka, is an ancient ruins site known for its historical significance. Little is known about its founding or original purpose, but it has been recognized as an important archaeological site. Visitors can explore the remains, which offer insights into the region's past civilizations. Photography is popular here, capturing the remnants of structures that speak to a bygone era. The site, while not extensively studied, holds potential for further archaeological research and understanding of Sri Lanka's rich prehistoric heritage.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1117,7 +1117,7 @@
 {
     "id": "pl_osm_58660453b4",
     "name": "Yalpotha Reservoir Ancient Sluice",
-    "description": "Located in Ampara, Yalpotha Reservoir Ancient Sluice is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Yalpotha Reservoir Ancient Sluice, located in Ampara District, Sri Lanka, is an archaeological site featuring remnants of an ancient water management system. Built during the colonial era, it served as a crucial link in the irrigation network, ensuring crops in the surrounding areas. Now a testament to past engineering prowess, visitors can explore the sluice gate, marvel at the craftsmanship, and take photos to capture the historical significance of this site. Its presence highlights the importance of early water control techniques in Sri Lankan agriculture.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1153,7 +1153,7 @@
 {
     "id": "pl_osm_6b349c4b2a",
     "name": "Paranagovipola Aththani Pillar",
-    "description": "Located in Ampara, Paranagovipola Aththani Pillar is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Paranagovipola Aththani Pillar, a ruins site in Ampara District, is an archaeological marvel offering visitors a glimpse into ancient Sri Lankan civilization. The pillar, believed to be over 2000 years old, stands as a testament to the architectural prowess of early civilizations. Local legends speak of its creation by a powerful king, though the exact date remains uncertain. Today, it attracts history buffs and nature lovers alike, with its serene setting providing a tranquil escape amidst the ruins. Visitors can explore its ancient foundations and take photos to capture the historical significance of this site.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1189,7 +1189,7 @@
 {
     "id": "pl_osm_7d32393cae",
     "name": "Paranagovipola Archaeological Site",
-    "description": "Located in Ampara, Paranagovipola Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Paranagovipola Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site known for its historical significance as it once housed a Buddhist temple. The site is believed to have been established during the Anuradhapura Kingdom period around the 3rd century BCE. Notable for its well-preserved stupa and monolithic pillars, it attracts visitors interested in exploring the rich history of Buddhism in Sri Lanka. Visitors can also take photos to capture the serene beauty of this historical landmark.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1225,7 +1225,7 @@
 {
     "id": "pl_osm_76c072ea84",
     "name": "Lahugala Ethgala Archaeological Site",
-    "description": "Lahugala Ethgala Archaeological Site is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Lahugala Ethgala Archaeological Site, nestled in the Ampara district of Sri Lanka, is an ancient ruins site that attracts visitors interested in exploring and taking photos. The site features remnants of an ancient Buddhist monastery, dating back to the 5th century BC, making it one of the earliest known monastic complexes in Sri Lanka. Its historical importance lies in the fact that it was a center of learning and practice for Theravada Buddhism, influencing the development of Buddhist culture and education in the region. Visitors can walk through the ruins, imagining the life and teachings of early Buddhist monks.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1261,7 +1261,7 @@
 {
     "id": "pl_osm_4967351eb5",
     "name": "Lahugala Waralanda Archaeological Site",
-    "description": "Located in Ampara, Lahugala Waralanda Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Lahugala Waralanda Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site attracting visitors interested in exploring its historical remnants. The site holds significant archaeological importance as it was once a Buddhist monastery, though exact details of its construction and date remain uncertain. Notable events include its use during the colonial era and more recently, it has become a popular destination for tourists seeking insights into Sri Lanka's rich past. Visitors can appreciate the ruins through guided tours, while photographers find the setting ideal for capturing images of the site's well-preserved structures.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1297,7 +1297,7 @@
 {
     "id": "pl_osm_72a32e6b22",
     "name": "Lahugala Thiththawel Mandiya Welyaya Archaeological Site",
-    "description": "Lahugala Thiththawel Mandiya Welyaya Archaeological Site is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Lahugala Thiththawel Mandiya Welyaya Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site that attracts visitors interested in exploring and taking photos. It holds historical significance as it was once part of a larger Buddhist temple complex, though little is known about its original construction or the people who built it. Over time, the site has been modified and reused by various communities, making it a blend of different architectural styles. Notable features include several stone pillars and remnants of walls, offering insights into past civilizations. Visitors can learn more about the site’s history through guided tours, which provide context on its cultural and religious importance.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1333,7 +1333,7 @@
 {
     "id": "pl_osm_74e6673fe0",
     "name": "Lahugala Elakatuwa Welyaya Archaeological Site",
-    "description": "Located in Ampara, Lahugala Elakatuwa Welyaya Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Lahugala Elakatuwa Welyaya Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site known for its historical significance. The site, believed to be over 2000 years old, features remnants of prehistoric settlements and Buddhist monasteries. It holds cultural and religious importance, attracting visitors interested in learning about early Sri Lankan civilization and Buddhism. Notable events include the construction of monasteries during the Anuradhapura Kingdom era, making it a crucial part of Sri Lankan heritage. Visitors can explore the remains, take photographs, and gain insights into the region’s rich past.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1369,7 +1369,7 @@
 {
     "id": "pl_osm_6772ceee79",
     "name": "Darampanawa Archaeological Site",
-    "description": "Darampanawa Archaeological Site is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Darampanawa Archaeological Site in Ampara District, Sri Lanka, is an ancient ruins site known for its historical and cultural significance. The site, believed to be over 2000 years old, features remnants of prehistoric settlements and Buddhist stupas. It holds great importance for local communities as it marks the region's early settlement and religious practices. Visitors can explore the well-preserved structures and take photos to capture the historical ambiance. Known for its tranquil setting, the site offers a glimpse into the past, making it a popular destination for history enthusiasts and tourists alike.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1405,7 +1405,7 @@
 {
     "id": "pl_osm_29ff07f7b0",
     "name": "Hulannuge Heda Oya Stone Anicut",
-    "description": "Hulannuge Heda Oya Stone Anicut is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Hulannuge Heda Oya Stone Anicut, an ancient water management structure, stands as a testament to early engineering skills in Ampara District, Sri Lanka. Constructed by unknown builders over a millennium ago, it was likely used to control and divert water from the Hulannage Oya river, supporting agriculture and irrigation in the region. Its presence today is a reminder of the island's rich prehistoric heritage, though specific details about its construction date and original purpose remain subjects of local folklore and historical speculation. Visitors can explore this historic site, taking photos to capture its imposing stone walls and the serene riverside setting.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1441,7 +1441,7 @@
 {
     "id": "pl_osm_b561029394",
     "name": "Hulannuge Heda Oya Archaeological Site",
-    "description": "Located in Ampara, Hulannuge Heda Oya Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Hulannuge Heda Oya Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site offering insights into prehistoric Sri Lankan civilizations. The site features remnants of ancient structures believed to date back to the Iron Age, though exact construction dates remain uncertain. Notable for its historical and archaeological value, visitors can explore the site, take photographs, and appreciate the site’s rich cultural heritage. Known for its historical significance, it attracts those interested in prehistoric Sri Lankan cultures and ancient architecture.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1477,7 +1477,7 @@
 {
     "id": "pl_osm_cb0662aaea",
     "name": "Hedaoya Yaya Archaeological Site",
-    "description": "Located in Ampara, Hedaoya Yaya Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Hedaoya Yaya Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site known for its historical and cultural significance. The site, believed to date back to the 5th century BC, features remnants of a Buddhist monastery, possibly indicating early influences from India. While the exact founding date and purpose of the structures remain uncertain, visitors can explore the well-preserved ruins and take photographs, offering insights into the region's prehistoric past. The area also holds religious importance, attracting local Buddhists who visit for worship and reflection.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1513,7 +1513,7 @@
 {
     "id": "pl_osm_a369c31490",
     "name": "Hulannuge Archaeological Site",
-    "description": "Located in Ampara, Hulannuge Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Hulannuge Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site offering insights into the region's rich prehistoric past. The site features well-preserved stone structures and artifacts, believed to date back over 2000 years. Local legends associate the site with early settlers, though precise historical records are scarce. Visitors can explore the site, take photographs, and learn about the site's cultural significance through guided tours. Notable findings include pottery shards and tools, providing clues about the daily life and craftsmanship of ancient inhabitants.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1549,7 +1549,7 @@
 {
     "id": "pl_osm_02c2c5b3ff",
     "name": "Kandahindagama Archaeological Site",
-    "description": "Located in Ampara, Kandahindagama Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Kandahindagama Archaeological Site, located in Ampara District, Sri Lanka, is an ancient ruins site attracting visitors interested in exploring and taking photos. The site, believed to be over 2000 years old, features remnants of structures that hint at the area's rich prehistoric past. Little is known about its original inhabitants or the specific time period it was occupied, but the site's historical significance lies in its potential to reveal more about early Sri Lankan civilizations. Visitors can appreciate the site's ancient architecture while learning about its cultural and religious importance, though exact details remain subject to further archaeological research.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1585,7 +1585,7 @@
 {
     "id": "pl_osm_2bc7ca8565",
     "name": "Budu Patuna",
-    "description": "Located in Ampara, Budu Patuna is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Budu Patuna, an archaeological site in Ampara District, Sri Lanka, is a collection of ruins believed to date back to the ancient kingdoms of Sri Lanka. The site features remnants of structures that hint at its historical importance, though the exact period of construction and cultural significance remain subjects of local legends and historical research. Visitors can explore the well-preserved ruins, take photos, and learn about the area's rich heritage through guided tours. The site holds little written documentation but offers a tangible link to the island’s ancient past.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1621,7 +1621,7 @@
 {
     "id": "pl_osm_9d119a4e44",
     "name": "Ancient Structure",
-    "description": "Located in Ampara, Ancient Structure is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Ancient Structure, an archaeological site in Ampara, Sri Lanka, is a testament to ancient engineering and craftsmanship. Built over centuries by various civilizations, the ruins stand as silent witnesses to the rich cultural heritage of the region. Notable for its intricate stone carvings and well-preserved architecture, visitors can explore the site, marvel at its historical significance, and take photographs to capture the beauty of this ancient landmark. Known for its serene beauty and historical importance, the Ancient Structure attracts history enthusiasts and those seeking a glimpse into Sri Lanka’s past.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1657,7 +1657,7 @@
 {
     "id": "pl_osm_c44dfc44ed",
     "name": "Budubawa",
-    "description": "Located in Ampara, Budubawa is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Budubawa, an archaeological site in Ampara District, Sri Lanka, is a collection of ancient ruins believed to date back to the 5th century BC. The site features stone pillars and steps that hint at a once-thriving civilization. Local legends speak of a hidden temple beneath the ruins, though these remain unverified. Visitors can explore the remains, take photos, and imagine the past life that once thrived here. Cultural significance lies in its potential to reveal insights into early Sri Lankan architecture and daily life.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1693,7 +1693,7 @@
 {
     "id": "pl_osm_0c9d22dacd",
     "name": "Bowaththegala",
-    "description": "Located in Ampara, Bowaththegala is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Bowaththegala, an archaeological site in Ampara District, Sri Lanka, is a collection of ruins believed to date back to the ancient Sinhalese period. The site features stone structures that once served as temples or administrative centers, though their exact purpose remains debated by historians. Over time, the area was likely abandoned, and it wasn't until recent years that tourists began to explore and photograph these remnants, offering insights into the island's rich prehistoric past. Visitors can appreciate the architectural remnants and learn about the cultural heritage that once thrived in the region.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1729,7 +1729,7 @@
 {
     "id": "pl_osm_c062b92572",
     "name": "Kota Vihara Stupa",
-    "description": "Kota Vihara Stupa is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Kota Vihara Stupa, located in Ampara District, Sri Lanka, is an ancient archaeological site and ruins. The stupa, believed to be over a thousand years old, holds significant cultural and religious importance, though the exact founding date remains uncertain. It was likely constructed during the Anuradhapura period, making it an important part of Sri Lankan heritage. Visitors can explore the site, take photos, and appreciate its historical and spiritual value. The stupa's presence reminds visitors of the rich cultural legacy of Sri Lanka.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1765,7 +1765,7 @@
 {
     "id": "pl_osm_ae37e0b53d",
     "name": "Magul Maha Viharaya Stupa",
-    "description": "Located in Ampara, Magul Maha Viharaya Stupa is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Magul Maha Viharaya Stupa, located in Ampara District, Sri Lanka, is an ancient archaeological site featuring a large Buddhist stupa. The exact age and construction date are uncertain, but it is believed to be over a thousand years old, possibly dating back to the Anuradhapura Kingdom period. This site holds significant cultural and religious importance, attracting visitors interested in Buddhist architecture and history. Visitors can explore the ruins and take photos, appreciating the preserved structures and the serene atmosphere around the stupa.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1801,7 +1801,7 @@
 {
     "id": "pl_osm_c2d374a527",
     "name": "Magul Maha Viharaya",
-    "description": "Magul Maha Viharaya is an archaeological site in the Ampara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Magul Maha Viharaya, an archaeological site in Ampara District, Sri Lanka, is a significant Buddhist ruins attracting visitors interested in ancient architecture and culture. The temple, believed to be over a thousand years old, features intricate carvings and statues, offering insights into early Buddhist art and architecture. Despite the site's age, little is known about its original construction or specific founding figures. A popular destination for photography and exploration, it stands as a testament to the rich heritage of Sri Lankan Buddhism.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1837,7 +1837,7 @@
 {
     "id": "pl_osm_ce04a32582",
     "name": "Plima geya",
-    "description": "Located in Ampara, Plima geya is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Plima Geya, an archaeological site in Ampara District, Sri Lanka, is believed to be an ancient temple ruins dating back over a thousand years. Legend has it that it was constructed by the ancient Tamils, though exact dates and builders remain uncertain. The site offers visitors a glimpse into Sri Lanka’s rich prehistoric past through well-preserved stone structures and intricate carvings. Today, it attracts history buffs and nature lovers with its serene setting and occasional cultural festivals. Visitors can explore the ruins, take photos, and learn about the local history from guided tours.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -1869,3 +1869,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

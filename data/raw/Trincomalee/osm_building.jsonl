@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_d6075595c2",
     "name": "Mahatma Gandhi",
-    "description": "Mahatma Gandhi is a historic landmark in the Trincomalee area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Mahatma Gandhi, a historic building in Trincomalee, Sri Lanka, stands as a tribute to the Indian independence leader. Built in 1938 by the British, it was used as a rest house for visiting dignitaries. Gandhi himself visited in 1934, leaving behind a message inscribed on the wall. Today, it attracts visitors interested in its historical context and serves as a reminder of the region's colonial past and Gandhi's influence. Nearby, you can explore ancient temples and enjoy scenic coastal views.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Building",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

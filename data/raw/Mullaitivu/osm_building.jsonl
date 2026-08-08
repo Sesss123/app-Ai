@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_51bbae6318",
     "name": "War Memorial",
-    "description": "Located in Mullaitivu, War Memorial is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "The War Memorial in Mullaitivu stands as a somber tribute to the fallen soldiers of the Sri Lankan Civil War. Constructed in 2009, it was built by the government to honor those who lost their lives in the conflict. The memorial features a central cenotaph surrounded by plaques listing the names of the deceased. It serves as a poignant reminder of the war’s toll and a symbol of reconciliation. Visitors often take photos here, reflecting on the region's turbulent past and the ongoing process of healing.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Building",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_05a3227780",
     "name": "Thiru Valuvar",
-    "description": "Located in Mullaitivu, Thiru Valuvar is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Thiru Valuvar, a historic landmark in Mullaitivu, Sri Lanka, stands as a testament to the rich architectural heritage of the region. Constructed during the colonial era, it was built by the British administration as a symbol of their presence and control over the area. The structure, which features intricate carvings and a central dome, now serves as a popular spot for tourists to take photographs and enjoy the scenic views, reflecting the blend of local and colonial influences. Its significance lies in its role as a tangible link to the past, offering insights into the history and development of the region.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Building",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_cbdc3f8e6c",
     "name": "Sarswathithevi",
-    "description": "Sarswathithevi is a historic landmark located in Mullaitivu, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Sarswathithevi, a historic building in Mullaitivu, Sri Lanka, stands as a testament to local architecture and history. Built in the early 20th century, it was originally constructed as a community center by the Tamil community. The structure has witnessed numerous local festivals and gatherings over the years. Its cultural and religious significance lies in its role as a hub for social activities, making it an important landmark for residents. Despite being slightly dilapidated, it remains a symbol of unity and tradition in the area.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Building",
@@ -177,3 +177,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

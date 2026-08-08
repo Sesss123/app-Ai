@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_e8d7b6b232",
     "name": "Kanneliya Rainforest Reserve",
-    "description": "Located in Galle, Kanneliya Rainforest Reserve is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Kanneliya Rainforest Reserve, located in the Galle District of Sri Lanka, offers visitors a breathtaking viewpoint where lush rainforests meet the azure Indian Ocean. This protected area is a sanctuary for diverse wildlife and endemic species, attracting nature enthusiasts and photographers alike. Historically, the reserve has been a crucial habitat for local flora and fauna, supporting various ecosystems. It’s also significant for its role in the region’s biodiversity, contributing to the ecological balance of the island. Visitors can enjoy panoramic views while taking in the serene beauty of the rainforest and ocean vistas, making it a popular spot for sightseeing and photography.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_0a0a4a66c8",
     "name": "Turtle Beach",
-    "description": "Located in Galle, Turtle Beach is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Turtle Beach, perched along the coast in Galle, offers breathtaking views of the Indian Ocean and the nearby Turtle Rock. Known for its stunning sunsets, it attracts photographers and nature lovers alike. The beach's name comes from the large number of loggerhead turtles that nest on the nearby beaches, making it a significant site for marine conservation efforts. Visitors can watch these incredible creatures return to their ancient nesting grounds. This picturesque viewpoint has been a favorite spot for locals and tourists for decades, offering a perfect blend of natural beauty and ecological importance.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -83,7 +83,7 @@
     "_osm_type": "node",
     "_osm_id": 4664842694,
     "_source_global_id": "84a64948-a92a-41c3-9188-8899dc9bc59b",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_de563f11b5",
     "name": "Blowhole",
-    "description": "Located in Galle, Blowhole is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Blowhole in Galle, Sri Lanka, is a dramatic natural phenomenon where water shoots out from the sea floor, creating a spectacular sight. Located at the end of a narrow inlet, it draws visitors from around the world eager to witness the unique underwater geyser effect. This geological marvel has been captivating tourists for centuries, especially during high tide when the water level drops revealing the blowhole's mouth. It symbolizes the power of nature and is a must-see attraction for anyone visiting Galle.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_5d6bb793a0",
     "name": "Lankagama Sangili Palama",
-    "description": "Lankagama Sangili Palama is a scenic viewpoint in the Galle area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Lankagama Sangili Palama, a scenic viewpoint in Galle District, offers breathtaking views of the surrounding sea and coastal landscape. Known for its panoramic vistas, it attracts visitors who come to capture the perfect photograph. Historically significant as a vantage point for ancient maritime trade routes, it has witnessed the rise and fall of various civilizations over centuries. Cultural and religiously important due to its strategic location, it played a crucial role in the maritime history of the region. Notable events include the arrival of Portuguese traders and the Dutch East India Company, which left their mark on the area’s development.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_e3fe044845",
     "name": "Spice Island",
-    "description": "Spice Island is a scenic viewpoint located in Galle, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Spice Island, perched on the outskirts of Galle, offers panoramic views of the ocean and surrounding countryside. Known for its dramatic cliffs and lush vegetation, it attracts visitors seeking photo opportunities and a chance to soak in the natural beauty. Historically, the island served as a strategic lookout point during colonial times, offering a view that could alert the city to approaching ships or invaders. Today, it remains a popular spot for tourists to capture the picturesque scenery, making it a must-see destination in Galle.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_47ce364d2d",
     "name": "Shark view point",
-    "description": "Located in Galle, Shark view point is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Shark view point, located in Galle District, Sri Lanka, offers breathtaking panoramic views of the ocean and the surrounding landscape. It is a popular spot for photography enthusiasts and tourists who want to take in the scenic beauty. The viewpoint provides a unique perspective of the sea, often likened to a shark's silhouette due to the shape of the rocks below, hence its name. Visitors can enjoy the view while taking in the sunsets over the Indian Ocean, making it a favorite among locals and tourists alike.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_e586d3fd8e",
     "name": "Beach views",
-    "description": "Beach views is a scenic viewpoint located in Galle, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Galle Fort's dramatic backdrop, Beach views offers panoramic vistas of the Indian Ocean, perfect for capturing photos and enjoying the sunset. This viewpoint stands at the end of the historic Galle Foreshore, a UNESCO World Heritage site, where Dutch architecture meets the sea. Its cultural and religious significance lies in its role as a strategic military post, with cannons still standing guard over the waves. Notable events include British rule and the final resistance against the British in 1812. Visitors can walk along the foreshore, feeling the sand beneath their feet while marveling at the blend of old and new.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_d95d347d11",
     "name": "Punchi Sri Padaya Viewpoint",
-    "description": "Punchi Sri Padaya Viewpoint is a scenic viewpoint located in Galle, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Punchi Sri Padaya Viewpoint offers panoramic views of the Galle Fort and the Indian Ocean. It stands on a hill offering a unique perspective of the ancient city's architecture. The viewpoint is a popular spot for tourists to capture photos and enjoy the vista. Its location provides a rich backdrop for visitors to appreciate the blend of colonial and traditional Sri Lankan culture. Established in the early 20th century, it was constructed as part of a series of fortifications to protect the city. Cultural significance lies in its role as a lookout point during times of military importance.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Viewpoint",
@@ -357,3 +357,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

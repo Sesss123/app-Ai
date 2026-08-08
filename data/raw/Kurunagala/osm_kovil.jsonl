@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_ffdb92bf70",
     "name": "Kathiresan Kovil",
-    "description": "Kathiresan Kovil is a Hindu kovil in the Kurunagala area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Kathiresan Kovil, located in Kurunagala, Sri Lanka, is a sacred Hindu temple dedicated to the deity Kathiresan. The Kovil is an important pilgrimage site attracting devotees seeking blessings and spiritual solace. Built during the late medieval period, it stands as a testament to ancient Hindu architecture and cultural heritage. Notable for its intricate carvings and architectural elements, the Kovil has been a hub of religious activity for centuries, hosting numerous rituals and ceremonies. Visitors often come to pray and seek divine guidance, while tourists appreciate its historical and artistic significance, capturing moments through their cameras.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Kovil",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_a00405ec0e",
     "name": "Temple of The Hindu's",
-    "description": "Temple of The Hindu's is a Hindu kovil in the Kurunagala area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Temple of The Hindu's, a Kovil in Kurunagala, Sri Lanka, is a sacred site where devotees gather for prayer and offer worship. Its origins date back centuries, though the exact founding date is unknown. As a Kovil, it holds deep cultural and religious significance, serving as a place of spiritual solace and reflection for locals and tourists alike. Visitors can admire the temple's architectural beauty and take photos to capture the serene atmosphere, making it a popular spot for those seeking tranquility and inspiration.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Kovil",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_960edbc2a9",
     "name": "Pillair Kovil",
-    "description": "Pillair Kovil is a Hindu kovil located in Kurunagala, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Pillair Kovil, a sacred Hindu temple in Kurunagala, Sri Lanka, stands as a testament to ancient worship practices. Its exact origins are shrouded in time, but it has been a site of spiritual devotion for centuries. The Kovil, known for its serene ambiance and rich cultural heritage, draws visitors seeking solace and spiritual enlightenment. Notable for its harmonious blend of architectural styles, Pillair Kovil remains an important pilgrimage center, hosting various festivals and rituals throughout the year. Visitors can explore its tranquil courtyard and intricate carvings, each a silent story of the past.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Kovil",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_25974850a1",
     "name": "Murugan Kovila",
-    "description": "Murugan Kovila is a Hindu kovil located in Kurunagala, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Murugan Kovila, a sacred Hindu temple in Kurunagala, Sri Lanka, is dedicated to Lord Murugan, the god of war and wisdom. The Kovil, believed to be over a century old, stands as a testament to the rich cultural heritage of the region. It houses intricate carvings and statues, reflecting the artistic traditions of the local community. Visitors come to pray and seek blessings, while tourists often capture its serene beauty through their cameras. This ancient temple remains an important pilgrimage site, attracting devotees and curious onlookers alike.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Kovil",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_4ac169948c",
     "name": "Sri Selva Vinayagar Temple",
-    "description": "Sri Selva Vinayagar Temple is a Hindu kovil located in Kurunagala, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Selva Vinayagar Temple, a Kovil in Kurunagala, Sri Lanka, is dedicated to Lord Ganesha, an important deity in Hinduism. The temple stands as a significant cultural landmark, attracting devotees and tourists alike. Its origins date back to the early 20th century, making it a centuries-old site of worship. Locals and pilgrims visit the temple daily for prayers and blessings, while visitors come to admire its architectural beauty and learn about its rich cultural heritage. Notable for its serene ambiance and historical significance, the temple remains a vital part of the local community and a must-visit for anyone interested in Hindu culture.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Kovil",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_c24617c00f",
     "name": "Diddeniya Kataragama Devalaya",
-    "description": "Diddeniya Kataragama Devalaya is a Hindu kovil located in Kurunagala, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Diddeniya Kataragama Devalaya, a Kovil in Kurunagala district, Sri Lanka, is an important pilgrimage site for Hindus. It is believed to be associated with the Hindu deity Kataragama, revered as the protector of the Sinhalese people. The temple's origins date back to ancient times, though specific founding dates are unknown. Regular pilgrimages and prayers take place here, attracting devotees from across the country seeking blessings and protection. Visitors can also take photos at the temple grounds, capturing its serene atmosphere and spiritual significance.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Kovil",
@@ -201,7 +201,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

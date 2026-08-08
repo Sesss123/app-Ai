@@ -34,7 +34,7 @@
 {
     "id": "pl_d7e4ce2a",
     "name": "Mannar Beach (Pesalai)",
-    "description": "Mannar Beach (Pesalai), also known as Pesalai Beach, is a picturesque sandy stretch along the Mannar coast. Known for its crystal-clear waters and white sand, it’s a perfect spot for swimming, sunbathing, and snorkeling. The beach is particularly beautiful during the dry season, making it ideal for visitors seeking a serene and relaxing experience.",
+    "description": "Mannar Beach, also known as Pesalai, offers visitors a picturesque stretch of sandy shores where they can swim, sunbathe, and snorkel. The beach is part of Mannar Island, a historically significant area in Sri Lanka, known for its rich Buddhist heritage and the ancient ruins of the Mannar Temple. Despite its natural beauty, the region has faced challenges, including conflict, which has shaped its present-day landscape and communities. Today, the beach attracts tourists seeking relaxation and a glimpse into the island’s tranquil yet storied past.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Sandy Beach",
@@ -67,7 +67,7 @@
 {
     "id": "pl_0cce556a",
     "name": "Talaimannar Beach",
-    "description": "Talaimannar Beach, a hidden gem in Mannar, Northern Province, offers pristine sandy shores and crystal-clear waters perfect for swimming and sunbathing. Its secluded location makes it a peaceful retreat from the hustle of urban life.",
+    "description": "Talaimannar Beach, located in Mannar District, Sri Lanka, offers visitors a stretch of sandy shores perfect for swimming, sunbathing, and relaxation. The beach is part of the ancient maritime trade routes that once thrived along the island's coast, connecting India and South Asia. Its picturesque setting has attracted both local fishermen and curious tourists seeking a serene escape. Notable for its calm waters and soft sand, Talaimannar Beach remains a favorite spot for those looking to unwind by the sea.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Sandy Beach",
@@ -133,7 +133,7 @@
 {
     "id": "pl_2443dc97",
     "name": "Erukkalampiddy Beach",
-    "description": "Erukkalampiddy Beach, a hidden gem in Mannar, Northern Province, offers pristine white sands and crystal-clear waters perfect for swimming and sunbathing. Its secluded location makes it a peaceful retreat from the hustle of daily life.",
+    "description": "Erukkalampiddy Beach, located in Mannar, Sri Lanka, offers visitors a stretch of sandy shores perfect for swimming, sunbathing, and relaxation. The beach, known for its clear waters and gentle waves, attracts both locals and tourists seeking a serene escape. Historically, the area has been a popular fishing ground, with local communities relying on its rich marine resources for centuries. Cultural significance lies in its role as a gathering spot where fishermen would meet and share stories before embarking on their daily catch. Today, it remains a cherished destination for those looking to unwind by the sea.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Sandy Beach",
@@ -162,3 +162,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

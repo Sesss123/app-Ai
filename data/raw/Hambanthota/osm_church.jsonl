@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_139cb7ccde",
     "name": "Methodist Church Tangalle",
-    "description": "Methodist Church Tangalle is a church in the Hambanthota area of Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Methodist Church Tangalle stands in the heart of Hambanthota District, Sri Lanka. Founded in the early 20th century by British missionaries, it has become an important place of worship and community gathering for locals. Known for its serene ambiance and historical significance, the church offers visitors a chance to experience the rich heritage of early Christian settlements in the region. Photography enthusiasts can capture the architectural beauty and lush green surroundings, making it a popular spot for tourists and locals alike.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Church",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_f35e9d4576",
     "name": "Christ Church Tangalla",
-    "description": "Christ Church Tangalla is a church located in Hambanthota, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Christ Church Tangalla is a historic Anglican church in Hambanthota District, Sri Lanka. Built in the early 20th century, it stands as a symbol of British colonial influence on local architecture. The church's interior features ornate wood carvings and stained glass windows, reflecting the blend of East and West styles common in Sri Lankan churches during that era. Notable for its serene setting, the church also hosts regular prayer services and occasionally open to visitors for photography, capturing its timeless beauty.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Church",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_d4c31b7f22",
     "name": "St Francis of Assisi",
-    "description": "St Francis of Assisi is a church located in Hambanthota, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St Francis of Assisi, a small Catholic church in Hambanthota, Sri Lanka, stands as a testament to the colonial era's influence on local architecture. Built by Portuguese missionaries in the 16th century, it was later renovated by Dutch and British colonizers. Its simple design and serene setting make it a popular spot for both local worship and tourists seeking a glimpse into the island's rich religious history. Notable for its blend of architectural styles, the church also marks significant events related to early Christian communities in the region.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Church",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

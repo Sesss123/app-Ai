@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_bf69bc5a03",
     "name": "Paddy Field",
-    "description": "Located in Vavuniya, Paddy Field is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Paddy Field, located in the lush tea estates of Vavuniya, offers visitors a unique glimpse into the rural life of Sri Lanka. Historically, these fields were once part of extensive paddy cultivation before the rise of tea plantations. Today, they serve as a tranquil backdrop for nature lovers and photographers, allowing them to capture the serene beauty of the land. Walking through these fields provides a peaceful escape from the hustle of urban life, connecting tourists with the rich agricultural heritage of the region.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Tea Estate",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

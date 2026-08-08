@@ -1,7 +1,7 @@
 {
     "id": "pl_ea1fa63d",
     "name": "Udawatta Kele Sanctuary",
-    "description": "Udawatta Kele Sanctuary, a lush oasis in the Central Province, offers visitors a glimpse into Sri Lanka’s rich biodiversity. This sanctuary, known for its diverse flora and fauna, is a haven for nature lovers and wildlife enthusiasts. Nestled amidst the verdant hills, it provides a tranquil retreat from the hustle of city life.",
+    "description": "Udawatta Kele Sanctuary, nestled in the heart of Kandy, is a protected area known for its diverse wildlife and lush greenery. Established as a royal hunting ground by King Vimaladharmasuriya I in the 16th century, the sanctuary has been a sanctuary for nature enthusiasts and bird watchers ever since. Visitors can explore the trails, observe local flora and fauna, and participate in guided nature walks while meditating under the ancient trees. Its rich biodiversity makes it a significant site for conservation efforts in Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Sanctuary",
@@ -34,7 +34,7 @@
 {
     "id": "pl_09f9773e",
     "name": "Knuckles Conservation Forest",
-    "description": "Explore the Knuckles Conservation Forest, a lush, misty haven where ancient trees whisper secrets of the past. Home to diverse wildlife and endemic species, this forest offers a unique glimpse into Sri Lanka’s natural heritage.",
+    "description": "The Knuckles Conservation Forest, nestled in the hills of Kandy, is a protected area known for its diverse flora and fauna. Established in 1883 by the British as part of the Ceylon Forest Department, it was named after the Knuckles Range, a series of peaks. Home to over 200 species of birds, including the endangered Knuckles Red-faced Malkoha, and home to rare plant species, it’s a sanctuary for nature enthusiasts and bird watchers. Visitors can explore the forest on well-marked trails, capturing the natural beauty through photography.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Conservation Forest (Forest Dept)",
@@ -67,7 +67,7 @@
 {
     "id": "pl_7c8df420",
     "name": "Hantana Tea Estate",
-    "description": "Discover the serene Hantana Tea Estate, nestled among lush tea plantations and ancient bungalows. This historic estate offers a glimpse into Sri Lanka’s tea-making traditions and cultural heritage, perfect for tea enthusiasts and nature lovers alike.",
+    "description": "Hantana Tea Estate, nestled in the Kandy district of Sri Lanka, is renowned for its lush tea plantations and historical bungalows. Established in the early 20th century, it was part of a larger tea-producing region known for its high-quality Ceylon tea. Visitors can explore the scenic tea plantation trails, learn about the traditional tea-making process, and visit the historic bungalows where British colonial administrators once lived. This estate holds cultural significance as it showcases the rich history of tea cultivation in Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Tea Estate",
@@ -101,7 +101,7 @@
 {
     "id": "pl_d6d3f857",
     "name": "Loolecondera Tea Estate",
-    "description": "Loolecondera Tea Estate, nestled amidst lush tea plantations and verdant hills, offers visitors a glimpse into the traditional Ceylonese way of life. This estate, known for its pristine environment and historical significance, attracts nature lovers and tea enthusiasts alike with its serene landscapes and cultural heritage.",
+    "description": "Loolecondera Tea Estate, nestled in the Kandy district of Sri Lanka, offers visitors a glimpse into the country's rich tea plantation heritage. Established in the early 20th century, the estate was founded by British planters seeking to cultivate high-quality tea leaves. Today, it provides guided tours where visitors can learn about the traditional methods used in tea cultivation, from planting to harvesting. The estate also boasts an array of trails perfect for bird watchers and photographers, with over 200 species of birds recorded in the area. A serene and picturesque spot, Loolecondera Tea Estate is a must-visit for anyone interested in tea culture and nature exploration.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Tea Estate",
@@ -135,7 +135,7 @@
 {
     "id": "pl_3085ba9e",
     "name": "Udawatte Tea Garden",
-    "description": "Udawatte Tea Garden, nestled amidst lush tea plantations in Kandy’s Central Province, offers visitors a serene escape with its panoramic views and historical significance. This estate, established over a century ago, is a testament to Sri Lanka’s rich tea culture and traditional practices.",
+    "description": "Udawatte Tea Garden, nestled in the Kandy district, is a significant tea estate known for its lush green landscapes and rich tea production heritage. Established in the early 20th century, it was founded by British colonizers as part of their strategy to develop tea plantations in Ceylon. Today, visitors can explore the estate's well-maintained trails, learn about traditional tea cultivation methods, and even tour the historic estate house, which houses exhibits showcasing the evolution of tea culture in Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Tea Estate",
@@ -169,7 +169,7 @@
 {
     "id": "pl_7cf6243f",
     "name": "Madulkelle Tea Resort",
-    "description": "Madulkelle Tea Resort is a serene tea estate nestled in the lush Kandy hills, offering visitors a glimpse into the traditional Sri Lankan tea-making process and a chance to experience the tranquility of rural life.",
+    "description": "Madulkelle Tea Resort, nestled in the Kandy district of Sri Lanka, is a prime example of a traditional tea estate. The resort offers visitors a unique insight into the art and science of tea cultivation, with tours through its lush tea gardens. Adjacent to the resort is a charming tea museum where one can learn about the history and evolution of tea production in the region. Guests can also savor authentic tea tastings, experiencing the rich flavors and aromas of the estate’s carefully crafted teas.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Tea Estate",

@@ -1,7 +1,7 @@
 {
     "id": "pl_7ef63842",
     "name": "Haputale Tea Estate",
-    "description": "Discover the serene Haputale Tea Estate, nestled amidst lush tea plantations and traditional Sri Lankan architecture. Experience the rich cultural heritage and breathtaking views of this picturesque estate, a must-visit for tea enthusiasts and nature lovers alike.",
+    "description": "The Haputale Tea Estate in the Badulla district is a prominent example of Sri Lanka's tea industry, showcasing the craftsmanship and heritage of tea cultivation. Established over a century ago by British colonialists, the estate now offers visitors a glimpse into its rich history through guided tours of its expansive tea plantations. The Cultural Museum provides insights into the evolution of the tea industry and its impact on local culture. Visitors can also enjoy picnics at scenic spots, immersing themselves in the tranquil beauty of the estate.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -35,7 +35,7 @@
 {
     "id": "pl_442d8728",
     "name": "Dambatenne Tea Estate",
-    "description": "Dambatenne Tea Estate, nestled amidst lush tea plantations, offers visitors a glimpse into the traditional Sri Lankan tea-making process. This serene estate, known for its pristine gardens and historical significance, attracts nature lovers and tea enthusiasts alike.",
+    "description": "Dambatenne Tea Estate, nestled in the lush hills of Badulla, offers visitors a glimpse into the art of tea cultivation. Established over a century ago by British settlers, the estate now welcomes tea plantation tours where visitors can learn about the traditional methods used to grow and harvest tea leaves. A highlight for many is the photography opportunity amidst the verdant tea gardens, while others come to relax and savor the serene atmosphere. Cultural and historical significance aside, the estate remains a testament to the rich heritage of tea production in Sri Lanka.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -103,7 +103,7 @@
 {
     "id": "pl_6b10559d",
     "name": "Ella Tea Garden",
-    "description": "Ella Tea Garden, nestled amidst lush tea plantations, offers a serene escape where visitors can learn about the art of tea cultivation and enjoy breathtaking views of the surrounding mountains and valleys.",
+    "description": "Ella Tea Garden, nestled in the Badulla district of Sri Lanka, offers visitors a glimpse into the rich history of tea cultivation. The estate tours take you through the lush茶园, showcasing traditional methods of tea picking and processing, while also highlighting the cultural and economic importance of tea to Sri Lanka. Notable for its scenic beauty and diverse birdlife, the garden is a popular spot for nature lovers and tourists seeking tranquility. Picnics and bird watching are additional activities that enrich your experience.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -137,7 +137,7 @@
 {
     "id": "pl_1da2ea0d",
     "name": "Namunukula Organic Farm",
-    "description": "Namunukula Organic Farm is a serene tea estate nestled in the lush Badulla district, known for its meticulously cultivated tea plants and traditional farming practices that have been passed down through generations. Visitors can explore the tranquil grounds, learn about organic farming techniques, and sample freshly brewed tea.",
+    "description": "Namunukula Organic Farm, nestled in the Badulla district of Sri Lanka, is a prime example of a tea estate offering visitors a unique glimpse into the country's rich tea culture. Established over a century ago by a local family, the farm has been passed down through generations, preserving traditional practices while embracing modern sustainability. Visitors can explore the lush tea gardens, learn about the organic farming methods, and enjoy a tea tasting session, all while experiencing the serene beauty and rich history of this estate.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -171,7 +171,7 @@
 {
     "id": "pl_d557f227",
     "name": "Bandarawela Estate",
-    "description": "Bandarawela Estate is a lush tea plantation in the heart of Uva Province, known for its picturesque terraced gardens and traditional Sri Lankan architecture. Visitors can explore the estate's serene trails and learn about the art of tea cultivation through guided tours.",
+    "description": "The Bandarawela Estate, nestled in the Badulla district of Sri Lanka, is renowned for its lush tea gardens. Established in the early 20th century by British colonialists, the estate has since become a significant part of Sri Lankan tea culture. Visitors can explore the expansive tea plantations, learn about the cultivation process, and even take a guided tour led by local experts. The estate also offers a chance to visit local artisan shops, where one can find unique crafts and souvenirs. Its rich history and vibrant culture make it a must-visit spot for tea enthusiasts and those interested in Sri Lankan heritage.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -205,7 +205,7 @@
 {
     "id": "pl_cc471e19",
     "name": "Passara Tea Trail",
-    "description": "Passara Tea Trail offers a serene journey through lush tea gardens, where visitors can learn about the art of tea cultivation and taste the finest Ceylon teas. Nestled in the heart of the Uva Province, this trail is a perfect blend of natural beauty and cultural heritage.",
+    "description": "Passara Tea Trail, nestled in the Badulla district of Sri Lanka, offers visitors a glimpse into the country's rich tea culture through guided tours and tea tasting experiences. The estate, established over a century ago, was once part of a larger plantation owned by the Ceylon Tea Traders Company. Today, it stands as a testament to the hard work and craftsmanship that went into cultivating these aromatic leaves. Visitors can explore the lush茶园, take part in a tea ceremony, and learn about the unique brewing techniques that make Passara teas so special.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -239,7 +239,7 @@
 {
     "id": "pl_3f550457",
     "name": "Lunugala Garden",
-    "description": "Lunugala Garden, nestled amidst lush tea plantations, offers visitors a serene retreat where one can immerse themselves in the tranquil beauty of Uva Province. This historic estate, known for its rich cultural heritage and picturesque landscapes, attracts nature lovers and tea enthusiasts alike.",
+    "description": "Lunugala Garden, nestled in the lush tea plantations of Badulla, offers visitors a glimpse into the world of Sri Lankan tea. Established in the early 20th century, the garden was part of a larger estate that once stretched across vast tracts of land. Today, it stands as a testament to the craftsmanship and dedication of generations of tea farmers. Guided tours explore the history and cultivation techniques, while bird watchers can spot local species like the Malayan Bulbul and Malayan Hanging Parrot. Picnicking at scenic spots allows guests to relax and soak in the serene beauty of the estate.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -273,7 +273,7 @@
 {
     "id": "pl_f54144a8",
     "name": "Welimada Herb Walk",
-    "description": "Discover the serene herb walk at Welimada, a tranquil tea estate where visitors can explore lush gardens and learn about the unique plant species that contribute to the region's rich biodiversity.",
+    "description": "Welimada Herb Walk is a unique tea estate in Badulla, Sri Lanka, offering visitors an opportunity to explore its lush gardens while identifying local herbs. This site, known for its rich biodiversity, has been under the management of the Ceylon Tea Traders Association since 1925. Notable for its educational tours and talks, it also provides a glimpse into the traditional methods of tea cultivation and harvesting. Visitors can learn about the cultural and medicinal uses of various plants on the estate, making it a valuable stop for those interested in both tea culture and botany.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -307,7 +307,7 @@
 {
     "id": "pl_a5b9d7ca",
     "name": "Badulla Valley Tea",
-    "description": "Badulla Valley Tea Estate is a lush, verdant oasis nestled in the heart of Uva Province, known for its meticulously cultivated tea gardens and traditional Sri Lankan architecture. Visitors can explore the estate's serene pathways, learn about the art of tea cultivation, and savor fresh, hand-picked leaves at the on-site tea factory.",
+    "description": "The Badulla Valley Tea Estate is a lush patchwork of tea gardens nestled in the Badulla district of Sri Lanka. Known for its high-quality Ceylon tea, the estate has been cultivating tea leaves for over a century, a testament to local expertise and tradition. Visitors can explore the expansive tea plantations, learn about the intricate process of tea cultivation, and even visit the nearby tea factory where they can see how the leaves transform into the famous Ceylon tea. This area holds significant cultural and economic importance, showcasing the island's rich agricultural heritage.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -341,7 +341,7 @@
 {
     "id": "pl_73ba043d",
     "name": "Boralanda Estate",
-    "description": "Boralanda Estate stands as a picturesque gem in the Badulla district, known for its lush tea gardens and traditional Sri Lankan architecture. Nestled amidst the rolling hills, this estate offers a serene retreat for tea enthusiasts and nature lovers alike.",
+    "description": "Boralanda Estate, nestled in the lush tea plantations of Badulla, offers visitors a glimpse into the rich history of Sri Lankan tea production. Established in the early 20th century, the estate was founded by a prominent British colonial family who saw the potential in the region's climate and soil for tea cultivation. Today, the estate continues to thrive, offering tours through its expansive tea gardens, where visitors can learn about the traditional methods of tea picking and processing. A visit also includes a chance to explore the historical house, now converted into a charming guesthouse, where one can relax and savor the estate's own freshly brewed teas, a testament to the enduring legacy of the tea industry in Sri Lanka.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -375,7 +375,7 @@
 {
     "id": "pl_8260fbbb",
     "name": "Haldummulla Tea",
-    "description": "Haldummulla Tea Estate stands as a serene oasis in the Badulla district, known for its meticulously cultivated tea gardens and traditional Sri Lankan architecture. Visitors can explore the lush landscapes, learn about the tea-making process, and enjoy the tranquil atmosphere that has made this estate a beloved spot for both locals and tourists alike.",
+    "description": "Haldummulla Tea Estate, nestled in the lush hills of Badulla, offers visitors a glimpse into the intricate world of tea production. The estate, established over a century ago, is a testament to the skill and dedication of generations of tea farmers. Here, tourists can explore the expansive tea gardens, learn about the meticulous process of tea making, and relax under the shade of ancient tea trees. This serene retreat is a perfect spot for those seeking a deeper understanding of Sri Lanka’s rich tea culture.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -409,7 +409,7 @@
 {
     "id": "pl_dd57bc77",
     "name": "Beragala Garden",
-    "description": "Beragala Garden, nestled amidst lush tea plantations, offers visitors a serene retreat where one can immerse themselves in the tranquil beauty of Uva Province. This historic estate, known for its meticulously maintained gardens and traditional tea-making process, attracts nature lovers and tea enthusiasts alike.",
+    "description": "Beragala Garden, nestled in the picturesque tea plantations of Badulla, offers visitors a glimpse into the rich history of tea cultivation in Sri Lanka. The estate, established over a century ago, was founded by a British colonial family eager to cultivate tea in the region. Today, it provides a unique opportunity to explore the tea-making process through guided tours, taste the fresh brews, and enjoy the serene environment where lush greenery and wildlife coexist. Notable for its bird-watching opportunities and the chance to experience the traditional methods of tea production, Beragala Garden remains an important part of Sri Lanka’s agricultural heritage.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -443,7 +443,7 @@
 {
     "id": "pl_95ce02e3",
     "name": "Udapussellawa Estate",
-    "description": "Udapussellawa Estate stands as a picturesque gem in the Badulla district, known for its lush tea gardens and traditional Sri Lankan architecture. Visitors can explore the estate’s serene landscapes, learn about the tea-making process, and enjoy the local culture.",
+    "description": "Udapussellawa Estate, nestled in the lush hills of Badulla, is a quintessential tea estate where visitors can explore meticulously maintained tea gardens and learn about the intricate process of tea making. The estate, known for its pristine landscapes and rich cultural heritage, offers insights into the local way of life through guided tours, making it more than just a place to pick up a cup of tea. Its establishment dates back to the early 20th century, a time when tea plantations flourished under the British colonial rule, reflecting the region's pivotal role in the global tea industry.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -477,7 +477,7 @@
 {
     "id": "pl_c4f6dedf",
     "name": "Koslanda Tea Trail",
-    "description": "Discover the serene beauty and rich history of Koslanda Tea Trail, a lush estate where tea plants whisper tales of Sri Lanka’s colonial past and present. Nestled in the heart of Uva Province, this trail offers breathtaking views and a chance to learn about the art of tea cultivation firsthand.",
+    "description": "Koslanda Tea Trail, nestled in the Badulla district of Sri Lanka, offers visitors a glimpse into the country's rich tea heritage through its plantation tours and tastings. The estate, established in the early 20th century, was once part of the vast Ceylon Tea Plantation Company. Notable for its well-preserved colonial-era buildings, Koslanda also hosts guided tours that highlight the tea-making process, from planting to harvesting and finally, the art of tea tasting. Visitors can learn about the historical significance of tea cultivation in Sri Lanka and the impact it has had on the nation's economy and culture.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -545,7 +545,7 @@
 {
     "id": "pl_7fa64449",
     "name": "Madulsima Garden",
-    "description": "Madulsima Garden is a lush tea estate in Badulla District, Uva Province, known for its picturesque landscapes, traditional tea plantations, and historical significance. Visitors can explore the serene gardens, learn about tea cultivation, and enjoy panoramic views of the surrounding tea plantations.",
+    "description": "Madulsima Garden, nestled in the lush tea plantations of Badulla, offers visitors a glimpse into the rich history of Sri Lanka's tea industry. Established in the early 20th century by British colonials, the garden was initially a private estate but later became a popular tourist destination. Today, it provides guided tours through its expansive tea gardens, where visitors can learn about the meticulous process of tea cultivation and harvesting. The garden also features a scenic walk along its winding paths, offering stunning views of the surrounding tea bushes and the distant hills. A highlight is the tea tasting session, where enthusiasts can sample various blends, each with its unique flavor profile, under the guidance of experienced local experts.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",
@@ -579,7 +579,7 @@
 {
     "id": "pl_87ad0975",
     "name": "Spring Valley Estate",
-    "description": "Spring Valley Estate is a picturesque tea plantation nestled in the lush Badulla district, offering visitors a glimpse into Sri Lanka’s rich tea culture and natural beauty. Nestled among rolling hills and vibrant greenery, this estate provides a serene retreat for tea enthusiasts and nature lovers alike.",
+    "description": "Spring Valley Estate, nestled in the lush茶园 of Badulla, is a prominent tea plantation known for its high-quality Ceylon tea. Established over a century ago by British colonialists, it was initially part of a larger estate but has since become an independent entity. The estate offers visitors a unique experience through tea tasting sessions, guided tours that showcase its rich history and craftsmanship, and opportunities to capture its serene beauty through photography. Known for its picturesque landscapes and warm hospitality, Spring Valley Estate attracts both locals and tourists seeking a glimpse into the traditional tea-making process.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Tea Estate",

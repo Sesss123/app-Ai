@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_5f7279ce65",
     "name": "View to Fields",
-    "description": "View to Fields is a scenic viewpoint in the Monaragala area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "View to Fields, a scenic viewpoint in Monaragala, offers panoramic views over rolling green fields and distant hills. It attracts photographers and nature lovers seeking a tranquil spot to capture the beauty of the countryside. The viewpoint is located on a ridge, offering visitors a unique perspective of the surrounding landscape, often with Mount Ketumaleya visible in the background. Local legend tells that the site was once used by ancient monks as a meditation point, but no concrete evidence supports this. Today, it remains a popular destination for tourists and locals alike, appreciating the serene view and fresh air.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_fe2725616d",
     "name": "Belumgala",
-    "description": "Belumgala is a scenic viewpoint located in Monaragala, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Belumgala, a scenic viewpoint in Monaragala, offers breathtaking views of the surrounding landscape. Known for its panoramic vistas, it attracts photographers and nature enthusiasts seeking picturesque backdrops. The viewpoint stands as a testament to the natural beauty of the region, often visited by locals and tourists alike. Its location provides a unique vantage point, making it a popular spot for those appreciating the local flora and fauna. Established centuries ago, it has been a cherished spot for viewing the changing seasons and wildlife migration patterns.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Viewpoint",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_2b8d1cc735",
     "name": "Galoya Forest View",
-    "description": "Galoya Forest View is a scenic viewpoint located in Monaragala, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Galoya Forest View offers breathtaking panoramic vistas of the surrounding jungle and distant hills. Located in the picturesque Monaragala district, it attracts nature lovers and photographers with its prime spot for capturing the beauty of the forest. The viewpoint stands as a testament to the natural splendor of Sri Lanka’s interior, offering visitors a moment to appreciate the untouched wilderness. Known historically as a resting point for weary travelers, it now serves as a cherished spot for locals and tourists alike to admire the lush greenery and wildlife.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Viewpoint",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_83b646c447",
     "name": "Bulupitiya Bend Ganadewi Temple",
-    "description": "Bulupitiya Bend Ganadewi Temple is a scenic viewpoint located in Monaragala, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Bulupitiya Bend Ganadewi Temple, a viewpoint in Monaragala, offers stunning vistas over the countryside. Perched on a hilltop, it provides visitors with panoramic views of the lush greenery and distant hills. This ancient temple, believed to date back to the 14th century, is a popular spot for photography and sightseeing. Local legend holds that it was constructed by a wealthy merchant who wished to create a place of solace and reflection. The temple remains an important site for locals, attracting worshippers and nature lovers alike.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Viewpoint",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

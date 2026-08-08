@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_8ed7cf95d0",
     "name": "Lankatilaka Raja Maha Viharaya",
-    "description": "Located in Kandy, Lankatilaka Raja Maha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Lankatilaka Raja Maha Viharaya, nestled in the heart of Kandy, is a revered Buddhist temple known for its intricate carvings and architectural beauty. It was constructed during the Kandyan period, a time when Buddhism flourished in Sri Lanka under the rule of the royal house of Kandy. The temple's main stupa is believed to hold relics of Buddha, attracting pilgrims and visitors seeking spiritual enlightenment. Notable for its serene atmosphere and historical importance, it offers a peaceful retreat for meditation and photography enthusiasts alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_29225e420f",
     "name": "Embekka Devale",
-    "description": "Located in Kandy, Embekka Devale is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Embekka Devale, also known as the Small Temple, is a significant Buddhist site in Kandy, Sri Lanka. This ancient temple, believed to date back to the 14th century, is dedicated to the god Skanda. It is part of the sacred city's complex of temples and attracts many visitors interested in Buddhist rituals and meditation. The temple's small size contrasts sharply with the grandeur of nearby larger devales, making it a unique experience. Visitors can take photos in front of the temple's main deity, which holds cultural and spiritual importance.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_d816ec51f2",
     "name": "Gadaladeniya Temple",
-    "description": "Gadaladeniya Temple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Gadaladeniya Temple, located in the heart of Kandy, Sri Lanka, is a significant Buddhist site known for its ancient architecture and rich cultural heritage. Founded during the 16th century by King Wickraminaga I, the temple stands as a testament to Kandyan Kingdom's artistry and spiritual devotion. Its most notable feature is the Thuparama, an early 17th-century dagoba housing Buddha relics. The temple also hosts regular meditation sessions and attracts many visitors interested in its historical and religious importance. Photography enthusiasts can capture serene moments here, making it a popular spot for tourists.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_b9ca1b4487",
     "name": "Malagammana Raja Maha Viharaya",
-    "description": "Malagammana Raja Maha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Malagammana Raja Maha Viharaya, located in the heart of Kandy, Sri Lanka, is a revered Buddhist temple known for its ancient architecture and serene atmosphere. This site holds significant cultural and religious importance, attracting visitors interested in meditation and photography. The temple, believed to date back to the 5th century, features intricate carvings and statues that depict scenes from Buddhist scriptures. It is also associated with notable events, including pilgrimages and religious ceremonies that draw devotees from across the country.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_9e097c0cde",
     "name": "Poojapitiya Bomaluwa Purana Viharaya",
-    "description": "Poojapitiya Bomaluwa Purana Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Poojapitiya Bomaluwa Purana Viharaya, located in Kandy, Sri Lanka, is a historic Buddhist temple known for its ancient architecture and serene atmosphere. It is believed to be one of the oldest temples in the area, dating back centuries, attracting visitors interested in meditation and photography. The temple's architectural style reflects traditional Sinhalese design, with intricate carvings and statues that depict scenes from Buddha's life. Visitors often come to seek blessings and spiritual guidance under the watchful gaze of the temple's revered figures.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_b5e4f9d23d",
     "name": "Sangaraja Temple",
-    "description": "Located in Kandy, Sangaraja Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sangaraja Temple, located in Kandy, Sri Lanka, is a revered Buddhist temple known for its intricate architecture and serene ambiance. Built in the 19th century by King Vimaladharmasuriya II, it stands as a testament to the rich cultural heritage of Kandy. The temple is particularly significant for its role in promoting Buddhist meditation practices, attracting visitors from around the world seeking spiritual enlightenment. Visitors can enjoy photography tours to capture the temple’s beautiful surroundings, which include lush gardens and ancient trees.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_ed73151236",
     "name": "Malwathu Maha Viharaya",
-    "description": "Malwathu Maha Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Malwathu Maha Viharaya is a significant Buddhist temple in Kandy, Sri Lanka, known for its intricate architecture and historical importance. Founded during the 16th century by King Wimaladharmasurya I, it stands as a testament to ancient Sinhalese artistry and spiritual devotion. Over time, it has been restored several times, preserving its original glory. The temple is renowned for its serene atmosphere and regular meditation sessions, attracting both local pilgrims and international tourists seeking tranquility and spiritual enrichment. Visitors can also capture its beauty through photography, making it a popular spot for tourists to capture memorable moments.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -237,7 +237,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_16f40d635c",
     "name": "Tennekumbura Temple",
-    "description": "Located in Kandy, Tennekumbura Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Tennekumbura Temple, located in the heart of Kandy, Sri Lanka, is a significant Buddhist site known for its serene atmosphere and historical importance. The temple, believed to date back to the 16th century, was established during the Kandyan period under King Vamsadeva I. It holds great cultural and religious significance, serving as a hub for meditation and spiritual practices. Visitors can explore the temple's ancient architecture, adorned with intricate carvings and statues depicting scenes from Buddhist scriptures. Notable for its tranquil setting, the temple also attracts many photographers seeking picturesque shots.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_e88ac34e9d",
     "name": "Sri Subodharamaya",
-    "description": "Located in Kandy, Sri Subodharamaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Subodharamaya, nestled in Kandy’s serene city center, is a revered Buddhist temple known for its ancient architecture and tranquil atmosphere. The temple dates back over 250 years, harkening back to the time of King Kirti Wickrama. It holds great significance as a place of worship and meditation, attracting visitors seeking solace and spiritual enlightenment. Notable for its serene gardens and the opportunity to capture its beauty through photography, Sri Subodharamaya remains a cherished site for both locals and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_9779780bae",
     "name": "Develkona Temple",
-    "description": "Develkona Temple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Develkona Temple, nestled in Kandy, Sri Lanka, is a significant Buddhist site where pilgrims come to meditate and take photos. The temple, though not widely known, holds cultural importance as part of the ancient city's heritage. Built during the 16th century by King Gajabahu II, it was later renovated by the British colonial rulers. Its serene atmosphere and rich history attract visitors interested in Buddhism and its spiritual practices, making it a popular spot for both locals and tourists seeking tranquility.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_465a51be16",
     "name": "Nalanda Purana Viharaya",
-    "description": "Nalanda Purana Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Nalanda Purana Viharaya, located in the heart of Kandy, Sri Lanka, is a significant Buddhist temple known for its serene atmosphere and historical importance. This ancient temple, believed to be over a thousand years old, holds deep cultural and religious significance, attracting devotees and tourists alike. Its architectural beauty and the stories associated with it make it a must-visit site for those interested in Buddhism and Sri Lankan heritage. Visitors can engage in meditation practices and take photos that capture the temple's serene beauty and spiritual ambiance.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_3fc0748161",
     "name": "Sri Jayanthiyaramaya",
-    "description": "Located in Kandy, Sri Jayanthiyaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Jayanthiyaramaya, a revered Buddhist temple in Kandy, Sri Lanka, is a sacred site where devotees come to meditate and take part in spiritual rituals. Built in the 16th century, it was commissioned by King Wimaladharmasuriya V, a devout Buddhist ruler. The temple houses a significant relic of the Buddha's right collarbone, believed to be brought to Sri Lanka by Saint Arahanth Mahinda. It's also known for its intricate wood carvings and ancient statues, making it a popular destination for tourists interested in Buddhist art and culture. Visitors can capture moments at this serene location through photography, adding to their experience and understanding of the temple's rich heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -541,7 +541,7 @@
 {
     "id": "pl_osm_492eac4f3f",
     "name": "Sri Bodhimalu Viharaya",
-    "description": "Sri Bodhimalu Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhimalu Viharaya, nestled in the heart of Kandy, is a sacred Buddhist temple known for its serene atmosphere and ancient relics. The temple, believed to be over a thousand years old, holds great religious and cultural significance as it houses statues of Buddha and other revered figures. Visitors can engage in meditation and photography, immersing themselves in the tranquil environment and capturing moments of serenity. Its rich history and spiritual aura make it a must-visit site for those seeking a connection to Buddhism’s profound heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_4dd303a90f",
     "name": "Balagolla Temple",
-    "description": "Balagolla Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Balagolla Temple, located in the heart of Kandy, is an ancient Buddhist sanctuary revered by locals and pilgrims alike. Built over centuries, it stands as a testament to the rich heritage of Kandy’s Buddhist culture. The temple offers visitors a serene setting for meditation and photography, allowing tourists to capture the beauty of traditional architecture and participate in spiritual practices. Its significance lies in preserving the traditions of Kandyan Buddhism, making it a crucial site for those seeking to understand Sri Lanka’s deep-rooted religious history.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -613,7 +613,7 @@
 {
     "id": "pl_osm_e0c3269a7f",
     "name": "Pallekele Devanampiyatissa Int. Meditation Centre",
-    "description": "Pallekele Devanampiyatissa Int. Meditation Centre is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Pallekele Devanampiyatissa International Meditation Centre stands in the heart of Kandy, a district steeped in ancient Buddhist traditions. Founded in 1984 by the renowned monk Mahinda Dharmasiri, it honors the legendary King Devanampiya Tissa, who brought Buddhism to Sri Lanka over 2,200 years ago. The centre offers serene meditation spaces and beautiful gardens where visitors can practice mindfulness under the watchful gaze of the temple’s many Buddha statues. Photography enthusiasts find inspiration here too, capturing the tranquil atmosphere and sacred architecture.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -721,7 +721,7 @@
 {
     "id": "pl_osm_95b4b52208",
     "name": "Galpihilla Raja Maha Viharaya",
-    "description": "Galpihilla Raja Maha Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Galpihilla Raja Maha Viharaya is a significant Buddhist temple in Kandy, Sri Lanka, known for its historical importance as one of the oldest temples in the area. It was built during the ancient Sinhalese period, with the exact founding date uncertain but believed to be over a thousand years old. The temple is a place of spiritual retreat where visitors can engage in meditation and photography, capturing the serene beauty of this ancient site. Cultural and religious significance make it a popular destination for pilgrims and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_4763f93a7f",
     "name": "Hathamuna Bodhirajaramaya",
-    "description": "Located in Kandy, Hathamuna Bodhirajaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Hathamuna Bodhirajaramaya, nestled in the heart of Kandy, is a significant Buddhist temple known for its serene atmosphere and historical importance. The temple, believed to be over a century old, was constructed during the British colonial era as a tribute to the local Buddhist community. Its architecture showcases a blend of traditional Sinhalese and European styles, reflecting the rich cultural heritage of the region. Visitors can engage in meditation sessions and capture the tranquil beauty of the temple through photography, making it a popular spot for both spiritual seekers and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -793,7 +793,7 @@
 {
     "id": "pl_osm_dda6af1bd8",
     "name": "Welipela Purana Viharya",
-    "description": "Welipela Purana Viharya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Welipela Purana Viharya, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Constructed over centuries, it has been a site for meditation and spiritual practices, attracting devotees seeking solace and enlightenment. Its architecture reflects the traditional Sinhalese style, blending with the natural surroundings to create a serene environment. Notable for its role in local religious ceremonies and daily prayers, it remains an important pilgrimage destination, offering visitors a glimpse into ancient Buddhist traditions.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -865,7 +865,7 @@
 {
     "id": "pl_osm_4bdc03eaed",
     "name": "Sri Wardanaramaya",
-    "description": "Located in Kandy, Sri Wardanaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Wardanaramaya, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich spiritual heritage of the region. Built during the Kandyan Kingdom era, the temple was constructed by King Vira Narendrasinghe in the 17th century. It houses an ancient Buddha statue and is known for its serene atmosphere and tranquil environment conducive to meditation. Visitors often come to take photographs of the temple’s intricate architecture, which includes ornate carvings and statues. The temple also plays a significant role in local religious practices and gatherings.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -901,7 +901,7 @@
 {
     "id": "pl_osm_ecf18087f2",
     "name": "Kahambe Budu Madura",
-    "description": "Kahambe Budu Madura is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Kahambe Budu Madura, a Buddhist temple in Kandy, Sri Lanka, offers visitors a serene space for meditation and photography. The temple, though not widely recognized, holds cultural significance as it is part of the ancient Buddhist heritage of the region. Built during the Kandyan period, it was a place where local monks and pilgrims sought solace and spiritual guidance. Its architecture reflects traditional Sinhalese design, with intricate carvings and a central shrine housing Buddha relics. Visitors can explore the temple grounds, marvel at the craftsmanship, and take photos that capture the tranquility and beauty of this historic site.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -937,7 +937,7 @@
 {
     "id": "pl_osm_17de0a1a36",
     "name": "Paranagala Rajamaha Viharaya",
-    "description": "Paranagala Rajamaha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Paranagala Rajamaha Viharaya, a significant Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Founded during the 14th century by King Wickramabahu III, it houses ancient statues and intricate carvings that attract both pilgrims and tourists seeking spiritual enlightenment. The temple is renowned for its serene atmosphere and regular meditation sessions, offering visitors a chance to connect with their inner selves amidst its tranquil surroundings. Its architecture and historical importance make it a must-visit site for anyone interested in Buddhist culture and traditions.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -973,7 +973,7 @@
 {
     "id": "pl_osm_2bed30833a",
     "name": "Ranawana Rajamaha Viharaya",
-    "description": "Located in Kandy, Ranawana Rajamaha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Ranawana Rajamaha Viharaya, a sacred Buddhist temple in Kandy district, Sri Lanka, is renowned for its ancient architecture and historical importance. The temple was established by King Wickramabahu III in the 14th century as part of his efforts to preserve and promote Buddhism. It features intricate carvings and statues depicting scenes from Buddha’s life, attracting visitors interested in both spiritual contemplation and artistic appreciation. Visitors can participate in meditation sessions and take photos to capture the temple’s serene beauty and historical significance.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1045,7 +1045,7 @@
 {
     "id": "pl_osm_48e60d250c",
     "name": "sri sumanaramaya",
-    "description": "sri sumanaramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sumanaramaya, a significant Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Built in the 18th century, it was established by King Kirti Sinhalese to honor the Buddha Sumanakuta, an important pilgrimage site. The temple's serene atmosphere attracts visitors seeking spiritual solace through meditation and reflection. Its picturesque location and historical importance make it a popular spot for tourists and locals alike, offering a tranquil retreat amidst the lush gardens and ancient ruins.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1081,7 +1081,7 @@
 {
     "id": "pl_osm_aab43be416",
     "name": "Mulgampola Bodhiya",
-    "description": "Mulgampola Bodhiya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Mulgampola Bodhiya, a significant Buddhist temple in Kandy, Sri Lanka, marks the spot where a sacred bodhi tree, believed to be a sapling from the original bodhi under which Buddha attained enlightenment, was planted. The temple itself is a testament to the rich Buddhist heritage of the region, attracting visitors seeking spiritual solace and peace. Visitors can participate in meditation sessions and take photographs to capture the serene atmosphere and ancient significance of the site. Established centuries ago, the Bodhiya holds deep cultural and religious importance, serving as a living link to the profound teachings of Buddhism.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1117,7 +1117,7 @@
 {
     "id": "pl_osm_8335ab1e6e",
     "name": "Seemamalakaya",
-    "description": "Seemamalakaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Seemamalakaya, a revered Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the island. Constructed in the 18th century by King George V of Kandy, the temple is known for its intricate carvings and architectural beauty. It plays an important role in local Buddhist practices, offering visitors a serene space for meditation and reflection. Photographers also flock here to capture the temple's stunning architecture and vibrant surroundings, making it a popular spot for both spiritual seekers and casual tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1153,7 +1153,7 @@
 {
     "id": "pl_osm_f5984db330",
     "name": "Galamuduna Rajamaha Viharaya",
-    "description": "Galamuduna Rajamaha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Galamuduna Rajamaha Viharaya, a revered Buddhist temple in Kandy, holds deep spiritual significance as one of the oldest temples in the region. Built during the ancient Sinhalese kingdom period, it is believed to have been constructed by King Dutugemunu around the 2nd century BCE. The temple is known for its serene atmosphere and regular meditation sessions, attracting both locals and tourists seeking solace and tranquility. Visitors often capture its beauty through photography, making it a popular spot for those interested in both culture and nature.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1189,7 +1189,7 @@
 {
     "id": "pl_osm_ce2a16261b",
     "name": "Dodangastenna Rajamaha Viharaya",
-    "description": "Located in Kandy, Dodangastenna Rajamaha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dodangastenna Rajamaha Viharaya, a significant Buddhist temple in Kandy, Sri Lanka, houses ancient statues and scriptures. The site is revered for its historical importance, having been a center of Buddhist learning and culture. Legend has it that the temple was established by King Mahasena in the 5th century CE, though archaeological evidence suggests earlier foundations. It played a crucial role in the preservation and transmission of Theravada Buddhism, attracting scholars and pilgrims from across the island. Today, visitors come to meditate, pray, and take photos, appreciating its serene beauty and spiritual ambiance.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1225,7 +1225,7 @@
 {
     "id": "pl_osm_af7dec7743",
     "name": "Dhamma Kuta Vipassana Meditation Centre",
-    "description": "Dhamma Kuta Vipassana Meditation Centre is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Dhamma Kuta Vipassana Meditation Centre in Kandy is a prominent Buddhist temple renowned for its serene environment and extensive meditation programs. Founded by the influential meditation master Mahasi Sayadaw in the 1950s, it offers courses that emphasize insight meditation (Vipassana) as a path to spiritual awakening. Visitors can participate in guided meditations, engage in silent retreats, or simply enjoy the tranquil atmosphere, making it a significant pilgrimage site for both locals and international seekers of mindfulness and inner peace.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1297,7 +1297,7 @@
 {
     "id": "pl_osm_6ae9dba0fa",
     "name": "Lihiniyagoda Temple",
-    "description": "Located in Kandy, Lihiniyagoda Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Lihiniyagoda Temple, located in the heart of Kandy, is a significant Buddhist site known for its serene atmosphere and historical importance. The temple, dating back to the 16th century, was established by local monks as a place of worship and meditation. It holds great cultural and religious significance, attracting devotees and tourists seeking spiritual solace. Notable for its ancient architecture and the tranquil ambiance it provides, visitors often come to practice meditation and take photographs, capturing the essence of this sacred space.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1333,7 +1333,7 @@
 {
     "id": "pl_osm_6792ef6388",
     "name": "Sri Bodhirajarama Viharaya",
-    "description": "Located in Kandy, Sri Bodhirajarama Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhirajarama Viharaya, a significant Buddhist temple in Kandy, Sri Lanka, stands as a testament to ancient religious architecture. Built during the 16th century by King Wickramabahu III, it is renowned for its intricate carvings and statues depicting scenes from the life of Buddha. The temple is particularly famous for its meditation hall where devotees practice mindfulness under the guidance of local monks. Visitors often capture the serene beauty of the temple through their cameras, making it a popular spot for both pilgrims and tourists seeking spiritual experiences alongside picturesque views.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1369,7 +1369,7 @@
 {
     "id": "pl_osm_9d9299840a",
     "name": "Sri Gautama Viharaya",
-    "description": "Located in Kandy, Sri Gautama Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Gautama Viharaya, nestled in the heart of Kandy, is a revered Buddhist temple dedicated to Lord Buddha. Founded in the 16th century, it was established by King Henry of Kandy as a tribute to Gautama Buddha. The temple houses several ancient statues and artifacts, including the famous Gautama Buddha statue, which attracts devotees and tourists alike. Visitors can engage in meditation sessions and take photographs under the temple’s serene surroundings, making it a popular spot for both spiritual retreats and casual sightseeing.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1441,7 +1441,7 @@
 {
     "id": "pl_osm_f94d271976",
     "name": "Dheerananda Pirivena",
-    "description": "Dheerananda Pirivena is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dheerananda Pirivena, a serene Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Founded by King Kirthi Rajasinghe in the early 18th century, it was initially established as a center for Buddhist education and spiritual guidance. Over the years, it has become a significant pilgrimage site attracting devotees and seekers of inner peace. Visitors can participate in meditation sessions and take photos of the temple’s intricate architecture and statues, capturing moments of serenity and tranquility.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1513,7 +1513,7 @@
 {
     "id": "pl_osm_06dc78fbe1",
     "name": "Bambaragala Raja Maha Viharaya",
-    "description": "Located in Kandy, Bambaragala Raja Maha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Bambaragala Raja Maha Viharaya, a sacred Buddhist temple in Kandy, Sri Lanka, stands as a testament to ancient religious practices. The temple, believed to be over a thousand years old, is known for its serene atmosphere and historical importance. It attracts visitors seeking spiritual solace and contemplation, offering a peaceful retreat through meditation and photography tours. Its rich history and cultural significance make it a must-visit site for those interested in Buddhism and its enduring impact on Sri Lankan culture.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1533,7 +1533,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -1549,7 +1549,7 @@
 {
     "id": "pl_osm_b5fa62b0ad",
     "name": "Thapowanaramaya Viharaya",
-    "description": "Thapowanaramaya Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Thapowanaramaya Viharaya, nestled in the heart of Kandy, is a sacred Buddhist temple renowned for its serene atmosphere and historical importance. The temple dates back to the 16th century and is believed to be one of the earliest structures in the region dedicated to Buddha. It features intricate carvings and statues, attracting visitors seeking spiritual solace and peace. Over the years, it has hosted numerous religious ceremonies and retreats, making it a significant pilgrimage site for Buddhists. Visitors can explore the temple's serene gardens, practice meditation, and capture moments through photography, all while immersing themselves in its rich cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1585,7 +1585,7 @@
 {
     "id": "pl_osm_662ffbe9c5",
     "name": "Kahambiliyawa Sri Sumangalaramaya",
-    "description": "Kahambiliyawa Sri Sumangalaramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Kahambiliyawa Sri Sumangalaramaya, a Buddhist temple in Kandy, Sri Lanka, offers visitors a serene space for meditation and photography. The temple, though not widely known, is significant as it stands on the site where the revered Buddha statue of Sumangala, a prominent female Buddhist monk, was enshrined. Its presence reflects the rich Buddhist heritage and the importance of women in the monastic order in ancient times. Visitors can appreciate the architectural beauty and participate in traditional rituals, making it a unique destination for those interested in Buddhist culture and history.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1657,7 +1657,7 @@
 {
     "id": "pl_osm_ac7927135d",
     "name": "Dunuwila Rajamaha Viharaya",
-    "description": "Dunuwila Rajamaha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dunuwila Rajamaha Viharaya, a sacred Buddhist temple in Kandy, Sri Lanka, stands as a testament to ancient religious practices. The temple, believed to date back to the 5th century AD, houses the relic of the Buddha's collarbone, revered by devotees seeking spiritual enlightenment. Over centuries, it has been a site of numerous religious rituals and meditation sessions, attracting pilgrims from across the country. Visitors can explore its serene ambiance and capture its beauty through photography, immersing themselves in the rich cultural heritage of Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1693,7 +1693,7 @@
 {
     "id": "pl_osm_4480ea375c",
     "name": "Sangabogama Temple",
-    "description": "Located in Kandy, Sangabogama Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sangabogama Temple, located in the heart of Kandy, Sri Lanka, is a significant Buddhist site known for its serene atmosphere and ancient architecture. It stands as a testament to the rich cultural heritage of Kandy, attracting visitors who come to meditate and take photographs, capturing the essence of this sacred place. The temple's origins date back centuries, making it an important pilgrimage site for Buddhists. Its peaceful setting and historical importance make it a must-visit for tourists exploring the cultural landscape of Kandy.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1729,7 +1729,7 @@
 {
     "id": "pl_osm_4ab36af1d3",
     "name": "Sri Somananda Piriwena",
-    "description": "Located in Kandy, Sri Somananda Piriwena is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Somananda Piriwena, a revered Buddhist temple in Kandy, Sri Lanka, stands as a testament to the island's rich religious heritage. Built during the 16th century under the reign of King Gajabahu II, it is dedicated to the Buddhist deity Maniyanpilla. The temple's intricate carvings and architectural details reflect the artistic prowess of ancient Sinhalese artisans. Over the centuries, it has been a site of spiritual retreat and pilgrimage, attracting devotees seeking blessings and enlightenment. Visitors can partake in meditation sessions and capture the serene beauty through their cameras, making it a popular spot for both locals and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1765,7 +1765,7 @@
 {
     "id": "pl_osm_7d3c3f1331",
     "name": "Sri Jayasundararamaya",
-    "description": "Sri Jayasundararamaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Jayasundararamaya, a sacred Buddhist temple in Kandy, Sri Lanka, is a significant site where devotees practice meditation and take photos to capture the serene beauty and spiritual essence of the temple. Built during the late 19th century by King Wimalawansa, it stands as a testament to the rich Buddhist heritage of Kandy. Known for its intricate wood carvings and ornate architecture, the temple hosts daily rituals and ceremonies, attracting both local pilgrims and international tourists seeking solace and inspiration.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1873,7 +1873,7 @@
 {
     "id": "pl_osm_7a0e539eab",
     "name": "Liyangaswathura Temple",
-    "description": "Located in Kandy, Liyangaswathura Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Liyangaswathura Temple, located in the heart of Kandy, is a revered Buddhist site known for its serene atmosphere and ancient architecture. The temple, believed to date back to the 16th century, holds great spiritual importance for locals and visitors alike. It features intricate carvings and statues depicting scenes from Buddha's life, attracting both pilgrims and curious tourists seeking solace and inspiration. Regular meditation sessions take place here, offering an opportunity for visitors to engage in reflective practices. Photographers also find the temple's tranquil beauty inspiring, capturing moments that reflect the temple's timeless charm and cultural significance.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1909,7 +1909,7 @@
 {
     "id": "pl_osm_0145d49ed6",
     "name": "Uyanwatta Temple",
-    "description": "Uyanwatta Temple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Uyanwatta Temple, located in the heart of Kandy, Sri Lanka, is a sacred Buddhist temple known for its serene atmosphere and historical importance. Built during the 16th century by King Kirthi Rajasinghe, it houses an ancient Buddha statue that is considered a national treasure. The temple is a popular site for visitors seeking spiritual enlightenment and meditation, while its picturesque location also attracts those interested in photography. Notable events include the annual Kandy Esala Perukkawa festival, where devotees gather to pay homage to the deity.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1945,7 +1945,7 @@
 {
     "id": "pl_osm_1bab00bee1",
     "name": "Sri sanghabodhi Temple",
-    "description": "Located in Kandy, Sri sanghabodhi Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sanghabodhi Temple, located in the heart of Kandy, Sri Lanka, is a significant Buddhist temple dedicated to the Buddha. It was built during the Kandyan Kingdom era, with its construction dating back to the 17th century. The temple is renowned for its intricate carvings and architectural beauty, attracting both local and international visitors. Known for its serene atmosphere and spiritual ambiance, it offers a space for meditation and reflection. Photography tours are popular, allowing visitors to capture the temple’s unique charm through their cameras. Its historical and cultural importance make it a must-visit destination for those interested in Buddhism and Kandy’s rich heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -1981,7 +1981,7 @@
 {
     "id": "pl_osm_c51b4ff31c",
     "name": "Namadagala Temple",
-    "description": "Located in Kandy, Namadagala Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Namadagala Temple, located in the heart of Kandy, is a sacred Buddhist site known for its serene atmosphere and ancient architecture. It was established by King Kirthi Mihindu II in the 16th century as a monastery and meditation center. The temple features intricate carvings and statues depicting scenes from the life of Buddha, making it a popular destination for pilgrims and tourists alike. Visitors can participate in meditation sessions and take photos of the temple’s richly decorated interiors, which are considered sacred by Buddhists.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2017,7 +2017,7 @@
 {
     "id": "pl_osm_0b86bbb041",
     "name": "Sri Jamburukkharamaya",
-    "description": "Located in Kandy, Sri Jamburukkharamaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Jamburukkharamaya, nestled in Kandy's sacred city, is a revered Buddhist temple where devotees gather for meditation and contemplation. Its origins trace back to ancient times, though exact founding dates are unknown. The temple holds immense cultural and religious significance, serving as a sanctuary for local Buddhists to seek spiritual guidance and enlightenment. Visitors can explore its serene gardens, take part in daily meditation sessions, and capture its beauty through their cameras, making it a popular spot for both pilgrims and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2053,7 +2053,7 @@
 {
     "id": "pl_osm_1868c89fcd",
     "name": "Heeressagala Ancient Temple",
-    "description": "Located in Kandy, Heeressagala Ancient Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Heeressagala Ancient Temple, nestled in the heart of Kandy, Sri Lanka, is a significant Buddhist site known for its ancient architecture and serene ambiance. The temple, believed to be over a thousand years old, was likely constructed during the Kandyan period by the local rulers to honor Buddha. It’s a place where visitors can engage in meditation and take stunning photographs, offering a tranquil retreat amidst the rich cultural heritage of the region. Its historical importance lies in preserving the legacy of ancient Sri Lankan craftsmanship and religious devotion.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2089,7 +2089,7 @@
 {
     "id": "pl_osm_e82735d2b6",
     "name": "Paladawa Purana Viharaya",
-    "description": "Paladawa Purana Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Paladawa Purana Viharaya, a historic Buddhist temple in Kandy, Sri Lanka, stands as a testament to ancient religious practices. Built during the 14th century by King Wickramabahu III, it was originally part of a larger complex but remains a significant site for local Buddhists practicing meditation and offering prayers. The temple's architecture showcases intricate carvings and sculptures, reflecting the rich cultural heritage of the region. Visitors can also capture memorable photos of its serene surroundings, making it a popular spot for tourists seeking spiritual experiences alongside scenic beauty.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2161,7 +2161,7 @@
 {
     "id": "pl_osm_b1efb96305",
     "name": "Anuragama Temple",
-    "description": "Anuragama Temple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Anuragama Temple, nestled in the heart of Kandy, is a serene Buddhist sanctuary known for its tranquil atmosphere and historical importance. Founded during the 16th century by King Wickramabahu III, it stands as a testament to ancient Sinhalese architecture. The temple houses numerous statues and intricate carvings, reflecting the rich artistic heritage of Sri Lanka. Visitors often come for meditation sessions and to capture the temple's beauty through photographs, making it a popular spot for both locals and tourists seeking spiritual solace and picturesque moments.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2197,7 +2197,7 @@
 {
     "id": "pl_osm_df51aae1ae",
     "name": "Sri Kaveeshwara Veluwanaramaya",
-    "description": "Sri Kaveeshwara Veluwanaramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Kaveeshwara Veluwanaramaya, a Buddhist temple in Kandy, Sri Lanka, is an important pilgrimage site where devotees come to meditate and take part in spiritual rituals. Built during the Kandyan period, it holds cultural and religious significance as a place of worship and learning. Notable for its intricate architecture and historical artifacts, the temple also hosts guided tours showcasing the rich heritage of the region. Visitors can explore its serene surroundings and capture its beauty through photography, immersing themselves in the tranquil atmosphere.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2233,7 +2233,7 @@
 {
     "id": "pl_osm_1b3e98c517",
     "name": "Ambuluwawa Temple",
-    "description": "Ambuluwawa Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Ambuluwawa Temple, located in the heart of Kandy, Sri Lanka, is a significant Buddhist site known for its serene atmosphere and historical importance. Built over centuries, the temple is a testament to the rich cultural heritage of the region. It attracts visitors seeking spiritual solace and contemplation through its daily meditation sessions, as well as those interested in capturing its picturesque beauty through photography. The temple's architectural features and the stories associated with it make it a popular destination for both locals and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2269,7 +2269,7 @@
 {
     "id": "pl_osm_99c72c14d4",
     "name": "Talihunna Temple",
-    "description": "Talihunna Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Talihunna Temple, nestled in the heart of Kandy, is a sacred Buddhist site where devotees gather for meditation and contemplation under ancient trees. The temple, believed to be over a century old, houses statues of revered Buddhas and offers a serene retreat for visitors seeking spiritual solace amidst the lush greenery. Its importance lies in its role as a hub for local and visiting monks, who lead daily rituals and teachings that attract pilgrims and seekers alike. Known for its tranquil atmosphere and historical significance, Talihunna Temple stands as a testament to the enduring legacy of Buddhism in Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2305,7 +2305,7 @@
 {
     "id": "pl_osm_5ac6505381",
     "name": "Sri Bodimalakaramaya",
-    "description": "Sri Bodimalakaramaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodimalakaramaya, a significant Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich spiritual heritage of the region. Built during the Kandyan period, it is believed to have been constructed by King Vira Narendrasinghe. The temple is renowned for its intricate carvings and statues, particularly those depicting the life of the Buddha. It offers visitors a serene atmosphere for meditation and photography, attracting both local pilgrims and tourists seeking to experience the tranquility and serenity of ancient Buddhist rituals.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2341,7 +2341,7 @@
 {
     "id": "pl_osm_d64e309026",
     "name": "Sri Janalankara Viharaya",
-    "description": "Sri Janalankara Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Janalankara Viharaya, a sacred Buddhist temple in Kandy, Sri Lanka, stands as a testament to ancient religious practices. The temple, believed to be over a thousand years old, houses a revered Buddha statue and is a popular site for pilgrims seeking spiritual enlightenment. Visitors can engage in meditation sessions under the guidance of local monks, while also snapping photos to capture the serene beauty of this historic sanctuary. Its rich history and cultural importance make it a significant pilgrimage destination.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2521,7 +2521,7 @@
 {
     "id": "pl_osm_26f506f449",
     "name": "Pitawalawatta Paspilima Viharaya",
-    "description": "Located in Kandy, Pitawalawatta Paspilima Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pitawalawatta Paspilima Viharaya, nestled in the heart of Kandy, is a significant Buddhist temple known for its intricate architecture and serene ambiance. Historically, the site has been revered as a place of spiritual retreat, attracting devotees seeking solace and enlightenment. Its unique blend of traditional and modern elements makes it a popular destination for both local pilgrims and international tourists interested in Buddhist culture and history. Visitors often come to meditate, take part in religious ceremonies, or simply enjoy the tranquil setting, making it a must-visit for anyone exploring Kandy's rich cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2557,7 +2557,7 @@
 {
     "id": "pl_osm_71886081e0",
     "name": "Sri Janaranjanaramaya",
-    "description": "Sri Janaranjanaramaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Janaranjanaramaya, a revered Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the island. Founded during the late medieval period, the temple was established by King Vijaya Buddhika I, who ruled Kandy in the 14th century. Its ornate architecture and intricate carvings reflect the artistic excellence of ancient Ceylonese craftsmanship. Over the centuries, it has been a site of profound spiritual significance, attracting devotees seeking solace and enlightenment through meditation and prayer. Today, visitors can explore its serene gardens, admire its beautifully crafted statues, and engage in reflective practices, making it a cherished pilgrimage destination.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2629,7 +2629,7 @@
 {
     "id": "pl_osm_507104e205",
     "name": "Thotadeniya Temple",
-    "description": "Located in Kandy, Thotadeniya Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Thotadeniya Temple, nestled in the heart of Kandy, Sri Lanka, is an ancient Buddhist sanctuary known for its serene ambiance and historical significance. The temple, believed to date back over a thousand years, houses numerous statues and intricate carvings that reflect the rich architectural heritage of Ceylon. It's a popular site for tourists and locals alike, offering visitors a chance to experience traditional Buddhist practices and meditative moments under the temple's towering banyan trees. Known for its tranquil atmosphere and historical importance, Thotadeniya Temple remains a sacred place of worship and pilgrimage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2701,7 +2701,7 @@
 {
     "id": "pl_osm_03d9548033",
     "name": "Thelambugala Temple",
-    "description": "Located in Kandy, Thelambugala Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Thelambugala Temple, located in the heart of Kandy, Sri Lanka, is a revered Buddhist temple where devotees gather for meditation and photography. The temple stands as a testament to the rich spiritual heritage of Kandy, attracting pilgrims and tourists seeking tranquility and inspiration. Built centuries ago, Thelambugala Temple has played a significant role in the local Buddhist community, serving as a center for religious practices and cultural celebrations. Its serene atmosphere and historical importance make it a must-visit site for those exploring the cultural tapestry of Kandy.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2737,7 +2737,7 @@
 {
     "id": "pl_osm_8d27377c3d",
     "name": "Naranwala Temple",
-    "description": "Naranwala Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Naranwala Temple, located in the heart of Kandy, Sri Lanka, is a sacred Buddhist site known for its serene ambiance and historical importance. This ancient temple, believed to date back over a thousand years, holds deep cultural and religious significance as part of the Sacred Places of the Buddha in Sri Lanka. It features intricate carvings and a central stupa that attract both locals and tourists seeking spiritual solace. Visitors can participate in meditation sessions led by monks and enjoy the tranquil surroundings, making it a popular spot for photography and reflection.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2773,7 +2773,7 @@
 {
     "id": "pl_osm_7a75f69ebd",
     "name": "Imbuldeniya Sri Punyawardhanaramaya",
-    "description": "Imbuldeniya Sri Punyawardhanaramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Imbuldeniya Sri Punyawardhanaramaya, nestled in Kandy, is a revered Buddhist temple known for its serene atmosphere and historical significance. Built during the late 19th century, it stands as a testament to the rich cultural heritage of Kandy. The temple is particularly famous for its meditation sessions and photography tours, attracting both locals and tourists seeking spiritual enlightenment and picturesque moments. Its architecture combines traditional Sinhalese styles with modern elements, making it a popular spot for visitors exploring the city’s religious sites.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2809,7 +2809,7 @@
 {
     "id": "pl_osm_c2b6402c50",
     "name": "Alapalawala Sri Sasanodaya Pirivena",
-    "description": "Alapalawala Sri Sasanodaya Pirivena is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Alapalawala Sri Sasanodaya Pirivena, a Buddhist temple in Kandy, Sri Lanka, offers visitors a serene retreat for meditation and photography. Founded in the 16th century, it was established as a training center for Buddhist monks, preserving traditional Theravada Buddhist practices. Over the centuries, it has played a significant role in the spiritual life of the local community, attracting pilgrims and practitioners seeking solace and enlightenment. Its ancient architecture and tranquil setting make it a popular destination for tourists exploring Kandy’s rich cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2845,7 +2845,7 @@
 {
     "id": "pl_osm_8e65b70fa2",
     "name": "Hendeniya Temple",
-    "description": "Hendeniya Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Hendeniya Temple, located in the sacred city of Kandy, Sri Lanka, is an ancient Buddhist sanctuary nestled amidst lush gardens. This temple, believed to be over 200 years old, holds immense cultural and religious significance as it houses several Buddha statues and relics. It was established during the British colonial period by King George V, who named it after his wife Queen Mary. Notable for its serene atmosphere, visitors come to meditate and take photographs, capturing the tranquility and beauty of this historic site.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2881,7 +2881,7 @@
 {
     "id": "pl_osm_1565559b76",
     "name": "Bandara Uyana Buddhist Centre",
-    "description": "Bandara Uyana Buddhist Centre is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Bandara Uyana Buddhist Centre in Kandy is a serene retreat dedicated to Buddhist practices. It offers visitors a peaceful space for meditation and photography, allowing practitioners to deepen their spiritual journey while capturing moments of serenity. The temple's location in Kandy, known as the Cultural Capital of Sri Lanka, provides a rich cultural backdrop. Established as part of a broader initiative to preserve and promote Buddhism, the centre attracts both locals and tourists seeking tranquility and insight into Buddhist traditions.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2917,7 +2917,7 @@
 {
     "id": "pl_osm_07165d973a",
     "name": "Keliyalpitiya Purana Raja Maha Wiharaya",
-    "description": "Located in Kandy, Keliyalpitiya Purana Raja Maha Wiharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Keliyalpitiya Purana Raja Maha Wiharaya, a significant Buddhist temple in Kandy, Sri Lanka, is an ancient structure believed to date back over a thousand years. The temple, revered by locals and pilgrims alike, features intricate carvings and statues depicting scenes from Buddhist scriptures. It holds great cultural and religious importance, attracting visitors interested in meditation and photography, as well as those seeking spiritual enlightenment. Its historical roots trace back to the prehistoric era, making it a precious piece of Sri Lankan heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -2953,7 +2953,7 @@
 {
     "id": "pl_osm_6ead3bdb85",
     "name": "Sri Bodhirathna Rajaramaya",
-    "description": "Sri Bodhirathna Rajaramaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhirathna Rajaramaya, a prominent Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Constructed during the late 19th century, it was built by local Buddhist communities to honor the revered Buddha images. The temple’s architecture showcases intricate carvings and ornate decorations typical of ancient Ceylonese art. Notable for its serene ambiance and tranquil atmosphere, it attracts visitors seeking spiritual enlightenment through meditation and photography. Its historical importance lies in its role as a hub for religious practices and community gatherings.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3025,7 +3025,7 @@
 {
     "id": "pl_osm_b406345a23",
     "name": "Bodhimalu Viharaya",
-    "description": "Bodhimalu Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Bodhimalu Viharaya, nestled in the heart of Kandy, is a revered Buddhist temple where pilgrims gather to meditate and take solace in its serene atmosphere. This ancient site, believed to be over a thousand years old, houses the Buddha’s footprint stone, a relic said to mark the exact spot where the Buddha attained enlightenment under the Bodhi tree. Visitors often engage in silent contemplation, taking inspiration from the spiritual journey of the Buddha. The temple also offers a tranquil backdrop for photography enthusiasts to capture the essence of this sacred place.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3061,7 +3061,7 @@
 {
     "id": "pl_osm_1fa39b8ea5",
     "name": "Ketakumbura Sri Bodhirukkaramaya",
-    "description": "Ketakumbura Sri Bodhirukkaramaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Ketakumbura Sri Bodhirukkaramaya, a Buddhist temple in Kandy, Sri Lanka, is known for its serene atmosphere and regular meditation sessions. It holds significant cultural and religious importance as part of the ancient Mahāvihāra complex, where scholars once studied Buddhist texts. The temple's architecture reflects traditional Sinhalese design, featuring intricate carvings and ornate statues. Visitors often come to take photos at the temple's picturesque location, which overlooks the city. Known for its tranquility, it attracts both local and international tourists seeking a moment of peace amidst the bustling city.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3097,7 +3097,7 @@
 {
     "id": "pl_osm_47056271eb",
     "name": "menikbowa purana viharaya",
-    "description": "menikbowa purana viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Menikbowa Purana Vihaara is an ancient Buddhist temple in Kandy, Sri Lanka, known for its serene atmosphere and historical significance. Built during the reign of King Mahinda V in the 14th century, it stands as a testament to the rich cultural heritage of the region. The temple is particularly famous for its intricate carvings and statues, which attract visitors seeking spiritual enlightenment and tranquility. It offers a peaceful setting for meditation and photography, allowing tourists to experience the local culture and history firsthand.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3133,7 +3133,7 @@
 {
     "id": "pl_osm_c38fda4d79",
     "name": "Vegirikanda Rajamaha Viharaya",
-    "description": "Vegirikanda Rajamaha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Vegirikanda Rajamaha Viharaya, a significant Buddhist temple in Kandy district, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Built during the ancient Sinhalese Kingdom era, the temple's architecture reflects the traditional Sinhalese style, featuring intricate carvings and sculptures. Its spiritual importance lies in the numerous relics and statues housed within, including the Buddha's footprint stone. Regularly visited by both locals and tourists, the temple offers visitors an opportunity to engage in meditation and photography, capturing moments of peace and beauty.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3169,7 +3169,7 @@
 {
     "id": "pl_osm_7612c6287a",
     "name": "Sri Bodhi Rukkharamaya",
-    "description": "Sri Bodhi Rukkharamaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bodhi Rukkharamaya, a sacred Buddhist temple in Kandy, Sri Lanka, is renowned for its serene atmosphere and historical importance as one of the oldest temples in the city. Built in the 16th century by King Vimaladharmasuriya I, it houses a precious Bodhi tree believed to be a direct descendant of the original Bodhi under which Buddha attained enlightenment. The temple also features intricate carvings and a tranquil pond, making it a popular spot for meditation and photography, attracting visitors seeking spiritual rejuvenation and picturesque moments.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3241,7 +3241,7 @@
 {
     "id": "pl_osm_e7347649e5",
     "name": "Sri Dharmaraja Temple",
-    "description": "Located in Kandy, Sri Dharmaraja Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "The Sri Dharmaraja Temple in Kandy, Sri Lanka, is a significant Buddhist site known for its ancient architecture and serene ambiance. Built in the 17th century by King Wimaladharmasuriya V, it stands as a testament to the rich history and cultural heritage of the island. Visitors can participate in meditation sessions and take photos of the temple’s intricate carvings, which depict scenes from Buddhist scriptures. Its location in the heart of Kandy makes it a popular destination for both locals and tourists seeking spiritual rejuvenation and aesthetic appreciation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3277,7 +3277,7 @@
 {
     "id": "pl_osm_d645967e8a",
     "name": "Ashokaramaya",
-    "description": "Ashokaramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Ashokaramaya, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the island's rich spiritual heritage. Built during the Kandyan period, it honors King Vira Parakrama Narendra I, known for his military prowess and patronage of Buddhism. The temple, with its intricate carvings and ornate architecture, serves as a serene retreat where visitors can engage in meditation and photography, capturing moments of peace and beauty. Its significance extends beyond its architectural splendor, embodying the enduring legacy of Sri Lankan Buddhist culture.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3313,7 +3313,7 @@
 {
     "id": "pl_osm_61b699e9be",
     "name": "Jethawana Ramaya",
-    "description": "Located in Kandy, Jethawana Ramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Jethawana Ramaya, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Built over centuries, it holds significant importance in the local Buddhist community, serving as a sacred site for meditation and reflection. Known for its serene atmosphere and picturesque setting, the temple also attracts visitors interested in capturing its beauty through photography. Over the years, it has witnessed numerous religious ceremonies and gatherings, making it an integral part of the spiritual life in the area.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3349,7 +3349,7 @@
 {
     "id": "pl_osm_c4edc88af1",
     "name": "Sri Bhodirajaramaya",
-    "description": "Sri Bhodirajaramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Bhodirajaramaya, a revered Buddhist temple in Kandy, holds immense cultural and religious significance as one of the holiest sites in Sri Lanka dedicated to the Buddha's relics. The temple, believed to be founded by King Parakramabahu I in the 13th century, attracts devotees and tourists seeking spiritual solace through meditation and prayer. Notable for its serene ambiance and historical artifacts, it stands as a testament to the rich Buddhist heritage of Kandy, where notable events such as the coronation of kings and rituals honoring the Buddha's teachings took place.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3385,7 +3385,7 @@
 {
     "id": "pl_osm_fc37a4c1e5",
     "name": "Uduwella Temple",
-    "description": "Uduwella Temple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Uduwella Temple, nestled in the heart of Kandy, Sri Lanka, is a sacred Buddhist site renowned for its ancient architecture and serene ambiance. The temple, believed to date back over a thousand years, houses several Buddha statues and intricate carvings. It is a popular destination for pilgrims and tourists alike, offering visitors an opportunity to engage in meditation and capture its beauty through photography. Known for its historical and spiritual significance, Uduwella Temple remains an important part of Kandy’s rich cultural tapestry.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3421,7 +3421,7 @@
 {
     "id": "pl_osm_0e821075bb",
     "name": "Warakawa Sri Sundararamaya Purana Viharaya",
-    "description": "Located in Kandy, Warakawa Sri Sundararamaya Purana Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Warakawa Sri Sundararamaya Purana Viharaya is a significant Buddhist temple in Kandy, Sri Lanka, known for its serene atmosphere and ancient architecture. It is believed to date back to the 16th century, making it one of the oldest temples in the area. The temple is renowned for its intricate carvings and statues, which attract both local devotees and tourists interested in Buddhist art and culture. Visitors often come to meditate and take photos, appreciating the harmonious blend of traditional and modern elements within the temple grounds.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3457,7 +3457,7 @@
 {
     "id": "pl_osm_7c2874a225",
     "name": "Lokananda Maha Viharaya",
-    "description": "Lokananda Maha Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Lokananda Maha Viharaya, a revered Buddhist temple in Kandy, Sri Lanka, stands as a testament to ancient monastic traditions. Built during the reign of King Mahasena in the 5th century AD, it was originally constructed by Buddhist monks to honor the Buddha's life. Known for its serene atmosphere, the temple hosts regular meditation sessions and attracts photographers seeking its picturesque beauty. Cultural and spiritual significance permeates every corner, making it a must-visit for those exploring the rich heritage of Kandy.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3493,7 +3493,7 @@
 {
     "id": "pl_osm_c3acd056a6",
     "name": "Ruwanpa Piriwena",
-    "description": "Ruwanpa Piriwena is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Ruwanpa Piriwena, a Buddhist temple in Kandy, Sri Lanka, is a sacred site revered for its ancient architecture and spiritual importance. Constructed during the 16th century under King Wickramabahu III, it stands as a testament to Kandyan era craftsmanship. The temple is particularly significant for its intricate carvings and statues depicting Buddhist deities, offering visitors a glimpse into the rich cultural heritage of the region. Visitors can engage in meditation sessions and take photos, capturing moments of peace and serenity.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3565,7 +3565,7 @@
 {
     "id": "pl_osm_38a0806d8d",
     "name": "Isipathanaramaya",
-    "description": "Isipathanaramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Isipathanaramaya, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the island. Built during the 17th century by King Wimaladhuraththa III, it is renowned for its intricate architecture and serene atmosphere. The temple houses an ancient Buddha statue and is a popular site for visitors seeking spiritual solace and meditation. Its picturesque setting and historical importance make it a must-visit for tourists exploring Kandy’s religious sites. Notable for its tranquil ambiance, Isipathanaramaya attracts both locals and international pilgrims eager to experience its spiritual charm.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3601,7 +3601,7 @@
 {
     "id": "pl_osm_805939b780",
     "name": "Sri Sudharshanaramaya",
-    "description": "Sri Sudharshanaramaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sudharshanaramaya, a significant Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich spiritual heritage of the island. Built during the Kandyan period, it is dedicated to the Buddha and features intricate carvings and murals depicting sacred scenes. The temple hosts daily meditation sessions and occasional religious ceremonies, attracting both local devotees and international tourists interested in Buddhist culture and history. Visitors can also capture the serene beauty of the temple through their cameras, making it a popular spot for photography enthusiasts.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3637,7 +3637,7 @@
 {
     "id": "pl_osm_6755a384e6",
     "name": "Templae",
-    "description": "Located in Kandy, Templae is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Templae, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the island. Built over centuries, it houses intricate statues and frescoes depicting scenes from the Buddha’s life. The temple is a sacred site where devotees come to meditate and seek spiritual solace. Visitors often bring cameras to capture the serene beauty and historical significance of the architecture. Notable for its role in the country's religious and cultural fabric, it attracts both local pilgrims and international tourists seeking a glimpse into ancient traditions.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3673,7 +3673,7 @@
 {
     "id": "pl_osm_1756de73c0",
     "name": "Sri Wardanaramaya - Kobbekaduwa",
-    "description": "Sri Wardanaramaya - Kobbekaduwa is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Wardanaramaya, nestled in Kobbekaduwa within the ancient city of Kandy, is a revered Buddhist temple dedicated to the Buddha. Founded during the Kandyan period, it stands as a testament to the rich spiritual heritage of Sri Lanka. The temple, known for its serene ambiance and historical significance, offers visitors an opportunity to engage in meditation and take photos, capturing the essence of this sacred site. Its presence in Kandy, a UNESCO World Heritage City, underscores its importance in the island's cultural landscape.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3709,7 +3709,7 @@
 {
     "id": "pl_osm_39bfc2c91c",
     "name": "Minigamuwa Temple",
-    "description": "Minigamuwa Temple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Minigamuwa Temple, nestled in the heart of Kandy, Sri Lanka, is a revered Buddhist sanctuary known for its serene atmosphere and historical importance. The temple, believed to be over a thousand years old, houses numerous ancient statues and artifacts. It was once the site of significant Buddhist teachings by eminent monks, attracting pilgrims and scholars from across the island. Today, visitors come to meditate, pray, and capture its beauty through photography, making it a cherished destination for both locals and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3781,7 +3781,7 @@
 {
     "id": "pl_osm_41e60267e9",
     "name": "Sri Manthindaramaya Temple",
-    "description": "Located in Kandy, Sri Manthindaramaya Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Manthindaramaya Temple, nestled in the heart of Kandy, is a revered Buddhist sanctuary where devotees gather for meditation and prayer. Founded over a millennium ago by King Kirthi Bandara, the temple is a testament to ancient Ceylonese culture and spiritual heritage. Its serene ambiance attracts both local pilgrims and tourists seeking tranquility amidst its rich history and artistic treasures. Notable for its intricate carvings and the annual Mahawali Festival, the temple remains a pivotal site for spiritual reflection and cultural appreciation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3817,7 +3817,7 @@
 {
     "id": "pl_osm_d1a6b5b2fd",
     "name": "Belwood Buddhist Temple",
-    "description": "Belwood Buddhist Temple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Belwood Buddhist Temple, located in the heart of Kandy, Sri Lanka, is a significant site for Buddhists. Built during the 17th century by King Wimaladharmasuriya V, it stands as a testament to Kandy's rich religious heritage. The temple is known for its serene atmosphere and regular meditation sessions, attracting both locals and tourists seeking spiritual solace. Visitors can also capture the temple's beauty through photography, capturing its intricate architecture and tranquil setting. Its importance lies in preserving the ancient traditions and promoting Buddhism's influence on Sri Lankan culture.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3853,7 +3853,7 @@
 {
     "id": "pl_osm_0490efcce8",
     "name": "Panwilatenna Temple",
-    "description": "Located in Kandy, Panwilatenna Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Panwilatenna Temple, located in the heart of Kandy, Sri Lanka, is a significant Buddhist site known for its serene atmosphere and historical importance. The temple, believed to be over a century old, was established during the colonial era by local Buddhists seeking a place to practice their faith. It is particularly noted for its ancient statues and intricate carvings, which attract both pilgrims and tourists interested in Buddhism's rich heritage. Visitors often come to meditate and take photos, capturing the temple's beauty and tranquility. Its cultural and religious significance make it a popular destination for those exploring Kandy's rich Buddhist traditions.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3925,7 +3925,7 @@
 {
     "id": "pl_osm_4643979a05",
     "name": "Dunukeulla Viharaya",
-    "description": "Dunukeulla Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dunukeulla Viharaya, a Buddhist temple in Kandy, Sri Lanka, is a significant site attracting visitors interested in meditation and photography. The temple's origins date back to the 14th century, making it an important part of Kandy's rich cultural heritage. It's believed that the temple was established by King Wickramabahu III, who ruled during the 14th century. Its architecture showcases traditional Sinhalese design elements, featuring intricate carvings and ornate structures. Known for its serene atmosphere, Dunukeulla Viharaya offers a peaceful retreat where devotees can engage in spiritual practices and tourists can capture its beauty through photos.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3961,7 +3961,7 @@
 {
     "id": "pl_osm_78cc1734eb",
     "name": "Nilavala Viharaya",
-    "description": "Located in Kandy, Nilavala Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Nilavala Viharaya, nestled in the heart of Kandy, is a revered Buddhist temple known for its serene atmosphere and historical significance. Built during the 14th century by King Wickramabahu III, it stands as a testament to ancient architectural prowess and spiritual devotion. The temple houses an impressive Buddha statue and offers visitors a peaceful retreat for meditation and reflection, alongside opportunities for photography enthusiasts to capture its serene beauty. Its rich history and cultural importance make it a popular destination for both locals and tourists seeking spiritual solace and artistic inspiration.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -3997,7 +3997,7 @@
 {
     "id": "pl_osm_7ca72c1c76",
     "name": "Galagoda Bodhiya",
-    "description": "Galagoda Bodhiya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Galagoda Bodhiya, a revered Buddhist temple in Kandy, Sri Lanka, stands as a testament to the spiritual heritage of the island. Its origins date back to the 17th century, where it was established by King Kirthi Narendrasinghe as a sacred site for Buddhist meditation and worship. Over centuries, it has become an important pilgrimage destination, attracting devotees and visitors seeking solace and enlightenment. Visitors can immerse themselves in serene meditation sessions or capture the temple's serene beauty through their cameras, making it a perfect spot for both spiritual reflection and aesthetic appreciation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4033,7 +4033,7 @@
 {
     "id": "pl_osm_5fa37697b8",
     "name": "Munumalaya Meheni Aramaya",
-    "description": "Munumalaya Meheni Aramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Munumalaya Meheni Aramaya, a sacred Buddhist temple in Kandy, Sri Lanka, stands as a testament to the island's rich spiritual heritage. Built over centuries, the temple is believed to be an important pilgrimage site where devotees seek blessings and enlightenment. It houses ancient statues and relics, attracting both local and international visitors interested in Buddhist culture and history. Visitors can engage in meditation sessions and capture the serene beauty of the temple through their cameras, making it a popular spot for photography enthusiasts.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4105,7 +4105,7 @@
 {
     "id": "pl_osm_dea49f1fab",
     "name": "Madagama Neegrodaraamaya",
-    "description": "Madagama Neegrodaraamaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Madagama Neegrodaraamaya, a Buddhist temple in Kandy, Sri Lanka, offers visitors a serene retreat for meditation and photography. The temple, believed to date back to the 16th century, holds cultural and religious significance as it was once part of a larger complex that included other important Buddhist sites in the area. Its architecture reflects traditional Sinhalese design, featuring intricate carvings and statues. Notable for its tranquil atmosphere, the temple attracts both locals and tourists seeking spiritual enrichment through its peaceful setting.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4177,7 +4177,7 @@
 {
     "id": "pl_osm_5db693e572",
     "name": "Godamunne Dharmashalawa",
-    "description": "Godamunne Dharmashalawa is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Godamunne Dharmashalawa, nestled in the heart of Kandy, is a serene Buddhist temple renowned for its historical significance as one of the oldest temples in the city. Built during the 17th century by King Gajabahu II, it stands as a testament to Kandyan era architecture and culture. Over the centuries, it has hosted numerous spiritual gatherings and retreats, making it a popular site for meditation and photography. Visitors can explore its tranquil gardens and ancient ruins, immersing themselves in the rich heritage of Kandy’s Buddhist tradition.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4213,7 +4213,7 @@
 {
     "id": "pl_osm_42581a6348",
     "name": "Sagama Raja Maha Viharaya",
-    "description": "Sagama Raja Maha Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sagama Raja Maha Viharaya, located in the heart of Kandy, is a significant Buddhist temple revered for its ancient architecture and rich cultural heritage. Built during the 15th century by King Vimaladharmasuriya I, it stands as a testament to the island's rich colonial past. The temple's ornate architecture and intricate carvings depict scenes from the Jataka tales, offering visitors a glimpse into Buddhist teachings and traditions. Notable for its serene atmosphere, it attracts many Buddhists and tourists seeking spiritual solace and beautiful vistas. Photography is popular among visitors, capturing the temple's beauty and tranquility.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4249,7 +4249,7 @@
 {
     "id": "pl_osm_11fc95b13f",
     "name": "Dharma Shalawa",
-    "description": "Located in Kandy, Dharma Shalawa is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dharma Shalawa, a significant Buddhist temple in Kandy, Sri Lanka, is renowned for its ancient architecture and spiritual ambiance. Built during the Kandyan period under King Kirthi Narendrasinghe in the 17th century, it holds immense cultural and religious importance as a place of worship and meditation. The temple features intricate carvings and statues, and visitors can engage in meditation sessions and take photos that capture the serene beauty of the site. Its history and cultural significance make it a must-visit destination for those interested in Buddhism and Sri Lankan heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4285,7 +4285,7 @@
 {
     "id": "pl_osm_fdab0caf5e",
     "name": "Sri Sudarshanaramaya",
-    "description": "Sri Sudarshanaramaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sudarshanaramaya, a significant Buddhist temple in Kandy, Sri Lanka, is dedicated to Lord Buddha. The temple was established during the Kandyan period by King Kirthi Narendrasinghe in the early 18th century. It houses the famous Sudarshana Chola image, a replica of the original statue in Tamil Nadu, India. Known for its serene atmosphere and tranquil gardens, the temple attracts visitors seeking spiritual guidance and peace. Photography tours are popular, allowing tourists to capture the temple's beauty and rich cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4357,7 +4357,7 @@
 {
     "id": "pl_osm_911013a4d6",
     "name": "Haputale Sathkandura Viharaya",
-    "description": "Located in Kandy, Haputale Sathkandura Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Haputale Sathkandura Viharaya, a small but revered Buddhist temple nestled in the hills of Kandy district, offers visitors a serene retreat for meditation and photography. Built over centuries, it holds spiritual significance for locals and tourists alike, attracting those seeking peace and tranquility. Its architecture reflects the evolution of Buddhist temples in Sri Lanka, blending traditional elements with modern aesthetics. Notable for its tranquil setting and the opportunity to witness local monks performing daily rituals, the temple is a popular destination for both pilgrims and nature enthusiasts.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4393,7 +4393,7 @@
 {
     "id": "pl_osm_cdac817509",
     "name": "Galoya Thumbodimaluwa Viharaya",
-    "description": "Galoya Thumbodimaluwa Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Galoya Thumbodimaluwa Viharaya, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich spiritual heritage of the region. Built during the reign of King Kirthi Rajasinghe in the 17th century, it features intricate carvings and a serene atmosphere conducive to meditation. The temple is popular among pilgrims and tourists alike, offering visitors a chance to capture its beauty through photographs. Its historical and cultural significance make it a must-visit site for anyone interested in Buddhism and Kandyan architecture.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4429,7 +4429,7 @@
 {
     "id": "pl_osm_715fd5eb8e",
     "name": "Edanduwawa Rajamaha Viharaya",
-    "description": "Located in Kandy, Edanduwawa Rajamaha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Edanduwawa Rajamaha Viharaya, nestled in the heart of Kandy, is a revered Buddhist temple known for its serene atmosphere and historical significance. Founded over a thousand years ago, the temple was initially constructed by King Gajabahu II to honor the Buddha's footprints left in Sri Lanka. Over time, it has become an important pilgrimage site, attracting devotees seeking spiritual enlightenment through meditation and reflection. Its ancient architecture and tranquil setting make it a popular spot for visitors to capture memorable photos, offering a blend of cultural heritage and modern tourism.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4465,7 +4465,7 @@
 {
     "id": "pl_osm_92f0b4a81b",
     "name": "Madawala Purana Wiharaya",
-    "description": "Madawala Purana Wiharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Madawala Purana Wiharaya, nestled in the heart of Kandy, is a revered ancient Buddhist temple known for its serene atmosphere and historical significance. Constructed over a thousand years ago, it stands as a testament to the rich architectural heritage of ancient Sri Lanka. Over the centuries, it has been a site of spiritual retreat and pilgrimage, attracting visitors seeking solace and enlightenment. Its intricate carvings and well-preserved statues offer insights into the art and culture of a bygone era. Visitors can partake in meditation sessions and capture the tranquil beauty of this sacred place through their cameras.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4501,7 +4501,7 @@
 {
     "id": "pl_osm_5fa904cdd0",
     "name": "Pethigewela Wiharaya",
-    "description": "Located in Kandy, Pethigewela Wiharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pethigewela Wiharaya, a sacred Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Built during the Kandyan period, it is believed to be a significant site where local kings and royalty would seek blessings and guidance. The temple's intricate carvings and architectural elements reflect the artistic excellence of the time. Today, visitors come to meditate, pray, and capture its serene beauty through photography, making it a popular spot for both locals and tourists seeking spiritual solace and picturesque moments.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4537,7 +4537,7 @@
 {
     "id": "pl_osm_40ae893209",
     "name": "Kaudalla Viharaya",
-    "description": "Kaudalla Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Kaudalla Viharaya, a Buddhist temple in Kandy, Sri Lanka, offers visitors a serene retreat with meditation sessions and opportunities for photography. This ancient temple holds cultural and religious significance, attracting devotees and tourists alike. Built during the 15th century, it was once a royal monastery, reflecting the rich history of Kandy. The temple features intricate carvings and statues, showcasing the craftsmanship of that era. Notable events include the annual Kandy Esala Perahera festival, where devotees pay homage to the Buddha’s relics housed here.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4573,7 +4573,7 @@
 {
     "id": "pl_osm_aeb2da5190",
     "name": "Medawala Rajamaha Viharaya",
-    "description": "Medawala Rajamaha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Medawala Rajamaha Viharaya, nestled in the heart of Kandy, is a significant Buddhist temple that dates back to the 5th century. Legend has it the temple was founded by King Valagamba, who restored Buddhism after his exile. The temple's rich history and spiritual atmosphere attract visitors seeking solace and enlightenment, making it a sacred site for both locals and tourists. Engage in meditation sessions or capture the serene beauty through your lens, immersing yourself in this ancient place of worship.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4609,7 +4609,7 @@
 {
     "id": "pl_osm_a53279fc1e",
     "name": "Galgana raja maha viharaya",
-    "description": "Located in Kandy, Galgana raja maha viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Galgana Raja Maha Vihara is a significant Buddhist temple in Kandy, Sri Lanka, known for its ancient architecture and serene atmosphere. Built during the 16th century by King Kirthi Narendrasinghe, it stands as a testament to Kandyan royalty and Buddhism. The temple houses numerous Buddha statues and artifacts, attracting visitors seeking spiritual enlightenment and peace. Notable for its role in local Buddhist practices, it also hosts meditation sessions and photography tours, offering tourists a unique glimpse into both its rich history and modern significance.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4645,7 +4645,7 @@
 {
     "id": "pl_osm_5d67b415e1",
     "name": "Gunadaha Rajamaha Viharaya",
-    "description": "Located in Kandy, Gunadaha Rajamaha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Gunadaha Rajamaha Viharaya, located in the heart of Kandy, is a significant Buddhist temple known for its ancient architecture and serene ambiance. It is believed to be one of the oldest temples in Sri Lanka, dating back over 2000 years. The temple's original structure was built by King Dutugemunu, a revered ruler in Sri Lankan history, and later expanded by other kings and religious figures. Its central chedi, a towering structure, houses relics considered sacred by Buddhists, attracting visitors seeking spiritual enlightenment and peace. Visitors can participate in meditation sessions and take photographs within the temple's grounds, capturing the essence of this historic site.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4681,7 +4681,7 @@
 {
     "id": "pl_osm_4be991659d",
     "name": "Higulwala Sri Vijayaramaya",
-    "description": "Higulwala Sri Vijayaramaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Higulwala Sri Vijayaramaya, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich spiritual heritage of the region. Built during the Kandyan period, it is believed to be dedicated to Lord Buddha and is known for its serene atmosphere and historical importance. The temple offers visitors a chance to meditate and take in the peaceful surroundings, while also appreciating its architectural beauty and cultural significance. Notable for its role in local religious practices and tourism, Higulwala Sri Vijayaramaya attracts both pilgrims and tourists seeking a glimpse into the heart of Sri Lankan Buddhism.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4717,7 +4717,7 @@
 {
     "id": "pl_osm_f6523098aa",
     "name": "Sri Gnanaloka Buddhist Centre",
-    "description": "Located in Kandy, Sri Gnanaloka Buddhist Centre is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Gnanaloka Buddhist Centre, nestled in the heart of Kandy, is a sacred site where devotees gather for meditation and photography. The temple, established as part of the city's rich Buddhist heritage, holds deep cultural and spiritual significance, attracting both local and international pilgrims. Built on land consecrated by ancient Buddhist traditions, it stands as a testament to the enduring legacy of Buddhism in Sri Lanka. Visitors can explore the serene premises, learn about Buddhist practices, and capture moments that reflect the peace and serenity of this holy place.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4789,7 +4789,7 @@
 {
     "id": "pl_osm_132fc5d855",
     "name": "Sri Ashokaramaya Temple",
-    "description": "Sri Ashokaramaya Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Ashokaramaya Temple, nestled in Kandy's ancient city, is a sacred Buddhist sanctuary where pilgrims gather for meditation and spiritual reflection. Built in the 17th century, the temple honors Ashoka, the Mauryan emperor known for his conversion to Buddhism. Its intricate architecture and serene ambiance make it a popular site for tourists and locals alike, offering a tranquil retreat amidst the bustling city. Visitors can take photos at the temple’s beautiful courtyard and gaze at the intricate carvings, a testament to Kandyan artistry.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4861,7 +4861,7 @@
 {
     "id": "pl_osm_ef4c4f9b3c",
     "name": "Sri Visuddharamaya Temple",
-    "description": "Sri Visuddharamaya Temple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Visuddharamaya Temple, nestled in the heart of Kandy, is a sacred Buddhist site renowned for its intricate architecture and serene atmosphere. Built in the 14th century by King Wickramabahu III, it stands as a testament to ancient Sinhalese craftsmanship. The temple is particularly significant for its role in promoting meditation practices and has hosted numerous spiritual gatherings over centuries. Visitors can explore its tranquil gardens, participate in meditation sessions, and capture its beauty through photographs, making it a popular destination for both locals and tourists seeking spiritual rejuvenation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4897,7 +4897,7 @@
 {
     "id": "pl_osm_f4bde45ab6",
     "name": "Garakmadilla Rajamaha Viharaya,Arambepola",
-    "description": "Garakmadilla Rajamaha Viharaya,Arambepola is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Garakmadilla Rajamaha Viharaya, located in Arambepola, Kandy, is a significant Buddhist temple renowned for its ancient architecture and serene ambiance. Founded by King Vira Parakrama Bahu in the 12th century, it stands as a testament to the rich Buddhist heritage of Sri Lanka. The temple is known for its meditation practices and attracts visitors seeking tranquility and spiritual enlightenment. Visitors also come to capture the temple's beauty through photography, making it a popular spot for both pilgrims and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -4969,7 +4969,7 @@
 {
     "id": "pl_osm_6f932bc421",
     "name": "Dunuvila Raja Maha Viharaya",
-    "description": "Dunuvila Raja Maha Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dunuvila Raja Maha Viharaya, nestled in Kandy, Sri Lanka, is a significant Buddhist temple known for its ancient architecture and serene ambiance. Founded by local royalty as a place of worship, it has been a site of spiritual retreat and meditation for centuries. Visitors often come to take part in traditional rituals and engage in quiet contemplation under the temple's towering belfries. Its rich history and cultural importance make it a popular destination for pilgrims and tourists alike, appreciating both its architectural beauty and the profound spiritual experience it offers.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5005,7 +5005,7 @@
 {
     "id": "pl_osm_141f7472c2",
     "name": "Deegala Temple",
-    "description": "Deegala Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Deegala Temple, located in Kandy, Sri Lanka, is a significant Buddhist site known for its serene atmosphere and ancient architecture. Historically, the temple was established by King Gajabahu II in the 3rd century BCE, marking it as one of the oldest Buddhist temples in the country. The temple's most notable feature is the large statue of Buddha, which attracts both local and international visitors. Visitors often come to meditate and take photographs, appreciating the blend of ancient art and modern charm.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5041,7 +5041,7 @@
 {
     "id": "pl_osm_a4c9516fe0",
     "name": "dippitiya janapadaya gunannanda temple",
-    "description": "Located in Kandy, dippitiya janapadaya gunannanda temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dippitiya Janapadaya Gunannanda Temple, located in the heart of Kandy, Sri Lanka, is a sacred Buddhist site renowned for its serene atmosphere and historical importance. Founded during the Kandyan period, the temple has played a pivotal role in the spiritual life of the Sinhalese people. Known for its intricate carvings and ancient statues, it attracts visitors seeking solace and inspiration. The temple offers visitors the chance to engage in meditation and photography, allowing them to connect with nature and culture. Its rich history and cultural significance make it a must-visit for anyone interested in Buddhism and Kandy’s heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5077,7 +5077,7 @@
 {
     "id": "pl_osm_471070dfca",
     "name": "Pahala Yatawara Viharaya",
-    "description": "Located in Kandy, Pahala Yatawara Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Pahala Yatawara Viharaya, nestled in Kandy, Sri Lanka, is a revered Buddhist temple known for its serene atmosphere and historical importance. The temple, believed to date back to the 15th century, is dedicated to Lord Buddha and features intricate carvings and statues. It attracts visitors seeking spiritual solace and meditation, as well as those interested in its rich cultural heritage. Notable for its role in local religious practices and community gatherings, Pahala Yatawara Viharaya remains a significant landmark in Kandy’s Buddhist landscape.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5113,7 +5113,7 @@
 {
     "id": "pl_osm_63b6780b97",
     "name": "Ihala Yatawara Kettarama Maha Viharaya",
-    "description": "Ihala Yatawara Kettarama Maha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Ihala Yatawara Kettarama Maha Viharaya, located in the heart of Kandy, is a significant Buddhist temple known for its ancient architecture and spiritual importance. Built over centuries, the temple houses numerous statues and relics of Buddha, attracting both local and international visitors seeking solace and inspiration. Notable for its serene atmosphere and peaceful ambiance, Ihala Yatawara Kettarama Maha Viharaya offers a tranquil setting perfect for meditation and photography, making it a must-visit destination for those exploring Kandy’s rich cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5149,7 +5149,7 @@
 {
     "id": "pl_osm_f9b0830db1",
     "name": "Gammanthalawa Temple",
-    "description": "Gammanthalawa Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Gammanthalawa Temple, located in the heart of Kandy, Sri Lanka, is an ancient Buddhist sanctuary known for its serene atmosphere and historical significance. Built during the Kandyan period, it stands as a testament to the rich cultural heritage of Sri Lanka. The temple is often visited by pilgrims and tourists alike, particularly for its role in meditation practices and its picturesque setting. Notable for its architectural beauty and tranquil environment, Gammanthalawa Temple attracts visitors seeking spiritual solace and a glimpse into the island’s deep-rooted Buddhist traditions.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5185,7 +5185,7 @@
 {
     "id": "pl_osm_d21a0cf2cc",
     "name": "Daluke Sri Pushparama Viharaya",
-    "description": "Daluke Sri Pushparama Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Daluke Sri Pushparama Viharaya, nestled in the heart of Kandy, is a revered Buddhist temple known for its ancient architecture and serene ambiance. Founded over a thousand years ago by King Parakramabahu I, it stands as a testament to Kandyan era artistry and spiritual devotion. The temple's intricate carvings and well-maintained grounds attract visitors seeking solace and inspiration, offering a space for meditation and reflection. Its rich history and cultural significance make it a must-visit site for anyone interested in Sri Lankan Buddhism.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5257,7 +5257,7 @@
 {
     "id": "pl_osm_2499027912",
     "name": "Udamuduna PoorwaramaTemple",
-    "description": "Udamuduna PoorwaramaTemple is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Udamuduna Poorwarama Temple, nestled in the heart of Kandy, Sri Lanka, is a revered Buddhist sanctuary known for its serene atmosphere and tranquil surroundings. Built during the 16th century by King Wimaladhara Gajabahu II, it holds immense spiritual importance as a site for meditation and reflection. The temple’s architecture showcases intricate carvings and ornate designs, reflecting the rich cultural heritage of ancient Ceylon. Visitors can explore its serene gardens and participate in traditional Buddhist practices, making it a popular destination for those seeking spiritual enlightenment and peace.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5329,7 +5329,7 @@
 {
     "id": "pl_osm_c556e2b4da",
     "name": "Wanahagala Rajamaha Viharaya",
-    "description": "Wanahagala Rajamaha Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Wanahagala Rajamaha Viharaya, a significant Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Founded by Buddhist monks, the temple is dedicated to Lord Buddha and houses numerous ancient statues and relics. Known for its serene ambiance and historical importance, visitors often come to meditate and take photographs, appreciating the blend of ancient architecture and modern tranquility. Its presence in Kandy underscores the city's role as a center for Buddhist pilgrimage and learning.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5365,7 +5365,7 @@
 {
     "id": "pl_osm_756aeffe59",
     "name": "Welamada temple",
-    "description": "Welamada temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Welamada temple, located in the heart of Kandy, Sri Lanka, is a significant Buddhist site known for its serene ambiance and historical importance. The temple, believed to date back to the 16th century, is part of the ancient ruins that surround the Temple of the Tooth, a revered pilgrimage site. Over the centuries, it has been a place of quiet reflection and spiritual growth, attracting both locals and tourists seeking solace and enlightenment. Visitors can enjoy meditation sessions and take photographs to capture the temple's beauty and tranquility.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5545,7 +5545,7 @@
 {
     "id": "pl_osm_a933e01459",
     "name": "Wegiriya Temple",
-    "description": "Wegiriya Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Wegiriya Temple, nestled in the heart of Kandy, is a significant Buddhist sanctuary known for its serene atmosphere and historical importance. The temple, believed to date back to the 16th century, was likely constructed during the reign of King Wickramabahu III, though exact dates remain uncertain. It stands as a testament to the rich cultural heritage of Kandy, attracting visitors who come to meditate, pray, and take in the tranquil surroundings. Visitors often capture the temple's beauty through their cameras, making it a popular spot for photography enthusiasts.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5617,7 +5617,7 @@
 {
     "id": "pl_osm_ccb3dee02a",
     "name": "Udugama Sri Sudharshanaramaya Viharaya",
-    "description": "Located in Kandy, Udugama Sri Sudharshanaramaya Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Udugama Sri Sudharshanaramaya Viharaya, nestled in the heart of Kandy, is a sacred Buddhist temple renowned for its intricate carvings and serene atmosphere. The temple, believed to date back to the 16th century, holds great spiritual importance as it was once the residence of the Buddhist monk Mahinda Thero. It features stunning murals depicting scenes from Buddha’s life, attracting visitors seeking solace and inspiration. Today, it serves as a hub for meditation and photography enthusiasts, offering a glimpse into the rich cultural heritage of Kandy.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5689,7 +5689,7 @@
 {
     "id": "pl_osm_dfb9462a84",
     "name": "Sri Maha Bodhi Simamalakaya",
-    "description": "Sri Maha Bodhi Simamalakaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Maha Bodhi Simamalakaya, located in the heart of Kandy, Sri Lanka, is a sacred Buddhist temple where the roots of the sacred Bodhi tree under which Buddha attained enlightenment are enshrined. This site holds immense cultural and religious significance as it marks the first time the Bodhi tree was brought to Sri Lanka by Buddhist monks from India. The temple itself is a testament to centuries of Buddhist worship and preservation, attracting both local pilgrims and international visitors seeking spiritual solace and serene meditation. Visitors can explore the temple grounds, take photos of the ancient tree, and partake in the tranquil atmosphere that has drawn devotees for generations.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5725,7 +5725,7 @@
 {
     "id": "pl_osm_b58c9ce63a",
     "name": "Gallkotuwa Temple",
-    "description": "Located in Kandy, Gallkotuwa Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Gallkotuwa Temple, nestled in the heart of Kandy, Sri Lanka, is a sacred Buddhist site where devotees gather for meditation and spiritual reflection. Its origins trace back to ancient times, though specific founding details are unknown. The temple is renowned for its serene atmosphere and tranquil surroundings, attracting visitors seeking peace and quiet amidst the bustling city. Cultural and religious significance lies in its role as a hub for Buddhist practices, offering a space for pilgrims to connect with their faith. Notable events include annual Vesak celebrations, which draw large crowds and highlight the temple's importance in Kandy’s religious calendar.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5761,7 +5761,7 @@
 {
     "id": "pl_osm_ae6adaa55e",
     "name": "Udawadiyagoda Temple",
-    "description": "Located in Kandy, Udawadiyagoda Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Udawadiyagoda Temple, located in the heart of Kandy, is a sacred Buddhist site known for its serene ambiance and historical importance. Built in the 18th century by King George IV of England as a gift to the Kandyan Kingdom, it holds significant cultural and religious value. The temple features intricate carvings and a small pond where monks practice meditation. Visitors often come to capture its picturesque beauty through photography, making it a popular spot for tourists seeking both spiritual enlightenment and scenic shots.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5797,7 +5797,7 @@
 {
     "id": "pl_osm_d20985489e",
     "name": "Nayiyothpana Temple",
-    "description": "Located in Kandy, Nayiyothpana Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Nayiyothpana Temple, nestled in the heart of Kandy, is a significant Buddhist sanctuary known for its ancient architecture and serene ambiance. The temple, believed to date back over a thousand years, was constructed by King Wickramabahu I during his reign in the 15th century. It holds great cultural and religious importance as it features intricate carvings and statues depicting various Buddhist deities. Visitors often come to meditate and take photos, appreciating both the spiritual aura and the temple's architectural beauty.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5833,7 +5833,7 @@
 {
     "id": "pl_osm_5055536ac1",
     "name": "Thiththapajjala Maha Piriwena",
-    "description": "Thiththapajjala Maha Piriwena is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Thiththapajjala Maha Piriwena, located in the heart of Kandy, Sri Lanka, is a significant Buddhist temple known for its ancient architecture and spiritual importance. It is believed to be one of the oldest temples in the city, founded by local royalty as a sacred site for meditation and religious rituals. The temple's intricate carvings and statues attract visitors seeking spiritual solace and peace. Photography tours are popular, capturing the serene beauty of the temple grounds and its revered Buddha statue.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5869,7 +5869,7 @@
 {
     "id": "pl_osm_a401eeba4e",
     "name": "Wathuwalagala Rajamaha Viharaya",
-    "description": "Located in Kandy, Wathuwalagala Rajamaha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Wathuwalagala Rajamaha Viharaya, nestled in the heart of Kandy, is a revered Buddhist temple known for its ancient architecture and serene ambiance. The site is believed to date back over a thousand years, making it one of the oldest temples in the region. It was likely constructed by local kings as a symbol of their devotion to Buddhism, a significant religion in Sri Lanka. Over the centuries, it has hosted numerous religious ceremonies and gatherings, earning it a place in the cultural heritage of Kandy. Visitors can explore its intricate carvings, participate in meditation sessions, and capture its beauty through photographs, all while immersing themselves in the rich tapestry of Sri Lankan Buddhism.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5905,7 +5905,7 @@
 {
     "id": "pl_osm_81d354f199",
     "name": "Sri Dharmaraja Piriwena",
-    "description": "Sri Dharmaraja Piriwena is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Dharmaraja Piriwena, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich spiritual heritage of the region. Built during the late 19th century under the reign of King Dingirindapateye Kirthi Narendrasinghe, it is dedicated to the revered Buddhist deity Piyadasa. The temple’s architecture combines traditional Sinhalese design with colonial influences, reflecting the era’s cultural fusion. It offers visitors a serene space for meditation and photography, allowing tourists to experience both the historical significance and contemporary charm of this sacred site.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -5977,7 +5977,7 @@
 {
     "id": "pl_osm_efe0402e33",
     "name": "Thumbomaluwa Viharaya",
-    "description": "Located in Kandy, Thumbomaluwa Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Thumbomaluwa Viharaya, located in Kandy, Sri Lanka, is a significant Buddhist temple known for its serene atmosphere and ancient architecture. It is believed to be an important pilgrimage site where monks conduct daily meditation sessions. The temple’s rich history and spiritual importance make it a popular destination for both locals and tourists interested in Buddhist culture and traditions. Visitors often take photos to capture the peaceful setting and ancient structures, making it a place where modern and ancient cultures coexist harmoniously.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6049,7 +6049,7 @@
 {
     "id": "pl_osm_9342bf8412",
     "name": "Elagolla Temple",
-    "description": "Elagolla Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Elagolla Temple, nestled in the heart of Kandy, is a revered Buddhist sanctuary known for its ancient architecture and serene ambiance. Built during the 16th century under King Wickramabahu III, it stands as a testament to the rich cultural heritage of Sri Lanka. The temple’s most significant feature is the 14th-century Buddha statue, which attracts visitors seeking spiritual solace and enlightenment. Regular meditation sessions and photography tours are popular activities here, offering both tourists and locals an opportunity to connect with nature and culture.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6085,7 +6085,7 @@
 {
     "id": "pl_osm_8e927225f3",
     "name": "Sri Shantharamaya",
-    "description": "Sri Shantharamaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Shantharamaya, nestled in Kandy's ancient city center, is a revered Buddhist temple dedicated to Lord Shanthi, where devotees gather for meditation and spiritual enlightenment. Founded by King Kirti Wickrama Raja in the 17th century, it stands as a testament to the rich cultural heritage of Kandy. The temple's serene ambiance and intricate architecture make it a popular spot for both locals and tourists seeking solace and tranquility amidst the bustling city. Visitors can enjoy photography opportunities under the temple's towering belfries while immersing themselves in its profound spiritual atmosphere.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6121,7 +6121,7 @@
 {
     "id": "pl_osm_7b2cbe47bf",
     "name": "Vajirarama International Buddhist Meditation Center",
-    "description": "Vajirarama International Buddhist Meditation Center is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Vajirarama International Buddhist Meditation Center, nestled in the heart of Kandy, Sri Lanka, is a prominent Buddhist temple known for its serene atmosphere and tranquil environment. Established as a center for Buddhist studies and meditation, it attracts visitors from around the world seeking spiritual enlightenment. The temple features ancient statues and intricate carvings, reflecting the rich cultural heritage of Kandy. Notable for its role in promoting Buddhism globally, Vajirarama also hosts regular photography exhibitions, offering a unique perspective on the temple’s beauty through lens artistry.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6157,7 +6157,7 @@
 {
     "id": "pl_osm_7f91574db8",
     "name": "Sri Sugatha Bimbaramaya",
-    "description": "Located in Kandy, Sri Sugatha Bimbaramaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Sugatha Bimbaramaya is a Buddhist temple in Kandy, Sri Lanka, known for its serene atmosphere where visitors can engage in meditation and photography. The temple holds significant cultural and religious importance, attracting devotees and tourists seeking spiritual solace. Built during the late 19th century by King Vira Narendra Bandara, it features intricate carvings and statues, reflecting the rich architectural heritage of Kandy. Notable for its peaceful ambiance, the temple often hosts religious ceremonies and retreats, offering a tranquil setting for reflection and rejuvenation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6193,7 +6193,7 @@
 {
     "id": "pl_osm_008292a6df",
     "name": "Udaperadeniya Viharaya",
-    "description": "Located in Kandy, Udaperadeniya Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Udaperadeniya Viharaya, located in the heart of Kandy, is a significant Buddhist temple known for its ancient architecture and serene atmosphere. It holds cultural and religious importance, attracting visitors interested in meditation and photography. The temple, believed to date back to the 14th century, features intricate carvings and statues, reflecting the rich heritage of Kandyan art. Over the centuries, it has been a site of various religious ceremonies and rituals, making it a sacred place for both locals and tourists seeking spiritual rejuvenation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6229,7 +6229,7 @@
 {
     "id": "pl_osm_2d5033739f",
     "name": "Sri Rajopawanaramaya Temple",
-    "description": "Located in Kandy, Sri Rajopawanaramaya Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sri Rajopawanaramaya Temple, located in Kandy, Sri Lanka, is a significant Buddhist site known for its serene atmosphere and historical importance. The temple, believed to date back to the 17th century, was established by King Wimaladharmasuriya V, a devout Buddhist monarch. It features intricate carvings and statues, including the famous 'Sinhala Buddha' statue, which attracts many visitors seeking spiritual enlightenment and solace. Visitors can engage in meditation sessions under the guidance of temple monks, offering a tranquil retreat amidst the temple's lush surroundings. Additionally, the temple grounds are perfect for photography, capturing the rich cultural heritage of Kandy through its architectural beauty and serene landscapes.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6265,7 +6265,7 @@
 {
     "id": "pl_osm_169d23cf5a",
     "name": "Nagawimanakanda Temple",
-    "description": "Nagawimanakanda Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Nagawimanakanda Temple, located in the heart of Kandy, Sri Lanka, is an ancient Buddhist temple renowned for its serene atmosphere and historical importance. The temple is believed to date back to the 16th century, though exact origins are shrouded in mystery. It stands as a testament to the rich cultural heritage of Kandy, attracting visitors interested in both its spiritual offerings and picturesque beauty. Meditation sessions and photography tours are popular activities here, offering tourists a chance to experience the tranquility of this sacred site.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6301,7 +6301,7 @@
 {
     "id": "pl_osm_3646a6fd93",
     "name": "Asgiri Maha Viharaya",
-    "description": "Asgiri Maha Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Asgiri Maha Viharaya, a revered Buddhist temple in Kandy, holds significant cultural and religious importance as one of the most important pilgrimage sites in Sri Lanka. Built during the reign of King Kirti Sri Rajasinghe in the late 18th century, it features intricate carvings and statues. The temple is a hub for spiritual practices including meditation and is often visited by devotees seeking blessings. Its ornate architecture and serene atmosphere make it a popular spot for tourists and photographers alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6337,7 +6337,7 @@
 {
     "id": "pl_osm_351d011c48",
     "name": "Sambodhi Viharaya",
-    "description": "Sambodhi Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Sambodhi Viharaya, a significant Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich spiritual heritage of the region. Founded during the 17th century by King Wimaladhuranta I, the temple houses a revered Buddha statue and is known for its serene atmosphere conducive to meditation. Over time, it has become an important pilgrimage site attracting devotees and tourists alike. Visitors often capture the temple's tranquil beauty through their cameras, making it a popular spot for photography enthusiasts.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6373,7 +6373,7 @@
 {
     "id": "pl_osm_0439ff1621",
     "name": "Galpihilla Viharaya",
-    "description": "Galpihilla Viharaya is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Galpihilla Viharaya, a Buddhist temple in Kandy, Sri Lanka, offers visitors a serene retreat for meditation and photography. The temple, though not widely known, holds cultural significance as part of the ancient Buddhist heritage of the region. Its architecture reflects traditional Sinhalese style, with intricately carved wooden pillars and ornate altars. Over centuries, it has been a site of spiritual practice, attracting pilgrims seeking solace and enlightenment. Notable events include annual Buddhist festivals where devotees gather to pay homage and participate in rituals.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6409,7 +6409,7 @@
 {
     "id": "pl_osm_526da007a0",
     "name": "Walala Raja Maha Viharaya",
-    "description": "Located in Kandy, Walala Raja Maha Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Walala Raja Maha Viharaya, located in Kandy, Sri Lanka, is a significant Buddhist temple known for its ancient architecture and historical importance. It is believed to be one of the oldest temples in the city, dating back several centuries. The temple is renowned for its serene atmosphere and offers visitors a chance to practice meditation and take photographs, capturing the peaceful beauty of this sacred site. Known for its intricate carvings and architectural features, it attracts both local devotees and tourists seeking a glimpse into Sri Lanka's rich Buddhist heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6481,7 +6481,7 @@
 {
     "id": "pl_osm_ca7f9b3650",
     "name": "Raja Maha Viharaya",
-    "description": "Raja Maha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Raja Maha Viharaya, a significant Buddhist temple in Kandy, Sri Lanka, is a revered site where the Buddha's relics are enshrined. Constructed by King Kirthi Narendrasinghe in the 18th century, it houses the tooth relic of the Buddha, a sacred object believed to be the tooth of Gautama Buddha. The temple grounds offer serene meditation spaces and picturesque views, attracting both pilgrims and tourists seeking spiritual solace and beautiful vistas. Visitors can also capture memorable photographs amidst the ancient architecture and lush gardens.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6517,7 +6517,7 @@
 {
     "id": "pl_osm_08008b9ed1",
     "name": "Salawane Viharaya",
-    "description": "Located in Kandy, Salawane Viharaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Salawane Viharaya, nestled in the heart of Kandy, is a serene Buddhist temple known for its ancient architecture and tranquil ambiance. Historically significant as a site of pilgrimage, it attracts visitors seeking spiritual solace and meditation. The temple’s intricate carvings and statues reflect the rich cultural heritage of Kandy, making it a popular destination for both locals and tourists interested in Buddhism and Sri Lankan art. Notable events here include daily meditation sessions and occasional cultural performances. Visitors can also capture the essence of the temple through photography, capturing its beauty and serenity.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6553,7 +6553,7 @@
 {
     "id": "pl_osm_f8626f020b",
     "name": "Siyambalagastenna Temple",
-    "description": "Siyambalagastenna Temple is a Buddhist temple located in Kandy, Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Siyambalagastenna Temple, located in the heart of Kandy, Sri Lanka, is a significant Buddhist site known for its ancient architecture and serene atmosphere. Built over centuries, the temple houses numerous Buddha statues and intricate carvings. It's a popular spot for tourists and locals alike, offering visitors a chance to meditate and take photographs, capturing the tranquility and spiritual essence of the place. Its rich history and cultural importance make it a must-visit destination for those interested in Buddhism and Sri Lankan heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6589,7 +6589,7 @@
 {
     "id": "pl_osm_a7c68aea47",
     "name": "Temple",
-    "description": "Located in Kandy, Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Temple in Kandy, Sri Lanka, a Buddhist temple where devotees gather for meditation and photography. The site holds deep spiritual significance as it houses the sacred Tooth Relic of Buddha, believed by Sinhalese Buddhists to be his front tooth. This relic, enshrined in the inner sanctum, attracts thousands of pilgrims annually. Beyond the temple complex, the city of Kandy itself is a UNESCO World Heritage Site, known for its rich cultural heritage and annual Kandy Perahera festival, a grand parade featuring dancers, drummers, and elephants.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6625,7 +6625,7 @@
 {
     "id": "pl_osm_fb3d440bbb",
     "name": "Temple",
-    "description": "Located in Kandy, Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Temple in Kandy, Sri Lanka, is a sacred Buddhist site known for its historical and spiritual importance. Built over centuries, it houses Buddha relics and is visited by thousands seeking enlightenment. The temple grounds are adorned with ancient statues and intricate carvings, reflecting the rich artistic heritage of Ceylon. Visitors can engage in meditation sessions under the guidance of experienced monks, while the peaceful atmosphere makes it ideal for photography. This revered location is a testament to the enduring influence of Buddhism in Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6661,7 +6661,7 @@
 {
     "id": "pl_osm_fcdbede0b0",
     "name": "Temple",
-    "description": "Located in Kandy, Temple is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Temple in Kandy, Sri Lanka, is a significant Buddhist site attracting visitors for meditation and photography. Built over centuries, it stands as a testament to the rich spiritual heritage of Kandy. The temple houses ancient statues and relics, and its serene atmosphere often draws devotees seeking inner peace. Known locally as Dalada Maligawa, it houses the sacred tooth relic of Buddha, which is considered extremely holy by Buddhists. Visitors can explore the temple grounds, admire the intricate architecture, and learn about its historical and religious importance.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6805,7 +6805,7 @@
 {
     "id": "pl_osm_5b3a006009",
     "name": "Dodanwala Sri Natha Dewalaya",
-    "description": "Located in Kandy, Dodanwala Sri Natha Dewalaya is a Buddhist temple worth visiting. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Dodanwala Sri Natha Dewalaya, a Buddhist temple in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the city. Constructed during the late medieval period, the temple honors Lord Nathar, an incarnation of Lord Shiva. It was built by the royal family of Kandy, reflecting the importance of Buddhism in the region. The temple's serene atmosphere and historical significance make it a popular site for meditation and photography, attracting visitors interested in both its architectural beauty and spiritual offerings.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6841,7 +6841,7 @@
 {
     "id": "pl_osm_01f0454c35",
     "name": "Kithsiri Mewan Raja Maha Viharaya",
-    "description": "Kithsiri Mewan Raja Maha Viharaya is a Buddhist temple in the Kandy area of Sri Lanka. Visitors can explore the temple grounds and take part in quiet reflection.",
+    "description": "Kithsiri Mewan Raja Maha Viharaya, a Buddhist temple in Kandy, Sri Lanka, is a significant site where ancient Buddha relics are enshrined. It was constructed during the reign of King Kirthi Mihindu II of the Kandyan Kingdom in the 17th century, blending traditional Sinhalese architecture with Indian influences. The temple holds great cultural and religious importance, attracting devotees and pilgrims seeking spiritual enlightenment through meditation and reflection. Its serene ambiance and historical significance make it a popular destination for tourists exploring the rich Buddhist heritage of Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Buddhist Temple",
@@ -6909,6 +6909,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_b650044b",
     "name": "Udawadiyagoda Purana RajaMaha Viharaya",

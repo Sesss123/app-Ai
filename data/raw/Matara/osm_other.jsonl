@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_1217096039",
     "name": "Kananke Bridge",
-    "description": "Kananke Bridge is a point of interest located in Matara, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kananke Bridge, a point of interest in Matara, Sri Lanka, stands as a testament to local engineering prowess. Constructed in the early 20th century, the bridge spans the Kaluaganga River, connecting two villages on either side. It was built by local authorities to improve transportation and facilitate trade between the communities. The bridge remains an important landmark, often visited by tourists interested in Matara's rich heritage and natural beauty. Visitors can enjoy sightseeing along the riverbank, taking in the picturesque views and the serene atmosphere of this historic structure.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_0d88b5ff14",
     "name": "Turtle Bay",
-    "description": "Turtle Bay is a point of interest located in Matara, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Turtle Bay, located in Matara, Sri Lanka, is a popular spot for tourists seeking scenic views. The bay is known for its unique shape resembling a turtle, attracting visitors who enjoy taking photos and exploring the local flora and fauna. Known for its clear waters and sandy beaches, Turtle Bay offers a tranquil retreat from the hustle of city life. Historically, the area has been inhabited by various communities over centuries, each leaving their mark on the region's rich cultural tapestry.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_924793ed81",
     "name": "Sinharaja Conservation Centre",
-    "description": "Sinharaja Conservation Centre is a point of interest in the Matara area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Sinharaja Conservation Centre, nestled in the Matara district of Sri Lanka, is a sanctuary dedicated to the conservation of the Sinharaja Forest Reserve, a unique tropical rainforest that harbors over 50% of Sri Lanka's endemic bird species. Established to protect this irreplaceable ecosystem, the centre offers guided tours where visitors can learn about the forest's rich biodiversity and the efforts to preserve it. Known for its ancient trees and diverse wildlife, it's a testament to the importance of sustainable tourism and environmental stewardship in Sri Lanka.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -119,7 +119,7 @@
     "_osm_type": "node",
     "_osm_id": 5800272353,
     "_source_global_id": "a4ab981e-8d84-4a83-a28a-dca4be55bc76",
-    "opening_hours": "Check locally",
+    "opening_hours": "Fr-Su 10:00-17:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_26a4a9a82c",
     "name": "Stilt Fishermen",
-    "description": "Stilt Fishermen is a point of interest in the Matara area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Stilt Fishermen, located in Matara, Sri Lanka, is a unique sight where local fishermen live and work on stilts over the ocean. This traditional way of life has been practiced for generations, offering visitors a glimpse into the rich maritime culture of the region. The stilts allow the fishermen to fish without leaving their homes, making the most of the abundant marine life in the area. It's a living testament to the ingenuity and adaptability of Sri Lankan coastal communities.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_4f5d9e2407",
     "name": "Raja Wetunu Ella",
-    "description": "Raja Wetunu Ella is a point of interest in the Matara area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Raja Wetunu Ella, also known as the King's Well, is an ancient water source located in Matara District, Sri Lanka. This well, believed to date back to the ancient Kingdom of Ruhuna, was likely constructed during the Anuradhapura period. It holds cultural and religious significance, serving as a reminder of the rich history of the region. Visitors can explore the site, marvel at its age-old structure, and learn about the well's role in the local community and economy. Nearby, one can also find other historical sites and participate in traditional Sri Lankan activities.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_2c0c9ad30c",
     "name": "Crocodile River",
-    "description": "Crocodile River is a point of interest located in Matara, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Crocodile River, located in Matara, Sri Lanka, is a serene spot known for its tranquil waters and lush surroundings. This river is a popular destination for tourists seeking a peaceful escape from the hustle of city life. Its name comes from the numerous crocodiles that once inhabited the area, though today they are rarely seen. The river serves as a picturesque backdrop for local fishing activities and offers opportunities for birdwatching and nature photography. Visitors can enjoy boat rides along the river, which is also home to various species of fish and other aquatic life.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_c72485cd04",
     "name": "Blowhole",
-    "description": "Located in Matara, Blowhole is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Blowhole in Matara, Sri Lanka is a unique natural phenomenon where ocean waves create a dramatic geyser effect, shooting water up to 30 meters into the air. It attracts visitors with its mesmerizing display, often accompanied by cheers and applause. Historically, locals believe the blowhole has healing properties and is a sacred site, though its exact age and original purpose remain uncertain. Visitors can watch the spectacular show while enjoying the scenic coastal views and local seafood restaurants nearby.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_266ee1ddde",
     "name": "Sea turtle feeding point",
-    "description": "Sea turtle feeding point is a point of interest in the Matara area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Sea turtle feeding point in Matara, Sri Lanka is a designated spot where visitors can observe and sometimes interact with nesting sea turtles. This area is particularly popular among tourists who come to watch these magnificent creatures lay their eggs on the beach at night. The feeding point is part of a conservation effort to protect local turtle populations, which have faced threats due to habitat loss and climate change. It attracts both locals and international tourists seeking an up-close look at nature’s beauty.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_87981a804c",
     "name": "Blue Beach Island",
-    "description": "Located in Matara, Blue Beach Island is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Blue Beach Island, located in Matara, Sri Lanka, is a small island known for its crystal-clear waters and powdery white sand. It's a popular spot for tourists seeking a peaceful retreat from the hustle and bustle of city life. The island's name comes from the striking blue color of the water surrounding it, which contrasts beautifully against the white sand beaches. Visitors can enjoy swimming, snorkeling, and sunbathing, making it a perfect destination for those looking to relax and rejuvenate. Its proximity to Matara makes it easily accessible for day trips, offering a slice of nature amidst the island's natural beauty.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_42a0784091",
     "name": "CoCo Bay Beach",
-    "description": "Located in Matara, CoCo Bay Beach is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "CoCo Bay Beach, located in Matara, Sri Lanka, is a popular spot for tourists seeking a picturesque beach experience. The area, known for its clear waters and white sand, attracts visitors looking to relax and enjoy the ocean views. It offers a range of activities including swimming, sunbathing, and snorkeling. Notable for its serene setting, CoCo Bay Beach has become a favorite among locals and tourists alike, serving as a tranquil retreat from the hustle and bustle of city life.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_dfa69e05cb",
     "name": "Two Oceans Gateway",
-    "description": "Two Oceans Gateway is a point of interest located in Matara, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Matara's Two Oceans Gateway, a striking landmark, marks the confluence of the Indian Ocean and the Gulf of Mannar, attracting visitors with its scenic beauty and historical intrigue. While the exact date of its construction is unknown, the gateway stands as a testament to the rich maritime heritage of the region. Visitors can explore its architectural features, marvel at the view, and learn about the cultural and religious significance of this unique natural phenomenon. The site often hosts cultural events and exhibitions, offering a glimpse into local traditions and history.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_ebd8bef82a",
     "name": "Twin coconut tree swing",
-    "description": "Twin coconut tree swing is a point of interest in the Matara area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Twin Coconut Tree Swing, located in Matara, Sri Lanka, is a unique sightseeing point offering visitors a picturesque view of two coconut trees intertwined in a natural swing. This charming spot attracts tourists interested in nature and local culture. It stands as a testament to the region's rich biodiversity and natural beauty, serving as a popular photo opportunity for visitors. Known locally for its serenity and tranquility, it's a favorite among families and couples seeking a peaceful moment amidst the lush greenery.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Other",
@@ -501,6 +501,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_541790a8",
     "name": "PITADENIYA WATTA IRON SLAG SITE",

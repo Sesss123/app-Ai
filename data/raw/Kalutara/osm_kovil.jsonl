@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_c2f6945b1c",
     "name": "Kovil",
-    "description": "Kovil is a Hindu kovil located in Kalutara, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Kovil stands in Kalutara, a sacred Hindu temple where devotees gather for prayers and rituals. The exact origins of the Kovil are shrouded in antiquity, but it has been an important site for centuries, believed to be dedicated to Lord Shiva. Local legend tells tales of ancient kings visiting the Kovil seeking blessings, adding a layer of mystique to its existence. Visitors can admire the intricate carvings and architectural beauty while taking photos, capturing the serene atmosphere of this revered Hindu shrine.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_f7ea5b15dd",
     "name": "Meegaha Kovila",
-    "description": "Located in Kalutara, Meegaha Kovila is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Meegaha Kovila, a sacred Hindu temple in Kalutara, stands as a testament to ancient worship practices. The Kovil, which translates to a shrine or temple, has been a site of spiritual devotion for centuries. Legend has it that the Kovil was initially constructed by local chieftains, though its exact origins remain shrouded in mystery. Over time, it became an important center for devotees seeking blessings and protection. Today, visitors come to pray, meditate, and capture the serene beauty of this historic landmark through their cameras.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_d6064d11fa",
     "name": "MuththuMari Amman temple",
-    "description": "MuththuMari Amman temple is a Hindu kovil in the Kalutara area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "The MuththuMari Amman temple in Kalutara district is a revered Hindu Kovil dedicated to the goddess MuththuMari Amman. Its origins date back to the 17th century, though precise details of its construction remain uncertain. The temple stands as a significant pilgrimage site, attracting devotees seeking blessings and protection. Visitors can explore its serene courtyard and take photos of its intricate architecture and idols, including the main deity MuththuMari Amman. Cultural festivals and local events add to its appeal, making it a popular destination for both locals and tourists.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_63c2c19140",
     "name": "Kurinchi Mari amman temple",
-    "description": "Kurinchi Mari amman temple is a Hindu kovil in the Kalutara area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Kurinchi Mari amman temple, a Kovil in Kalutara, Sri Lanka, is dedicated to the goddess Mariamman, revered for her healing powers. Built in the 18th century, the temple attracts devotees seeking blessings and protection. Notable for its intricate carvings and historical significance, it stands as a testament to ancient Hindu practices in the region. Visitors can admire the temple's architectural beauty and participate in traditional prayers, making it a must-visit site for those interested in Sri Lankan culture and spirituality.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -141,10 +141,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_8ad9c469",
     "name": "Horana Sri Muthumari Amman Temple",
-    "description": "Horana Sri Muthumari Amman Temple, a sacred Hindu site nestled amidst lush greenery, stands as a testament to ancient worship practices. This temple, dedicated to Lord Murugan, offers visitors a serene atmosphere and historical insights into Sri Lankan Hindu culture.",
+    "description": "Horana Sri Muthumari Amman Temple, located in Kalutara District, is a revered Hindu Kovil dedicated to the deity Muthamari Amman. The temple stands as a significant landmark, attracting devotees and tourists who come to offer prayers and seek blessings. Its architecture reflects traditional Indian styles, with intricate carvings and statues. Known for its serene ambiance, the temple also offers visitors a peaceful setting for photography and reflection. Over time, it has become an important pilgrimage site, especially during the annual Muthumaaran festival held annually in the month of April-May.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Kovil",

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_8bbf4c4ec6",
     "name": "Big standing Buddha",
-    "description": "Located in Hambanthota, Big standing Buddha is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "The Big Standing Buddha, located in Hambanthota, Sri Lanka, is a prominent Buddhist temple known for its serene atmosphere and impressive statue. The temple was constructed during the early 20th century as part of a larger complex that also includes a pagoda and a meditation hall. It holds great cultural and religious significance, attracting visitors who come to pray and take photographs of the imposing figure, which stands over 15 meters tall. The temple is a testament to the enduring faith and craftsmanship of Sri Lankan Buddhists.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_bf89098a4b",
     "name": "Temple with line of statues of monks in orange",
-    "description": "Located in Hambanthota, Temple with line of statues of monks in orange is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Temple with line of statues of monks in orange, located in Hambanthota, Sri Lanka, is a sacred site where devotees come to pray and take photos. The temple, believed to be over a century old, was constructed by local artisans using traditional materials. It holds cultural and religious significance as it features statues of monks in orange robes, representing the monastic order. Notable for its serene atmosphere and historical value, the temple attracts both locals and tourists seeking spiritual solace and picturesque views.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Temple",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

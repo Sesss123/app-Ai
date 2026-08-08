@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_2258b19884",
     "name": "Senasungala Archaeological Site & Ruins",
-    "description": "Senasungala Archaeological Site & Ruins is an archaeological site in the Badulla area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Senasungala, an archaeological site in Badulla, preserves ruins dating back to ancient times. The site features remnants of structures that likely belonged to a local Buddhist monastery. Legend has it that a king named Senasungala, possibly a ruler from the Anuradhapura kingdom, constructed these ruins during his reign. While the exact date remains uncertain, Senasungala Archaeological Site stands as a testament to early Sri Lankan architecture and cultural heritage. Visitors can explore the well-preserved ruins, capturing moments that highlight the site's rich history through photography.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Ruins",
@@ -11,7 +11,7 @@
     "_osm_type": "node",
     "_osm_id": 6578219702,
     "_source_global_id": "68d3f894-606e-416c-a556-843c74cf4c73",
-    "opening_hours": "Check locally",
+    "opening_hours": "sunrise-sunset",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -21,7 +21,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_40da05dcea",
     "name": "Dutch Fort",
-    "description": "Dutch Fort is an archaeological site located in Badulla, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Dutch Fort, also known as Galle Face Green, is an archaeological site located in the town of Badulla, Sri Lanka. It was initially constructed by the Portuguese in the early 17th century but later fortified by the Dutch. Today, visitors can explore remnants of this historic fort, taking photos of the well-preserved ruins while enjoying the scenic views of the surrounding countryside. Known for its rich colonial history, the Dutch Fort offers a glimpse into the past and serves as a popular spot for tourists interested in local archaeology and photography.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Ruins",
@@ -69,6 +69,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_c33289ef",
     "name": "Gal poruyaya 01",

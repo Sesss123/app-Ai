@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_c9ca059e0d",
     "name": "Monument of Peace",
-    "description": "Located in Kilinochchi, Monument of Peace is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "The Monument of Peace, standing tall in Kilinochchi, is a historic building dedicated to reconciliation and peace following the Sri Lankan civil war. It was constructed as a tribute to the fallen soldiers and civilians, symbolizing unity and hope for the region. Built in 2015 by local authorities and community members, it stands as a silent reminder of the sacrifices made and the journey towards healing. Visitors can take photos and admire the monument, reflecting on its profound message of peace.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_6186a987fd",
     "name": "Hasalaka Gamini Ranaviru Smarakaya",
-    "description": "Located in Kilinochchi, Hasalaka Gamini Ranaviru Smarakaya is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "The Hasalaka Gamini Ranaviru Smarakaya, a historic building in Kilinochchi district, Sri Lanka, commemorates a significant figure in the country's political history. Built as a tribute to Gamini Ranaviru, a prominent leader in the Tamil National Alliance, it stands as a testament to the region's struggle for autonomy. The structure itself is a blend of modern architecture and local traditions, reflecting the cultural resilience of the area. Visitors can explore the grounds, take photos, and learn about the site's importance through informational plaques.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Building",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_57f9042457",
     "name": "War Memorial",
-    "description": "War Memorial is a historic landmark in the Kilinochchi area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "War Memorial stands as a somber reminder of the conflict that ravaged Kilinochchi district. Constructed in memory of those who fell, it honors the bravery of local soldiers and civilians. The memorial was built by the government post-conflict, serving as a poignant site for visitors to reflect on the past. It features a cenotaph and a garden where flowers bloom in remembrance. Visitors often take photos here, capturing the solemn atmosphere, making it a popular spot for tourists seeking a moment of quiet reflection.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Building",
@@ -105,6 +105,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_bec0c310",
     "name": "Kalmunei Survey Tower",

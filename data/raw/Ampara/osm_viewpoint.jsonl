@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_dcc30c0e21",
     "name": "Mukzith Lake View Point",
-    "description": "Mukzith Lake View Point is a scenic viewpoint located in Ampara, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Mukzith Lake View Point stands on the edge of Mukzith Lake, offering stunning views across the water. This picturesque viewpoint, nestled in Ampara District, attracts photographers and nature lovers alike. It overlooks the lake where locals often fish and boat, creating a serene backdrop for visitors. Known for its tranquil beauty, the spot has become a popular destination for those seeking a moment of peace and relaxation. Its historical significance may be unknown, but the view itself is a testament to the natural beauty of the region.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_431590fbec",
     "name": "Elephant shaped rock",
-    "description": "Located in Ampara, Elephant shaped rock is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Elephant shaped rock, a breathtaking viewpoint in Ampara District, Sri Lanka, stands as a unique natural formation that attracts visitors with its striking resemblance to an elephant. This rock formation has been admired by tourists and locals alike for centuries, offering panoramic views of the surrounding landscape. Photographers flock here to capture the perfect shot of the rock against the backdrop of the rolling hills and lush greenery below. Its presence serves as a reminder of nature's beauty and serenity, making it a popular spot for sightseeing and relaxation.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_a288d3fffe",
     "name": "Birds Information Center",
-    "description": "Birds Information Center is a scenic viewpoint located in Ampara, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Birds Information Center stands as a prominent viewpoint in Ampara District, offering panoramic vistas over the lush greenery below. While the exact date and founder of its construction remain uncertain, it has become a popular spot for tourists to capture photos and enjoy the scenic beauty. Often visited by bird watchers, it serves as a vantage point where visitors can observe various local flora and fauna. Its prominence in the area makes it a must-visit destination for anyone exploring the region.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_45fbcf17a9",
     "name": "Sengamuwa Tank Viewpoint 1",
-    "description": "Sengamuwa Tank Viewpoint 1 is a scenic viewpoint located in Ampara, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sengamuwa Tank Viewpoint 1 offers breathtaking panoramic views of the surrounding rice fields and hills. Located in Ampara District, it's a popular spot for photography enthusiasts and those seeking a serene sightseeing experience. The viewpoint sits atop an ancient water storage tank, believed to have been constructed by the Portuguese during their colonial rule in the 16th century. Its strategic location allowed them to control water resources, crucial for agriculture and irrigation in the region. Visitors can enjoy the picturesque vista while imagining the past, making it a unique spot for those interested in both history and natural beauty.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_8acef2aa62",
     "name": "Sengamuwa Tank Viewpoint 2",
-    "description": "Sengamuwa Tank Viewpoint 2 is a scenic viewpoint in the Ampara area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sengamuwa Tank Viewpoint 2 offers breathtaking views of the Sengamuwa Tank, an ancient irrigation system dating back over 150 years. Built by local communities to sustain agriculture in the region, it played a crucial role in supporting rural life. Visitors can enjoy panoramic vistas while taking photos, making it a popular spot for tourists exploring the Ampara district. Nearby, the viewpoint provides a chance to learn about the area's rich agricultural heritage and the community effort behind these historic structures.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_19c76c7655",
     "name": "Kokkatumulla",
-    "description": "Kokkatumulla is a scenic viewpoint located in Ampara, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Kokkatumulla, a scenic viewpoint nestled in Ampara District, offers breathtaking vistas over the surrounding countryside. Known for its panoramic views, it attracts visitors seeking picturesque spots for photography and sightseeing. The exact origins and construction date of Kokkatumulla remain undocumented, but it has been a favored spot for locals and tourists alike for generations. Cultural significance lies in its role as a local landmark, often used in traditional ceremonies and gatherings. Notable events include weddings and community festivals where locals gather at Kokkatumulla to celebrate.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_5b5bcf9691",
     "name": "Sulupatumulla",
-    "description": "Sulupatumulla is a scenic viewpoint in the Ampara area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sulupatumulla, a scenic viewpoint in Ampara District, offers breathtaking views of the surrounding countryside and water bodies. Visitors come here to capture stunning photographs and enjoy the panoramic vistas. The viewpoint, believed to have been established during the colonial era, provides a unique perspective on the natural beauty of the region. Its cultural significance lies in its role as a spot where locals and tourists alike can appreciate the local flora and fauna, making it a popular spot for nature lovers and photographers.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Viewpoint",
@@ -429,3 +429,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

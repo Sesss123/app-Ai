@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_f9da3d3713",
     "name": "Dedigama Kota Vehera",
-    "description": "Located in Kegalle, Dedigama Kota Vehera is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Dedigama Kota Vehera, an archaeological site in Kegalle, Sri Lanka, offers visitors a glimpse into ancient Buddhist architecture. The ruins, believed to date back to the 5th century BC, were likely constructed by local communities under the influence of early Sri Lankan kings. Notable for its intricate carvings and architectural elements, the site has historically held religious significance as a place of worship. Today, it attracts tourists interested in exploring its historical remains and taking photographs of its well-preserved stupa and monolithic pillars.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Ruins",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_7c942d2574",
     "name": "Devanagala Temple",
-    "description": "Devanagala Temple is an archaeological site located in Kegalle, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Devanagala Temple, an archaeological site in Kegalle, Sri Lanka, is a ruin believed to be over a thousand years old. Its exact origins and purpose remain a mystery, though it is speculated to have been a Buddhist temple or a Hindu shrine. Over time, natural erosion and human neglect have left only ruins, but the site still attracts visitors interested in ancient architecture and the region's rich cultural heritage. Explorers and photographers come to capture the remnants of what once was, marveling at the structures' intricate carvings and faded beauty.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Ruins",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_e74cc6b818",
     "name": "Weththewa Ambalama",
-    "description": "Weththewa Ambalama is an archaeological site in the Kegalle area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Weththewa Ambalama, an archaeological site in Kegalle, Sri Lanka, offers visitors a glimpse into ancient architecture. The ruins, believed to date back to the medieval period, were once part of a larger complex serving as a royal residence or temple. While the exact construction date and purpose remain uncertain, the site's historical significance lies in its potential to connect locals and tourists with their cultural heritage. Photography tours are popular, allowing visitors to capture the serene ruins under the backdrop of lush greenery and traditional architecture.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Ruins",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_857c654592",
     "name": "Seethawaka Maligawa",
-    "description": "Located in Kegalle, Seethawaka Maligawa is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Seethawaka Maligawa, an archaeological site in Kegalle, is a collection of ruins believed to be remnants of ancient temples or palaces. The exact age and original purpose remain subjects of speculation, though it is likely linked to the ancient kingdoms of Anuradhapura or Polonnaruwa. Notable for its historical and architectural interest, visitors can explore the site, taking photos to capture its ancient beauty and mystery. Cultural and religious significance, if any, are less clear, but the ruins attract curious explorers and photographers alike.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Ruins",
@@ -177,6 +177,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_ea4201a8",
     "name": "Wakirigala Reserve",

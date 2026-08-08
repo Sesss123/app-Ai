@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_6e841cb224",
     "name": "Pidurangala Rock Viewpoint",
-    "description": "Located in Matale, Pidurangala Rock Viewpoint is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Pidurangala Rock Viewpoint stands in Matale District, offering breathtaking panoramic views of the surrounding tea plantations and hills. The viewpoint, located on a steep cliff, was likely formed over millions of years by natural erosion. It has become a popular spot for tourists to capture photos and enjoy the scenic vistas, particularly during sunrise and sunset. Cultural significance lies in its role as a vantage point for ancient Buddhist pilgrims to observe the mountain range. Notable events include the legendary tale of King Dutugemunu's escape after his defeat at the Battle of Mihintale.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -57,7 +57,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_63840e86fc",
     "name": "Sigiriya viewpoint",
-    "description": "Sigiriya viewpoint is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sigiriya viewpoint stands atop a massive rock formation in Matale, Sri Lanka, offering panoramic views of the ancient Sigiriya ruins below. The viewpoint, accessible via a steep climb, provides visitors with an unparalleled perspective on the palace gardens, the lake, and the surrounding jungle. It was once part of the Sigiriya fortress complex, constructed by King Kasyapa in the 5th century CE. Today, it serves as a popular spot for tourists to capture photos and appreciate the site's historical and aesthetic beauty.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_f91e676474",
     "name": "Sigiriya Reservoir Viewpoint",
-    "description": "Sigiriya Reservoir Viewpoint is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sigiriya Reservoir Viewpoint offers stunning vistas over the ancient Sigiriya fortress and surrounding jungle. This viewpoint provides a unique perspective on the ruins of an ancient palace, built by King Kasyapa in the 5th century CE. The reservoir, once a source of water for the palace gardens, now serves as a tranquil backdrop, often used by visitors for photography and sightseeing. Known locally as the \"Viewpoint of the Queen,\" it's believed to be where Kassapa's queen may have gazed upon the fortress below.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -129,7 +129,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_ea8a5fcc72",
     "name": "Bambarakiri Ella",
-    "description": "Bambarakiri Ella is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Bambarakiri Ella, a scenic viewpoint in Matale, Sri Lanka, offers breathtaking views of the surrounding countryside and waterfalls. Known for its panoramic vistas, it attracts photographers and nature enthusiasts seeking picturesque moments. Locals often gather here on weekends for sightseeing and picnics. Its location in the Matale district makes it a popular spot for tourists exploring the region. Established centuries ago, Bambarakiri Ella has become an integral part of the area’s natural heritage, celebrated for its serene beauty and tranquil atmosphere.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_35ffff60fd",
     "name": "Sigiriya and Pidurangala rocks view point",
-    "description": "Sigiriya and Pidurangala rocks view point is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sigiriya and Pidurangala, located in Matale District, offer breathtaking views of Sigiriya Rock Fortress. This ancient site, once a royal palace, features the famous Lion’s Gateway and the Mirror Wall. The viewpoint provides panoramic vistas of the surrounding jungle and Sigiriya Lake. Visitors can enjoy photography and sightseeing, appreciating the blend of ancient architecture and natural beauty. Sigiriya’s history dates back to the 5th century CE when King Kasyapa established his kingdom here. Its significance lies in its role as a symbol of ancient Sri Lankan art and engineering.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_c006be59de",
     "name": "Sera Ella Water Fall",
-    "description": "Located in Matale, Sera Ella Water Fall is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sera Ella Waterfall, located in Matale District, Sri Lanka, is a picturesque viewpoint known for its serene cascading waters. It attracts visitors seeking stunning photo opportunities and breathtaking sightseeing experiences. The waterfall's natural beauty has made it a popular spot for tourists and locals alike, offering a tranquil escape from the hustle of daily life. Its location in Matale, a district known for its rich biodiversity and cultural heritage, enhances the area's appeal as a destination for nature lovers and those interested in local culture.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_1c37a488de",
     "name": "Kalupahana",
-    "description": "Kalupahana is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Kalupahana, a scenic viewpoint nestled in Matale, Sri Lanka, offers breathtaking panoramic views of the surrounding hills and valleys. Known for its picturesque landscapes, it attracts photographers and sightseers alike. The viewpoint stands as a testament to nature’s beauty, offering visitors a moment of tranquility and reflection. Historically, Kalupahana was developed as part of a larger estate, but its exact construction date and founder remain undocumented. Today, it serves as a popular spot for locals and tourists seeking a serene escape from daily life.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_11bcab3dcd",
     "name": "Aligala Cave",
-    "description": "Aligala Cave is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Aligala Cave, located in the Matale district of Sri Lanka, offers visitors stunning natural viewpoints. The cave, believed to be over 2000 years old, provides a unique perspective on the surrounding landscape. It attracts tourists who come to take photographs and enjoy the scenic beauty. Historians speculate the cave may have been used as a shelter by ancient settlers or perhaps even served as a site for rituals due to its serene location. Today, it remains a popular spot for nature lovers and photographers seeking to capture its ethereal charm.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_f3b5bd1e68",
     "name": "Rock with Holes",
-    "description": "Located in Matale, Rock with Holes is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Rock with Holes, located in Matale, Sri Lanka, is a popular viewpoint known for its striking rock formation with natural holes carved into it. Visitors come to take breathtaking photos and enjoy the panoramic views from its elevated position. Historically, the site is believed to have been used by ancient Sinhalese kings as a lookout point, offering a strategic advantage over the surrounding area. Cultural and religiously, it holds little significance but remains a favorite among tourists seeking a unique photo opportunity.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_201f216b27",
     "name": "Karagahatenna Transmission Station",
-    "description": "Located in Matale, Karagahatenna Transmission Station is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Karagahatenna Transmission Station stands as a prominent landmark in Matale District, offering panoramic views of the surrounding landscape. Built in the early 21st century by the Sri Lankan Electricity Authority, it serves as an essential part of the national power grid. Visitors can take in the picturesque scenery while enjoying photography opportunities or simply appreciating the engineering marvel. Notable for its modern architecture and the role it plays in the country's energy infrastructure, the station is a fascinating stop for tourists interested in both the natural beauty and technological advancements of Sri Lanka.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -541,7 +541,7 @@
 {
     "id": "pl_osm_20efad5709",
     "name": "Opalgala Transmission Station",
-    "description": "Opalgala Transmission Station is a scenic viewpoint located in Matale, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Opalgala Transmission Station, located in Matale, Sri Lanka, is a prominent viewpoint offering panoramic views of the surrounding countryside. It sits on a hilltop and provides a unique perspective of the lush green landscapes and distant hills. The station was constructed in the 1970s to facilitate power transmission across the region, and while it has no religious or cultural significance, it remains an important landmark for locals and tourists alike, especially for those interested in capturing photos of the picturesque view below.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_f631082a8e",
     "name": "Viewpoint of Sigirya Rock",
-    "description": "Viewpoint of Sigirya Rock is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sigirya Rock, located in Matale District, Sri Lanka, is a UNESCO World Heritage site featuring a 6th century royal palace complex. The rock fortress was constructed by King Kasyapa as his capital and served as a refuge after usurping the throne from his elder brother. Its intricate paintings and well-preserved gardens make it a significant archaeological site, attracting visitors from around the world. From the viewpoint, tourists can enjoy panoramic vistas of the surrounding landscapes, including the ancient ruins and the nearby Nuwara Eliya town.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -613,7 +613,7 @@
 {
     "id": "pl_osm_4ddb266834",
     "name": "view on rice fields & mountains",
-    "description": "view on rice fields & mountains is a scenic viewpoint located in Matale, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "This viewpoint in Matale offers panoramic views of rice fields stretching as far as the eye can see below, framed against the backdrop of lush mountains. It's a popular spot for photographers and sightseers, where visitors can capture the serene beauty of the countryside. Historically, the site has been overlooked by locals as a quiet place to relax and admire nature's bounty. Notable events here include family picnics and local festivals, though the exact origins of the view point are unknown.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -649,7 +649,7 @@
 {
     "id": "pl_osm_5743a15ae5",
     "name": "Mapagala Rock",
-    "description": "Mapagala Rock is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Mapagala Rock, a scenic viewpoint in Matale District, offers breathtaking views of the surrounding countryside. Known for its picturesque location, it attracts visitors seeking panoramic vistas. Historically, the site has been a place of natural beauty and tranquility, admired by locals and tourists alike. Photographers flock here to capture the stunning scenery, while sightseers marvel at the panoramic views. Cultural and religious significance may not be widely documented but the rock's serene setting remains a popular spot for relaxation and reflection.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -721,7 +721,7 @@
 {
     "id": "pl_osm_5b308da15f",
     "name": "Duwannagala Rock",
-    "description": "Duwannagala Rock is a scenic viewpoint located in Matale, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Duwannagala Rock stands as a prominent viewpoint in Matale District, offering breathtaking panoramic views of the surrounding landscapes. The rock formation, believed to have been shaped by nature over millennia, attracts visitors interested in photography and sightseeing. Local legends suggest it was once a sacred site, though no concrete historical records exist to verify these claims. Today, Duwannagala Rock serves as a popular spot for tourists to capture picturesque vistas, making it a must-visit destination for those exploring Matale’s natural beauty.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_7efe1e3c0d",
     "name": "Sunset Point",
-    "description": "Sunset Point is a scenic viewpoint in the Matale area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Sunset Point, a popular viewpoint in Matale, offers breathtaking views of the surrounding countryside and the distant hills. Known for its stunning sunsets, it attracts many photographers and sightseers. The site has been a favorite among locals and tourists alike for decades, with visitors often stopping to capture the picturesque scene. Legend has it that the view was once a secret meeting point for local freedom fighters during the struggle against colonial rule, though this is unverified. Today, it remains a peaceful spot for relaxation and reflection.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -813,7 +813,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -825,3 +825,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_47d9fe60",
     "name": "Ampara Kayak & Canoe",
-    "description": "Ampara Kayak & Canoe offers thrilling kayak adventures on the serene waters of Ampara River. Experience the thrill of paddling through lush greenery and learn about the local culture and wildlife along the way.",
+    "description": "Ampara Kayak & Canoe, nestled in the Ampara district of Sri Lanka, offers kayaking adventures along the river, paddling through nature trails, and serene nature walks. The park stands as a testament to the rich recreational opportunities available in the area, attracting both locals and tourists seeking a close connection with the natural environment. Its location near the river provides an ideal setting for these activities, showcasing the beauty of the region’s waterways and forests. Established over a decade ago, the facility has grown into a popular spot for outdoor enthusiasts, offering a unique way to experience the local culture and natural landscapes.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_4643ec13",
     "name": "Lahugala Elephant Safari",
-    "description": "Lahugala Elephant Safari is a unique elephant sanctuary located in Ampara District, Eastern Province. Home to over 100 elephants, it offers visitors a chance to interact with these gentle giants in their natural habitat, providing a rare glimpse into the lives of these magnificent creatures.",
+    "description": "Lahugala Elephant Safari, an adventurous park in Ampara, Sri Lanka, offers visitors the chance to interact with elephants through guided tours and educational talks. The site, once part of ancient royal lands, now serves as a sanctuary for rescued elephants, providing a unique experience where tourists can learn about these gentle giants and their conservation. Notable for its commitment to animal welfare and eco-tourism, Lahugala Elephant Safari attracts nature lovers and animal enthusiasts seeking a memorable encounter with these magnificent creatures.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_82487d55",
     "name": "Deegawapi Heritage Trek",
-    "description": "Deegawapi Heritage Trek offers a unique blend of natural beauty and historical significance, featuring ancient ruins, lush forests, and serene waterfalls. This trek is perfect for nature lovers and history buffs, offering a glimpse into Sri Lanka’s rich past while immersing visitors in its breathtaking landscapes.",
+    "description": "The Deegawapi Heritage Trek is an adventurous park nestled in the Ampara district of Sri Lanka, offering visitors the chance to explore ancient ruins, hike through lush forests, and witness cascading waterfalls. The area was once a stronghold of the ancient Jaffna Kingdom, with remnants of its past visible in the well-preserved temples and fortifications scattered throughout the landscape. Notable events include the British colonial era's efforts to develop the region, which left their mark in the form of colonial-era buildings and infrastructure. Today, the trek offers a unique blend of natural beauty and historical intrigue, attracting both nature lovers and history enthusiasts.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

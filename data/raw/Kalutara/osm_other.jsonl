@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_637ddeda62",
     "name": "Temple Wele pansala",
-    "description": "Temple Wele pansala is a point of interest located in Kalutara, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Temple Wele pansala, a unique point of interest in Kalutara, Sri Lanka, is a serene spot known for its historical significance as a Buddhist temple. The exact date of its construction and the identity of its founder remain unknown, but it has been a popular site for locals and tourists alike, offering a tranquil retreat surrounded by lush greenery. Visitors can explore the ancient ruins and enjoy the peaceful ambiance, making it a must-visit for those interested in Sri Lankan heritage and natural beauty.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Other",
@@ -11,7 +11,7 @@
     "_osm_type": "node",
     "_osm_id": 1661840272,
     "_source_global_id": "96ebdf8d-3ff0-4576-a4f3-4bbd126e2611",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_481d5486cd",
     "name": "Thudugala Ella",
-    "description": "Located in Kalutara, Thudugala Ella is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Thudugala Ella, a natural stone arch in Kalutara District, Sri Lanka, is a popular spot for sightseeing. Its origins are shrouded in mystery, but it is believed to have been formed by the erosive forces of nature over thousands of years. The arch, which measures approximately 30 meters wide and 25 meters high, offers visitors breathtaking views of the surrounding landscape and waterfalls. It stands as a testament to the enduring power of natural processes, attracting tourists interested in both its geological features and scenic beauty.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Other",
@@ -47,7 +47,7 @@
     "_osm_type": "node",
     "_osm_id": 2213043745,
     "_source_global_id": "9be65054-60e7-497b-b307-888b2efd72f5",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_b0f383d8f1",
     "name": "Pahiyangala cave.",
-    "description": "Pahiyangala cave. is a point of interest located in Kalutara, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Pahiyangala cave is a natural formation located in Kalutara District, Sri Lanka. It is a popular spot for sightseeing, offering visitors an opportunity to explore the unique rock formations and natural beauty. The cave system, believed to be formed over millions of years through geological processes, features several chambers and passages that attract both locals and tourists. Its location in the scenic area makes it a significant attraction for nature lovers and those interested in geology. Known for its serene atmosphere and tranquil surroundings, Pahiyangala cave offers peace and tranquility away from urban hustle.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_59b7960b22",
     "name": "Thun Bodhiya",
-    "description": "Thun Bodhiya is a point of interest located in Kalutara, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Thun Bodhiya, a unique sight in Kalutara District, is a serene open-air shrine where devotees gather to pray and meditate. Its origins trace back to the early 20th century when a local Buddhist monk, inspired by ancient scriptures, constructed this sanctuary. Over time, it became a significant pilgrimage site, attracting visitors seeking spiritual enlightenment and blessings. Today, Thun Bodhiya stands as a testament to the enduring faith and devotion of Sri Lankans, offering a tranquil retreat amidst the hustle and bustle of modern life.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_51d824a1ab",
     "name": "Nature Volunteers",
-    "description": "Nature Volunteers is a point of interest located in Kalutara, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Nature Volunteers is a nature volunteer project located in Kalutara, Sri Lanka. It offers visitors the chance to engage in conservation efforts while learning about local flora and fauna. The site has been operational for over a decade, providing education and hands-on experience to volunteers from around the world. Visitors can participate in tree planting, habitat restoration, and wildlife monitoring activities. Known for its commitment to environmental sustainability, Nature Volunteers plays a crucial role in promoting awareness and action towards preserving Sri Lanka's natural heritage.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Other",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

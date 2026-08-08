@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_f91af02964",
     "name": "Negombo Beach Park",
-    "description": "Negombo Beach Park is a beach located in Gampaha, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
+    "description": "Negombo Beach Park, located in Gampaha, Sri Lanka, offers visitors a stretch of sandy beach perfect for swimming and sunbathing. The park, established as a community project, has become a popular spot for locals and tourists alike, known for its clean waters and tranquil atmosphere. Historically, the area was part of Negombo town, an ancient port city with a rich maritime history, though the exact founding date of the beach park itself is not well-documented. Cultural and religious significance is minimal, but the beach park remains a beloved gathering place for residents and a picturesque backdrop for tourists.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Sandy Beach",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

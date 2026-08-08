@@ -1,7 +1,7 @@
 {
     "id": "pl_5df867c5",
     "name": "Yala East Safari",
-    "description": "Experience the thrill of Yala East Safari, a lush jungle park teeming with wildlife. Home to over 130 species, including leopards, elephants, and crocodiles, it’s a paradise for nature lovers and adventure seekers. Explore its dense forests and rivers while keeping a safe distance from the curious animals.",
+    "description": "Yala East Safari, an adventure park in Monaragala, Sri Lanka, offers guided tours, bird watching, and nature photography. This area, known for its rich biodiversity, attracts tourists eager to explore the natural beauty and wildlife of Yala National Park. Established to protect and showcase the diverse ecosystem, the safari park provides visitors with an opportunity to experience the lush forests, rivers, and wetlands of Yala, where they can spot various species of birds and animals including elephants, leopards, and various species of monkeys.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_c87704c3",
     "name": "Buttala ATV Trail",
-    "description": "Experience the thrill of riding ATVs through the lush green landscapes of Buttala, where nature's beauty meets adventure. This ATV trail offers a unique glimpse into the Monaragala district, perfect for adrenaline seekers and nature lovers alike.",
+    "description": "The Buttala ATV Trail in Monaragala, Sri Lanka offers thrilling ATV rides through scenic countryside dotted with nature trails and photo opportunities. The park, established by local farmers to promote tourism, provides an adventurous experience for visitors keen on exploring the lush green landscapes and diverse wildlife. Notable for its eco-friendly approach, the trail also includes a scavenger hunt where participants can learn about the local flora and fauna. Established to boost the rural economy, the ATV Trail has become a popular spot for both tourists and locals alike seeking a memorable outdoor adventure.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Adventure Park",
@@ -96,10 +96,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_71ab76c085",
     "name": "Green Park",
-    "description": "Located in Monaragala, Green Park is an attraction worth visiting. It's a popular spot for a family day out.",
+    "description": "Green Park, an adventure park in Monaragala, Sri Lanka, offers thrilling rides and family-friendly fun attractions. While the exact history of the park is not known, it has become a popular destination for locals and tourists seeking excitement and entertainment. Established as a recreational space, Green Park now features numerous rides, zip lines, and play areas designed to cater to all ages. Visitors can enjoy heart-pounding roller coasters, gentle swings, and interactive games, making it a go-to spot for families and thrill-seekers alike.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Adventure Park",
@@ -136,7 +137,7 @@
 {
     "id": "pl_osm_b0f77c1578",
     "name": "Pradeshiya Sabha Children Park",
-    "description": "Pradeshiya Sabha Children Park is an attraction in the Monaragala area of Sri Lanka. It's a popular spot for a family day out.",
+    "description": "The Pradeshiya Sabha Children Park, nestled in Monaragala, Sri Lanka, is an adventurous playground designed to bring joy and excitement to children. This family-friendly park offers a variety of rides and activities, making it a popular destination for families. Built to promote local culture and heritage, it features exhibits related to the Pradeshiya Sabha, a historic assembly hall, which adds cultural significance to the park. Established with the aim to engage young minds and preserve Sri Lankan traditions, the park has become a beloved spot for locals and tourists alike.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Adventure Park",

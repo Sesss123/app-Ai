@@ -1,7 +1,7 @@
 {
     "id": "pl_6aa1b24d",
     "name": "Mirissa Whale Watch Tours",
-    "description": "Mirissa Whale Watch Tours offers a unique opportunity to witness the incredible migration of whales off the coast of Mirissa. This serene spot is perfect for nature lovers and whale enthusiasts, providing a chance to observe these majestic creatures up close without disturbing their natural behavior.",
+    "description": "Mirissa Whale Watch Tours is a popular activity park in Matara, Sri Lanka, offering whale watching tours, snorkeling trips, and opportunities for photography. The area is renowned for its whale sightings, particularly humpback whales migrating through the waters. Established over a decade ago, it attracts both local and international tourists eager to witness these majestic creatures in their natural habitat. Visitors can enjoy guided tours where experienced guides share insights into the marine life and the importance of preserving these magnificent animals.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_64924d1d",
     "name": "Matara Scuba & Snorkel",
-    "description": "Matara Scuba & Snorkel offers a unique diving and snorkeling experience off the coast of Matara, Southern Province. This adventure park is perfect for both beginners and experienced divers, featuring crystal-clear waters and vibrant marine life. Visitors can explore underwater caves and reefs, making it a must-visit spot for nature enthusiasts and families alike.",
+    "description": "Matara Scuba & Snorkel, an adventure park in Matara, Sri Lanka, offers visitors the chance to explore the crystal-clear waters of the Indian Ocean through snorkeling and scuba diving experiences. The area is rich with marine life, including colorful fish and coral reefs, making it a popular spot for underwater exploration. Historically, Matara has been a significant fishing village, but the scuba diving and snorkeling opportunities at this park bring new life to the local economy. Notable events like eco-friendly beach cleanups and dive nights further enrich the experience, promoting environmental awareness among visitors.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_80a0d24e",
     "name": "Polhena Reef Dive",
-    "description": "Polhena Reef Dive offers a breathtaking underwater adventure, featuring vibrant coral gardens and a diverse array of marine life. Perfect for divers seeking a unique glimpse into Sri Lanka’s rich marine ecosystem.",
+    "description": "Polhena Reef Dive, a vibrant part of Matara's Adventure Park, offers scuba diving and snorkeling opportunities amidst the coral reefs teeming with marine life. Known for its diverse underwater landscapes, the dive site attracts both novice and experienced divers. Notable for its rich biodiversity, Polhena Reef Dive is a sanctuary for various fish species and sea creatures, making it a popular spot for underwater photography enthusiasts. Historically, the reef has been a crucial habitat for marine life, supporting local fishing communities. Cultural significance lies in its role as an educational tool, promoting awareness about marine conservation.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Adventure Park",
@@ -96,10 +96,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_bf3bb704ae",
     "name": "Snake farm",
-    "description": "Located in Matara, Snake farm is an attraction worth visiting. It's a popular spot for a family day out.",
+    "description": "Matara's Snake farm, an adventurous park in the district, offers visitors the unique experience of wildlife watching. Established decades ago, it was initially set up by a local entrepreneur who recognized the potential of educating tourists about snakes' roles in nature. Over time, it has expanded to include various animal exhibits and educational programs. Today, it attracts families and nature enthusiasts seeking a close encounter with indigenous reptiles, making it a popular spot for those interested in learning about Sri Lanka's diverse wildlife.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Adventure Park",

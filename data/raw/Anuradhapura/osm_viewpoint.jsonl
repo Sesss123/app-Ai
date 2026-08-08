@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_89ea22b863",
     "name": "Kapara Mulaya",
-    "description": "Located in Anuradhapura, Kapara Mulaya is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Kapara Mulaya, a scenic viewpoint in Anuradhapura, offers stunning vistas over the ancient city. The site's origins date back to prehistoric times, though its current prominence as a viewpoint was established during the reign of King Dutugemunu in the 3rd century BCE. Today, visitors come to capture the picturesque view, often including the ruins of ancient temples and the surrounding lush greenery. Cultural significance lies in its role as a vantage point, allowing ancient rulers to oversee their kingdom. A popular spot for photographers and tourists alike, Kapara Mulaya stands as a testament to both natural beauty and historical importance.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Viewpoint",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_29a3a3a444",
     "name": "Pink quartz Mountain View point",
-    "description": "Pink quartz Mountain View point is a scenic viewpoint in the Anuradhapura area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Pink quartz Mountain Viewpoint stands in Anuradhapura, a district rich in ancient Buddhist ruins. It offers panoramic views of the surrounding countryside and ancient temples, making it a popular spot for photography and sightseeing. Little known, but the mountain's unique pink quartz formations attract visitors interested in natural beauty. Historically, the area was part of ancient kingdoms, though the exact founding date is unknown. Cultural significance lies in its role as a peaceful retreat for tourists seeking tranquility amidst nature.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_4d824a9d8f",
     "name": "Rajagiri Lena Kanda (Rajagiri Cave Mountain)",
-    "description": "Rajagiri Lena Kanda (Rajagiri Cave Mountain) is a scenic viewpoint located in Anuradhapura, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Rajagiri Lena Kanda, a viewpoint in Anuradhapura, offers stunning views over the ancient city. The site is believed to be an ancient reservoir named Rajagiri Lena, which dates back to the 3rd century BC. Legend has it that King Devanampiya Tissa built this reservoir as part of his irrigation projects to support Anuradhapura, the first capital of Sri Lanka. Today, visitors can take photos and enjoy the panoramic view of the historic city below, appreciating the ingenuity of early Sri Lankan engineering.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Viewpoint",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_c6b3191c06",
     "name": "Galkadawala Lake",
-    "description": "Galkadawala Lake is a scenic viewpoint in the Anuradhapura area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Galkadawala Lake, a scenic viewpoint in Anuradhapura, offers visitors breathtaking views over the lake and surrounding countryside. The lake, once part of the ancient city of Anuradhapura, holds cultural significance as it was part of the city's water management system. Legend has it that King Dutugemunu constructed the dam around 200 BC to irrigate the fertile lands of Anuradhapura. Today, tourists come to capture photos and enjoy the serene sight, often accompanied by monks passing through on their way to the nearby temple.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Viewpoint",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_9905607220",
     "name": "Galkadawala Lake",
-    "description": "Galkadawala Lake is a scenic viewpoint located in Anuradhapura, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Galkadawala Lake, a scenic viewpoint in Anuradhapura, offers visitors breathtaking views of the lake below. The area has been a popular spot for photography and sightseeing since ancient times, attracting both locals and tourists. Legend has it the lake was formed by the tears of King Kasyapa I as he fled from his brother Dutthagamani, creating a site rich in historical and spiritual significance. Today, it remains a tranquil oasis surrounded by lush greenery, perfect for those seeking a moment of peace amidst nature.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Viewpoint",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_32f8a04eac",
     "name": "View of Anuradhapura",
-    "description": "Located in Anuradhapura, View of Anuradhapura is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Anuradhapura, a UNESCO World Heritage site, houses ancient ruins dating back over 2,000 years. The View of Anuradhapura offers panoramic vistas of the ancient city, including the sacred Bo Tree under which the Buddha is said to have attained enlightenment. Visitors can capture photos of the temple complex, ancient wells, and the sacred pond, reflecting the rich cultural heritage of Sri Lanka. Notable events include the annual Esala Perahera festival, where thousands gather to pay homage to the sacred tooth relic housed in the Temple of the Tooth.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Viewpoint",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_52ed1b61a4",
     "name": "Lake Viewpoint",
-    "description": "Located in Anuradhapura, Lake Viewpoint is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Lake Viewpoint, situated in the heart of Anuradhapura, offers panoramic views of the ancient ruins and surrounding countryside. This scenic viewpoint has been a popular spot for tourists and locals alike, offering breathtaking vistas that capture the beauty of Anuradhapura's rich history and culture. Visitors often take photos here, capturing the serene lake and ancient temples nestled among the lush greenery. Cultural and religious significance lie in its proximity to significant sites like the ancient city of Anuradhapura, where Buddhism flourished for centuries. Notable events include pilgrims visiting the viewpoint during religious festivals, adding to its charm and importance.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Viewpoint",
@@ -285,3 +285,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

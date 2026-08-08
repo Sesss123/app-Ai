@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_a5878453e9",
     "name": "Nalangana Falls",
-    "description": "Located in Kegalle, Nalangana Falls is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Nalangana Falls, a picturesque viewpoint nestled in the verdant hills of Kegalle district, offers breathtaking views of cascading water that plunge into a crystal-clear pool below. The falls are a popular spot for photographers and nature lovers, attracting visitors eager to capture the serene beauty of the waterfall. Local legend speaks of an ancient temple dedicated to the Hindu god Shiva, though its authenticity remains unverified. The falls stand as a testament to the natural splendor that Sri Lanka has to offer, a perfect destination for those seeking peace and tranquility amidst nature’s splendor.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Viewpoint",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_0d27c6549d",
     "name": "Rukmal Ella Waterfall",
-    "description": "Rukmal Ella Waterfall is a scenic viewpoint located in Kegalle, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Rukmal Ella Waterfall stands as a picturesque viewpoint in Kegalle District, Sri Lanka, offering visitors breathtaking views of cascading water. The waterfall, formed by the Rukmal Ella stream, attracts nature lovers and photographers with its serene setting. It's a popular spot for sightseeing, where tourists can capture stunning photos of the waterfall and its surrounding lush greenery. Historically, the area has been revered by local communities for its natural beauty, serving as a tranquil retreat from the bustling city life.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_4d2eefe74a",
     "name": "Weladha Ella Waterfall",
-    "description": "Weladha Ella Waterfall is a scenic viewpoint in the Kegalle area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Weladha Ella Waterfall stands as a picturesque viewpoint in Kegalle District, Sri Lanka, offering visitors breathtaking views and serene surroundings. Known for its natural beauty, it attracts many tourists who come to capture its stunning waterfalls through photography or simply enjoy the scenery. Historically, the waterfall has been a site of local interest for centuries, though specific founding details remain unknown. Notable for its role in local culture and tourism, Weladha Ella Waterfall continues to be a favorite spot for those seeking a peaceful escape amidst nature.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Viewpoint",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_022cadf220",
     "name": "Ruwanwella Suspension Bridge",
-    "description": "Ruwanwella Suspension Bridge is a scenic viewpoint in the Kegalle area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Ruwanwella Suspension Bridge, a viewpoint in Kegalle, Sri Lanka, offers stunning views of the surrounding landscape. Constructed in 1984, the bridge spans the Kelaniya River and connects the towns of Ruwanwella and Kelaniya. It attracts visitors for its picturesque scenery and perfect spot for photography, offering panoramic vistas of the river and hills. Known for its unique suspension design, the bridge is also a testament to local engineering skills. Visitors can enjoy the view while taking in the natural beauty and the serene atmosphere of the area.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Viewpoint",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_ae41431144",
     "name": "Bathalegala",
-    "description": "Bathalegala is a scenic viewpoint in the Kegalle area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Bathalegala, a scenic viewpoint nestled in the Kegalle District of Sri Lanka, offers breathtaking views of the surrounding countryside and hills. Known for its panoramic vistas, Bathalegala attracts photographers and nature lovers who come to capture the picturesque scenery. The viewpoint stands as a testament to the natural beauty of the region, providing visitors with a unique perspective of their surroundings. Historically, Bathalegala has been a spot where locals gather to admire the landscape and perhaps share stories of the area's rich cultural heritage.",
     "district_id": "Kegalle",
     "province_id": "Sabaragamuwa",
     "category_id": "Viewpoint",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

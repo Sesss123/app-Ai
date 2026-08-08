@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_398e8527c5",
     "name": "Thwaites monument",
-    "description": "Thwaites monument is a historic landmark in the Kandy area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Thwaites monument, a historic landmark in Kandy, stands as a tribute to British colonial era. Erected in 1874 by Sir Robert Thwaites, a prominent colonial administrator, it commemorates the passing of the Ceylon Water Supply Bill, which regulated water distribution across the island. This structure, often visited by tourists, offers a glimpse into Kandy's rich colonial past, attracting visitors interested in history and architecture. Its location near the Temple of the Tooth makes it an important site for both local residents and tourists exploring Kandy's cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_591b5904e7",
     "name": "Ruins of James Taylor's Bungalow",
-    "description": "Ruins of James Taylor's Bungalow is a historic landmark located in Kandy, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "James Taylor's Bungalow, a historic building in Kandy, was once a residence for a British colonial official. The bungalow, now in ruins, stands as a testament to the era of British rule in Sri Lanka. It was constructed during the late 19th century and served as a symbol of power and privilege before being abandoned in the early 20th century. Today, visitors can explore its remnants, capturing photographs and marveling at its architectural beauty, while learning about the rich colonial history that shaped modern Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Building",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_072954b1ce",
     "name": "captain Dowsan tower",
-    "description": "captain Dowsan tower is a historic landmark located in Kandy, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Captain Dowsan Tower, a historic landmark in Kandy, Sri Lanka, stands as a testament to colonial architecture. Built in the early 20th century by British colonizers, it served as a telegraph office until its closure in the 1960s. Today, visitors can explore its imposing structure, capturing photos that reflect its architectural beauty, or simply admire its grandeur while enjoying the sightseeing experience. Its presence in Kandy, a city steeped in history, makes it a popular spot for tourists seeking a glimpse into Sri Lanka's past.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Building",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_e7ed9fc616",
     "name": "George Gardner Monument",
-    "description": "Located in Kandy, George Gardner Monument is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "The George Gardner Monument stands in Kandy, Sri Lanka, as a testament to the British colonial era. Commissioned by the British Governor of Ceylon in honor of George Gardner, a prominent local politician, the monument was erected in 1864. Gardner served as the first elected mayor of Kandy and played a crucial role in the town's governance. The structure itself is a blend of colonial architecture, featuring a distinctive design that reflects the period's influence on local construction. Today, it serves as a focal point for visitors interested in local history and colonial legacy, often visited for photography and sightseeing.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Building",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_cfb89271d0",
     "name": "World War I Memorial",
-    "description": "World War I Memorial is a historic landmark located in Kandy, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The World War I Memorial stands in Kandy, a historic district in central Sri Lanka, erected as a tribute to those who lost their lives during World War I. Constructed in 1928, it is a poignant reminder of the sacrifices made by the young men from various ethnic backgrounds serving under British rule. The memorial, surrounded by lush gardens, offers visitors a serene spot to reflect on the past while enjoying the scenic beauty of the area. It also serves as a venue for photography enthusiasts and sightseeing tours.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Building",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_854174c63d",
     "name": "Anagarika Dharmapala",
-    "description": "Anagarika Dharmapala is a historic landmark located in Kandy, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Anagarika Dharmapala was a prominent Buddhist leader and social reformer in early 20th century Ceylon. Born in a rural village near Kandy, he became a key figure in the revival of Theravada Buddhism. He founded the Anuradhapura Temple and established the Anagarika Dharmapala Trust, which continues to support Buddhist causes. The statue of him stands outside the Dharmapala Memorial Hall in Kandy, attracting visitors interested in his life and work. It also houses his personal belongings and memorabilia. This building is significant as a symbol of Sri Lanka's spiritual heritage and social reforms.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Building",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_8fbe5a6718",
     "name": "General Anuruddha Rateatte",
-    "description": "General Anuruddha Rateatte is a historic landmark in the Kandy area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "General Anuruddha Rateatte, a historic building in Kandy, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Built during the Kandyan period, it was constructed by Anuruddha Rateatte, a prominent Kandyan prince, in the early 18th century. The structure holds significant religious and cultural importance, serving as a site for traditional ceremonies and rituals. Visitors can admire its intricate architecture and learn about the local history through guided tours. Its presence attracts photographers and sightseers interested in exploring the ancient monuments of Kandy.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Building",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_1171f1f55d",
     "name": "George E. De Silva",
-    "description": "George E. De Silva is a historic landmark in the Kandy area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "George E. De Silva was a prominent architect who designed this building in Kandy, a city rich in colonial-era architecture. Completed in the early 20th century, it stands as a testament to the architectural prowess of that era, blending European and local styles. The building, now a historic landmark, has been used for various purposes over the years including offices and exhibitions, but it's most famous for its role hosting cultural events and exhibitions, making it a significant site for those interested in Kandy's heritage and arts scene.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Building",
@@ -285,6 +285,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_1b72b0c0",
     "name": "Singha Regiment Building",

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_0e36ba7c05",
     "name": "St. Anthony's Church - Wahakotte",
-    "description": "St. Anthony's Church - Wahakotte is a church located in Matale, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St Anthony's Church in Wahakotte, Matale District, is a historic Anglican church known for its beautiful architecture and serene surroundings. Founded in the late 19th century by British colonial administrators, the church was initially built as a place of worship for the local English community. Over time, it has become an important landmark for the predominantly Sinhalese population of the area, hosting regular services and gatherings. Its distinctive white steeple and lush greenery make it a popular spot for both locals and tourists to visit, often accompanied by photographs capturing its beauty.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_7abdfc13a8",
     "name": "St. Sebastian Church",
-    "description": "Located in Matale, St. Sebastian Church is a church worth visiting. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St. Sebastian Church stands in Matale, a district known for its rich cultural heritage. The church, though modest in size, holds significant religious importance as one of the oldest churches in Matale, often visited by locals and tourists alike. It was established during the colonial era by British missionaries, reflecting the influence of Western culture on local religion. Over the years, it has witnessed numerous prayers and ceremonies, preserving the spiritual journey of Matale's community. Visitors can take photos to capture its serene beauty and historical charm.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_6241813819",
     "name": "St. Mary's Church",
-    "description": "St. Mary's Church is a church in the Matale area of Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St Mary's Church in Matale District is a historic Anglican church known for its ornate architecture and rich history dating back to the late 19th century. Built by British colonial administrators, it was commissioned as a symbol of Christian unity in the predominantly Buddhist country. Notable for its distinctive white steeple, the church has hosted numerous local and international gatherings, making it a significant landmark in Matale. Its serene surroundings and historical importance make it a popular site for both locals and tourists seeking spiritual inspiration.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_c4aa88ffe7",
     "name": "Rattota Baptist Church",
-    "description": "Rattota Baptist Church is a church located in Matale, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Rattota Baptist Church stands in Matale District, Sri Lanka, a serene place where believers gather for prayer. Constructed in the early 20th century, the church is an important landmark for the local community and visitors alike, known for its simple yet elegant architecture. Notable for its role in fostering unity among different ethnic groups, the church has witnessed numerous local events, making it a significant site in the region's history. Visitors can also capture memorable photos here, adding to the church's appeal as a place of both spiritual and cultural importance.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_9197b1c9e3",
     "name": "Saint Thomas' Church",
-    "description": "Saint Thomas' Church is a church in the Matale area of Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Saint Thomas' Church in Matale, Sri Lanka, stands as a testament to the early Christian presence in the region. Legend has it Saint Thomas, one of Jesus Christ's twelve apostles, visited this site on his journey through South India and Sri Lanka. The church itself, however, was constructed much later, likely in the colonial era. It serves as a place of worship for local Christians and draws visitors interested in its historical connection to Christianity in the area. Visitors can explore the serene interior and take photos, capturing the essence of this historic building.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",
@@ -177,10 +177,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_1773eb1b",
     "name": "Matale St. Luke's Church",
-    "description": "Matale St. Luke's Church stands as a historic Anglican sanctuary nestled amidst lush greenery. Its striking architecture and serene ambiance make it a must-visit for those seeking spiritual solace and picturesque views.",
+    "description": "Matale St. Luke's Church stands in Matale District, Sri Lanka, known for its serene prayer services and reflective walks through its lush green surroundings. Originally built as a small chapel by British missionaries in the early 20th century, it has grown into a significant local landmark. Notable for its harmonious blend of colonial architecture and indigenous elements, the church often hosts photography exhibitions featuring local artists. Cultural events and community gatherings frequently take place here, making it a hub of spiritual and social activities.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",
@@ -214,7 +215,7 @@
 {
     "id": "pl_87dcf0f0",
     "name": "Matale St. Thomas's Church",
-    "description": "Matale St. Thomas's Church stands as a historic Anglican sanctuary nestled amidst lush greenery, its towering spire piercing the sky. This sacred site has witnessed centuries of religious fervor and cultural exchange, offering visitors a glimpse into Sri Lanka’s rich spiritual heritage.",
+    "description": "Matale's St. Thomas's Church stands as a testament to the rich Christian heritage of the Matale district. Built in the early 20th century, it was constructed by local Christians and features intricate carvings and stained glass windows. The church's serene atmosphere invites visitors to reflect on its historical importance, which includes being a hub for community gatherings and worship. Visitors can explore the church's interior and exterior, marveling at the craftsmanship, and take in breathtaking views of the surrounding countryside.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",
@@ -248,7 +249,7 @@
 {
     "id": "pl_0247c276",
     "name": "Aluvihare St. Mary's Church",
-    "description": "Aluvihare St. Mary's Church stands as a testament to Catholic faith and architectural elegance, its intricate carvings and stained glass windows reflecting the rich history of Matale's religious heritage.",
+    "description": "Aluvihare St. Mary's Church, located in Matale District, Sri Lanka, stands as a testament to colonial influence. Constructed by British colonizers in the early 20th century, the church features intricate Gothic Revival architecture, with its white steeple reaching towards the sky. Inside, the altar and stained glass windows tell stories of faith and devotion. Visitors can explore the serene interior, take photos of the beautiful architecture, and learn about the church's rich history, including its role in the local community and the lives of those who worshipped there.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",
@@ -282,7 +283,7 @@
 {
     "id": "pl_a9e3a1f7",
     "name": "Dambulla St. Mark's Church",
-    "description": "Dambulla St. Mark's Church, a stunning Christian sanctuary nestled in the lush Matale district, offers visitors a glimpse into the rich cultural heritage of Sri Lanka. This historic church, known for its intricate frescoes and architectural beauty, stands as a testament to the island's diverse religious landscape.",
+    "description": "Dambulla St. Mark's Church, a small Anglican church in Matale, Sri Lanka, stands as a testament to the blending of cultures during colonial times. Built by British administrators in the early 20th century, it was designed to blend local architectural elements with Western influences. The interior features intricate frescoes painted by local artists, depicting scenes from the Bible. Visitors can also enjoy breathtaking views of the surrounding countryside, making it a popular spot for both religious pilgrims and tourists seeking a serene escape.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Church",

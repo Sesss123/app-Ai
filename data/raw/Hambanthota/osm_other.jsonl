@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_d2b33fa99b",
     "name": "Hummanaya Blow Hole",
-    "description": "Hummanaya Blow Hole is a point of interest located in Hambanthota, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Hummanaya Blow Hole, a unique natural phenomenon in Hambanthota, Sri Lanka, features water shooting out of the sea floor through a narrow opening. The exact age and construction details are unknown, but locals believe it has been there for centuries, a testament to the area's rich marine ecosystem. Visitors can marvel at the powerful surge of water, often accompanied by dramatic splashes and flashes of sunlight. This site offers a fascinating glimpse into nature's power, attracting both tourists and curious locals seeking the thrill of witnessing this extraordinary sight.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Other",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_2eb5544135",
     "name": "Rock Pool",
-    "description": "Rock Pool is a point of interest located in Hambanthota, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Rock Pool, located in Hambanthota, Sri Lanka, is a small natural pool carved into a rock formation by the sea. It's a popular spot for sightseeing, offering views of the Indian Ocean and a unique geological feature. The area has been a local attraction for generations, especially during high tide when the water level changes dramatically, creating mesmerizing visual effects. Known for its serene beauty and tranquility, Rock Pool serves as a tranquil retreat for visitors seeking a moment of peace amidst nature.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Other",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_75e39f85e3",
     "name": "Ashram Sri Lanka",
-    "description": "Ashram Sri Lanka is a point of interest located in Hambanthota, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Ashram Sri Lanka, located in the coastal town of Hambanthota, is an open-air meditation center offering yoga classes and spiritual retreats. It was established by a local spiritual leader in the early 21st century, attracting visitors seeking peace and tranquility. The ashram features serene gardens, a peaceful temple, and regular workshops on mindfulness and holistic living. Visitors can experience yoga sessions, meditation, and participate in guided tours of the ashram grounds. Its unique blend of spirituality and natural beauty makes it a popular destination for those looking to connect with nature and inner peace.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Other",
@@ -83,7 +83,7 @@
     "_osm_type": "node",
     "_osm_id": 4840725123,
     "_source_global_id": "15a354b2-7ece-48a9-9e79-4fd2f5236293",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 09:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_6e516961c5",
     "name": "Katuwana Dutch Fort",
-    "description": "Katuwana Dutch Fort is a point of interest in the Hambanthota area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Katuwana Dutch Fort, also known as Hambanthota Dutch Fort, is a historic site in the Hambanthota district of Sri Lanka. Constructed by the Dutch in the 17th century, the fort served as a strategic military outpost. It was part of the Dutch East India Company's efforts to control trade routes in the region. Today, it offers visitors a glimpse into colonial history, with remnants of its walls and cannons still standing. The fort has witnessed significant events, including battles against local rulers, making it a valuable site for understanding the country's complex colonial past. Visitors can explore its well-preserved structures, learn about its historical importance, and appreciate the blend of European and local architectural styles.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_f29214b71d",
     "name": "Trees with a lot of bats",
-    "description": "Located in Hambanthota, Trees with a lot of bats is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Trees with Bats, a unique natural wonder in Hambanthota, Sri Lanka, draws visitors with its unusual sight of tens of thousands of bats roosting in the trees at night. This area, known locally as Kuda Kudawa, is a protected sanctuary where locals can observe these nocturnal creatures. The site’s exact age and the reason behind its bat population remain mysteries, though it is believed to be over a century old. Sightseeing here offers a glimpse into nature's fascinating ecosystem, making it a popular spot for wildlife enthusiasts and nature lovers.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_f23e2d84e1",
     "name": "Kahandamodara beach",
-    "description": "Kahandamodara beach is a point of interest located in Hambanthota, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kahandamodara beach, located in the southernmost tip of Hambanthota, is a serene stretch of sand known for its crystal-clear waters and white sands. It is a popular spot for locals and tourists alike, offering a tranquil escape from the hustle of urban life. The beach gets its name from the nearby temple, Kahandamodara, which is dedicated to the Buddhist monk Mahinda, the son of Emperor Ashoka of India. Legend has it that he brought Buddhism to Sri Lanka during his visit in the 3rd century BCE. This beach, therefore, carries a rich cultural significance as a testament to ancient maritime trade routes and religious exchange.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Other",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_59d767fc37",
     "name": "Ridiyagama Safari Park",
-    "description": "Ridiyagama Safari Park is a point of interest located in Hambanthota, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Ridiyagama Safari Park, located in Hambanthota, Sri Lanka, offers visitors an opportunity to see exotic animals up close in a natural setting. The park, which opened in 2005, provides a unique experience for wildlife enthusiasts. It features various species including lions, tigers, leopards, elephants, and giraffes, all brought from different parts of the country to be reintroduced into their native habitats. Visitors can enjoy sightseeing through guided tours, learning about conservation efforts and the importance of preserving Sri Lanka’s rich biodiversity.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Other",
@@ -227,7 +227,7 @@
     "_osm_type": "way",
     "_osm_id": 816769045,
     "_source_global_id": "e5b96ca6-aa95-4b1c-a434-d5ae398ad8b1",
-    "opening_hours": "Check locally",
+    "opening_hours": "08:30-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -249,3 +249,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

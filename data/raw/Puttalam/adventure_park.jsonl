@@ -1,7 +1,7 @@
 {
     "id": "pl_3667c154",
     "name": "Kalpitiya Kite Surfing Park",
-    "description": "Discover the thrill of kite surfing at Kalpitiya Kite Surfing Park, nestled along the picturesque coastline. Experience the perfect blend of adrenaline and breathtaking views, making it a must-visit spot for adventure seekers.",
+    "description": "The Kalpitiya Kite Surfing Park, nestled in the serene waters of the Gulf of Mannar, offers an exhilarating blend of adventure and relaxation. Established in 2015, the park has become a popular destination for kite surfers from around the world. Visitors can experience the thrill of riding the waves while enjoying scenic views of the sunset over the Indian Ocean. Alongside kite surfing, snorkeling opportunities abound, allowing guests to explore the vibrant underwater world teeming with marine life. This unique park not only caters to adrenaline seekers but also serves as a sanctuary for nature lovers seeking tranquility by the sea.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_08110617",
     "name": "Wilpattu Safari Centre",
-    "description": "Explore the mystical Wilpattu Safari Centre, a unique sanctuary where nature’s wonders unfold amidst ancient ruins and lush landscapes. This expansive park offers a glimpse into Sri Lanka’s rich wildlife and geological history, perfect for adventurous travelers seeking a blend of natural beauty and cultural heritage.",
+    "description": "Wilpattu Safari Centre, located in Puttalam, Sri Lanka, is an adventure park offering wildlife watching and nature photography tours. Established to protect and showcase the diverse wildlife of Wilpattu National Park, the centre provides guided tours through the ancient wetlands and forests. The park itself is significant for its unique karst formations known as 'wells' or 'wilps', which are natural depressions filled with water. Notable events include the annual elephant migration, attracting tourists and wildlife enthusiasts from around the world. Cultural tours explore the rich history and traditions of the region, adding depth to visitors' understanding of the area.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_7b33833d",
     "name": "Puttalam Lagoon Cruise",
-    "description": "Experience the serene beauty of Puttalam Lagoon Cruise, a unique adventure park nestled in the lush wetlands of Puttalam. Explore the lagoon’s crystal-clear waters, spot exotic birds, and marvel at the natural wonders of this protected area. Ideal for nature lovers and wildlife enthusiasts.",
+    "description": "The Puttalam Lagoon Cruise Adventure Park in Puttalam, Sri Lanka offers visitors the chance to explore the lagoon through various activities including bird watching, photography, and nature walks. The park is home to diverse flora and fauna, attracting bird enthusiasts and nature lovers alike. Historically, the area has been an important fishing ground and trade route, connecting coastal communities for centuries. Today, it serves as a sanctuary for numerous species of birds and a testament to the rich biodiversity of the region.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

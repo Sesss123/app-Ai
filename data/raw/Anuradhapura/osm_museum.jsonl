@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_4578e90992",
     "name": "Thuruwila purana Raja maha Viharaya",
-    "description": "Located in Anuradhapura, Thuruwila purana Raja maha Viharaya is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Thuruwila purana Raja maha Viharaya, located in Anuradhapura, is a museum dedicated to Buddhist heritage. It houses ancient artifacts and statues from the 3rd century BC, showcasing the rich architectural and artistic traditions of early Sri Lanka. The site is significant as it preserves the legacy of the Anuradhapura kingdom, once the capital of Sri Lanka. Notable events include the restoration of the temple during the reign of King Mahasena, highlighting the importance of religious and cultural preservation in ancient Sri Lankan society.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Museum",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_924b328ae0",
     "name": "Isurumuniya Museum",
-    "description": "Isurumuniya Museum is a museum located in Anuradhapura, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Isurumuniya Museum, located in the ancient city of Anuradhapura, houses artifacts and exhibits related to Sri Lanka's rich cultural heritage. Founded in 1974 by the Archaeological Department, the museum showcases over 3000 years of Sri Lankan history through a collection of pottery, sculptures, and manuscripts. Notable among its exhibits is the Isurumuniya Pillar, a stone pillar believed to be over 2000 years old, which was once part of a Hindu temple dedicated to the god Vishnu. Visitors can learn about the island's ancient civilizations and religious practices through guided tours and interactive displays.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Museum",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_3209710124",
     "name": "Archaeological museum",
-    "description": "Archaeological museum is a museum located in Anuradhapura, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Archaeological Museum in Anuradhapura houses artifacts and relics from various sites around the ancient city, including the ruins of the sacred Bo tree, the Mahausi Buddha statue, and the ruins of the ancient tank system. Built in 1884 by Sir James Emerson Tennent, it showcases items such as pottery, stone statues, and coins dating back centuries. The museum provides insights into the rich cultural heritage of Anuradhapura, highlighting the city's historical importance as a center of Buddhism and civilization in Sri Lanka. Visitors can learn about significant events like the restoration of the Bo tree, a symbol of the Buddha's enlightenment, and gain appreciation for the region's archaeological treasures.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Museum",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_9248dcbeb5",
     "name": "Muzeum Jetavana",
-    "description": "Muzeum Jetavana is a museum in the Anuradhapura area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Muzeum Jetavana, located in the heart of Anuradhapura, is a museum dedicated to showcasing artifacts and documents related to the ancient Buddhist monastery Jetavana. Founded in the 3rd century BC, the museum houses relics and artworks that reflect the rich history and spiritual practices of early Buddhism. Visitors can learn about the monastery’s pivotal role in the spread of Buddhism across South Asia, making it a significant site for both local and international scholars and pilgrims. Engage with guided tours to understand the cultural and religious importance of these exhibits.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Museum",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_071d7d3fc4",
     "name": "Folk Museum",
-    "description": "Located in Anuradhapura, Folk Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Folk Museum in Anuradhapura, Sri Lanka, is a repository of traditional crafts and artifacts that reflect local culture and history. Founded in 1964 by the late Sir Karunadasa Weeraratne, an influential Sri Lankan historian, it showcases items such as textiles, musical instruments, and agricultural tools, each piece telling stories of past generations. The museum also features interactive exhibits and workshops where visitors can learn traditional skills. It serves as a valuable resource for understanding Sri Lankan heritage and culture.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Museum",
@@ -155,7 +155,7 @@
     "_osm_type": "way",
     "_osm_id": 398905067,
     "_source_global_id": "66d1c0dc-733f-4665-b8d9-61c42298e14a",
-    "opening_hours": "Check locally",
+    "opening_hours": "Tu-Su 9:00-17:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

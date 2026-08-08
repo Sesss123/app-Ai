@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_ed3e6b5245",
     "name": "Kavisanan complex",
-    "description": "Kavisanan complex is a scenic viewpoint in the Vavuniya area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Kavisanan complex, situated in the picturesque Vavuniya district, offers breathtaking views of the surrounding countryside. Visitors can capture stunning photos or simply enjoy the serene sightseeing experience. This viewpoint, though unnamed historically, has become a popular spot for tourists appreciating nature’s beauty. Its prominence as a local landmark dates back to the mid-20th century when it was elevated by locals to provide an elevated vantage point. Over time, it has evolved into a cherished spot for both locals and visitors alike.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_39a2faf336",
     "name": "UNIT 06 MAIN STREET 450101 (unit 06 to unite 04 )",
-    "description": "Located in Vavuniya, UNIT 06 MAIN STREET 450101 (unit 06 to unite 04 ) is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Unit 06 Main Street, a scenic viewpoint in Vavuniya, offers stunning vistas and is a popular spot for photography and sightseeing. The exact origin and construction date of this street are unknown, but it has become an integral part of local identity and tourism. It was once part of a larger network of streets that facilitated trade and communication in the region, connecting various villages and towns. Today, it stands as a reminder of the area's rich heritage and vibrant past.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Viewpoint",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_2156d90676",
     "name": "45012 SCHOOL ROAD ENDING (பாடசாலை முன் சுற்றுவட்ட வீதி )",
-    "description": "Located in Vavuniya, 45012 SCHOOL ROAD ENDING (பாடசாலை முன் சுற்றுவட்ட வீதி ) is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "This viewpoint on School Road Ending offers stunning vistas over the lush greenery and rice paddies of Vavuniya district. Known locally as பாடசாலை முன் சுற்றுவட்ட வீதி (Padasala Mune Surchuvatt Veethi), it was an old road ending point before being incorporated into the modern road network. Photographers flock here to capture the picturesque scenes, while visitors can enjoy the serene view and perhaps spot local wildlife. Cultural significance lies in its role as a historic crossroads, though exact founding dates and builders are unknown.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Viewpoint",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_4dae1c14fd",
     "name": "45011KALIMAKAL NAKAR ROAD. (கலைமகள் நகர் வீதி)",
-    "description": "45011KALIMAKAL NAKAR ROAD. (கலைமகள் நகர் வீதி) is a scenic viewpoint in the Vavuniya area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Nestled along Kalimakal Nagar Road in Vavuniya District, this scenic viewpoint offers panoramic vistas over the lush greenery and distant hills. Known for its picturesque setting, it attracts visitors seeking unique photo opportunities. Historically, the area was part of the ancient Jaffna Kingdom, though specific details of its founding remain undocumented. Cultural significance lies in its role as a landmark for travelers navigating the region. Notable events include local festivals where crowds gather at the viewpoint. Visitors can enjoy the serene views while snapping photos, making it a popular spot for tourists exploring the area.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Viewpoint",
@@ -357,3 +357,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

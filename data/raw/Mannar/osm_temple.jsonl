@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_ba9d58dc7b",
     "name": "St. Anne's Church, Vankalai",
-    "description": "Located in Mannar, St. Anne's Church, Vankalai is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "St Anne's Church, also known as St Ann's Chapel, stands in Vankalai, Mannar District, Sri Lanka. The church, a small yet significant structure, commemorates the childhood home of the Virgin Mary according to Christian tradition. Built by British colonialists in the early 20th century, it was originally constructed to serve as a place of worship for Indian Christians. Despite its modest size, the church holds great importance for local communities and visitors alike, offering a glimpse into the rich religious heritage of the region. Visitors can explore the church, take photos, and participate in prayers, making it a popular spot for both locals and tourists seeking spiritual experiences.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Temple",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

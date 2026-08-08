@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_90599d8e49",
     "name": "Ramakrishna Mission",
-    "description": "Located in Colombo, Ramakrishna Mission is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Ramakrishna Mission is a Kovil dedicated to Ramakrishna, a revered Hindu deity. Located in the heart of Colombo, it serves as a significant spiritual center attracting devotees seeking blessings and solace. The Kovil was established by local Hindu communities, symbolizing their deep-rooted faith and cultural heritage. Visitors can attend prayers and take part in rituals, while also appreciating the serene ambiance and artistic depictions within the premises. Photography is permitted, offering visitors a chance to capture the unique charm of this sacred site.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -57,7 +57,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_75829efe54",
     "name": "Mayura Kovil",
-    "description": "Mayura Kovil is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Mayura Kovil, located in the heart of Colombo, is a sacred Hindu temple dedicated to the elephant-headed god Ganesha. Its exact construction date is unknown, but it is believed to have been established as early as the 17th century. The temple's architecture blends traditional Sri Lankan elements with Indo-Saracenic influences, reflecting the colonial era's architectural fusion. It holds immense cultural and religious significance, attracting devotees and tourists alike for its serene atmosphere and vibrant rituals. Visitors can explore the temple's inner sanctum adorned with intricate carvings, participate in daily prayers, and capture memorable photos.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -93,7 +93,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_30b259b567",
     "name": "Sri Venkateshwara Maha Vishnu Kovil",
-    "description": "Sri Venkateshwara Maha Vishnu Kovil is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Venkateshwara Maha Vishnu Kovil, located in Colombo, Sri Lanka, is a prominent Hindu temple dedicated to Lord Vishnu. The Kovil was established during the British colonial era as part of efforts to preserve Indian culture among the local population. It stands as a significant religious site where devotees gather for prayer and rituals, and tourists can capture its architectural beauty through photography. Known for its intricate carvings and traditional architecture, the Kovil has become an important cultural landmark in Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_f5756e7e31",
     "name": "Sive Subramaniya Kovil Slave Island",
-    "description": "Sive Subramaniya Kovil Slave Island is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sive Subramaniya Kovil, also known as Slave Island Kovil, stands on a small hill in Colombo, Sri Lanka. The temple, dedicated to Lord Murugan, was established during the colonial era as a place of worship for the Tamil community, many of whom were brought as slaves during British rule. It features intricate carvings and a unique blend of Indian and European architectural styles, reflecting the rich cultural heritage of the island's inhabitants. Visitors can admire the ancient statues and participate in daily prayers while taking photos that capture the serene beauty of the temple.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_4527f9227c",
     "name": "Lower Davidson Kovil",
-    "description": "Located in Colombo, Lower Davidson Kovil is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Lower Davidson Kovil stands in the heart of Colombo, a significant Hindu temple dedicated to Lord Shiva. Its origins trace back to the late 19th century, when it was established by a group of Indian immigrants who sought a sacred space to perform traditional rituals. Over time, it has become a focal point for worship and cultural preservation, attracting devotees and tourists alike. Notable for its blend of local and Indian architectural styles, the Kovil also hosts regular festivals that celebrate the community and showcase vibrant cultural traditions.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_cf39fd5a5e",
     "name": "Sri Mutrhumariamman Kovil",
-    "description": "Sri Mutrhumariamman Kovil is a Hindu kovil located in Colombo, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Mutrhumariamman Kovil, a sacred Hindu temple in Colombo, stands as a testament to the city's rich multicultural heritage. Founded by Tamil immigrants in the early 20th century, the Kovil is dedicated to the deity Murugan, offering devotees a serene space for worship and reflection. Its architecture blends traditional Indian elements with contemporary design, reflecting the evolving cultural landscape of Colombo. Known for its vibrant festivals and community gatherings, the Kovil remains an important center for Tamil culture and faith in the city.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_6c9e09503b",
     "name": "Aishwari Amman Temple",
-    "description": "Aishwari Amman Temple is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Aishwari Amman Temple, nestled in the heart of Colombo's Pettah market area, is a significant Hindu Kovil dedicated to Aishwari Amman, an incarnation of the goddess Kali. This ancient temple, believed to date back several centuries, is a place of profound spiritual importance where devotees gather for prayer and rituals. Over the years, it has witnessed numerous cultural and religious ceremonies, making it a hub of community life in the Pettah district. Visitors can also capture memorable moments through photography, adding personal touches to their pilgrimage experience.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_a581029215",
     "name": "Sri Venkateshwara Hindu Temple",
-    "description": "Sri Venkateshwara Hindu Temple is a Hindu kovil located in Colombo, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Venkateshwara Hindu Temple, located in the heart of Colombo, is an important pilgrimage site attracting devotees seeking blessings. The temple, believed to date back to the 16th century, houses a revered statue of Lord Venkateshwara, one of the most prominent deities in Hinduism. Its presence in the bustling city center makes it a significant spiritual landmark, often visited by both locals and tourists seeking solace and spiritual guidance. Known for its serene atmosphere and vibrant community life, the temple plays a crucial role in the religious fabric of Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_84b5292ef8",
     "name": "Pillaiyar Kovil",
-    "description": "Pillaiyar Kovil is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Pillaiyar Kovil, located in the heart of Colombo, is an ancient Hindu temple dedicated to Lord Murugan. Built by local Tamils in the 17th century, it stands as a testament to the rich cultural heritage of Sri Lanka’s Tamil community. The temple is known for its intricate carvings and architectural beauty, attracting devotees and tourists alike. Its serene atmosphere makes it a popular spot for prayer and photography, offering visitors a glimpse into the spiritual life of Sri Lanka’s diverse population.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_421e0046a2",
     "name": "Temple of Siva",
-    "description": "Temple of Siva is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Temple of Siva, also known as Samadhi Temple, is a prominent Hindu Kovil in Colombo, Sri Lanka. Built by Tamil immigrants in the early 20th century, it houses the sacred remains of the 18th-century Tamil saint Sivagamas Swami. The temple is a significant pilgrimage site where devotees come to pray and seek blessings. Its unique architecture blends traditional Indian styles with local Sinhalese elements, making it a harmonious blend of cultures. Visitors can also take photos, capturing the serene atmosphere and ancient structures.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_f5eb11e36e",
     "name": "Sri Vishnu Temple",
-    "description": "Sri Vishnu Temple is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Vishnu Temple stands in the heart of Colombo, a significant Hindu site where devotees gather for prayers and rituals. The temple, though not much older than a century, holds deep cultural importance as it serves as a symbol of unity between different ethnic groups in Sri Lanka. Its architecture blends traditional elements with modern design, making it a popular spot for both locals and tourists. Notable for its role in fostering community spirit, the temple often hosts cultural festivals and social gatherings, drawing visitors interested in its rich heritage and vibrant atmosphere.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_7ae484054c",
     "name": "Sri Maha Kaliamman Temple",
-    "description": "Sri Maha Kaliamman Temple is a Hindu kovil located in Colombo, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "The Sri Maha Kaliamman Temple in Colombo is a significant Hindu Kovil dedicated to Kaliamman, a revered deity. The temple was established during the colonial era by Indian immigrants, reflecting the rich tapestry of Sri Lankan Hindu culture. It houses intricate carvings and statues, and visitors often come to pray for family blessings and good fortune. Despite being a modern structure, the temple maintains traditional worship practices and rituals, making it a popular spot for both locals and tourists interested in Hindu heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_4bfd760b8f",
     "name": "Siri Nandanaramaya",
-    "description": "Siri Nandanaramaya is a Hindu kovil located in Colombo, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Siri Nandanaramaya, a Kovil in Colombo, Sri Lanka, is a small temple dedicated to Lord Shiva. Its origins date back to the early 20th century, though the exact founding date is unknown. The Kovil is known for its serene atmosphere and beautiful architecture, often visited by locals and tourists alike for prayers and spiritual reflection. Visitors can also enjoy taking photographs of the temple's intricate carvings and traditional statues. Despite its modest size, the Kovil holds significant cultural and religious importance, serving as a place of worship and a hub for community gatherings.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -541,7 +541,7 @@
 {
     "id": "pl_osm_a1764d836e",
     "name": "Sammangodu Sri Kathirvelayutha Swamy Kovil",
-    "description": "Sammangodu Sri Kathirvelayutha Swamy Kovil is a Hindu kovil located in Colombo, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sammangodu Sri Kathirvelayutha Swamy Kovil is a Hindu temple in Colombo, Sri Lanka. It was established as a small shrine in the 19th century and gradually grew into a significant place of worship. The Kovil honors Lord Shiva and attracts devotees seeking blessings. Its unique architecture and historical significance make it a popular site for both locals and tourists, offering a serene environment for prayer and meditation. Notable for its rich cultural heritage, it hosts various festivals throughout the year, adding vibrancy to the local community life.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_59ea9013ec",
     "name": "Sri Vekkali Amman Kovil",
-    "description": "Sri Vekkali Amman Kovil is a Hindu kovil located in Colombo, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Vekkali Amman Kovil, a prominent Hindu temple in Colombo, stands as a significant landmark attracting devotees and tourists alike. The temple, believed to be over a century old, is dedicated to the deity Vekkali Amman, revered for her protective blessings. Its architecture showcases traditional Sinhalese design elements, reflecting the rich cultural heritage of the region. Over the years, it has hosted numerous local festivals and ceremonies, serving as a focal point for spiritual gatherings and community life in the Colombo area.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -649,7 +649,7 @@
 {
     "id": "pl_osm_1db33f5729",
     "name": "Iyngaran Pillayar Kovil",
-    "description": "Iyngaran Pillayar Kovil is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Iyngaran Pillayar Kovil is a small Hindu temple in Colombo, Sri Lanka, known for its simple yet serene architecture. The exact origins of the temple are unclear, but it has been a significant site for local Hindus for generations. Notable for its role as a place of worship and a gathering point for community rituals, it also attracts visitors interested in its historical and cultural importance within the Hindu diaspora in Sri Lanka. Its modest design and tranquil setting make it a popular spot for both locals and tourists seeking a moment of peace.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -685,7 +685,7 @@
 {
     "id": "pl_osm_05a3318e32",
     "name": "Mariamman Kovil",
-    "description": "Mariamman Kovil is a Hindu kovil located in Colombo, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Mariamman Kovil, located in the heart of Colombo, Sri Lanka, is a significant Hindu temple dedicated to Mariamman, the goddess of protection and fertility. The Kovil, which translates to a shrine or temple, was established by early Tamil immigrants as a place of worship and community gathering. Over the centuries, it has been a focal point for local Tamil Hindus, hosting festivals and prayers that attract visitors from across the island. Its architectural style reflects a blend of traditional Indian and Sinhalese influences, making it a unique example of cultural integration in Sri Lanka. Known for its serene ambiance and historical importance, the Kovil remains a cherished site for both locals and tourists alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -721,7 +721,7 @@
 {
     "id": "pl_osm_61289e1f12",
     "name": "Kaali Kovil Vinayahar Temple",
-    "description": "Located in Colombo, Kaali Kovil Vinayahar Temple is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Kaali Kovil Vinayahar Temple, nestled in the heart of Colombo, stands as a sacred Hindu shrine dedicated to Vinayaka, the elephant-faced god. Founded centuries ago by devotees seeking solace and blessings, the temple has been a site of worship and spiritual reflection for generations. Visitors come to pray and seek Vinayaka's protection, while tourists often capture the temple's intricate carvings and serene ambiance through their cameras. Its rich history and cultural significance make it a must-visit destination for both locals and tourists exploring Colombo's religious sites.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_22063fe6d4",
     "name": "Maha Kali Amman Kovil Modara",
-    "description": "Located in Colombo, Maha Kali Amman Kovil Modara is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Maha Kali Amman Kovil Modara, a Kovil in Colombo, Sri Lanka, is a significant Hindu temple dedicated to Maha Kali Amman, the goddess of power and destruction. The temple, believed to date back to the colonial era, stands as a testament to the rich cultural heritage of Colombo. It houses intricate carvings and statues, attracting devotees and visitors alike who come to pray and seek blessings. Visitors can also capture the serene beauty of the temple through their cameras, making it a popular spot for both locals and tourists.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -793,7 +793,7 @@
 {
     "id": "pl_osm_fe0e959d1b",
     "name": "Sri Badhrakaali Amman Temple",
-    "description": "Sri Badhrakaali Amman Temple is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Badhrakaali Amman Temple, located in the heart of Colombo, is an important Hindu Kovil dedicated to the goddess Badhrakaali. The temple, believed to date back to the 18th century, is a significant pilgrimage site attracting devotees from across the island. Its unique architecture and cultural importance make it a must-visit for tourists interested in Sri Lankan religious heritage. Notable events include annual festivals where locals gather to pray and celebrate, adding to the rich tapestry of Colombo’s cultural landscape.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -829,7 +829,7 @@
 {
     "id": "pl_osm_09f6d8147c",
     "name": "Visa Pillaiyar",
-    "description": "Visa Pillaiyar is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Visa Pillaiyar, a Kovil dedicated to Lord Shiva in Colombo, Sri Lanka, stands as a significant Hindu temple. Its origins date back to the colonial era when it was established by local Tamils seeking a place to worship their deity. The temple is known for its intricate architecture and the vibrant community that gathers there daily for prayers and rituals. Notable for its historical and spiritual importance, Visa Pillaiyar attracts devotees and visitors alike, making it a cherished site in Colombo’s religious landscape.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -865,7 +865,7 @@
 {
     "id": "pl_osm_018005b556",
     "name": "New Kathirasan Kovil",
-    "description": "New Kathirasan Kovil is a Hindu kovil in the Colombo area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "New Kathirasan Kovil, a Hindu temple in Colombo, Sri Lanka, stands as a significant religious site where devotees gather for prayers and rituals. Built in the early 20th century, the Kovil honors the deity Kathirisan, revered for his benevolence and protection. Visitors can explore the temple's serene courtyard adorned with traditional statues and offerings, while the interior features intricate carvings and a sanctum housing the deity's idol. Photographers appreciate the temple's picturesque architecture and vibrant surroundings, capturing moments of devotion and serenity.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -901,7 +901,7 @@
 {
     "id": "pl_osm_f0944580e9",
     "name": "Manika Pillayar Kovil",
-    "description": "Located in Colombo, Manika Pillayar Kovil is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Manika Pillayar Kovil, a Hindu temple in Colombo, Sri Lanka, stands as a significant site for local worshippers. Built in the early 20th century, it honors Lord Shiva and attracts devotees seeking blessings. The Kovil, known for its intricate architecture and cultural importance, has hosted numerous traditional festivals and ceremonies over the years, fostering a sense of community among its visitors. Its presence in the heart of Colombo makes it a popular spot for both locals and tourists interested in exploring Sri Lankan religious heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -973,7 +973,7 @@
 {
     "id": "pl_osm_15913a761c",
     "name": "Sri Vithaga Vinayagar Kovil",
-    "description": "Sri Vithaga Vinayagar Kovil is a Hindu kovil located in Colombo, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Vithaga Vinayagar Kovil, a prominent Hindu temple in Colombo, Sri Lanka, houses an important deity worshipped by devotees seeking blessings for prosperity and good fortune. The temple stands as a significant cultural landmark, attracting visitors and pilgrims alike who come to pray and seek divine intervention. Built during the colonial era, the Kovil reflects a blend of traditional Indian architecture and contemporary design, making it a popular spot for both locals and tourists interested in exploring Sri Lankan heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1005,10 +1005,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_c3f47085",
     "name": "Sri Kailawasanathan Swami Devasthanam Kovil",
-    "description": "This ancient Hindu Kovil dedicated to Lord Kailas, a revered deity in Sri Lanka, stands majestically amidst lush gardens. Its intricate carvings and ornate architecture reflect the rich cultural heritage of the region, making it a must-visit for history enthusiasts and art lovers alike.",
+    "description": "Sri Kailawasanathan Swami Devasthanam Kovil stands in Colombo, Sri Lanka, a sacred Hindu temple dedicated to Lord Shiva. Its origins trace back to the early 20th century, when devotees began constructing this site as a place of worship and meditation. The Kovil's architecture combines traditional Indian elements with local architectural styles, reflecting the blend of cultures in modern Sri Lanka. It offers visitors a serene space for prayer, meditation, photography, and relaxation, making it a popular destination for both locals and tourists seeking spiritual solace.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1042,7 +1043,7 @@
 {
     "id": "pl_7901daa2",
     "name": "Sri Ponnambalam Vanesar Kovil",
-    "description": "This ancient Hindu Kovil stands majestically on a hilltop, adorned with intricate carvings and statues depicting Hindu deities. Its serene ambiance and historical significance make it a must-visit for those seeking a glimpse into Sri Lanka’s rich cultural heritage.",
+    "description": "Sri Ponnambalam Vanesar Kovil stands in the heart of Colombo, a sacred site for Hindus. Built in the early 20th century, it was constructed by a prominent Tamil community leader. The Kovil houses an ancient deity and is known for its serene ambiance and historical significance. Visitors can explore its intricate architecture, participate in prayer and meditation, and take photos, appreciating both its spiritual and architectural beauty. Known for its rich history and cultural importance, it attracts many tourists and locals alike.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1076,7 +1077,7 @@
 {
     "id": "pl_e8e9d4d2",
     "name": "Old Kathiresan Kovil, Sea Street",
-    "description": "This ancient Hindu Kovil stands majestically on Sea Street, its ornate architecture reflecting the rich cultural heritage of Colombo. Dedicated to Lord Shiva, the temple's intricate carvings and vibrant colors tell tales of Sri Lanka’s spiritual past.",
+    "description": "Old Kathiresan Kovil stands on Sea Street in Colombo, Sri Lanka, where devotees gather daily for prayers and offerings to the deity Kathiresan, a form of Lord Murugan revered in Tamil Hindu communities. Its architectural style blends traditional Sinhalese and Dravidian influences, reflecting the area's diverse cultural heritage. Notable for its serene atmosphere, the Kovil also attracts photographers and those seeking spiritual reflection. Built in the early 20th century, it has become an important site for worship and cultural preservation in Colombo.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1144,7 +1145,7 @@
 {
     "id": "pl_e6a6389a",
     "name": "Sri Ponnambaleshvarar Temple (Shiva), Pettah",
-    "description": "Discover the ancient Sri Ponnambaleshvarar Temple (Shiva), Pettah, a sacred site adorned with intricate carvings and statues. Built over 1000 years ago, this temple is a testament to Sri Lanka's rich Hindu heritage, featuring elaborate Shiva lingams and Nandi bull sculptures.",
+    "description": "Sri Ponnambaleshvarar Temple, located in the Pettah district of Colombo, is an important Hindu Kovil dedicated to Lord Shiva. The temple dates back to the 17th century and is known for its intricate carvings and architectural beauty. It played a significant role during colonial times as a place of worship for the local Tamil community. Notable events include the annual Shivaratri festival, attracting thousands of devotees. The temple also offers guided historical tours, providing insight into its rich cultural heritage and historical importance.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1178,7 +1179,7 @@
 {
     "id": "pl_a840821e",
     "name": "Sri Muthumari Amman Temple, Puwakpitiya",
-    "description": "This ancient Kovil dedicated to Sri Muthamari Amman stands majestically amidst lush greenery, its intricate carvings and ornate architecture reflecting the rich cultural heritage of Sri Lanka. Perched on a hilltop, it offers breathtaking views and a serene atmosphere for visitors seeking spiritual solace.",
+    "description": "Sri Muthumari Amman Temple, Puwakpitiya, a Kovil in the heart of Colombo, is a sacred site for Hindus. Built during the colonial era, it was established by local Tamil communities as a place of worship. Known for its serene ambiance and vibrant culture, the temple hosts daily prayers and meditation sessions, making it a popular spot for tourists seeking tranquility. Visitors can also enjoy photography and relaxation amidst the tranquil surroundings. Cultural significance lies in its role as a communal hub where traditions are preserved and celebrated.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1212,7 +1213,7 @@
 {
     "id": "pl_05c8dc55",
     "name": "Sri Durga Amman Temple, Wellawatte",
-    "description": "Discover the sacred Sri Durga Amman Temple, nestled in Wellawatte, a vibrant district of Colombo. This ancient Kovil, adorned with intricate carvings and vibrant colors, is a testament to Sri Lankan Hindu culture. Witness the temple’s serene ambiance and learn about its historical significance through guided tours.",
+    "description": "Sri Durga Amman Temple in Wellawatte, Colombo, is a significant Hindu Kovil dedicated to Goddess Durga. Built in the early 20th century by local Tamils, it stands as a testament to the rich Tamil community presence in Colombo. The temple hosts regular prayer sessions and guided tours, offering insights into Hindu culture and beliefs. Visitors can also capture moments through photography, capturing the serene atmosphere and intricate temple architecture. Cultural significance extends to its role in community festivals and rituals, connecting locals deeply with their heritage.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1246,7 +1247,7 @@
 {
     "id": "pl_9e257dab",
     "name": "Sri Anjaneyar Kovil, Mount Lavinia",
-    "description": "Discover the ancient Hindu temple of Sri Anjaneyar Kovil, nestled amidst lush greenery on Mount Lavinia. This sacred site offers a glimpse into Sri Lanka’s rich cultural heritage, featuring intricate carvings and a serene atmosphere that draws both locals and tourists alike.",
+    "description": "Sri Anjaneyar Kovil stands on Mount Lavinia, a hill overlooking Colombo, known for its serene surroundings and spiritual ambiance. Dedicated to Lord Shiva, the temple is a significant pilgrimage site attracting devotees seeking blessings. Built in the early 20th century, it was constructed by local philanthropists to preserve traditional Tamil culture. The temple features intricate carvings and a central idol of Lord Anjaneya, revered as the carrier of Lord Rama’s bow. Visitors can engage in prayer, meditation, and photography while enjoying panoramic views of the city.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1280,7 +1281,7 @@
 {
     "id": "pl_de028a3e",
     "name": "Ratmalana Sivan Temple",
-    "description": "Ratmalana Sivan Temple, a sacred Hindu site in Colombo, stands majestically amidst lush gardens. This ancient temple, known for its intricate carvings and historical significance, attracts visitors with its serene atmosphere and vibrant cultural heritage.",
+    "description": "Ratmalana Sivan Temple, a Kovil in Colombo, Sri Lanka, is an important Hindu site where devotees come to pray and meditate. It stands as a symbol of cultural heritage, attracting visitors interested in its architecture and spiritual practices. The temple also hosts cultural shows that showcase traditional dance and music, offering a glimpse into Sri Lankan Hindu culture. Built in the early 20th century by local devotees, it has become a significant place for both locals and tourists seeking solace and insight.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1314,7 +1315,7 @@
 {
     "id": "pl_d91bb5f7",
     "name": "Maha Kali Amman Temple, Mutwal",
-    "description": "Discover the spiritual heart of Mutwal at the Maha Kali Amman Temple, a revered Hindu site adorned with intricate carvings and statues that tell tales of ancient deities and rituals. This sacred space is a testament to the rich cultural heritage of the region, offering visitors a glimpse into the profound beliefs and practices of its people.",
+    "description": "Maha Kali Amman Temple, located in Mutwal within the Colombo District, is an important Hindu Kovil dedicated to the goddess Kali. The temple has been a significant site for prayer and meditation for centuries, attracting devotees seeking blessings. Notable for its rich cultural heritage, the temple also offers photography tours and cultural tours, allowing visitors to explore its ancient architecture and learn about its spiritual significance. Its history dates back to the colonial era, making it a blend of traditional and modern Sri Lankan culture.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1348,7 +1349,7 @@
 {
     "id": "pl_e479807a",
     "name": "Battaramulla Sri Muththumari Amman Kovil",
-    "description": "This ancient Hindu Kovil stands majestically in Battaramulla, a sacred site for devotees seeking blessings and spiritual enlightenment. Built over a century ago, it houses intricate carvings and statues that tell tales of Hindu mythology, making it a must-visit for history enthusiasts and art lovers alike.",
+    "description": "Battaramulla Sri Muththumari Amman Kovil, a sacred Hindu temple in Colombo, stands as a testament to the rich cultural heritage of Sri Lanka. Dedicated to Lord Murugan, the deity is believed to have been established by local devotees seeking a place to worship and honor their revered deity. The temple, known for its serene ambiance and historical significance, attracts visitors interested in prayer, meditation, photography, and learning about its unique cultural and religious importance. Known for its ancient architecture and vibrant community life, Battaramulla Sri Muththumari Amman Kovil remains a significant landmark in the Colombo area.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1382,7 +1383,7 @@
 {
     "id": "pl_8eb1d347",
     "name": "Borella Sri Karumari Amman Temple, Kolonnawa",
-    "description": "Discover the spiritual heart of Borella at the Borella Sri Karumari Amman Temple, a serene Hindu shrine nestled amidst lush gardens. This ancient temple, dedicated to Lord Karumari Amman, offers visitors a peaceful retreat with its intricate carvings and ornate architecture.",
+    "description": "Borella Sri Karumari Amman Temple, located in Kolonnawa, Colombo, is a significant Hindu Kovil dedicated to the deity Karumari Amman. The temple, though not historically documented as the oldest in the area, holds cultural importance as a place of worship where locals gather for prayer and meditation. It also attracts visitors interested in photography and reflection, offering a serene setting amidst modern Colombo. Known for its peaceful atmosphere and spiritual ambiance, the temple serves as a sanctuary for those seeking solace and renewal.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1416,7 +1417,7 @@
 {
     "id": "pl_668d46e4",
     "name": "Peliyagoda Sri Soobraya Vinayagar Temple",
-    "description": "Discover the spiritual heart of Peliyagoda at Peliyagoda Sri Soobraya Vinayagar Temple, a vibrant Hindu shrine adorned with intricate carvings and a serene courtyard where devotees gather to pay homage and seek blessings.",
+    "description": "The Peliyagoda Sri Soobraya Vinayagar Temple, a Kovil in Colombo, is dedicated to Lord Ganesha, an important deity in Hinduism. It stands in the heart of the city, offering prayer services and reflecting on spiritual paths. Adjacent to the temple, there’s an artisanal market where visitors can find unique local crafts and souvenirs, adding to the cultural experience. A serene reflection walk around the temple grounds provides a peaceful setting for visitors to meditate and appreciate the architectural beauty. Established over a century ago, the temple has become a significant place for both locals and tourists seeking spiritual solace and cultural enrichment.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1450,7 +1451,7 @@
 {
     "id": "pl_2ec3ec5d",
     "name": "Sri Negombo Muththumari Amman Temple (border Gampaha)",
-    "description": "This ancient Kovil stands at the border between Colombo and Gampaha districts, housing a revered statue of Muththumari Amman. Dedicated to Lord Murugan, it's a sacred site for Hindus, offering visitors a glimpse into Sri Lanka's rich religious heritage and cultural traditions.",
+    "description": "Sri Negombo Muththumari Amman Temple, located in the border area of Gampaha District in Colombo, is a significant Hindu Kovil dedicated to the goddess Muththumari Amman. The temple, believed to be over a century old, holds deep cultural and religious importance for the local Hindu community. It attracts visitors who come to offer prayers, take photographs, and reflect on spiritual themes. Known for its serene atmosphere and traditional architecture, the temple often features colorful rituals and festivals that draw attention from both locals and tourists.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",
@@ -1484,7 +1485,7 @@
 {
     "id": "pl_fa2d9a91",
     "name": "Sri Sithi Vinayagar Temple, Wattala",
-    "description": "This ancient and revered Kovil, dedicated to Lord Ganesha, stands majestically amidst lush gardens in Wattala. Its intricate carvings and ornate architecture reflect centuries of devotion and craftsmanship, making it a must-visit for both locals and tourists alike.",
+    "description": "The Sri Sithi Vinayagar Temple in Wattala, Colombo, is a significant Hindu Kovil dedicated to Lord Ganesha, a revered deity known for his wisdom and protection. Constructed in the early 20th century, the temple is a popular pilgrimage site attracting devotees from across Sri Lanka. Notable for its intricate carvings and ornate architecture, it also hosts regular prayer sessions and meditation practices, making it a serene spot for visitors seeking spiritual solace. Its location in the heart of Wattala adds to its charm, offering a blend of modernity and traditional culture.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Kovil",

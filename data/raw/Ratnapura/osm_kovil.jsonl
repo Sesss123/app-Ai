@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_2a84bd7a5d",
     "name": "Arul Migu Sri Muththumariyamman Devasthanam",
-    "description": "Arul Migu Sri Muththumariyamman Devasthanam is a Hindu kovil in the Ratnapura area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Arul Migu Sri Muththumariyamman Devasthanam, located in Ratnapura, is a revered Hindu Kovil dedicated to Muththumariyamman, a deity associated with protection and healing. The temple, believed to date back to the 18th century, stands as a significant cultural landmark, attracting devotees who come to pray and seek blessings. Its architecture and rituals reflect the rich tapestry of Sri Lankan Hindu traditions. Notable for its historical importance and spiritual significance, the temple has hosted numerous religious ceremonies and festivals over the years, preserving local customs and beliefs.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_65244fc6f9",
     "name": "Aluketiya Dewalaya",
-    "description": "Located in Ratnapura, Aluketiya Dewalaya is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Aluketiya Dewalaya, a Kovil in Ratnapura, Sri Lanka, is an ancient Hindu temple believed to be over 300 years old. It stands as a testament to the rich cultural heritage of the region, attracting devotees and tourists alike for its serene ambiance and historical significance. Built by local artisans, the temple features intricate carvings and architectural elements that reflect traditional Sinhalese craftsmanship. Notable events include regular religious ceremonies and festivals, making it a hub of spiritual activity and cultural exchange. Visitors can explore the temple grounds, take photos, and immerse themselves in the tranquil atmosphere, offering a glimpse into Sri Lanka's diverse religious landscape.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_c1059b520d",
     "name": "Magurugoda Dewalaya",
-    "description": "Located in Ratnapura, Magurugoda Dewalaya is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Magurugoda Dewalaya, a Kovil in Ratnapura, Sri Lanka, stands as a significant Hindu temple where devotees gather for prayers and rituals. The exact founding date is unknown, but it is believed to be an ancient site of worship, possibly established by local communities over centuries. Its architectural style reflects traditional Sinhalese temple designs, with intricate carvings and a sanctum housing the deity. Visitors can also capture stunning photographs of the temple’s serene beauty and the surrounding lush greenery, making it a popular spot for both locals and tourists alike.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_68982c812b",
     "name": "Palm Garden Kovil",
-    "description": "Palm Garden Kovil is a Hindu kovil in the Ratnapura area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Palm Garden Kovil, a sacred Hindu temple in Ratnapura, stands as a testament to ancient worship practices. The site's unique palm garden setting and historical significance make it a popular spot for both locals and tourists seeking spiritual solace and picturesque views. Legend has it that the Kovil was initially constructed by local artisans in the 18th century, though its exact founding date remains uncertain. Today, it continues to serve as a place of prayer and reflection, attracting visitors who marvel at the harmonious blend of nature and spirituality.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Kovil",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

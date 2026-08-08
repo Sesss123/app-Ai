@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_34fc9c22f7",
     "name": "Free Museum of Kumana National Park",
-    "description": "Located in Ampara, Free Museum of Kumana National Park is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Free Museum of Kumana National Park, located in Ampara, Sri Lanka, is a small museum dedicated to the national park it serves as a gateway to. Established to promote awareness and conservation efforts, the museum showcases exhibits on the diverse flora and fauna found within Kumana National Park, including photographs, maps, and educational materials. It also houses information on the rich cultural heritage and traditional practices of the local communities. The museum plays a crucial role in educating visitors about the importance of preserving this unique ecosystem and its natural wonders.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Museum",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

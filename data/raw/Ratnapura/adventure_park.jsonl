@@ -1,7 +1,7 @@
 {
     "id": "pl_f2c5011f",
     "name": "Sinharaja Canopy Walk",
-    "description": "Experience the lush canopy walk through ancient trees at Sinharaja Canopy Walk, a unique adventure park nestled in the heart of Sri Lanka's last remaining rainforest. Explore the rich biodiversity and historical significance of this protected area, where nature lovers and wildlife enthusiasts can marvel at the diverse flora and fauna.",
+    "description": "The Sinharaja Canopy Walk, nestled within the Sinharaja Forest Reserve, offers visitors an adventurous experience high above the lush jungle canopy. This nature walk attracts bird enthusiasts and photographers alike, as they marvel at the diverse array of avian life while suspended 30 meters above the forest floor. Established to protect the unique biodiversity of the area, this walkway is a testament to efforts to preserve Sri Lanka's last remaining lowland rainforest. Visitors can observe endemic species such as the Sri Lankan Jungle Fowl and Blue-faced Malkoha, adding to the rich cultural and natural heritage of Ratnapura.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Adventure Park",
@@ -96,10 +96,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_9e1f91ff5e",
     "name": "Elephant Transit Home",
-    "description": "Elephant Transit Home is an attraction located in Ratnapura, Sri Lanka. It's a popular spot for a family day out.",
+    "description": "Elephant Transit Home, an adventure park in Ratnapura, Sri Lanka, offers visitors the unique experience of wildlife watching, focusing on observing elephants in their natural habitat. The park, established as a sanctuary for displaced elephants, provides a safe environment where tourists can learn about these majestic creatures. Established in the early 21st century, it has become a popular spot for nature enthusiasts and those interested in conservation efforts. Visitors can watch the elephants interact with each other and with handlers, gaining insights into their behavior and care.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Adventure Park",
@@ -109,7 +110,7 @@
     "_osm_type": "way",
     "_osm_id": 710421256,
     "_source_global_id": "05e75d6c-155a-41b3-ae4f-18f25499ce0c",
-    "opening_hours": "Check locally",
+    "opening_hours": "09:00-09:45,12:00-12:45,15:00-15:45,18:00-18:45",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -117,9 +118,9 @@
     "budget_category": "Free",
     "ticket_price": 0,
     "parking_avail": "unknown",
-    "toilets": "unknown",
+    "toilets": "yes",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",

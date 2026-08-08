@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_bc86b3fa70",
     "name": "Manamboda Jummah Masjid",
-    "description": "Manamboda Jummah Masjid is a place of worship in the Matale area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Manamboda Jummah Masjid, located in Matale District, Sri Lanka, is a significant mosque where Muslims gather for prayers. Its origins date back to the early 20th century, making it one of the oldest masjids in the area. The structure reflects traditional Islamic architectural elements, featuring a central dome and intricate carvings. It holds great cultural and religious importance for the local Muslim community, serving as a hub for communal gatherings and spiritual practices. Visitors can also explore its serene courtyard and enjoy the peaceful atmosphere.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_beb5708e4c",
     "name": "Siri Sumana Sama Viharaya",
-    "description": "Siri Sumana Sama Viharaya is a place of worship located in Matale, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Siri Sumana Sama Viharaya, located in Matale District, Sri Lanka, is a sacred Buddhist temple known for its ancient architecture and spiritual significance. The temple, believed to date back to the early centuries of the 2nd millennium CE, holds cultural and religious importance as it houses relics and artifacts from the ancient Sinhalese period. It attracts devotees and tourists seeking spiritual enlightenment and peace, offering a serene environment for prayer and meditation. Visitors can also capture moments at this historic site through photography.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -47,7 +47,7 @@
     "_osm_type": "node",
     "_osm_id": 5030807622,
     "_source_global_id": "c94cfe6a-f7af-44c6-9752-4d5e02cd3c36",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_c437e14d14",
     "name": "Bodimalu Viharaya",
-    "description": "Bodimalu Viharaya is a place of worship in the Matale area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Bodimalu Viharaya, a sacred Buddhist temple in Matale, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Constructed during the reign of King Kirthi Narendrasinghe in the early 20th century, the temple features intricate carvings and a serene atmosphere that draws devotees and tourists alike. Its unique architecture and historical importance make it a significant pilgrimage site for Buddhists. Visitors can explore the temple's serene surroundings and take photos to capture its beauty and spiritual essence.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -83,7 +83,7 @@
     "_osm_type": "node",
     "_osm_id": 5032457423,
     "_source_global_id": "a6d8ba81-126c-4d4e-8064-48dbafb122c2",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_e3f3ffb82a",
     "name": "Buddah",
-    "description": "Buddah is a place of worship located in Matale, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Buddah Temple in Matale district, Sri Lanka, is a sacred site where devotees gather to pray and seek blessings. The temple, though modest in size, holds deep cultural and religious importance, attracting visitors from across the country seeking solace and spiritual guidance. Built during the colonial era, it was originally constructed as a Buddhist shrine but has evolved over time to serve as a community center for local Buddhists. Notable for its serene atmosphere and tranquil surroundings, the temple often features exhibitions showcasing ancient Buddhist artifacts and scriptures. Visitors can also capture memorable photos at the entrance, capturing the essence of this historic place.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_916e885347",
     "name": "Bomaluwa ancient temple",
-    "description": "Located in Matale, Bomaluwa ancient temple is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Bomaluwa ancient temple, located in Matale District, Sri Lanka, is an ancient place of worship steeped in local folklore and believed to be over 2000 years old. Legend has it that it was founded by the legendary king Dutugemunu, who ruled the island in the 2nd century BC. Despite the temple's rich history, little is known for certain about its original construction. Today, visitors come to pray and take photographs, appreciating its serene setting amidst the lush greenery of the Matale hills.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_93de853cf6",
     "name": "Raithalawela Sub Post Office",
-    "description": "Raithalawela Sub Post Office is a place of worship located in Matale, Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "The Raithalawela Sub Post Office, located in the Matale district of Sri Lanka, is a modest structure serving as both a post office and a small temple. Historically, its exact origins are unknown, but it has been an important local hub for decades. While not a major religious site, it holds cultural significance as a place where community members gather for prayers and other rituals. Visitors can also take photos here, capturing the serene atmosphere and perhaps even the local customs that unfold within its walls.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_a403b0e277",
     "name": "Kandenuwara Amman Kovil",
-    "description": "Kandenuwara Amman Kovil is a place of worship in the Matale area of Sri Lanka. It offers visitors a glimpse into local religious life.",
+    "description": "Kandenuwara Amman Kovil, located in Matale District, Sri Lanka, is a revered Hindu temple dedicated to Lord Shiva. The exact founding date is unknown, but it is believed to be over a century old. The temple's architecture showcases traditional Sinhalese and Dravidian styles, blending local and Indian influences. It holds significant cultural and religious importance for the Hindu community, hosting regular prayer services and rituals. Visitors can also take photos, capturing the serene beauty and spiritual aura of the temple.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_77355f1723",
     "name": "Cake in Wonderland",
-    "description": "Located in Matale, Cake in Wonderland is a place of worship worth visiting. It offers visitors a glimpse into local religious life.",
+    "description": "Cake in Wonderland is a small but charming Buddhist temple nestled in the lush Matale district of Sri Lanka. Its unique name, inspired by Alice in Wonderland, has made it a popular spot for both locals and tourists seeking spiritual solace and picturesque photo opportunities. Built in the early 20th century, the temple features intricate wood carvings and a serene courtyard where visitors can meditate and take in the beautiful surroundings. Its whimsical name and distinctive architecture make it a memorable destination in Matale.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -321,6 +321,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_379881d1",
     "name": "Aluvihare Rock Temple",
@@ -358,7 +359,7 @@
 {
     "id": "pl_4c784340",
     "name": "Nalanda Gedige",
-    "description": "Nalanda Gedige, a stunning Buddhist temple nestled amidst lush greenery, offers visitors a glimpse into the rich cultural heritage of Matale. Perched on a hilltop, this ancient structure stands as a testament to the harmonious blend of Hindu and Buddhist traditions, reflecting the syncretic nature of Sri Lankan religious practices.",
+    "description": "Nalanda Gedige, nestled in Matale, Sri Lanka, is a serene temple that draws visitors with its tranquil surroundings and panoramic vistas. The exact origins of this ancient structure remain shrouded in mystery, though it likely dates back centuries. Local legends and historical records hint at its importance as a place of spiritual retreat and community gathering. Today, it stands as a testament to the rich cultural heritage of the region, offering visitors a chance to appreciate both its architectural beauty and the stories embedded within its walls.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -392,7 +393,7 @@
 {
     "id": "pl_80c2ecb8",
     "name": "Ratota Rajamaha Viharaya",
-    "description": "Ratota Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its ancient statues and intricate carvings. Perched on a hilltop, it provides breathtaking views of the surrounding landscape and is a must-visit for those seeking spiritual enlightenment.",
+    "description": "Ratota Rajamaha Viharaya, a sacred Buddhist temple in Matale District, Sri Lanka, is a significant site where pilgrims come to pray and meditate. The temple, believed to be over a thousand years old, was originally constructed by local monks and revered as a holy place by ancient inhabitants. Notable for its serene setting and rich cultural heritage, Ratota Rajamaha Viharaya offers visitors a tranquil environment for reflection and nature appreciation through guided walks around the grounds. Its architectural features and historical importance make it a must-visit for tourists interested in Buddhism and Sri Lankan culture.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -426,7 +427,7 @@
 {
     "id": "pl_ff34c326",
     "name": "Pallepola Rajamaha Viharaya",
-    "description": "Pallepola Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a glimpse into ancient Sinhalese architecture and culture. Its serene atmosphere and historical significance make it a must-visit for those seeking spiritual enlightenment and cultural immersion.",
+    "description": "Pallepola Rajamaha Viharaya, a sacred Buddhist temple in Matale, Sri Lanka, stands as a testament to ancient Sinhalese architecture. The site is believed to date back over 2000 years, making it one of the oldest Buddhist temples in the region. Legend has it that the temple was founded by King Dutugemunu, a significant ruler of the Anuradhapura Kingdom. It holds immense cultural and religious significance, attracting both local devotees and international tourists seeking spiritual enlightenment. Visitors can explore its ancient ruins, pray, meditate, and learn about the rich Buddhist heritage.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -460,7 +461,7 @@
 {
     "id": "pl_d7b94f89",
     "name": "Galewela Rajamaha Viharaya",
-    "description": "Discover the ancient and serene Galewela Rajamaha Viharaya, a jewel of Matale’s Buddhist heritage. Nestled amidst lush hills, this temple offers a tranquil retreat where visitors can immerse themselves in its rich history and spiritual ambiance.",
+    "description": "Galewela Rajamaha Viharaya, a sacred Buddhist temple in Matale District, Sri Lanka, houses ancient Buddha statues and scriptures. The temple, believed to date back to the 5th century BC, played a crucial role in the spread of Buddhism in Sri Lanka. It was once an important pilgrimage site attracting devotees from across the country seeking spiritual enlightenment through meditation and prayer. Today, visitors can marvel at the temple's serene beauty and participate in its rich cultural heritage by taking part in rituals, reflecting on life's essence, or simply appreciating its architectural splendor.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -528,7 +529,7 @@
 {
     "id": "pl_61e818c0",
     "name": "Dambulla Rajamaha Viharaya (town temple)",
-    "description": "Dambulla Rajamaha Viharaya, a stunning Buddhist temple nestled in the lush Matale district, offers visitors a glimpse into ancient Sinhalese art and architecture. Admire intricate frescoes, statues, and the temple's harmonious blend of traditional and modern elements.",
+    "description": "Dambulla Rajamaha Viharaya, a significant Buddhist temple in Matale district, Sri Lanka, houses ancient murals and statues dating back centuries. The temple's architecture showcases intricate carvings and paintings, reflecting the rich artistic heritage of Sri Lanka. It's a place where visitors can learn about the profound history and teachings of Buddhism, including the life of Buddha. From the town temple, one can also enjoy breathtaking views of the surrounding landscapes, making it a must-visit for both spiritual seekers and nature enthusiasts.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -596,7 +597,7 @@
 {
     "id": "pl_d57f8194",
     "name": "Ambanganga Rajamaha Viharaya",
-    "description": "Ambanganga Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its ancient statues and intricate carvings. Perched on a hilltop, it provides breathtaking views of the surrounding countryside and is a must-visit for those seeking spiritual enlightenment.",
+    "description": "Ambanganga Rajamaha Viharaya, nestled in Matale, Sri Lanka, is a sacred Buddhist temple known for its ancient architecture and serene environment. Founded during the reign of King Mahasena in the 3rd century BCE, it holds immense cultural and religious significance as one of the earliest Buddhist sites in the region. Over the centuries, it has been renovated several times, preserving its original structure and vibrant aura. Visitors can explore the temple’s intricate carvings, participate in meditation sessions, and take photographs to capture its beauty. Additionally, nature enthusiasts can enjoy guided walks through the surrounding lush gardens and forests, offering a peaceful retreat from the bustling city life.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -630,7 +631,7 @@
 {
     "id": "pl_b3075d06",
     "name": "Laggala Rajamaha Viharaya",
-    "description": "Laggala Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush hills, offers visitors a serene retreat with its ancient statues and intricate carvings. Perched on a hilltop, it provides breathtaking views of the surrounding countryside and is a must-visit for those seeking spiritual enlightenment.",
+    "description": "Laggala Rajamaha Viharaya, a sacred Buddhist temple in Matale District, Sri Lanka, is a site of deep religious significance. The temple, believed to date back to the 5th century BC, was constructed by Buddhist monks to honor the Buddha. It houses several ancient statues and relics, including the famous Buddha statue made of precious stones. Visitors can engage in prayer, meditation, take photos of the serene surroundings, and enjoy a nature walk through the temple grounds. Known for its tranquility and historical importance, it attracts both locals and tourists seeking spiritual solace.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -698,7 +699,7 @@
 {
     "id": "pl_6d127b63",
     "name": "Yatawatta Rajamaha Viharaya",
-    "description": "Yatawatta Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its intricate carvings and ancient statues. Perched on a hilltop, it provides breathtaking views of the surrounding countryside and is a must-visit for those seeking spiritual enlightenment.",
+    "description": "Yatawatta Rajamaha Viharaya, a sacred Buddhist temple in Matale District, Sri Lanka, is a significant site where ancient scriptures are believed to be housed. It was founded by revered Buddhist monks who gathered to protect and preserve sacred texts, an act that underscores the rich cultural heritage and spiritual importance of the region. Visitors can engage in prayer and meditation, take photographs to capture the serene beauty, and enjoy a nature walk through lush gardens, all while immersing themselves in the tranquil atmosphere that has made this temple a cherished pilgrimage site.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -732,7 +733,7 @@
 {
     "id": "pl_13624288",
     "name": "Illukkumbura Rajamaha Viharaya",
-    "description": "Illukkumbura Rajamaha Viharaya is a sacred Buddhist temple nestled amidst lush greenery and ancient ruins, offering visitors a glimpse into the rich cultural heritage of Matale district. Its serene atmosphere and historical significance make it a must-visit destination for those exploring central Sri Lanka.",
+    "description": "Illukkumbura Rajamaha Viharaya, a sacred temple in Matale District, Sri Lanka, houses ancient ruins and offers a serene atmosphere for prayer and meditation. The site's rich history dates back to the 5th century BC, making it one of the oldest Buddhist temples in the region. Notable events include the pilgrimage of Buddhist monks and devotees from various parts of the country, highlighting the temple's importance in the local and national religious landscape. Visitors can explore the well-preserved structures and take in the breathtaking views, connecting with the spiritual heritage of Sri Lanka.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -766,7 +767,7 @@
 {
     "id": "pl_f3066f74",
     "name": "Palapathwela Rajamaha Viharaya",
-    "description": "Palapathwela Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its intricate carvings and ancient statues. Perched on a hilltop, it provides breathtaking views of the surrounding Matale district.",
+    "description": "Palapathwela Rajamaha Viharaya, a revered Buddhist temple in Matale District, Sri Lanka, stands as a testament to ancient religious practices. The temple, believed to be over a thousand years old, was constructed during the Anuradhapura Kingdom era, though exact dates are uncertain. It holds immense cultural and religious significance, attracting devotees and pilgrims who come to pray, meditate, and seek blessings. Notable for its serene environment and historical importance, visitors can also enjoy photography and nature walks around the premises.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -800,7 +801,7 @@
 {
     "id": "pl_1d998aa5",
     "name": "Kelebokka Rajamaha Viharaya",
-    "description": "Kelebokka Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its ancient statues and intricate carvings. Perched on a hilltop, it provides breathtaking views of the surrounding countryside and is a must-visit for those seeking spiritual enlightenment.",
+    "description": "Kelebokka Rajamaha Viharaya is a revered Buddhist temple in Matale District, Sri Lanka. Its origins date back to ancient times, though exact founding dates are unknown. The temple houses numerous Buddha statues and scriptures, attracting both local devotees and tourists seeking spiritual enlightenment. Visitors can participate in prayer and meditation sessions, take photos to capture its serene beauty, and enjoy nature walks through the surrounding lush gardens. Cultural significance lies in its role as a hub for religious practices and community gatherings.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -834,7 +835,7 @@
 {
     "id": "pl_19676632",
     "name": "Kekirawa Rajamaha Viharaya",
-    "description": "Discover the ancient ruins and serene ambiance of Kekirawa Rajamaha Viharaya, a sacred Buddhist temple nestled in Matale district, Central Province. This site offers a glimpse into Sri Lanka’s rich cultural heritage, featuring intricate carvings and a tranquil atmosphere that draws both pilgrims and nature lovers.",
+    "description": "Kekirawa Rajamaha Viharaya, a sacred Buddhist temple in Matale District, Sri Lanka, is believed to date back over a thousand years. The site holds great historical and cultural significance as it was likely constructed during the Anuradhapura Kingdom era, a period marked by significant religious and architectural development in Sri Lanka. Notable for its ancient ruins, the temple offers visitors an opportunity to pray, meditate, and enjoy breathtaking panoramic views, making it a must-visit for those interested in Buddhism and natural beauty.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",
@@ -868,7 +869,7 @@
 {
     "id": "pl_f7b40c29",
     "name": "Kandalama Rajamaha Viharaya",
-    "description": "Kandalama Rajamaha Viharaya, a sacred Buddhist temple nestled amidst lush greenery, offers visitors a serene retreat with its intricate carvings and historical significance. Perched on a hilltop, it provides breathtaking views of the surrounding landscape and is a must-visit for those seeking spiritual enlightenment.",
+    "description": "Kandalama Rajamaha Viharaya, a sacred Buddhist temple in Matale District, Sri Lanka, is renowned for its ancient architecture and spiritual significance. Built over centuries, the temple holds immense cultural and religious importance, attracting devotees and tourists alike for prayer, meditation, photography, and nature walks through its lush gardens. Its rich history dates back to the 5th century BC, making it one of the oldest temples in the region, preserving invaluable artifacts and relics that reflect the island's deep-rooted Buddhist heritage.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple",

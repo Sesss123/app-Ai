@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_984aa83770",
     "name": "Audience Hall",
-    "description": "Audience Hall is an archaeological site in the Matale area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Audience Hall, an archaeological site in Matale, Sri Lanka, is a remnant of ancient Anuradhapura civilization. Built during the reign of King Dutugemunu in the 2nd century BC, it served as a grand assembly hall for important meetings and ceremonies. The hall, now in ruins, is a testament to the architectural prowess of the past, offering visitors a glimpse into the rich history of the region through its well-preserved stone pillars and foundations. Visitors can explore the site, taking photos to capture the ancient structure against the backdrop of modern Sri Lanka.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_f8033932bd",
     "name": "Bodikaraya",
-    "description": "Located in Matale, Bodikaraya is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Bodikaraya, an archaeological site in Matale, Sri Lanka, is a collection of ancient ruins attracting visitors interested in exploring and taking photos. The origins of these ruins date back to prehistoric times, though their exact age remains uncertain. Legends speak of a mythical king who built them, but no concrete evidence supports this. The site features well-preserved stone structures and intricate carvings that hint at the skill and craftsmanship of past civilizations. Today, Bodikaraya stands as a testament to ancient engineering and architectural prowess, offering a glimpse into the rich cultural heritage of the region.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_7b7efe7891",
     "name": "Apsara Paintings",
-    "description": "Apsara Paintings is an archaeological site located in Matale, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Apsara Paintings, an archaeological site in Matale District, Sri Lanka, are ancient wall paintings depicting dancers and musicians from the ancient kingdom of Anuradhapura. The paintings, believed to date back over 1,500 years, were discovered in 1847 and are considered a treasure of early Buddhist art. Visitors can explore these remarkable murals, which are particularly significant as they provide insight into the cultural and artistic heritage of ancient Sri Lanka. Photography is encouraged to capture the intricate details of these historical masterpieces.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_36db7f0d44",
     "name": "Viharahinna Archaeological Area",
-    "description": "Viharahinna Archaeological Area is an archaeological site located in Matale, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Viharahinna Archaeological Area in Matale district, Sri Lanka, is an ancient ruins site known for its historical significance. It comprises remains of monasteries and temples dating back to the 3rd century BC, believed to be part of the Mahāvihāra complex. The area was once a center of learning and Buddhism, attracting scholars from across the region. Notable events include the ordination of Buddhist monks by King Ashoka of India in the 3rd century BCE. Visitors can explore the well-preserved structures, take photos, and learn about the rich cultural heritage of Sri Lanka's ancient past.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_48e1058849",
     "name": "Menikdena Archeological Reserve",
-    "description": "Located in Matale, Menikdena Archeological Reserve is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Menikdena Archeological Reserve, located in Matale District, Sri Lanka, is an archaeological site where ancient ruins and artifacts hint at the rich cultural heritage of the region. The reserve, though not extensively excavated, showcases remnants of a past civilization that flourished in this area centuries ago. Visitors can explore the site, marveling at the well-preserved structures and learn about the local history through guided tours, offering insights into the lives of early settlers. Photography is encouraged as it helps preserve these historical elements for future generations.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_c3ad12a2cb",
     "name": "Ibbankatuwa Megalithic Burial Site",
-    "description": "Ibbankatuwa Megalithic Burial Site is an archaeological site located in Matale, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Ibbankatuwa Megalithic Burial Site in Matale District, Sri Lanka, is an ancient archaeological site where megaliths dating back over 2,000 years mark burial sites. The site, believed to be one of the oldest in the country, holds significant cultural and historical value, reflecting prehistoric practices and rituals. Local legends associate the site with ancient kings and warriors, though these are unverified. Visitors can explore the well-preserved megaliths, take photos, and learn about the site's importance through guided tours, offering insights into Sri Lanka's rich prehistoric heritage.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -227,7 +227,7 @@
     "_osm_type": "node",
     "_osm_id": 5589539521,
     "_source_global_id": "653f6568-a1c4-4c63-a708-3c85b2d623e9",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 09:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_d9fca15f6f",
     "name": "Kaludiya Pokuna",
-    "description": "Kaludiya Pokuna is an archaeological site in the Matale area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Kaludiya Pokuna, an archaeological site in Matale District, Sri Lanka, is a well-preserved ancient water reservoir dating back over 2000 years. The site features intricate stonework and is believed to have been constructed by the ancient Sinhalese kings. It served as a vital source of fresh water during monsoon seasons, providing sustenance to the local communities. Today, visitors can explore the ruins, take photos, and appreciate its historical and cultural significance, offering insights into ancient engineering and water management practices.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -273,7 +273,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_8bd2fd9eea",
     "name": "Giant buddha",
-    "description": "Giant buddha is an archaeological site located in Matale, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Giant Buddha, an archaeological site in Matale, Sri Lanka, is a serene collection of ancient ruins believed to date back to the 5th century BC. The imposing structure, though partially eroded, still stands as a testament to early Buddhist architecture and artistry. Visitors can explore the site, marvel at the craftsmanship, and take photographs to capture its ethereal beauty. Cultural and religious significance lies in its representation of Buddha's teachings, attracting both local pilgrims and curious tourists seeking insights into ancient Sri Lankan heritage.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_18364a6c86",
     "name": "Lion Temple",
-    "description": "Located in Matale, Lion Temple is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Lion Temple, also known as Abhayabhera Temple, is an ancient archaeological site in Matale District, Sri Lanka. Built in the 5th century by King Valagamba to protect his kingdom, it features impressive ruins including a large stone lion statue. The temple holds cultural and religious significance, often visited by pilgrims and tourists alike. Notable for its historical importance, it symbolizes the era of King Valagamba’s rule and the resilience of the Sinhalese people. Visitors can explore the site, take photos, and learn about its rich history through guided tours.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_a133c145e4",
     "name": "Pidurangala",
-    "description": "Pidurangala is an archaeological site located in Matale, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Pidurangala, an archaeological site in Matale District, Sri Lanka, offers visitors breathtaking views of Horton Plains below. Once part of ancient Sigiriya ruins, it's a popular spot for trekking and photography, with its dramatic cliffs offering panoramic vistas. Legend has it King Kirthi I built this fortification as a defense against invaders, though archaeological evidence supports a much later date. Visitors often stop here to capture the sunrise over the plains, a moment that symbolizes the transition between night and day, nature and civilization.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_dc5dc5a819",
     "name": "Chapter House",
-    "description": "Chapter House is an archaeological site in the Matale area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Chapter House, an archaeological site in Matale, Sri Lanka, was once part of a larger complex known as the Temple of the Tooth. It served as a chapter house for Buddhist monks and housed sacred relics. The site itself, however, has no historical records, only ruins remain. Visitors can explore the remnants, take photos, and imagine what the place must have been like centuries ago. The Chapter House stands as a silent witness to the past, offering a glimpse into ancient temple life.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_bd7cd4682f",
     "name": "Mapagala Archaeological Site",
-    "description": "Mapagala Archaeological Site is an archaeological site in the Matale area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Mapagala Archaeological Site, located in Matale District, Sri Lanka, is an ancient ruins site known for its historical and cultural significance. The site dates back to the ancient kingdoms of Anuradhapura and Polonnaruwa, with evidence suggesting it was a royal palace during the 4th century BC. Legend has it that King Gajabahu II visited the area, making it a place of both historical and religious importance. Today, visitors can explore the remains of the structures, marvel at the intricate carvings, and take photographs of the well-preserved ruins, offering a glimpse into Sri Lanka’s rich past.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_a322340e55",
     "name": "Sigiriya",
-    "description": "Sigiriya is an archaeological site located in Matale, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Sigiriya, an ancient ruins located in Matale district, Sri Lanka, is renowned for its Lion’s Staircase entrance and the famous Mirror Pool. The site was once a royal palace built by King Kasyapa in the 5th century AD. Sigiriya is significant not just as ruins but also for its impressive rock fortress and the frescoes depicting court life and flora fauna. Visitors can explore the palace gardens, walk through the tunnels, and marvel at the panoramic views from the top. Photography is popular here, capturing the beauty of the site and the surrounding jungle.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Ruins",
@@ -537,3 +537,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_3a020280c2",
     "name": "Hoods Tower Naval Museum",
-    "description": "Hoods Tower Naval Museum is a museum located in Trincomalee, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Hoods Tower Naval Museum, located in Trincomalee, Sri Lanka, is a maritime museum housed in a historic British naval tower. It was constructed during the British colonial era as a lookout post. The museum showcases exhibits related to the naval history of the region, including artifacts from World War II. Notable for its strategic location overlooking Trincomalee Bay, it offers visitors a glimpse into the naval defense of the island during colonial times. Visitors can learn about the importance of the bay as a strategic port and the role of the Royal Navy in protecting it.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Museum",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

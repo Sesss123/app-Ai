@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_b9449773c6",
     "name": "St. Joseph's Church",
-    "description": "St. Joseph's Church is a church located in Ratnapura, Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St. Joseph's Church in Ratnapura, Sri Lanka, is a historic Anglican church known for its serene ambiance and architectural beauty. Founded in the late 19th century by British colonial administrators, it was named after Saint Joseph, the foster father of Jesus Christ. The church stands as a testament to the blend of European influence and local culture, hosting regular prayers and services. Visitors often take photos of the striking stained glass windows and intricate carvings, making it a popular spot for tourists to capture memories. Its location in the heart of Ratnapura adds to its charm, attracting both locals and international visitors.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_7c266c2bb2",
     "name": "St. Lukes Church",
-    "description": "Located in Ratnapura, St. Lukes Church is a church worth visiting. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "St. Luke's Church in Ratnapura, Sri Lanka, is a historic Anglican church known for its serene colonial architecture. Built in the late 19th century by British settlers, it stands as a testament to early Christian missionary efforts in the region. The church's interior features intricate wooden carvings and a towering clock, which has been an important local landmark for generations. Visitors can admire the church's beautiful stained glass windows and participate in regular Sunday services, making it a popular spot for both locals and tourists seeking a glimpse into Sri Lanka's rich religious heritage.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Church",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

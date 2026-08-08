@@ -1,7 +1,7 @@
 {
     "id": "pl_6e86cce8",
     "name": "Chundikkulam National Park",
-    "description": "Chundikkulam National Park, nestled along the coast, offers a unique blend of coastal wetlands and scenic views. This protected area is a haven for bird watchers, with its prime location attracting migratory species during the NE monsoon season.",
+    "description": "Chundikkulam National Park, nestled in the Kilinochchi district, offers visitors a chance to explore diverse ecosystems through bird watching trails and nature walks. The park, established as a nature reserve, provides a sanctuary for numerous bird species and other wildlife, making it a popular spot for nature enthusiasts and photographers. Its establishment was part of efforts to preserve Sri Lanka's rich biodiversity amidst ongoing challenges. Visitors can expect to see a variety of local flora and fauna, including migratory birds during certain times of the year.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "National Park",
@@ -30,3 +30,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

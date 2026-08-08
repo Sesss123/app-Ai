@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_025ecd15db",
     "name": "Chuvantamuripu Ruins",
-    "description": "Chuvantamuripu Ruins is an archaeological site located in Mullaitivu, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Chuvantamuripu Ruins, located in Mullaitivu, Sri Lanka, are remnants of an ancient temple complex. The ruins date back to the medieval period, though exact construction dates are uncertain. Historians believe they were built by the Kingdom of Jaffna, possibly as a Hindu shrine. Notable for their intricate stone carvings and well-preserved architecture, the site offers insights into local religious practices and construction techniques. Visitors can explore the remains, taking photos to capture the ancient beauty and historical significance of these ruins.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Ruins",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_d7d6fb3409",
     "name": "Uchipillayar Kovil",
-    "description": "Uchipillayar Kovil is an archaeological site in the Mullaitivu area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Uchipillayar Kovil, an archaeological site in Mullaitivu, Sri Lanka, is a remnant of ancient Hindu temples. The ruins date back to the 4th century BC, though the exact founding remains uncertain. Local legends associate the site with the mythical king Uchipillayar, but archaeological evidence suggests it was used as a pilgrimage center by early Tamil settlers. Today, visitors can explore the well-preserved ruins, take photos, and learn about the site’s rich cultural heritage through guided tours. Cultural significance lies in its role as a testament to early Tamil influence on Sri Lankan architecture and religion.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Ruins",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_846ee3a908",
     "name": "Gurukanda Temple",
-    "description": "Gurukanda Temple is an archaeological site located in Mullaitivu, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Gurukanda Temple, an archaeological site in Mullaitivu, Sri Lanka, is a remnant of ancient ruins believed to be over a thousand years old. Legends speak of a temple dedicated to local deities, though the exact founding date remains uncertain. Over time, the temple fell into disrepair, but recent efforts by local communities have sparked interest and preservation. Visitors can explore the ruins, marvel at their ancient structures, and take photographs to capture the serene atmosphere. Cultural and religious significance, along with historical events, are shrouded in mystery, adding to the enigma of this site.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Ruins",
@@ -83,7 +83,7 @@
     "_osm_type": "node",
     "_osm_id": 6212284593,
     "_source_global_id": "40d43f0f-707a-438f-85dd-676d5b8d7266",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -93,7 +93,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_1bc7e44195",
     "name": "LTTE Leadership Bunker",
-    "description": "LTTE Leadership Bunker is an archaeological site located in Mullaitivu, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The LTTE Leadership Bunker, located in the Mullaitivu district, is an archaeological site that served as the nerve center for the Liberation Tigers of Tamil Eelam (LTTE) during the Sri Lankan Civil War. Built in the early 21st century, it was the headquarters of the LTTE's leadership until the group's defeat in 2009. Today, visitors can explore the bunker, taking in the remnants of the war and the strategic importance it held. Photography is allowed, capturing the historical significance of this site.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Ruins",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

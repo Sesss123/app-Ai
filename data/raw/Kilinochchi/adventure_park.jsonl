@@ -34,7 +34,7 @@
 {
     "id": "pl_1d882798",
     "name": "Kilinochchi Cycling Route",
-    "description": "Experience the Kilinochchi Cycling Route, a scenic off-road path through lush forests and along rivers, offering cyclists a unique glimpse into Northern Sri Lanka’s post-war landscape and culture. This 15-km route winds through picturesque villages, past waterfalls, and alongside serene lakes, making it a perfect destination for adventure seekers and nature lovers.",
+    "description": "The Kilinochchi Cycling Route, an adventurous park in the Kilinochchi district of Sri Lanka, offers cyclists scenic routes through lush greenery and alongside serene rivers. It’s a popular spot for bird watchers and picnickers, attracting tourists interested in nature and outdoor activities. Historically, the area was part of the Jaffna Kingdom under the Kingdom of Ceylon, though specific details of its founding or past rulers are unknown. Today, it serves as a rejuvenating escape for those seeking natural beauty and relaxation.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_2e451dc3",
     "name": "Elephant Pass Trek",
-    "description": "Experience the thrill of Elephant Pass Trek, a challenging yet breathtaking adventure through dense jungle trails, where you can witness rare wildlife and marvel at the natural beauty of Northern Sri Lanka.",
+    "description": "The Elephant Pass Trek, nestled in the heart of the Eastern Province, offers hikers an adventurous journey through dense jungle landscapes. This area was once a strategic passageway used by ancient armies, its rugged terrain now a testament to the region's rich military history. Today, visitors can explore this path, spotting wildlife along the way, including elephants, leopards, and various bird species. Notable for its untouched natural beauty and historical significance, the trek attracts nature lovers and history buffs alike, offering a unique glimpse into Sri Lanka's past.",
     "district_id": "Kilinochchi",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

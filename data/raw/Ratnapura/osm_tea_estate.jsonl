@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_26d0fa03ff",
     "name": "tea",
-    "description": "tea is a tea estate located in Ratnapura, Sri Lanka. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Tea estates in Ratnapura, Sri Lanka, date back to the late 19th century when British colonials first introduced tea cultivation. Today, these estates offer visitors a chance to explore lush茶园 and learn about traditional tea-making practices. Walking trails wind through the verdant hills, offering breathtaking views and a peaceful escape from the hustle of city life. Photography enthusiasts can capture the serene landscapes and the intricate work of tea pickers. Visitors often participate in plantation tours where they can see how tea leaves are harvested, processed, and packed into boxes for export.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Tea Estate",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_3690468ff5",
     "name": "Tea",
-    "description": "Tea is a tea estate in the Ratnapura area of Sri Lanka. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "The Teak tea estate in Ratnapura district, Sri Lanka, offers visitors a chance to stroll through lush tea plantations while taking photos of the vibrant greenery. The estate has been producing high-quality Ceylon tea since the late 1800s, a testament to the skillful labor of generations of tea farmers. Visitors can learn about the traditional methods used to cultivate and harvest tea leaves, gaining insight into Sri Lanka’s rich tea industry. Cultural tours highlight the importance of tea in Sri Lankan culture, emphasizing its role in daily life and social gatherings.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Tea Estate",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_66faa37f9a",
     "name": "Tea",
-    "description": "Tea is a tea estate in the Ratnapura area of Sri Lanka. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Tea estates in Ratnapura, Sri Lanka, are renowned for their lush green landscapes and traditional tea cultivation practices. The district is dotted with numerous tea plantations where visitors can take leisurely walks through the rolling hills, marveling at the craftsmanship that goes into each cup of tea. Photography enthusiasts capture the serene beauty of these estates, often featuring local communities engaged in traditional tea-making processes. Cultural tours are available, offering insights into the history and heritage of tea production in the region, highlighting how this industry has become an integral part of Sri Lankan culture and economy.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Tea Estate",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_b1614ae4c2",
     "name": "tea",
-    "description": "Located in Ratnapura, tea is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "The tea estate in Ratnapura, Sri Lanka, offers visitors a serene experience amidst lush greenery and rolling hills. Historically, the estate was established by British colonizers in the late 19th century as part of the colonial effort to cultivate tea on a large scale. Today, it serves as a popular spot for tourists to walk along winding paths, snap photos of the picturesque scenery, and learn about the traditional tea-making process. Visitors can also enjoy local snacks and teas served at the estate's visitor center.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Tea Estate",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_87b45c8fb6",
     "name": "Agalawatte Estat",
-    "description": "Located in Kandy, Agalawatte Estat is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Agalawatte Estat, nestled in the heart of Kandy's tea belt, offers visitors a serene escape into the lush greenery of the estates. Historically, the area was part of the vast Ceylon Tea Plantation Company holdings, with the estate likely established during the colonial era. Today, it provides an ideal spot for nature lovers to stroll along the winding paths, capturing the beauty of the tea gardens through their cameras. The estate's tranquil atmosphere makes it perfect for a relaxing day trip from Kandy, offering a glimpse into Sri Lanka’s rich tea culture and natural splendor.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Tea Estate",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_21fd8c3361",
     "name": "Hantana",
-    "description": "Located in Kandy, Hantana is a tea estate worth visiting. Visitors can enjoy views of the tea plantations and surrounding hills.",
+    "description": "Hantana, a tea estate nestled in the lush hills of Kandy district, offers visitors a serene retreat where they can walk amidst the verdant tea plantations and take photos of the sprawling fields under the watchful gaze of the surrounding tea planters' houses. The estate's history, however, is not well-documented, but it stands as a testament to the colonial era's impact on Sri Lankan landscapes. Notable events, such as the tea workers' strikes and the subsequent reforms, though not directly linked to Hantana, reflect the socio-political dynamics of the time.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Tea Estate",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

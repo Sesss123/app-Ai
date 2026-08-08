@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_2cbbbc2e75",
     "name": "National Museum Ratnapura",
-    "description": "National Museum Ratnapura is a museum located in Ratnapura, Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The National Museum in Ratnapura, a significant cultural landmark, houses an extensive collection of artifacts and exhibits showcasing the rich history and diverse culture of Sri Lanka. Founded in 1875 by Sir Robert Peel, the museum was initially established as the Ceylon Museum. It features ancient Buddhist relics, colonial era artifacts, and contemporary art, offering visitors a comprehensive view of Sri Lanka’s past and present. Notable exhibitions include the ancient tooth relic of Buddha, showcasing the country's religious heritage, and an interactive section on the history of Ratnapura district. The museum also hosts regular cultural programs and educational workshops, making it a popular destination for both locals and tourists interested in learning about their national heritage.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Museum",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_0bcb23f154",
     "name": "Maduwanwela Walawwa",
-    "description": "Maduwanwela Walawwa is a museum in the Ratnapura area of Sri Lanka. It offers visitors a chance to learn more about local history and culture.",
+    "description": "Maduwanwela Walawwa, a museum in Ratnapura, Sri Lanka, houses artifacts and exhibits that showcase the rich cultural heritage and history of the area. The site was originally a royal palace, built during the ancient kings' era, serving as a symbol of power and wealth. Over time, it transformed into a cultural center, preserving the memories of past rulers and their contributions to the region. Today, visitors can explore its serene gardens and learn about local traditions, making it an essential stop for those interested in Sri Lankan history and culture.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Museum",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

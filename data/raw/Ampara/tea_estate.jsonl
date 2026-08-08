@@ -1,7 +1,7 @@
 {
     "id": "pl_0d348840",
     "name": "Gal Oya National Park",
-    "description": "Gal Oya National Park, nestled in the Eastern Province, offers a serene retreat where nature lovers can explore lush forests, crystal-clear streams, and the majestic Senanayake Samudra Reservoir. This protected area provides a perfect escape from the hustle of daily life.",
+    "description": "Gal Oya National Park, located in Ampara District, Sri Lanka, offers visitors opportunities to explore by boat on the river, trek through dense jungle, and spot diverse wildlife and birds. Established in 1985, the park protects an important wetland ecosystem, supporting numerous species. Historically, the area has been significant for local communities as a source of water and livelihoods, though specific founding details are not widely documented. Visitors can learn about the park's rich biodiversity and cultural heritage during guided tours, enhancing their experience of this natural gem.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "National Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_dc7c7cd4",
     "name": "Kumana National Park",
-    "description": "Kumana National Park, a sanctuary of nature and wildlife, offers breathtaking landscapes and a rich ecosystem teeming with birds and aquatic life. Located in Ampara district, it's a haven for birdwatchers and nature enthusiasts, perfect for those seeking a tranquil escape from the hustle of everyday life.",
+    "description": "Kumana National Park, located in Ampara District, Sri Lanka, offers visitors a chance to observe diverse wildlife and flora. Established as a nature reserve, it encompasses wetlands that attract over 200 species of birds, including migratory birds. The park's rich biodiversity includes elephants, leopards, and various waterfowl. It also holds cultural and ecological significance, serving as a crucial habitat for endangered species. Notable events such as bird migrations occur annually, drawing nature enthusiasts and researchers alike. Safaris and guided tours are available to explore the park's expansive wetland areas.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "National Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_1ce346fe",
     "name": "Maduru Oya National Park",
-    "description": "Maduru Oya National Park is a serene sanctuary nestled in the Eastern Province, known for its lush landscapes, diverse wildlife, and ancient ruins. This protected area offers visitors a chance to explore nature while learning about the region's rich cultural heritage.",
+    "description": "Maduru Oya National Park, located in Ampara District, Sri Lanka, offers visitors opportunities to explore diverse ecosystems through bird watching and jungle trekking. The park is significant for its rich biodiversity, including over 400 species of birds, and provides a sanctuary for various wildlife. Cultural tours within the park offer insights into local communities and traditional practices, blending natural beauty with cultural heritage. Established in 1986, the park has played a crucial role in preserving Sri Lanka’s natural landscapes and wildlife, attracting nature enthusiasts and conservationists alike.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "National Park",
@@ -100,7 +100,7 @@
 {
     "id": "pl_f2dec20b",
     "name": "Lahugala Kitulana National Park",
-    "description": "Lahugala Kitulana National Park, a lush sanctuary nestled in the Eastern Province, offers visitors a chance to explore its diverse wildlife and natural beauty. Home to elephants, leopards, and various bird species, it’s a haven for nature lovers and photographers alike.",
+    "description": "Lahugala Kitulana National Park, nestled in the Ampara district of Sri Lanka, offers visitors a chance to explore diverse landscapes through hiking trails and boat rides. Known for its rich biodiversity, the park is a sanctuary for numerous bird species and is also famous for occasional sightings of elephants. Established to protect the local flora and fauna, this national park has become an important site for both conservation efforts and eco-tourism, attracting nature lovers and wildlife enthusiasts from around the world.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "National Park",
@@ -129,10 +129,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_ca27834e",
     "name": "Ampara Paddy Farm",
-    "description": "Ampara Paddy Farm stands as a testament to Eastern Province's rich agricultural heritage. Nestled amidst lush paddy fields, this estate offers a serene backdrop where visitors can learn about traditional farming practices and witness the vibrant culture of tea cultivation.",
+    "description": "Ampara Paddy Farm, located in the heart of the tea estates of Ampara, Sri Lanka, offers visitors an opportunity to explore the lush green tea plantations and learn about the traditional farming practices. This estate has been passed down through generations and played a significant role in the local economy and culture. Visitors can take a guided tour to see how tea is grown, harvested, and processed, while also experiencing a cultural exchange with local families. The farm also hosts local food tastings, providing a unique insight into the flavors and traditions of the region.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -166,7 +167,7 @@
 {
     "id": "pl_9c771027",
     "name": "Lahugala Organic Garden",
-    "description": "Discover the lush Lahugala Organic Garden, nestled in the Ampara district. This serene estate offers a glimpse into traditional tea cultivation practices, surrounded by vibrant greenery and tranquil ponds. Experience the harmonious blend of nature and craftsmanship here.",
+    "description": "Lahugala Organic Garden, nestled in the Ampara district of Sri Lanka, is a unique tea estate offering visitors a glimpse into the traditional methods of tea cultivation. The garden, known for its organic practices, provides tours where one can learn about the entire tea-making process from planting to harvesting. It also attracts nature enthusiasts with its diverse birdlife, and picnic spots allow guests to relax amidst the lush greenery. Established over a century ago, it was once part of a larger estate but has managed to preserve much of its original charm and biodiversity.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -200,7 +201,7 @@
 {
     "id": "pl_03602926",
     "name": "Deegawapi Herb Walk",
-    "description": "Deegawapi Herb Walk is a serene tea estate in Ampara District, Eastern Province, known for its lush greenery, traditional tea plantations, and historical significance. Visitors can explore the beautiful gardens, learn about tea cultivation, and enjoy the tranquil atmosphere.",
+    "description": "The Deegawapi Herb Walk is a unique tea estate located in Ampara, Sri Lanka, known for its lush tea plantations and tranquil gardens. Visitors can learn about the art of tea cultivation and enjoy a relaxing stroll through the scenic grounds. Historically, the estate was established in the early 20th century by a local family, though the exact founding date is unknown. Cultural significance lies in its role as a microcosm of traditional Sri Lankan life, where visitors can experience the peaceful atmosphere and learn about the rich heritage of tea production in the country.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -234,7 +235,7 @@
 {
     "id": "pl_8c173fc4",
     "name": "Uhana Spice Farm",
-    "description": "Discover Uhana Spice Farm, a serene tea estate nestled amidst lush greenery and vibrant flora. Here, you can witness the traditional Sri Lankan tea-making process, learn about the local culture, and enjoy breathtaking views of the Eastern Province’s natural beauty.",
+    "description": "Uhana Spice Farm, nestled in the tea estates of Ampara, offers visitors a glimpse into the rich agricultural heritage of Sri Lanka. The farm tours provide an insight into the traditional methods of tea cultivation, while cultural workshops teach about local customs and crafts. A serene picnic spot completes the experience, offering a perfect blend of nature and culture. Established over a century ago, Uhana Spice Farm has played a significant role in the development of tea production in the region, preserving traditional practices and fostering local communities.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -268,7 +269,7 @@
 {
     "id": "pl_ca2be2cf",
     "name": "Kalmunai Coconut Estate",
-    "description": "Kalmunai Coconut Estate stands as a testament to traditional Sri Lankan tea cultivation, nestled amidst lush coconut groves. This estate offers a glimpse into the rich cultural heritage and agricultural practices of the Eastern Province, with its carefully tended tea plants and abundant coconuts.",
+    "description": "Kalmunai Coconut Estate, nestled in the heart of Ampara District, is a sprawling tea plantation known for its lush green trails and vibrant cultural heritage. Historically significant as one of the first estates to introduce modern farming practices in the region, the estate has preserved traditional farming methods passed down through generations. Visitors can explore the meticulously maintained tea plantations, learn about the sustainable farming techniques, and even visit the adjacent coconut groves, where they can see how these crops complement the tea production. Cultural tours often highlight the estate's role in local economic development, showcasing how the interplay of different crops contributes to the livelihoods of the community.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -302,7 +303,7 @@
 {
     "id": "pl_ec23c313",
     "name": "Sammanthurai Garden",
-    "description": "Sammanthurai Garden, nestled amidst lush tea plantations, offers visitors a serene escape with its tranquil ponds, ancient temples, and breathtaking views of the Eastern Province’s natural beauty. This estate is not just a place to visit but a journey through time and culture.",
+    "description": "Sammanthurai Garden, nestled in the Ampara district, offers visitors a glimpse into the lush tea plantation landscape of Sri Lanka. The estate tours allow guests to explore the meticulously cultivated tea gardens, learning about the art and science of tea production. Notable for its rich cultural heritage, the garden also features a historical temple, a testament to the local community's spiritual life. Visitors can enjoy picnicking at scenic spots while taking in the breathtaking views, making it a perfect spot for both nature enthusiasts and those interested in cultural experiences.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -336,7 +337,7 @@
 {
     "id": "pl_1c88b5bd",
     "name": "Akkaraipattu Farm",
-    "description": "Akkaraipattu Farm, nestled amidst lush tea plantations, offers visitors a serene retreat where one can immerse themselves in the tranquil beauty of Eastern Province's natural landscapes. This historic estate, known for its rich cultural heritage and picturesque views, attracts nature lovers and tea enthusiasts alike.",
+    "description": "Akkaraipattu Farm, located in the Ampara district of Sri Lanka, is a historic tea estate known for its lush green landscapes and rich biodiversity. The farm has been producing high-quality Ceylon tea since the early 20th century, when it was established by a British family as part of their colonial enterprise. It offers visitors the chance to explore the plantation through guided tours, learn about traditional tea-making techniques, and take a cultural heritage walk through the estate. In addition, bird enthusiasts can spot various endemic species during the guided bird-watching sessions.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -370,7 +371,7 @@
 {
     "id": "pl_a55d2351",
     "name": "Nintavur Garden",
-    "description": "Nintavur Garden, nestled in the lush Eastern Province, is a serene tea estate where visitors can savor the rich aroma of freshly brewed tea while exploring its tranquil gardens and learning about the local culture and history.",
+    "description": "Nintavur Garden, located in the Ampara district, is a prominent tea estate known for its lush green tea plantations and rich cultural heritage. Established over a century ago by a British colonialist, it now thrives under local management, offering visitors an immersive experience into the world of tea. The estate also boasts a well-preserved local tea museum that showcases the history and importance of tea cultivation in the region, along with interactive exhibits and artifacts. Visitors can savor freshly brewed teas at the on-site tasting sessions, which provide insights into the art and science of tea making.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -404,7 +405,7 @@
 {
     "id": "pl_3835cdc0",
     "name": "Karaitivu Coconut Walk",
-    "description": "Karaitivu Coconut Walk is a serene tea estate where lush coconut groves and traditional Sri Lankan architecture blend harmoniously, offering visitors a glimpse into the island’s rich cultural heritage and natural beauty.",
+    "description": "Karaitivu Coconut Walk, located in the lush tea plantations of Ampara, offers visitors a serene experience through its winding trails. The area was once part of the ancient kingdom of Kotte, and while the exact founding date is unknown, it has been a significant part of tea cultivation for generations. Alongside the tea plantation walks, visitors can explore the local tea museum, learning about the craft and history of tea production. A particularly enchanting feature is the walk through the coconut groves, where the rustling leaves and fragrant air create a peaceful escape from the hustle of everyday life.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",
@@ -438,7 +439,7 @@
 {
     "id": "pl_e991bfff",
     "name": "Ampara Valley Tea",
-    "description": "Ampara Valley Tea is a serene tea estate nestled in the lush green hills of Ampara District, Eastern Province. Known for its pristine landscapes and traditional tea-making practices, it offers visitors a glimpse into the rich cultural heritage of Sri Lanka.",
+    "description": "Ampara Valley Tea Estate, nestled in the lush hills of Ampara, is renowned for its high-quality tea. The estate was established by British colonizers in the early 20th century, who recognized the fertile soil and ideal climate for tea cultivation. Over time, it has become a significant part of Sri Lankan tea culture, known for its unique flavor profile. Visitors can explore the plantation trails, learn about the intricate process of tea making, and even visit the local tea museum to understand more about the industry's rich history and cultural significance.",
     "district_id": "Ampara",
     "province_id": "Eastern",
     "category_id": "Tea Estate",

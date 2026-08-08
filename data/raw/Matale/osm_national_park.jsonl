@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_7b72d8f9af",
     "name": "Pallekele Reserved Forest",
-    "description": "Located in Matale, Pallekele Reserved Forest is a nature reserve worth visiting. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Pallekele Reserved Forest, a national park in Matale District, Sri Lanka, offers visitors the chance to explore diverse ecosystems through guided hikes and wildlife safaris. Established to protect endemic species, it attracts nature enthusiasts keen on spotting local flora and fauna including elephants, leopards, and various bird species. Visitors can also observe waterfalls and streams within the park, adding to its appeal as a serene retreat. Established in the early 20th century, it was declared a protected area to preserve Sri Lanka’s rich biodiversity for future generations.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "National Park",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

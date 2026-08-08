@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_0444f462f3",
     "name": "Pigeon Island National Park",
-    "description": "Pigeon Island National Park is a nature reserve in the Trincomalee area of Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
+    "description": "Pigeon Island National Park, located in Trincomalee, Sri Lanka, is a protected area known for its diverse wildlife and scenic beauty. Established as a national park in 1986, it encompasses over 200 hectares of land, much of which was previously used for coconut plantations. The park is home to various species of birds, including migratory waterfowl, and offers visitors opportunities to observe these creatures in their natural habitat. Its rich biodiversity makes it an important site for conservation efforts in the region.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "National Park",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_3feb486b",
     "name": "Horagolla National Park",
-    "description": "Horagolla National Park, nestled in the Western Province, offers lush landscapes, diverse wildlife, and serene hiking trails. This protected area is perfect for nature enthusiasts seeking a peaceful escape from the hustle of daily life.",
+    "description": "Horagolla National Park, located in the Gampaha District of Sri Lanka, is a protected area known for its diverse wildlife and scenic landscapes. Established as a nature reserve in 1986, the park offers visitors opportunities to explore its trails on foot, spot colorful birds, and capture stunning nature photographs. Historically, the region has been significant for its natural resources and biodiversity, attracting both local and international conservation efforts. Today, it remains an important sanctuary for various flora and fauna, contributing to the ecological balance of the island.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "National Park",
@@ -30,10 +30,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_9a03be81",
     "name": "Yagoda Tea Garden",
-    "description": "Yagoda Tea Garden is a serene estate nestled in the lush Western Province, known for its meticulously cultivated tea plants and traditional Sri Lankan architecture. Visitors can explore the tranquil gardens, learn about tea cultivation, and enjoy panoramic views of the surrounding countryside.",
+    "description": "Yagoda Tea Garden, located in the Gampaha district of Sri Lanka, is a prominent tea estate known for its lush green landscapes and traditional tea production methods. The garden was established over a century ago by a local family, who saw the potential in the fertile land to cultivate tea. Over time, it has become a popular destination for visitors interested in learning about the art and science of tea cultivation, taking part in a scenic walk, and experiencing a taste of the premium teas produced there.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Tea Estate",
@@ -67,7 +68,7 @@
 {
     "id": "pl_175e81b2",
     "name": "Nittambuwa Spice Farm",
-    "description": "Nittambuwa Spice Farm is a serene tea estate nestled in the Gampaha district, Western Province. Known for its lush green tea gardens and traditional Sri Lankan culture, it offers visitors a glimpse into the island’s agricultural heritage and natural beauty.",
+    "description": "Nittambuwa Spice Farm, nestled in the lush tea plantations of Gampaha, offers visitors a glimpse into traditional Sri Lankan agriculture. The estate, though not directly linked to the famous Ceylon Tea Trails, showcases the rich biodiversity of the region, where spices like cinnamon and nutmeg thrive alongside tea plants. Visitors can learn about ancient farming techniques, interact with local farmers, and even tour a nearby village, experiencing firsthand the cultural and economic ties between tea cultivation and rural life in Sri Lanka.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Tea Estate",
@@ -101,7 +102,7 @@
 {
     "id": "pl_57417265",
     "name": "Gampaha Herb Trail",
-    "description": "Discover the Gampaha Herb Trail, a serene tea estate where ancient tea plants whisper secrets of the Western Province's rich agricultural heritage. Nestled amidst lush greenery, this trail offers a glimpse into the traditional practices that have shaped Sri Lanka’s tea industry.",
+    "description": "The Gampaha Herb Trail is nestled within the lush tea estates of Gampaha, Sri Lanka. This unique trail offers visitors an opportunity to explore tea plantations while learning about traditional tea-making techniques. Visitors can also enjoy picnics in the scenic surroundings, appreciating the harmonious blend of nature and craftsmanship. Established over a century ago, these estates are not just sites of tea production but also serve as living museums, preserving the rich cultural heritage of tea cultivation in Sri Lanka.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Tea Estate",
@@ -135,7 +136,7 @@
 {
     "id": "pl_7c62e4af",
     "name": "Biyagama Botanics",
-    "description": "Biyagama Botanics, nestled amidst lush tea plantations, offers visitors a serene escape with its tranquil gardens and historical significance. This estate stands as a testament to the rich cultural heritage and agricultural traditions of Western Province, Sri Lanka.",
+    "description": "Biyagama Botanics, a tea estate nestled in the lush green hills of Gampaha, offers visitors a unique glimpse into the rich agricultural heritage of Sri Lanka. The estate was established in the early 20th century by local farmers who saw potential in cultivating tea plants. Over the years, it has grown into a significant part of the region’s economy, attracting tourists eager to explore its serene landscapes and learn about the art of tea production. Notable among its attractions is the guided tour that takes visitors through the tea bushes, past traditional tea-making houses, and along winding paths where they can spot endemic birds and colorful wildflowers.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Tea Estate",
@@ -169,7 +170,7 @@
 {
     "id": "pl_dc23907a",
     "name": "Kelaniya Spice Walk",
-    "description": "Discover the rich cultural tapestry of Kelaniya Spice Walk, a serene tea estate where ancient traditions blend harmoniously with modern hospitality. Nestled in Gampaha, this picturesque site offers a glimpse into Sri Lanka’s agricultural heritage, showcasing the meticulous craftsmanship and vibrant colors of its spice gardens and tea plantations.",
+    "description": "Kelaniya Spice Walk, located in the lush tea estates of Gampaha, offers visitors a unique insight into the traditional farming practices of Sri Lanka's tea plantations. This area, known for its rich biodiversity, features a spice garden alongside the tea plantation, where tourists can learn about the complex interplay between these crops. The walk takes you through the serene landscape, past rows of tea bushes, and into the heart of the spice cultivation, offering a glimpse into sustainable agriculture practices. Notable for its focus on both tea production and spice cultivation, it’s a site where visitors can appreciate the intricate balance between these two vital industries in Sri Lanka.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Tea Estate",

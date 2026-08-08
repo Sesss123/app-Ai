@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_48af840fb1",
     "name": "Sri Sudharmaramaya",
-    "description": "Sri Sudharmaramaya is a Hindu kovil in the Galle area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Sri Sudharmaramaya, a Kovil in Galle District, Sri Lanka, is dedicated to Lord Shiva. The temple, believed to be over 400 years old, stands as a significant religious site where devotees gather for prayer and rituals. Its architecture reflects the Indo-Sri Lankan style, blending elements of both Indian and Sinhalese traditions. Notable for its intricate carvings and historical importance, it attracts visitors interested in Hindu culture and architecture. Notable events include annual festivals that draw crowds celebrating local deities and cultural practices.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_b09020bfcc",
     "name": "Modara Devalaya",
-    "description": "Located in Galle, Modara Devalaya is a Hindu kovil worth visiting. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Modara Devalaya, a Kovil in Galle District, Sri Lanka, is an ancient Hindu temple dedicated to Lord Shiva. Its exact origins date back to the colonial era, though the site has been continuously used as a place of worship. The Kovil features intricate carvings and a sacred pond where devotees perform rituals. It holds significant cultural and spiritual importance for the local Hindu community, often hosting festivals and ceremonies throughout the year. Visitors can admire the temple's architecture and take photos, immersing themselves in the rich cultural heritage of Galle.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_87d26c0cdc",
     "name": "Shiwa Shiwa Hindu Temple",
-    "description": "Shiwa Shiwa Hindu Temple is a Hindu kovil in the Galle area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Shiwa Shiwa Hindu Temple, a Kovil in Galle District, Sri Lanka, is a sacred site where devotees gather for prayer and meditation. The temple's origins date back to the colonial era, with its architecture blending traditional Hindu elements with local influences. Notable for its serene ambiance and historical significance, visitors can also capture memorable photographs here. Cultural and religious practices have been an integral part of the community for generations, making the temple a focal point of spiritual life in the area.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_7e750e816f",
     "name": "Shiwa Hindu Temple",
-    "description": "Shiwa Hindu Temple is a Hindu kovil in the Galle area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "The Shiwa Hindu Temple in Galle District is a Kovil dedicated to Hindu worship. Its origins date back centuries, though exact construction details are unknown. It serves as a significant site for local Hindu communities, offering a space for prayer and reflection. Visitors can also capture photos of the temple's architecture and serene setting, which includes a small pond and lush gardens. Cultural and religious ceremonies often take place here, attracting pilgrims and tourists interested in experiencing traditional Hindu practices.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -141,10 +141,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_4dc82170",
     "name": "Galle Sivan Temple (Sri Meenakshi Antheswarar Temple)",
-    "description": "This ancient Galle Sivan Temple, also known as Sri Meenakshi Antheswarar Temple, stands majestically amidst lush gardens. Dedicated to Lord Shiva, it features intricate carvings and a serene atmosphere that transports visitors back in time. Its historical significance and architectural beauty make it a must-visit for both locals and tourists alike.",
+    "description": "The Galle Sivan Temple, also known as Sri Meenakshi Antheswarar Temple, stands in Galle District, Sri Lanka. Dedicated to Lord Shiva, it attracts devotees seeking spiritual solace through prayer and meditation. The temple, believed to be over 200 years old, offers visitors a serene atmosphere for reflection and photography, making it a popular spot for tourists and locals alike. Notable for its architectural beauty and cultural significance, it stands as a testament to the rich heritage of Hindu worship in Galle.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -178,7 +179,7 @@
 {
     "id": "pl_4497dacd",
     "name": "Sri Kathirvelayutha Swami Kovil, Kaluwella",
-    "description": "This ancient and revered Sri Kathirvelayutha Swami Kovil stands majestically in Kaluwella, Galle District. Dedicated to Lord Shiva, its intricate carvings and ornate architecture reflect the rich cultural heritage of Sri Lanka. A must-visit for devotees and history enthusiasts alike, it offers a glimpse into the spiritual heart of the island.",
+    "description": "Sri Kathirvelayutha Swami Kovil stands in Kaluwella, Galle District, Sri Lanka, a sacred Hindu temple dedicated to Lord Shiva. The exact founding date is unknown, but the structure has been renovated over time, preserving elements from various eras. Notable for its serene ambiance, the Kovil attracts devotees seeking blessings and solace, as well as visitors interested in its architectural beauty and historical significance. Visitors can explore the courtyard adorned with intricate carvings, take part in prayer offerings, and capture memorable photos while reflecting on the spiritual journey within.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -212,7 +213,7 @@
 {
     "id": "pl_ef282445",
     "name": "Ahangama Sri Muthumari Amman Temple",
-    "description": "Discover the spiritual heart of Ahangama at Ahangama Sri Muthumari Amman Temple, a revered Hindu site nestled amidst lush gardens and ancient trees. Witness the intricate carvings and vibrant murals that tell tales of devotion and faith, making it a must-visit for history buffs and spiritual seekers alike.",
+    "description": "Ahangama Sri Muthumari Amman Temple, nestled in Galle District, is a sacred Hindu Kovil dedicated to the goddess Muthu Mariamman. The temple, believed to be over a century old, stands as a testament to the rich cultural heritage of Galle. Local legend suggests the deity was brought by sea from Tamil Nadu, India, during colonial times. Visitors come to pray for blessings, meditate, and reflect on life’s journey. The temple grounds also offer a serene backdrop for photography, capturing the ancient architecture and lush surroundings.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -246,7 +247,7 @@
 {
     "id": "pl_7fc7ab92",
     "name": "Bentota Sri Muthumari Amman Temple",
-    "description": "Discover the ancient Sri Muthumari Amman Temple in Bentota, a sacred Hindu site adorned with intricate carvings and statues that tell tales of devotion and faith. This temple, nestled amidst lush gardens, is a testament to the rich cultural heritage of Sri Lanka.",
+    "description": "The Bentota Sri Muthumari Amman Temple, a Kovil in Galle District, is dedicated to the Hindu goddess Muthamari Amman. It attracts devotees seeking blessings and spiritual guidance through prayer and meditation. The temple also offers a serene environment for photography enthusiasts and those looking to relax amidst its tranquil setting. Built during the colonial era, the structure features intricate carvings and ornate architecture reflecting a blend of local and architectural influences. Over the years, it has been a significant site for both local and visiting Hindu pilgrims.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",
@@ -280,7 +281,7 @@
 {
     "id": "pl_a6f8c365",
     "name": "Galle Sri Muthumari Amman Temple, Alpitiya",
-    "description": "This ancient Hindu temple, dedicated to Muthumari Amman, stands majestically amidst lush gardens in Alpitiya, Galle. Built in the 18th century, its intricate carvings and ornate architecture reflect the rich cultural heritage of Sri Lanka. Visitors can explore the serene premises and learn about the local traditions and beliefs.",
+    "description": "The Galle Sri Muthumari Amman Temple stands in Alpitiya, Galle District, Sri Lanka, a significant Hindu Kovil revered for its intricate architecture and cultural importance. Built during the Dutch colonial era, the temple showcases Dutch Indo-Sri Lankan architectural elements. It holds deep religious and cultural significance, attracting devotees and tourists alike who come to learn about local traditions and marvel at its ornate structures. Its serene beauty and historical context make it a must-visit site for those exploring Galle’s rich heritage.",
     "district_id": "Galle",
     "province_id": "Southern",
     "category_id": "Kovil",

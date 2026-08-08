@@ -156,6 +156,24 @@ DEFAULT_FIELDS = {
     "Height_m": 0.0, "Length_km": 0.0, "Surfing": "no",
 }
 
+def _yes_no_map(value: str) -> str:
+    # OSM's wheelchair tag also allows "limited" - keep that distinct
+    # rather than collapsing it into yes/no.
+    return {"yes": "yes", "no": "no", "limited": "limited", "designated": "yes"}.get(value, value)
+
+
+# Sri Lanka's OSM coverage rarely tags these practical-amenity keys (see the
+# OSM_TAG_OVERRIDES usage in make_record: most places fall back to
+# DEFAULT_FIELDS above), but where an element genuinely has the tag, prefer
+# the real OSM value over the hardcoded default.
+# record_field -> (osm_tag_key, value_mapping_fn_or_None_for_passthrough)
+OSM_TAG_OVERRIDES = {
+    "wheelchair_access": ("wheelchair", _yes_no_map),
+    "opening_hours": ("opening_hours", None),
+    "toilets": ("toilets", _yes_no_map),
+    "parking_avail": ("parking", None),
+}
+
 CATEGORY_OVERRIDES = {
     "National Park": {"wildlife_hazard": "Present - stay in vehicle/with guide", "guide_required": "yes"},
     "Sandy Beach": {"budget_category": "Free"},
@@ -294,6 +312,15 @@ def make_record(el: dict) -> dict | None:
     defaults.update(CATEGORY_OVERRIDES.get(category_id, {}))
     for k, v in defaults.items():
         record[k] = v
+    # Most OSM elements don't have these tags at all (Sri Lanka's OSM
+    # coverage is sparse on practical amenity details), so the hardcoded
+    # defaults above are the honest fallback for the vast majority of
+    # records. But where a place genuinely IS tagged, use the real value
+    # instead of silently overwriting it with "unknown"/"Check locally".
+    for record_field, (osm_key, mapping) in OSM_TAG_OVERRIDES.items():
+        raw_value = tags.get(osm_key)
+        if raw_value is not None:
+            record[record_field] = mapping(raw_value) if mapping else raw_value
     record["_output_file"] = el["_output_file"]
     return record
 

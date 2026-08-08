@@ -34,7 +34,7 @@
 {
     "id": "pl_faacbde1",
     "name": "Giant Tank Sailing",
-    "description": "Experience the Giant Tank Sailing, a unique adventure park in Vavuniya. Nestled amidst lush greenery, this site offers thrilling water sports and scenic views. Perfect for adrenaline seekers and nature lovers alike.",
+    "description": "The Giant Tank Sailing Adventure Park, nestled in Vavuniya, Sri Lanka, offers adrenaline-pumping water sports amidst scenic views. Established as a reservoir by the British colonial government in the early 20th century, the tank now serves as a popular spot for water sports enthusiasts. Visitors can rent out speedboats, kayaks, and paddleboards, zipping through the calm waters, enjoying breathtaking views of the surrounding countryside. Notable for its unique blend of adventure and natural beauty, the park attracts both locals and tourists seeking an exhilarating experience.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

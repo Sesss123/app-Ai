@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_c83781eafc",
     "name": "Mannar Dutch Fort",
-    "description": "Located in Mannar, Mannar Dutch Fort is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Mannar Dutch Fort, a historic landmark in Mannar, Sri Lanka, stands as a testament to colonial influence. Built by the Dutch in the early 17th century, it was constructed to control trade routes and protect their interests in the region. Over time, the fort served as a military stronghold and later as a prison. Today, it attracts visitors interested in its architectural beauty and the stories of past inhabitants, making it a popular spot for sightseeing along the coast.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Other",
@@ -11,7 +11,7 @@
     "_osm_type": "node",
     "_osm_id": 4289829989,
     "_source_global_id": "77f6313a-d236-493a-aff8-4d173dcdf1e4",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_86a3a4c520",
     "name": "Baobab Tree",
-    "description": "Baobab Tree is a point of interest in the Mannar area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Baobab Tree stands as a unique natural landmark in Mannar, Sri Lanka, a district known for its rich biodiversity. This ancient tree, believed to be over 400 years old, is a popular spot for tourists and locals alike, offering shade and stories of its ageless presence in the region. Its distinctive shape and size make it a significant attraction, often compared to its counterparts in Africa, though this particular tree is native to Sri Lanka. Visitors can enjoy sightseeing around the tree, marveling at its centuries-old roots and branches that spread wide.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Other",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_e460bb4943",
     "name": "Dorric Fort",
-    "description": "Located in Mannar, Dorric Fort is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Dorric Fort, also known as Mannar Fort, is an historic site in Mannar District, Sri Lanka. Constructed by the Portuguese in the early 17th century, it was later fortified by the Dutch in the late 17th century. The fort played a strategic role during the Dutch-Mahara conflict, and today it offers visitors a glimpse into colonial history through its well-preserved walls and cannons. Visitors can explore the grounds, learn about its construction, and appreciate the architectural evolution of the region.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Other",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_f567820f94",
     "name": "Keeri beach",
-    "description": "Keeri beach is a point of interest in the Mannar area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Keeri beach, located in Mannar, Sri Lanka, offers a picturesque setting along the coast where visitors can enjoy sightseeing. The area, known for its clear waters and white sandy shores, has been a popular spot for locals and tourists alike. Historically, Keeri beach has played a minor role in the region’s maritime trade and fishing communities. Notable events include occasional community festivals and weddings held at the beachfront. Today, it attracts nature lovers and those seeking tranquility by the sea.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_d6f44f405e",
     "name": "Donkey Clinic and education centre",
-    "description": "Located in Mannar, Donkey Clinic and education centre is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Donkey Clinic and Education Centre, located in Mannar, Sri Lanka, is a unique facility dedicated to the welfare and education of donkeys. Established to improve the livelihoods of local communities by promoting responsible donkey ownership, the clinic offers veterinary services, training programs, and awareness campaigns. It plays a crucial role in raising awareness about the importance of animal welfare and sustainable farming practices in the region. Visitors can learn about donkey care, participate in educational workshops, and see rescued donkeys at the centre.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Other",
@@ -155,7 +155,7 @@
     "_osm_type": "node",
     "_osm_id": 12578799904,
     "_source_global_id": "efc7e57d-2069-49af-9d2d-aa4b33513e48",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 09:00-16:30",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_add6884a9a",
     "name": "Hanging bridge",
-    "description": "Located in Mannar, Hanging bridge is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Hanging Bridge in Mannar, Sri Lanka, is an iconic structure that spans the Palk Strait, connecting Mannar Island to India. Built in the early 20th century by the British colonial administration, it was constructed as a strategic military link and a means of transportation between the two regions. Today, it serves as a popular tourist attraction, offering breathtaking views and a unique experience for visitors who cross the bridge on foot. Known locally as the \"Palk Strait Bridge,\" it holds cultural and historical significance, attracting both locals and tourists interested in its engineering marvel and the rich maritime history of the region.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Other",
@@ -227,7 +227,7 @@
     "_osm_type": "way",
     "_osm_id": 611905557,
     "_source_global_id": "31969016-1b85-4ce4-9046-e5eaa19a2e7d",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -249,3 +249,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

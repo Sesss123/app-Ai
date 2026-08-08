@@ -1,7 +1,7 @@
 {
     "id": "pl_17529f7b",
     "name": "Yapahuwa Rock Temple",
-    "description": "Discover the ancient Yapahuwa Rock Temple, perched atop a rocky outcrop, where Buddhist monks once lived in seclusion. This site offers breathtaking views and a glimpse into Sri Lanka's rich cultural heritage.",
+    "description": "Yapahuwa Rock Temple, nestled in Kurunagala, is a remarkable archaeological site known for its ancient ruins and breathtaking panoramic views. The temple, believed to be over a thousand years old, was constructed during the Jaffna Kingdom era, though the exact date remains uncertain. Its strategic location atop a hill offers visitors stunning vistas, while the temple itself is a testament to the island’s rich cultural heritage. Over time, the temple has been a place of reflection and pilgrimage, attracting both local and foreign tourists seeking to learn about its historical significance and spiritual importance.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Temple/Archaeological",
@@ -34,7 +34,7 @@
 {
     "id": "pl_4b7c4087",
     "name": "Kurunegala Grand Jumma Mosque",
-    "description": "Discover the spiritual heart of Kurunegala at the Kurunegala Grand Jumma Mosque, a stunning Islamic landmark adorned with intricate carvings and historical significance that draws visitors from across the island to pay homage and learn about Sri Lanka's diverse religious heritage.",
+    "description": "The Kurunegala Grand Jumma Mosque, a significant Islamic landmark in Kurunegala, Sri Lanka, stands as a testament to the city's rich cultural heritage. Constructed in the early 20th century, the mosque reflects the architectural styles typical of mosques in the region. It has played a crucial role in local Islamic community life, serving not just as a place of worship but also as a focal point for social gatherings and educational programs. Notable for its intricate carvings and domes, the mosque attracts visitors interested in both its historical significance and spiritual ambiance. Historical tours often highlight the mosque’s construction and the impact of Islamic culture on the local society.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Mosque",
@@ -67,7 +67,7 @@
 {
     "id": "pl_98a08ec6",
     "name": "Kurunegala St. Paul's Cathedral (Anglican)",
-    "description": "Kurunegala St. Paul's Cathedral (Anglican) stands as a testament to British colonial influence, its ornate architecture reflecting the grandeur of the era. Nestled in the heart of Kurunegala, this cathedral is a must-visit for history enthusiasts, offering insights into the religious and cultural heritage of the region.",
+    "description": "Kurunegala St Paul's Cathedral, a prominent Anglican church in Kurunegala, stands as a testament to British colonial influence in Sri Lanka. Constructed in the late 19th century, the cathedral was built on the site of an earlier Buddhist temple, blending architectural styles from both eras. Its imposing red sandstone dome and intricate carvings make it a significant landmark, attracting visitors interested in both its rich history and impressive architecture. Visitors can explore the cathedral's interior, marveling at the ornate wooden choir stalls and stained glass windows, while others enjoy panoramic views from its rooftop. Nearby, the historic Kurunegala Fort offers additional cultural insights into the region's past.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Cathedral",
@@ -100,7 +100,7 @@
 {
     "id": "pl_bafacc75",
     "name": "Arankele Forest Monastery (ancient)",
-    "description": "Arankele Forest Monastery (ancient) stands as a testament to Sri Lanka's rich Buddhist heritage, nestled amidst lush forests and ancient ruins. This site offers visitors a glimpse into the past through its well-preserved structures and tranquil surroundings, making it a must-visit for history enthusiasts and nature lovers alike.",
+    "description": "Arankele Forest Monastery, nestled in the lush hills of Kurunagala, stands as a testament to ancient Sri Lankan monastic culture. The monastery, believed to date back over a millennium, was established by revered monks seeking tranquility and spiritual growth. Its serene setting, surrounded by dense forest, offers visitors a chance to immerse themselves in nature while reflecting on its rich history. Visitors can explore ancient ruins, relax under the shade of ancient trees, and engage in meditation sessions, all while learning about the site’s pivotal role in local and national heritage.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Monastery",
@@ -133,7 +133,7 @@
 {
     "id": "pl_d7fdc842",
     "name": "Kurunegala Sri Selva Vinayagar Temple",
-    "description": "Discover the ancient Hindu shrine of Kurunegala Sri Selva Vinayagar Temple, a sacred site adorned with intricate carvings and statues that tell tales of Sri Lanka’s rich cultural heritage. Nestled in the heart of Kurunegala, this temple is a testament to the island’s diverse religious landscape and architectural beauty.",
+    "description": "The Kurunegala Sri Selva Vinayagar Temple, a Kovil in the heart of Kurunegala, stands as a testament to Hindu traditions. Built in the 18th century, it houses a revered statue of Lord Ganesha, a popular deity in Hinduism. Visitors can explore the temple grounds, learn about Hindu customs, and marvel at the intricately carved statues and frescoes. This sacred site has witnessed numerous local festivals and rituals, making it a significant place of worship and cultural heritage for Hindus in Sri Lanka.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Kovil",
@@ -166,7 +166,7 @@
 {
     "id": "pl_6b83586a",
     "name": "Kuliyapitiya Jumma Mosque",
-    "description": "Kuliyapitiya Jumma Mosque stands as a historical landmark in Kurunegala, adorned with intricate Islamic architecture and serving as a spiritual center for locals and visitors alike. Its serene courtyard and towering minarets offer a glimpse into the rich cultural heritage of Sri Lanka’s Muslim community.",
+    "description": "Kuliyapitiya Jumma Mosque, located in the heart of Kurunagala district, is a prominent Islamic place of worship known for its significant role in local Muslim communities. The mosque, built in the early 20th century, serves as a focal point for both daily prayers and Friday congregational services. Its architecture blends traditional Islamic design with local influences, making it a unique landmark in the area. Notable for its serene ambiance, visitors often find it an ideal spot for reflection and photography, capturing the peaceful atmosphere of this historic site.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Mosque",
@@ -199,7 +199,7 @@
 {
     "id": "pl_ef15cb14",
     "name": "Sri Sivasubramanir Temple (Kuliapitty), Pallapitty",
-    "description": "This ancient and serene temple, nestled in the lush hills of Pallapitty, is dedicated to Lord Siva. Its intricate carvings and ornate architecture reflect the rich cultural heritage of Sri Lanka, making it a must-visit for history enthusiasts and art lovers alike.",
+    "description": "The Sri Sivasubramanir Temple, also known as Kuliapitty, Pallapitty, stands as a testament to Sri Lanka's deep-rooted Hindu culture. Built in the 18th century, it was commissioned by a local chieftain to honor Lord Shiva. The temple features exquisite carvings and sculptures depicting Hindu mythology, attracting visitors interested in both its architectural beauty and spiritual significance. Surrounded by lush green hills, it offers breathtaking views and is a popular spot for tourists seeking insights into Sri Lanka’s rich cultural heritage.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Kovil",
@@ -265,7 +265,7 @@
 {
     "id": "pl_16e0fa9b",
     "name": "Kurunegala St. Mary's Church (RC)",
-    "description": "Kurunegala St. Mary's Church stands as a testament to the city's rich Christian heritage, its ornate architecture reflecting the blend of colonial and local influences. Nestled in the heart of Kurunegala, this historic church offers visitors a glimpse into the town's past.",
+    "description": "Kurunegala St. Mary's Church, a Roman Catholic sanctuary, stands as a testament to the rich religious heritage of Kurunegala. Built in the early 20th century, the church was commissioned by the local Catholic community to honor the Virgin Mary. Its ornate architecture and serene setting make it a popular spot for both locals and tourists seeking spiritual solace and picturesque views. Notable for its historical significance, the church also hosts regular religious services and exhibits, offering visitors insights into its architectural beauty and the community's faith.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Church",
@@ -298,7 +298,7 @@
 {
     "id": "pl_1f44ee83",
     "name": "Kurunegala Second Mosque",
-    "description": "Discover the intricate Islamic architecture of Kurunegala Second Mosque, a historical gem nestled amidst lush gardens. Built in the 19th century, this mosque stands as a testament to the rich cultural heritage of Sri Lanka, offering visitors a glimpse into the country's diverse religious landscape.",
+    "description": "Kurunegala Second Mosque, located in the heart of Kurunegala, is a significant Islamic landmark serving as a place of worship and reflection. Built in the 19th century, it stands as a testament to the rich cultural tapestry of Sri Lanka's Muslim community. The mosque is also popular among visitors for its serene atmosphere and historical charm, offering a tranquil setting for photography and relaxation. Its architectural design reflects traditional Islamic elements, making it a focal point for both locals and tourists alike.",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Mosque",
@@ -364,7 +364,7 @@
 {
     "id": "pl_a97e5964",
     "name": "Kurunegala St. Luke's Church (CSI)",
-    "description": "Kurunegala St. Luke's Church stands as a testament to the town's rich Christian heritage, its ornate architecture reflecting the blend of colonial and local influences. Nestled amidst lush gardens, this historic site offers visitors a glimpse into the past while providing a serene place for reflection.",
+    "description": "Kurunegala St. Luke's Church, a small but historically significant Anglican church in Kurunegala, Sri Lanka, stands as a testament to colonial influence and Christian heritage. Built in the early 20th century, it was constructed by the Church of Sri Lanka (CSI) to serve the local Anglican community. The church features intricate wooden carvings and a stained glass window depicting Christ, making it a popular spot for tourists to explore. Notable for its architectural design and historical context, the church also offers a glimpse into the religious landscape of early 20th-century Sri Lanka.周边小镇中心也有许多可参观的景点，游客可以漫步在教堂周围，享受宁静的氛围。",
     "district_id": "Kurunagala",
     "province_id": "North Western",
     "category_id": "Church",

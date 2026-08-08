@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_bb82ec58f0",
     "name": "Amman Kovil",
-    "description": "Amman Kovil is a Hindu kovil located in Polonnaruwa, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Amman Kovil, located in Polonnaruwa, Sri Lanka, is a significant Hindu temple dedicated to Lord Shiva. The site has been a place of worship for centuries, attracting devotees seeking spiritual solace. Built during the reign of King Parakramabahu I in the 14th century, the Kovil is renowned for its intricate carvings and architectural beauty. It holds deep cultural and religious importance, serving as a testament to the rich heritage of ancient Sri Lanka. Visitors often come to pray and take photos, capturing moments of reverence and serenity.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Kovil",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_32c6661a53",
     "name": "Mariyamman kovil",
-    "description": "Mariyamman kovil is a Hindu kovil located in Polonnaruwa, Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Mariyamman Kovil in Polonnaruwa, Sri Lanka, is an ancient Hindu temple dedicated to Mariyamman, the goddess of healing and protection. Built during the Polonnaruwa kingdom period, it was likely constructed by local rulers as a place of worship for their people. The temple’s architecture reflects the blend of Indian and Sinhalese styles common in Polonnaruwa. It remains a significant site for Hindu devotees visiting Polonnaruwa, offering visitors the chance to pray and take photos, preserving the rich cultural heritage of the region.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Kovil",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_1903f47fb2",
     "name": "Gallinda Purana Devalaya",
-    "description": "Gallinda Purana Devalaya is a Hindu kovil in the Polonnaruwa area of Sri Lanka. Visitors are welcome to observe the shrine's architecture and rituals respectfully.",
+    "description": "Gallinda Purana Devalaya, a Kovil in Polonnaruwa, Sri Lanka, is an ancient Hindu temple believed to date back to the Polonnaruwa era. Its exact founding date and original architect are unknown, but it has been a significant site for worship and rituals for centuries. Notable for its serene architecture and historical importance, the Kovil is visited by devotees and tourists alike, offering a glimpse into Sri Lanka's rich religious heritage. Visitors can admire its intricate carvings and participate in daily prayers while taking photos to capture its beauty.",
     "district_id": "Polonnaruwa",
     "province_id": "North Central",
     "category_id": "Kovil",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

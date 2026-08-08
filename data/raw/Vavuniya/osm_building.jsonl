@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_0ed0d84df5",
     "name": "Sri La Sri Arumuganavala's Statue",
-    "description": "Located in Vavuniya, Sri La Sri Arumuganavala's Statue is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Sri La Sri Arumuganavala's Statue stands in Vavuniya, a historic district known for its rich Tamil heritage. The statue, dedicated to a revered local deity, is a significant landmark for devotees and tourists alike. Constructed to honor the patron saint of agriculture and cattle, the monument has become an important site for cultural and religious gatherings. Visitors often come to take photos and admire the statue's intricate carvings, which reflect traditional Tamil art. It symbolizes the enduring connection between the local community and their spiritual beliefs.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Building",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_2d72e3c8d9",
     "name": "Tamil Poet Emperor Kambar",
-    "description": "Tamil Poet Emperor Kambar is a historic landmark in the Vavuniya area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Tamil Poet Emperor Kambar, a historic building in Vavuniya, Sri Lanka, commemorates the life and work of the renowned Tamil poet and historian Thiru Kāmbar. Built in the early 20th century, it stands as a testament to the rich literary heritage of Tamil culture in Sri Lanka. The structure houses an array of ancient manuscripts and artifacts, offering visitors a glimpse into the cultural and intellectual history of the region. Visitors can enjoy photography and sightseeing at this significant monument.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Building",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_1c781dab7e",
     "name": "St Thaninayagam",
-    "description": "St Thaninayagam is a historic landmark located in Vavuniya, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "St Thaninayagam is a historic landmark in Vavuniya, Sri Lanka, known for its unique architecture. The building, constructed in the early 20th century, holds cultural and religious significance as it was once used by the local Tamil community for worship. Its ornate façade and intricate carvings attract visitors interested in both its architectural beauty and historical context. Despite its age, the structure stands as a testament to the rich heritage of the region, offering a glimpse into past traditions and customs.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Building",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_f0f3a6619c",
     "name": "Swami Vevehanathar",
-    "description": "Swami Vevehanathar is a historic landmark in the Vavuniya area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Swami Vevehanathar, a historic landmark in Vavuniya, Sri Lanka, stands as a testament to local religious devotion. Built in the early 20th century, it was constructed by devotees in memory of their revered deity Swami Vevehanathar, a revered saint in the local Hindu community. The building, adorned with intricate carvings and statues, serves as a site for pilgrims to seek blessings and tourists to admire its architectural beauty and cultural significance. Its presence in Vavuniya has become an integral part of the town’s heritage, attracting visitors interested in both its religious history and architectural charm.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Building",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_a50e4c7d5c",
     "name": "Avvaiyar",
-    "description": "Avvaiyar is a historic landmark located in Vavuniya, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Avvaiyar, a historic building in Vavuniya, Sri Lanka, stands as a testament to the rich cultural heritage of the region. Constructed in the 19th century, it was named after Avvaiyar, an ancient Tamil poet-saint revered for her teachings on love, devotion, and social justice. The structure, now a popular site for photography and sightseeing, holds significant cultural and religious importance, attracting visitors interested in learning about the poet's life and works. It also marks an important historical period in the area's development.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Building",
@@ -285,3 +285,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_7515c28a",
     "name": "Delft National Park",
-    "description": "Delft National Park, located on the Jaffna Peninsula, offers a serene retreat with its lush greenery, ancient ruins, and tranquil waterfalls. This protected area is a haven for nature lovers and historians, featuring well-preserved temples and archaeological sites alongside breathtaking natural landscapes.",
+    "description": "Delft National Park, a protected area in Jaffna, Sri Lanka, offers visitors a chance to explore diverse flora and fauna through hiking trails and bird-watching spots. Established to preserve the natural beauty and biodiversity of the region, the park encompasses various ecosystems including wetlands and forests. It holds significant ecological importance as a sanctuary for numerous bird species and other wildlife, attracting nature enthusiasts and photographers. Notable for its rich biodiversity, the park also commemorates the local community's efforts in conservation, fostering a sense of pride among locals.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "National Park",
@@ -30,10 +30,11 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_073190a5",
     "name": "Jaffna Palmyra Farm",
-    "description": "Jaffna Palmyra Farm is a serene tea plantation nestled in the lush hills of Northern Sri Lanka, offering visitors a glimpse into the traditional methods of tea cultivation and harvesting. Nestled among the rolling green tea fields, this estate provides a tranquil escape from the bustling city life.",
+    "description": "Jaffna Palmyra Farm, a tea estate in the heart of Jaffna District, offers visitors a glimpse into the lush green landscapes and rich cultural heritage of the region. The farm, known for its meticulously maintained tea plantations, provides tours where guests can learn about the art and science of tea cultivation. Photography enthusiasts capture the serene beauty of the area, while those seeking relaxation can enjoy the tranquil surroundings. Historically, the estate has been significant as part of the Jaffna region's agricultural heritage, playing a role in sustaining local communities through generations.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Tea Estate",
@@ -67,7 +68,7 @@
 {
     "id": "pl_a995e322",
     "name": "Chunnakam Tobacco Farm",
-    "description": "Chunnakam Tobacco Farm, nestled amidst lush tea plantations, offers visitors a glimpse into the traditional Nallur Kandaswamy Temple, where locals gather for worship and cultural rituals. This serene estate is a perfect spot for nature lovers and history enthusiasts.",
+    "description": "Chunnakam Tobacco Farm, located in the Jaffna district of Sri Lanka, is part of a former tea estate that was established in the early 20th century. The farm offers visitors a unique experience with guided tours through its lush tea plantations, allowing them to learn about the cultivation process and see firsthand the green leaves transforming into the world-renowned Ceylon tea. Notable among its attractions is a nearby Hindu temple, which draws both locals and tourists. Additionally, the area is popular for bird watching, with numerous species of birds frequent the area.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Tea Estate",
@@ -101,7 +102,7 @@
 {
     "id": "pl_63cce290",
     "name": "Nallur Herb Garden",
-    "description": "Nallur Herb Garden is a tranquil tea estate in Jaffna, Northern Sri Lanka, known for its lush herb gardens and traditional tea plantation tours. Visitors can explore the beautiful flower beds and learn about the local tea-making process, making it a perfect spot for nature lovers and tea enthusiasts alike.",
+    "description": "Nallur Herb Garden, nestled within the lush tea estates of Jaffna, offers visitors a unique blend of tea education and botanical exploration. Historically part of the larger Nallur Tea Estate, the garden has been meticulously maintained to showcase the rich biodiversity of the region. Guided tours delve into the intricate process of tea-making, while the herb garden features a variety of medicinal and aromatic plants, attracting local botanists and nature enthusiasts. Notable for its commitment to sustainability and cultural heritage, the garden stands as a testament to the interconnectedness of traditional practices and modern tourism in Sri Lanka.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Tea Estate",
@@ -135,7 +136,7 @@
 {
     "id": "pl_179d944e",
     "name": "Kopay Spice Walk",
-    "description": "Discover the rich cultural tapestry and vibrant history at Kopay Spice Walk, a historic tea estate nestled amidst lush greenery and traditional practices. Experience the craftsmanship and learn about the intricate art of tea cultivation in this serene setting.",
+    "description": "Kopay Spice Walk, situated in the heart of Jaffna, is a unique tea estate offering visitors a glimpse into the rich agricultural heritage of the region. Once a thriving spice garden, the estate now focuses on sustainable tea cultivation, showcasing traditional methods passed down through generations. Guided tours reveal the intricate process from seed to cup, while a local museum educates on the area’s fascinating history, including the impact of colonialism and the ongoing struggle for peace. Visitors can also enjoy scenic walks through lush tea plantations, experiencing nature’s bounty alongside cultural insights.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Tea Estate",
@@ -169,7 +170,7 @@
 {
     "id": "pl_50f48f8b",
     "name": "Kaithady Botanics",
-    "description": "Kaithady Botanics, a serene tea estate nestled amidst lush greenery, offers visitors a glimpse into the traditional Nallur Kandaswamy temple and its surrounding botanical gardens, providing a tranquil escape from the bustling city life.",
+    "description": "Kaithady Botanics, a tea estate in Jaffna, offers visitors a glimpse into the lush green landscapes of Sri Lanka's tea plantations. Known for its picturesque gardens and traditional tea-making process, the estate also features a nearby ancient Hindu temple, attracting both nature lovers and spiritual seekers. Guided tours reveal the secrets of tea cultivation, while nature walks lead through serene trails dotted with endemic plants. This tranquil retreat provides a unique opportunity to experience Sri Lankan culture and natural beauty.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Tea Estate",
@@ -203,7 +204,7 @@
 {
     "id": "pl_54a50d46",
     "name": "Tellippalai Garden",
-    "description": "Tellippalai Garden, nestled amidst lush tea plantations, offers visitors a serene retreat where one can immerse themselves in the tranquil beauty of Northern Sri Lanka’s natural landscapes. This estate stands as a testament to the region's rich agricultural heritage, providing a picturesque backdrop for nature lovers and history enthusiasts alike.",
+    "description": "Tellippalai Garden, located in the heart of Jaffna District, is a serene tea estate known for its lush green landscapes and diverse flora. The estate offers visitors a unique experience through guided tours that reveal the intricacies of tea cultivation, while bird watchers can spot local species such as the Malayan Emerald and the Malabar Grey Hornbill. Photographers find inspiration in the picturesque setting. Its rich biodiversity and historical significance make it a popular destination for nature lovers and tourists alike. Established over a century ago by British planters, Tellippalai Garden has played a crucial role in the region's economy and culture.",
     "district_id": "Jaffna",
     "province_id": "Northern",
     "category_id": "Tea Estate",

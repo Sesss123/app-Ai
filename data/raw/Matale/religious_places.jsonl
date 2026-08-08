@@ -1,7 +1,7 @@
 {
     "id": "pl_b9e2f037",
     "name": "Dambulla Cave Temple (Golden Temple of Dambulla)",
-    "description": "Dambulla Cave Temple, also known as the Golden Temple of Dambulla, is a breathtaking Buddhist sanctuary nestled in the Central Province. This ancient temple, carved into the side of a hill, houses over 150 Buddha statues and intricate frescoes, making it a must-see for history buffs and art lovers alike.",
+    "description": "Dambulla Cave Temple, also known as the Golden Temple of Dambulla, is a UNESCO World Heritage site located in Matale District, Sri Lanka. This ancient temple complex features 15 caves adorned with intricate Buddhist murals covering over 2,000 square meters, depicting scenes from the life of Buddha. The temple's golden hue comes from the natural calcite deposits that shine under the sunlight, creating an ethereal glow. Visitors can climb up narrow steps to admire the panoramic views of the surrounding jungle and rice fields. It's a significant pilgrimage site where devotees gather to learn about the principles of Buddhism.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Cave Temple",
@@ -34,7 +34,7 @@
 {
     "id": "pl_5e904995",
     "name": "Pidurangala Rajamaha Viharaya (near Sigiriya)",
-    "description": "Discover the ancient Buddhist temple carved into the cliffside at Pidurangala Rajamaha Viharaya, a sacred site near Sigiriya where pilgrims marvel at the intricate carvings and the breathtaking view over the surrounding jungle.",
+    "description": "Explore the ancient temple carved into a rock face at Pidurangala Rajamaha Viharaya, just outside Sigiriya. This sacred site offers panoramic views of the surrounding jungle and is steeped in historical significance, believed to date back over a thousand years. Legend has it that King Kassapa I constructed the monastery as a retreat, though its exact founding remains uncertain. Today, visitors can marvel at the intricate carvings and learn about the site’s rich cultural heritage, making it a must-see for history buffs and nature lovers alike.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Temple/Rock monastery",
@@ -100,7 +100,7 @@
 {
     "id": "pl_2e2b9d18",
     "name": "Wahakotte St. Anthony's Shrine",
-    "description": "Discover the serene beauty of Wahakotte St. Anthony's Shrine, a charming Catholic shrine nestled amidst lush greenery and towering trees. This sacred site offers visitors a peaceful retreat with its tranquil atmosphere and historical significance.",
+    "description": "Wahakotte St. Anthony's Shrine, located in Matale District, Sri Lanka, is a significant Christian site where devotees come to pray and meditate. Dedicated to St. Anthony, an early Christian saint, the shrine holds cultural and religious importance for local Christians. Notable for its role in reflecting on Christian history and offering spiritual guidance, it also attracts visitors interested in photography, capturing the serene atmosphere and architectural beauty of the place. Established as a small chapel, it has grown into a popular pilgrimage center over the years.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Shrine",

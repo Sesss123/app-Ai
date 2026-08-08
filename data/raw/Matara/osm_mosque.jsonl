@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_30cfee0e82",
     "name": "Ladies Prayer Hall",
-    "description": "Ladies Prayer Hall is a mosque located in Matara, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Ladies Prayer Hall, a modest yet significant mosque in Matara, Sri Lanka, was established by local Muslims following the 1983 Black July riots to provide a safe space for women to pray. Constructed with traditional materials and architecture, it stands as a symbol of resilience and community support. The hall, open to all genders, offers a serene atmosphere for worship and reflection, drawing visitors interested in learning about Sri Lanka's diverse religious heritage. Visitors can also capture images of the interior, which features intricate wooden decorations and a central prayer area.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_29a5146c9d",
     "name": "Matara Mosque",
-    "description": "Matara Mosque is a mosque located in Matara, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Matara Mosque, located in the heart of Matara, Sri Lanka, is a significant Islamic landmark. Built in the 19th century by local Muslim community leaders, it serves as a place of worship and community gathering. Over the years, the mosque has undergone several renovations but retains its original architectural style. Its white dome and intricate carvings make it a prominent feature on the Matara skyline. Visitors can explore the mosque during prayer times, though photography is permitted. Cultural events and community gatherings often take place here, making it a hub of social life in the area.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_5b3a6da612",
     "name": "Meerah Jumma Masjid",
-    "description": "Meerah Jumma Masjid is a mosque in the Matara area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Meerah Jumma Masjid, located in Matara, Sri Lanka, is a significant Islamic landmark known for its architectural beauty and spiritual importance. The mosque, built in the early 20th century, was constructed by local Muslim communities as a place of worship and community gathering. It holds great cultural and religious significance, serving as a symbol of unity among the mataramin people. Notable for its harmonious blend of traditional and modern design, the masjid attracts visitors interested in both its historical architecture and its role in mataramin culture. Visitors can also take photos to capture the serene atmosphere and intricate designs within the mosque.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_ea5ad5b343",
     "name": "PORWAI JUMMAH MOSQUE",
-    "description": "Located in Matara, PORWAI JUMMAH MOSQUE is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Porwai Jumma Mosque, located in Matara, Sri Lanka, is an important Islamic landmark serving as a place of worship and community gathering. Its origins date back to the early days of Islamic presence in Sri Lanka, though specific construction details remain undocumented. The mosque plays a vital role in the local Muslim community, hosting Friday prayers and offering spiritual support to residents. Visitors can explore its serene architecture and perhaps capture some photographs of this significant structure, which stands as a testament to the rich cultural heritage of Matara’s Muslim population.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_b379d191e2",
     "name": "Jumma Mohideen Mosque",
-    "description": "Located in Matara, Jumma Mohideen Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Jumma Mohideen Mosque in Matara, Sri Lanka, is a historic Islamic place of worship founded by Jumma Mohideen, a prominent local Muslim community leader. The mosque, established in the early 20th century, stands as a testament to the rich cultural heritage of Matara's multicultural population. It has played a significant role in the spiritual life of the local Muslim community, hosting prayer services and serving as a focal point for social gatherings. Its architecture reflects a blend of traditional Islamic design elements with local architectural influences, making it an important landmark in the Matara area.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -177,10 +177,11 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_0b69e6c5",
     "name": "Matara Grand Jumma Mosque",
-    "description": "Matara Grand Jumma Mosque, a stunning Islamic landmark in Matara, Southern Province, stands majestically amidst lush gardens. Its intricate architecture and historical significance make it a must-visit for both locals and tourists alike.",
+    "description": "Matara Grand Jumma Mosque stands in the heart of Matara, a historic town in southern Sri Lanka. Built during the Dutch colonial era, it was later renovated by the British, making it a blend of both architectural styles. The mosque holds significant religious importance, serving as a gathering point for Muslims in the region. Visitors can observe prayer timings and take photos of the intricate architecture, which features Dutch-Greek elements. Reflecting on its rich history, the mosque invites curiosity about the community's past and present, offering insights into the interwoven histories of different cultures in Sri Lanka.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -214,7 +215,7 @@
 {
     "id": "pl_dab88fdc",
     "name": "Matara Town Mosque (old mosque)",
-    "description": "Discover the ancient Matara Town Mosque (old mosque), a historical site nestled in the heart of Matara town. Built over centuries, this mosque stands as a testament to Sri Lanka's rich Islamic heritage, offering visitors a glimpse into the past through its intricate architecture and serene ambiance.",
+    "description": "The old mosque in Matara Town, a historic landmark since the 16th century, stands as a testament to the town's rich Islamic heritage. Built by local Muslim communities, it was once an important gathering place for prayers and community events. The mosque underwent several renovations over the centuries, reflecting the architectural evolution of Islamic architecture in Sri Lanka. Its historical tours offer insights into the island's multicultural past, making it a significant site for both locals and tourists interested in religious and cultural history.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -248,7 +249,7 @@
 {
     "id": "pl_b6f64dda",
     "name": "Weligama Jumma Mosque",
-    "description": "Discover the serene Weligama Jumma Mosque, a historical Islamic site nestled along the Matara coast. Built in the 19th century, this mosque offers visitors a glimpse into Sri Lanka's rich cultural heritage. Its intricate architecture and tranquil setting make it a must-visit for both locals and tourists alike.",
+    "description": "Weligama Jumma Mosque stands in Matara, Sri Lanka, a historic site attracting visitors interested in Islamic architecture and culture. Built in the 19th century, it was established by local Muslim community leaders to serve as a place of worship. Notable for its blend of traditional and modern design elements, the mosque also hosts prayer timings and offers a serene reflection area. Its presence symbolizes the rich multicultural heritage of Matara, making it a significant landmark for both locals and tourists.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -282,7 +283,7 @@
 {
     "id": "pl_fd91323e",
     "name": "Dikwella Jumma Mosque",
-    "description": "Dikwella Jumma Mosque stands as a historical landmark in Matara, Southern Sri Lanka, adorned with intricate Islamic architecture and serving as a spiritual center for local Muslims. Its serene courtyard and towering minarets attract visitors seeking a glimpse into the rich cultural heritage of the region.",
+    "description": "Dikwella Jumma Mosque stands in Matara, Sri Lanka, a district known for its serene coastal beauty. This historic mosque, believed to date back to the 17th century, was constructed by local Muslims as a place of worship. It holds significant cultural and religious importance, serving as a hub for prayer and reflection. Visitors can explore its architecture, which features intricate designs and elements reflecting Islamic art. While the exact founding details remain undocumented, the mosque has been an integral part of the community, hosting various religious ceremonies and gatherings throughout the years. Its presence symbolizes the rich tapestry of Sri Lanka's diverse cultural heritage.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Mosque",

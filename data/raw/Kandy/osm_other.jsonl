@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_9c3138e272",
     "name": "Kengalla Ambalama",
-    "description": "Located in Kandy, Kengalla Ambalama is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Kengalla Ambalama, a unique architectural gem in Kandy, is a heritage building that stands as a testament to the colonial era. Constructed during British rule, it was originally a private residence converted into an ambalama, a traditional Sri Lankan pavilion. Today, it serves as a popular spot for tourists to admire its ornate architecture and lush gardens. Its cultural and historical significance lies in bridging the gap between ancient Sri Lankan traditions and European influences, making it a fascinating point of interest for visitors exploring Kandy's rich heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_0e5f4313cd",
     "name": "Victoria Dam Observation Center",
-    "description": "Victoria Dam Observation Center is a point of interest in the Kandy area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Victoria Dam Observation Center stands on the outskirts of Kandy, offering visitors a panoramic view of the Victoria Vihara Dam, a hydroelectric project completed in 1931. The dam, which was constructed by the Ceylon Electricity Supply Corporation, serves as a source of power for the region. The observation center provides a platform where tourists can appreciate the dam's architectural beauty and learn about the engineering marvel, while enjoying the picturesque scenery. It also marks an important site for local environmental education and community gatherings.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -47,7 +47,7 @@
     "_osm_type": "node",
     "_osm_id": 4358591689,
     "_source_global_id": "5233dd06-2de4-4d9c-bc91-93d748902290",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Fr 09:00-16:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_8c6368e4eb",
     "name": "Kadiyallana Falls",
-    "description": "Kadiyallana Falls is a point of interest in the Kandy area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kadiyallana Falls, a natural wonder in the heart of Kandy, is a picturesque spot where the Kelani River plunges dramatically into a deep blue pool. The falls, though not as grand as some other Sri Lankan waterfalls, offer serene views and opportunities for visitors to relax and take in the tranquil setting. Historically, the area has been significant for local communities, serving as a source of fresh water and a place of spiritual importance, though exact origins are unknown beyond being part of the Kelani Ganga watershed. Today, it's a popular spot for tourists and locals alike, appreciating its beauty and tranquility.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_68a1a9fe3c",
     "name": "Galboda Falls",
-    "description": "Located in Kandy, Galboda Falls is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Galboda Falls, located in the heart of Kandy, Sri Lanka, are a popular spot for visitors seeking natural beauty. Surrounded by lush greenery, these waterfalls offer a refreshing sight and sound. The falls were formed over millions of years through erosion by the Galboda River, carving out their dramatic path through the hills. While the exact date of their formation cannot be pinpointed, locals believe the falls have been a source of tranquility and inspiration for centuries, attracting pilgrims and nature lovers alike. Today, they serve as a picturesque backdrop for tourists exploring the region.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_3e89fc7de9",
     "name": "Bhodhirukkarama Rajamaha Viharasthanaya Gamhatha",
-    "description": "Bhodhirukkarama Rajamaha Viharasthanaya Gamhatha is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Bhodhirukkarama Rajamaha Viharasthanaya Gamhatha, a sacred site in Kandy, Sri Lanka, holds significant religious importance as a monastery complex. Its exact origins date back to the 16th century, though much of the current structure was rebuilt during the colonial period. The site features ancient monastic buildings and gardens, making it a popular destination for tourists interested in Buddhist architecture and history. It's particularly noteworthy for its historical artifacts and the stories associated with its founding monks, though specific details about these aspects vary among accounts.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_663a834efa",
     "name": "Holuwagoda",
-    "description": "Located in Kandy, Holuwagoda is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Holuwagoda, a small point of interest in Kandy district, is a serene village known for its ancient temples and traditional architecture. The area is rich with historical sites including the 18th century Holuwagoda Temple, which houses a revered Buddha statue. Local festivals like the Kandy Perahera draw visitors eager to witness the vibrant procession celebrating the sacred Tooth Relic. The village also offers a glimpse into rural Sri Lankan life through its well-preserved colonial-era homes and the nearby Udawalawe National Park, a popular wildlife destination.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_d498886bc5",
     "name": "Huluganga Ella Waterfall",
-    "description": "Huluganga Ella Waterfall is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Huluganga Ella Waterfall, located in the Kandy District of Sri Lanka, is a natural attraction offering stunning views of cascading water. The waterfall is part of the Ella River system and draws visitors interested in nature and adventure. It's situated in a lush forest setting, making it a popular spot for sightseeing and photography. Little is known about its specific construction or founding, but the waterfall has been a local landmark for centuries, admired by both locals and tourists. Its presence adds to the rich tapestry of natural beauty in Sri Lanka.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_66d1e23cb3",
     "name": "bathing place",
-    "description": "bathing place is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Bathing place, a unique site in Kandy, Sri Lanka, offers visitors a serene spot for reflection and relaxation. Its origins trace back to ancient times, though exact dates and details of its construction are unknown. Today, it stands as a tranquil oasis, often visited by tourists seeking a moment of peace amidst the hustle and bustle of city life. Cultural significance lies in its role as a sacred bathing area, though specific religious affiliations are not widely documented. Visitors can enjoy its cool waters, lush greenery, and peaceful atmosphere, making it a popular stop on tours of the Kandy area.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_7415fcf00b",
     "name": "bathing place",
-    "description": "bathing place is a point of interest in the Kandy area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Bathing place, also known as Abhayagiri Vihara, is an ancient bathing site in Kandy, Sri Lanka, historically significant for its role in religious rituals. Built during the reign of King Mahasena in the 3rd century BCE, it was used by Buddhist monks as a sacred bathing site before attending the Mahathupa temple. The site features remnants of monolithic bathing pools and remains of the vihara itself, offering insights into early Buddhist practices. It's a must-see for those interested in Kandy's rich religious heritage and architectural history.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_87917645fc",
     "name": "Thaliya Wetuna Ella",
-    "description": "Thaliya Wetuna Ella is a point of interest in the Kandy area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Thaliya Wetuna Ella, also known as the Elephant Rock, is a prominent landmark in Kandy, Sri Lanka. It stands as a testament to nature’s raw power and human ingenuity, rising majestically from the jungle. The rock is believed to be over 200 million years old, formed by volcanic activity. Its name means \"rock of elephants\" in Sinhala, reflecting its resemblance to an elephant formation. This natural wonder has been a site of pilgrimage and meditation for centuries, attracting visitors seeking spiritual insights and awe-inspiring views. Legend has it that the rock was once home to a giant elephant, a story that resonates with the local Buddhist culture. Today, it stands as a symbol of Kandy's rich heritage and natural beauty.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_ca6555ec5b",
     "name": "New Ranweli Spice Garden 99",
-    "description": "New Ranweli Spice Garden 99 is a point of interest in the Kandy area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "New Ranweli Spice Garden 99 is a unique attraction in Kandy, a popular spot for sightseeing. While the exact origins of the garden are unknown, it offers visitors a chance to explore Sri Lankan spices and herbs in a lush botanical setting. Established as a private venture, the garden showcases a variety of local flora and fauna, making it a must-visit for those interested in botany and culinary culture. Notable for its educational aspect, the garden also hosts occasional cultural events and workshops, adding to its appeal.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_98a69260ab",
     "name": "Diyakwrella waterfall",
-    "description": "Located in Kandy, Diyakwrella waterfall is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Diyakwrella waterfall, located in the picturesque hills of Kandy, is a popular spot for sightseeing. Surrounded by lush greenery, it's a refreshing oasis for visitors. The waterfall, known for its crystal-clear waters cascading down from a height of around 30 meters, has been a cherished natural wonder for centuries. Local legends speak of its healing properties, which may explain why it attracts many tourists seeking both a scenic view and a moment of tranquility. Visitors can hike along the trail to reach the waterfall, enjoying the cool mist and vibrant flora along the way.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_677b233074",
     "name": "Tea factory",
-    "description": "Located in Kandy, Tea factory is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Tea factory in Kandy, Sri Lanka, offers visitors a glimpse into the local tea production process. Built by the British during colonial times, it showcases traditional methods and machinery used to transform tea leaves into the familiar green and black teas consumed worldwide. Guided tours provide insights into the cultivation, processing, and export of Ceylon tea, a significant part of Sri Lankan heritage and economy. Visitors can also sample freshly brewed tea at the on-site café, enhancing their experience of this historic site.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_baac2c6360",
     "name": "Elephant stables",
-    "description": "Located in Kandy, Elephant stables is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Elephant Stables, also known as the Royal Stable Complex, is a historic site in Kandy, Sri Lanka. Built during the Kandyan Kingdom era, it served as a royal residence for the last king of Sri Lanka, King Sri Wickrama Rajasinha. The complex includes several buildings, including the Royal Stable, which was used to house elephants belonging to the royal family. It played a crucial role in the kingdom's defense and diplomatic relations. Today, it is a popular tourist attraction offering insights into Kandyan culture and history.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_a41a4e2af3",
     "name": "Meemure Lakegala Hiking Area",
-    "description": "Located in Kandy, Meemure Lakegala Hiking Area is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Meemure Lakegala Hiking Area, nestled in the heart of Kandy, offers hikers breathtaking views of the surrounding hills and verdant valleys. This area, known for its serene beauty, is a popular spot for nature lovers and those seeking peaceful walks. It's believed to be a hidden gem, less frequented by tourists, making it a tranquil escape from the hustle of city life. The hiking trails lead through lush forests and past waterfalls, culminating in panoramic vistas that showcase the lush greenery of the region. Visitors often note the area’s quiet charm and the opportunity to connect with nature in a relatively untouched setting.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -541,7 +541,7 @@
 {
     "id": "pl_osm_abd523d20e",
     "name": "Heen Gaga Natural Pool",
-    "description": "Located in Kandy, Heen Gaga Natural Pool is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Heen Gaga Natural Pool, located in the heart of Kandy, is a serene spot known for its crystal-clear waters and lush green surroundings. The pool, formed by a natural spring, is a popular destination for locals and tourists alike, offering a refreshing break from the city's hustle. It's particularly attractive during monsoon season when the water level rises, creating an even more enchanting sight. Known for its healing properties, visitors often come to bathe in the pool, seeking relief from stress and ailments. Nearby, there are several ancient temples, adding to the area's rich cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_fbb51b1d0b",
     "name": "Confluence Waterfall And Natural Pool",
-    "description": "Confluence Waterfall And Natural Pool is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Confluence Waterfall And Natural Pool, located in the heart of Kandy, is a stunning natural attraction where the Kelani River meets the Walawe River, creating a breathtaking waterfall. The area offers visitors a chance to witness the power of nature and cool off in the refreshing natural pool below. This spot is a popular destination for locals and tourists alike, known for its serene beauty and tranquil atmosphere. Known for its scenic beauty and refreshing water, it attracts visitors seeking a peaceful retreat from the bustling city.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -613,7 +613,7 @@
 {
     "id": "pl_osm_c26110ece2",
     "name": "Sliding Rock",
-    "description": "Sliding Rock is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Sliding Rock, a unique attraction in Kandy, offers visitors a thrilling experience as they slide down a narrow rock face covered in moss. Known for its natural beauty and the thrill of sliding, it attracts both locals and tourists. The rock itself is believed to have been shaped by centuries of erosion, though its exact age and formation are unknown. Historically significant, it has also been featured in local folklore and legends. Visitors can soak up the picturesque scenery while enjoying the rush of sliding down the rock.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -649,7 +649,7 @@
 {
     "id": "pl_osm_e265b8abb8",
     "name": "Plantaz",
-    "description": "Plantaz is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Plantaz, an intriguing Other in Kandy, is a small, unassuming point of interest known for its unique architecture and serene ambiance. It's believed to have been established as a retreat by British colonial administrators in the early 20th century, though its exact founding date remains uncertain. Despite its modest size, Plantaz offers visitors a glimpse into the past, making it a popular spot for sightseeing and photography. Its tranquil setting and historical context make it a noteworthy destination for those exploring Kandy's lesser-known gems.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -685,7 +685,7 @@
 {
     "id": "pl_osm_92436a8c4b",
     "name": "Rangala Natural Pool",
-    "description": "Rangala Natural Pool is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Rangala Natural Pool, a secluded spot nestled in the lush hills of Kandy district, offers visitors a refreshing oasis away from the hustle of city life. Surrounded by vibrant greenery and surrounded by natural beauty, it's a popular destination for those seeking peace and tranquility. The pool, often visited by locals and tourists alike, has become a local gem known for its serene atmosphere and crystal-clear waters. Its exact origins are unknown, but it stands as a testament to nature's splendor and the region's rich biodiversity.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_c9d10e8b3b",
     "name": "Jodu Ella Water Falls",
-    "description": "Jodu Ella Water Falls is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Jodu Ella Water Falls, a natural wonder in Kandy District, Sri Lanka, features two cascading waterfalls that attract nature lovers and photographers. The falls are part of the Kelaniya Raja Maha Vihara temple complex, where they provide a refreshing spot for visitors to cool off and admire the scenic beauty. Legend has it that the water was once believed to possess healing properties, though modern science cannot verify these claims. Visitors can hike along the trail that leads to the falls, enjoying the tranquil setting and perhaps spotting local wildlife. The falls are a popular destination for those exploring the culturally rich Kelaniya area.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -793,7 +793,7 @@
 {
     "id": "pl_osm_6a359c755f",
     "name": "bats",
-    "description": "bats is a point of interest in the Kandy area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Bats, also known as Pigeon Rock, is a natural limestone formation in the jungle of Kandy, Sri Lanka. It stands as a striking landmark overlooking the city, often visited by tourists seeking a unique view and photo opportunity. The site has no known historical or religious significance but offers a picturesque spot for visitors to admire the lush greenery and the dramatic rock formation. Known for its beauty, Bats attracts nature lovers and those looking for a memorable backdrop for photos.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -829,7 +829,7 @@
 {
     "id": "pl_osm_e40f4382b1",
     "name": "Buddha",
-    "description": "Buddha is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Buddha, also known as the Sacred Tooth Relic, is a revered site in Kandy, Sri Lanka, attracting thousands of pilgrims each year. Legend has it that during the third Buddhist council, the Buddha's tooth relic was enshrined here by King Mahasena in the 3rd century BC. The temple houses the sacred tooth, considered an important relic of the Buddha, and is a significant pilgrimage destination. Visitors can explore the temple grounds, admire intricate carvings, and learn about the rich history and culture of Sri Lanka through guided tours.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -865,7 +865,7 @@
 {
     "id": "pl_osm_e0eb8e52ad",
     "name": "Bogambara",
-    "description": "Bogambara is a point of interest in the Kandy area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Bogambara, a significant other in Kandy, is an ancient royal palace complex that served as the royal residence and administrative center for the Kings of Kandy. It houses numerous historical artifacts and is a place of great cultural and religious importance, attracting visitors interested in its rich history and architectural beauty. Established by King Vira Narendrasinghe in the 17th century, Bogambara has been a site of many important events including coronations and royal ceremonies. Today, it serves as a museum and offers guided tours showcasing the royal heritage of Kandy.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -937,7 +937,7 @@
 {
     "id": "pl_osm_f17bd33057",
     "name": "Middle Palace",
-    "description": "Middle Palace is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Middle Palace, also known as the Kumbukkan Maha Aluth Mahakalawatte Bhikku Viharaya, is an ancient structure in Kandy, Sri Lanka. It was constructed during the Kandyan Kingdom era, serving as a royal residence and a center for Buddhist monks. The palace holds cultural and religious significance, being a site of historical and spiritual importance. It was often visited by royalty and pilgrims alike, reflecting its role in the kingdom's social and religious life. Today, it attracts visitors interested in its architectural beauty and rich history.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -973,7 +973,7 @@
 {
     "id": "pl_osm_7fd6bf4149",
     "name": "Red Cross Cultural Hall",
-    "description": "Red Cross Cultural Hall is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Red Cross Cultural Hall in Kandy, Sri Lanka, is an architectural gem that stands as a testament to the international humanitarian efforts of the Red Cross organization. Constructed in 1943, it was built by the British colonial government to serve as a venue for cultural exhibitions and gatherings. Its ornate architecture and serene setting make it a popular spot for tourists to explore, offering insights into the rich cultural heritage of the region. Notable for its historical significance, the hall hosts various cultural events and exhibitions, making it a must-visit for those interested in both its cultural offerings and the story of international cooperation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -983,7 +983,7 @@
     "_osm_type": "way",
     "_osm_id": 561655456,
     "_source_global_id": "9d362640-ed23-4b8d-ab6f-3186bc8a5d44",
-    "opening_hours": "Check locally",
+    "opening_hours": "Mo-Su 17:00-18:00",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -1009,7 +1009,7 @@
 {
     "id": "pl_osm_56f8893766",
     "name": "Kadugannawa Tea Factory",
-    "description": "Kadugannawa Tea Factory is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kadugannawa Tea Factory, located in the picturesque Kandy district of Sri Lanka, is a historic site that showcases the country's rich tea industry heritage. Built in the early 20th century, it was established by the British colonial administration to process tea leaves from local estates. The factory played a crucial role in the export of Ceylon tea during its heyday, contributing significantly to the island's economy. Today, visitors can explore the factory grounds, learn about the traditional tea-making process, and enjoy panoramic views of the surrounding tea plantations, making it a popular spot for sightseeing and cultural appreciation.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -1045,7 +1045,7 @@
 {
     "id": "pl_osm_2288f5fbbd",
     "name": "Galpottha",
-    "description": "Galpottha is a point of interest located in Kandy, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Galpottha, a small but historically significant site in Kandy, Sri Lanka, offers visitors a glimpse into the past. The exact origins are unknown, but it's believed to be an ancient Buddhist vihara, possibly dating back over a thousand years. Legend has it the site was once a sacred bathing pool where the Buddha himself performed miracles. Today, it stands as a testament to the rich cultural heritage of Kandy, attracting tourists interested in its serene atmosphere and historical allure. Nearby, the Temple of the Tooth draws even more attention, but Galpottha remains a unique spot for those seeking a more tranquil experience.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -1055,7 +1055,7 @@
     "_osm_type": "way",
     "_osm_id": 737065663,
     "_source_global_id": "464daaf4-fdb0-4cce-93f5-a4cd614e296d",
-    "opening_hours": "Check locally",
+    "opening_hours": "24/7",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
     "tourist_popularity": "Low",
@@ -1065,7 +1065,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "no",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -1081,7 +1081,7 @@
 {
     "id": "pl_osm_14bad45f95",
     "name": "The Kandy Clock Tower",
-    "description": "The Kandy Clock Tower is a point of interest in the Kandy area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Kandy Clock Tower stands as a prominent landmark in Kandy's city center, a testament to the colonial era. Built in 1867, it was erected by the British to mark the completion of the Kandy Railway Station. The clock tower, standing at 35 meters tall, offers panoramic views of the city below. Its striking white color and domed roof make it a recognizable symbol of Kandy. Visitors often stop to admire the clock, which strikes the hours with a melodious chime, a reminder of the past. It also serves as a meeting point for locals and tourists alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Other",
@@ -1113,3 +1113,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

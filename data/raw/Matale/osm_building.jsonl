@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_111ca509d9",
     "name": "Sima Malakaya",
-    "description": "Sima Malakaya is a historic landmark in the Matale area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Sima Malakaya, a historic landmark in Matale, Sri Lanka, is a striking building known for its architectural beauty and cultural significance. It was constructed during the late colonial period by the British as a government office. Over time, it has become a popular spot for photography enthusiasts and tourists interested in local history. The structure features intricate designs and serves as a reminder of the colonial era in Sri Lanka. Notable events include visits by high-ranking officials, making it a place of interest for those studying Sri Lankan history.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Building",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_b9d28740cc",
     "name": "Soldier",
-    "description": "Soldier is a historic landmark located in Matale, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "Soldier, a historic landmark in Matale District, Sri Lanka, stands as a testament to the past. Built during colonial times by British administrators, it was originally a military outpost. Over time, it has become a popular spot for tourists to take photos and admire its architectural charm. The structure now houses a small museum showcasing artifacts related to the area's history, adding depth to its cultural significance. Its strategic location on a hill offers panoramic views, making it a favorite among visitors seeking a blend of history and natural beauty.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Building",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_6cbb16af70",
     "name": "9 c. inscription",
-    "description": "9 c. inscription is a historic landmark in the Matale area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The 9 c. inscription, a historic stone monument in Matale District, Sri Lanka, is believed to date back to the 3rd century BC. It stands as a testament to ancient Sri Lankan civilization, carved into a rock face by early Buddhist monks. This site attracts visitors interested in ancient history and Buddhism, offering a glimpse into the region's rich cultural heritage. Visitors can take photos and enjoy the scenic view, making it a popular spot for tourists exploring Matale's historical sites.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Building",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_2ec0a5519d",
     "name": "10 c. inscription",
-    "description": "10 c. inscription is a historic landmark located in Matale, Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The 10 c. inscription, located in Matale District, Sri Lanka, is a historic stone edict dating back over a thousand years. This ancient monument, carved into the rock, is a testament to the early kings of Sri Lanka who left behind their legacies through inscriptions. The site attracts visitors interested in its rich cultural heritage and historical significance, offering a glimpse into the past through its well-preserved text. Visitors can take photos and admire the site, appreciating its enduring message from ancient times.",
     "district_id": "Matale",
     "province_id": "Central",
     "category_id": "Building",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

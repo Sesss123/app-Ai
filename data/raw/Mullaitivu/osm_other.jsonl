@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_27811a7b77",
     "name": "Ocean park benches",
-    "description": "Ocean park benches is a point of interest located in Mullaitivu, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Ocean park benches, a quaint spot in Mullaitivu, offer visitors a serene place to rest amidst lush greenery and vibrant local flora. The benches, though simple, have become a beloved gathering place for locals and tourists alike, often hosting casual chats and quiet contemplation. Known for their soothing effect, they attract those seeking peace and reflection along the coast. Though the exact date of their installation remains unknown, these benches have become an integral part of Mullaitivu's social fabric, symbolizing the community's connection to nature.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Other",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_5ccc5ed901",
     "name": "Lake with crocodiles STP",
-    "description": "Located in Mullaitivu, Lake with crocodiles STP is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Lake with crocodiles STP, located in Mullaitivu, Sri Lanka, is a serene natural attraction known for its large population of crocodiles. It’s a popular spot for tourists seeking a unique wildlife experience. The lake, which holds significant ecological importance, was formed by a dam constructed by the local community in the 1970s. Its waters provide a habitat for various aquatic and terrestrial species, including the endangered Indian crocodile. Visitors can enjoy boat rides through the lake, spotting the majestic creatures up close. Cultural significance lies in its role as a sanctuary for these reptiles, contributing to the rich biodiversity of the region.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Other",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_ec993d7b4b",
     "name": "Road to subarine",
-    "description": "Road to subarine is a point of interest in the Mullaitivu area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The Road to Subarine, located in Mullaitivu, Sri Lanka, is a picturesque stretch of road that winds through scenic landscapes. Known for its unique architecture and historical significance, it was constructed as part of the island's infrastructure during the early 20th century. The road offers stunning views of the surrounding countryside, including lush tea plantations and serene rivers. It's a popular spot for tourists and locals alike, known for its tranquil beauty and peaceful atmosphere. Visitors can explore the area on foot or by bicycle, enjoying the natural beauty while learning about the region's rich history.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Other",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_b1a403923c",
     "name": "Memorial tamil tiger",
-    "description": "Located in Mullaitivu, Memorial tamil tiger is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Memorial Tamil Tiger, located in Mullaitivu, Sri Lanka, is a somber site dedicated to the Tamil Tigers, a separatist group also known as the LTTE. It commemorates the fallen members of the organization and serves as a poignant reminder of the civil war that ravaged the region. The memorial includes a garden with plaques listing names of the deceased, and a small museum that houses artifacts and exhibits detailing the history and impact of the conflict. Despite its somber subject, it attracts visitors interested in understanding the complex political history of the area.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Other",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_e408909929",
     "name": "Abandoned LTTE Submarine Yard",
-    "description": "Located in Mullaitivu, Abandoned LTTE Submarine Yard is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Abandoned LTTE Submarine Yard in Mullaitivu, once a secret base for the Liberation Tigers of Tamil Eelam (LTTE), now stands as a haunting reminder of Sri Lanka's civil war. The site was constructed in the 1980s and used to develop and repair submarines, reflecting the LTTE's naval ambitions. Today, the yard lies derelict, overgrown with vegetation, and shrouded in a somber silence, offering visitors a glimpse into the complex history of the region and the conflict that shaped modern Sri Lanka.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_67d426386b",
     "name": "LTTE Training Pool",
-    "description": "LTTE Training Pool is a point of interest in the Mullaitivu area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "The LTTE Training Pool in Mullaitivu, Sri Lanka was part of the Liberation Tigers of Tamil Eelam's (LTTE) military training facilities. Built in the early 1980s, it served as a swimming pool where LTTE cadres honed their physical fitness and camaraderie. The pool was also used for strategic exercises and team building. After the LTTE's defeat in 2009, the pool fell into disuse and neglect, now serving as a stark reminder of the region's troubled past. Visitors can take photos at the site but should tread carefully due to its deteriorated state.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Other",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

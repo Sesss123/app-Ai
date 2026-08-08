@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_cc05211de9",
     "name": "Archeological Museum",
-    "description": "Located in Vavuniya, Archeological Museum is a museum worth visiting. It offers visitors a chance to learn more about local history and culture.",
+    "description": "The Archeological Museum in Vavuniya is a repository of artifacts and relics from various periods of Sri Lankan history. Established to preserve and educate visitors about the country's rich cultural heritage, the museum houses ancient stone tools, pottery, and sculptures, many dating back thousands of years. Exhibits cover prehistoric times through to colonial era items, reflecting the island's diverse past. Notable among the collections are Buddhist relics and Hindu statues, providing insights into the religious practices of different eras. The museum also features reconstructed archaeological sites, offering a tangible connection to ancient Sri Lanka.",
     "district_id": "Vavuniya",
     "province_id": "Northern",
     "category_id": "Museum",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

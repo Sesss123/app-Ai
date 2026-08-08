@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_498569094a",
     "name": "Old Dutch Market",
-    "description": "Old Dutch Market is an archaeological site in the Matara area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Old Dutch Market, an archaeological site in Matara, Sri Lanka, is believed to be remnants of a Dutch trading post established in the 17th century. It was constructed by the Dutch East India Company during their colonial rule over the island. The market area served as a hub for local trade and commerce, reflecting the economic importance of the region at the time. Today, visitors can explore the ruins, marvel at the historical structures, and take photos to capture the site's serene beauty, offering insights into Sri Lanka's rich colonial past.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Ruins",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_7b6587678b",
     "name": "Udukawa Doss House (Udukawa Ambalama)",
-    "description": "Located in Matara, Udukawa Doss House (Udukawa Ambalama) is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Udukawa Doss House, also known as Udukawa Ambalama, stands as an archaeological site in Matara District, Sri Lanka. This ancient structure, believed to be part of a larger complex, offers visitors a glimpse into the island's rich prehistoric past. While the exact date of construction remains uncertain, it is likely related to the ancient coastal settlements. The house, now in ruins, has attracted many explorers and photographers seeking to capture its historical charm. Visitors can explore the remaining walls and foundations, marveling at the craftsmanship and architectural prowess of the past inhabitants.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Ruins",
@@ -69,6 +69,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_ced1158d",
     "name": "MALIGA THANNA",

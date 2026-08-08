@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_8b1e8fb1f0",
     "name": "Lotus Tower",
-    "description": "Located in Colombo, Lotus Tower is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Lotus Tower, a viewpoint in Colombo, Sri Lanka, offers panoramic views of the city and the Indian Ocean. Its exact construction date and founder are unknown, but it has become an iconic landmark for tourists seeking picturesque photo opportunities. Often visited by locals and visitors alike, it stands as a symbol of the city's growth and development. Visitors can capture the tower against the backdrop of modern skyscrapers and the natural beauty of the coastline, making it a popular spot for both casual sightseeing and more formal photography sessions.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Viewpoint",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_545d348ca3",
     "name": "Maradana Railway Station",
-    "description": "Maradana Railway Station is a scenic viewpoint in the Colombo area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Maradana Railway Station, located in the heart of Colombo, stands as a historic landmark and a popular viewpoint for tourists. Built in 1874, the station was the first railway terminus in Ceylon, connecting the island to the rest of the world. Its architecture showcases Victorian charm, making it a significant piece of Sri Lankan heritage. Visitors often take photos here, capturing the blend of old and new that defines the city. The station’s presence is a testament to the early days of rail travel in Sri Lanka, offering a glimpse into the country’s colonial past.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Viewpoint",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_b6273d857b",
     "name": "Train Viewpoint",
-    "description": "Train Viewpoint is a scenic viewpoint in the Colombo area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Train Viewpoint, located in the heart of Colombo, offers panoramic views of the city's skyline and the bustling streets below. Visitors can capture memorable photos of the train tracks winding through the landscape, creating a picturesque scene. Historically, the viewpoint was established as part of a railway extension project in the early 20th century, but its primary purpose was to allow passengers a view of their journey. Today, it remains a popular spot for tourists seeking a unique perspective of Colombo's growth and development over the decades.",
     "district_id": "Colombo",
     "province_id": "Western",
     "category_id": "Viewpoint",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

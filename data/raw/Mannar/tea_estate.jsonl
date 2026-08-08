@@ -34,7 +34,7 @@
 {
     "id": "pl_a4f21d8a",
     "name": "Madhu Road National Park",
-    "description": "Madhu Road National Park, nestled along the Mannar coast, offers a unique blend of untouched nature, historical significance, and ecological diversity. This park is a sanctuary for various wildlife and a haven for nature enthusiasts seeking tranquility and adventure.",
+    "description": "Madhu Road National Park, nestled in the Mannar district of Sri Lanka, is a haven for nature enthusiasts. Established as a national park, it offers visitors the chance to observe diverse bird species and capture stunning nature photographs. Guided jungle safaris are also available, allowing guests to explore the park's rich biodiversity. Its establishment reflects the government's commitment to preserving Sri Lanka's natural heritage. Historically, the area has been inhabited by various communities, each contributing to the region's unique culture and ecosystem.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "National Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_e640ce01",
     "name": "Vankalai Sanctuary",
-    "description": "Vankalai Sanctuary, nestled amidst the lush jungles of Mannar, is a haven for nature enthusiasts and bird watchers. This protected area is a key wintering site for migratory waterbirds, offering visitors a chance to witness the spectacle of thousands of birds gathering in the sanctuary during the monsoon season.",
+    "description": "Vankalai Sanctuary, nestled in Mannar District of Sri Lanka, offers visitors a serene environment to observe diverse bird species and engage in photography. Established as a protected area, it was created to conserve the rich avian biodiversity of the region. The sanctuary attracts nature enthusiasts and photographers alike, with its lush vegetation and clear waters providing habitats for various birds. Notable among them are the Malabar pied hornbill and the Asian koel. Exploring the sanctuary reveals the beauty of nature untouched by human interference, making it a cherished spot for both locals and tourists seeking tranquility and close encounters with wildlife.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Sanctuary",
@@ -129,3 +129,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

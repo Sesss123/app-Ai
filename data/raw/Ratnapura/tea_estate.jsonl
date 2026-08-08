@@ -1,7 +1,7 @@
 {
     "id": "pl_2ede125f",
     "name": "Udawalawe National Park",
-    "description": "Udawalawe National Park is a sanctuary for Sri Lanka’s elephants, offering breathtaking landscapes and a chance to witness these magnificent creatures in their natural habitat. Located in Ratnapura, Sabaragamuwa province, it’s a haven for nature lovers and wildlife enthusiasts.",
+    "description": "Udawalawe National Park, a protected area in Ratnapura, Sri Lanka, offers visitors opportunities to observe wildlife such as elephants, leopards, and various bird species. Established in 1972 following the construction of a dam, the park was created to provide a habitat for these animals and protect their natural environment. Notable events include the successful relocation of several elephant herds, a feat that showcases the park's commitment to conservation. Visitors can enjoy guided nature walks and safaris to witness the diverse flora and fauna in their natural setting.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "National Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_1b49e77a",
     "name": "Sinharaja Forest Reserve",
-    "description": "Explore Sinharaja Forest Reserve, a UNESCO World Heritage site and Sri Lanka's wettest forest, where ancient trees and diverse wildlife thrive amidst lush greenery and cool mist.",
+    "description": "Sinharaja Forest Reserve, a UNESCO World Heritage site in Ratnapura, Sri Lanka, is a vital sanctuary for over 200 species of birds and numerous other wildlife. This ancient forest, once part of King Mahinda's Buddhist mission, plays a crucial role in the island's biodiversity. It was declared a national heritage area in 1978, safeguarding the unique ecosystem from deforestation. Visitors can explore the reserve through guided treks, bird watching tours, and nature photography sessions, experiencing the natural beauty and tranquility of this irreplaceable tropical rainforest.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "National Heritage Wilderness Area (UNESCO)",
@@ -67,7 +67,7 @@
 {
     "id": "pl_57bf2560",
     "name": "Peak Wilderness Sanctuary",
-    "description": "Peak Wilderness Sanctuary, also known as the Adam's Peak Sanctuary, is a sacred site nestled among lush forests and dramatic cliffs. This UNESCO World Heritage site is renowned for its spiritual significance and breathtaking views, attracting both pilgrims and nature enthusiasts seeking a unique hiking experience.",
+    "description": "Peak Wilderness Sanctuary, located in Ratnapura, Sri Lanka, is a protected area known for its diverse flora and fauna. Established as a sanctuary in 1982, it encompasses over 4,000 hectares of land. Visitors can explore its trails on foot, take stunning photographs, and engage in meditation retreats. The sanctuary plays a crucial role in conserving local ecosystems and biodiversity. It's also significant for its historical importance, having been used by the ancient Sigiriya civilization. Its lush green landscapes and rich wildlife make it a popular destination for nature enthusiasts and those seeking tranquility.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Sanctuary",

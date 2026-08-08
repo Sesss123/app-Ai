@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_b46f184d44",
     "name": "Mailavillu Viewpoint",
-    "description": "Mailavillu Viewpoint is a scenic viewpoint in the Puttalam area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Mailavillu Viewpoint stands high on a hill overlooking the serene Gulf of Mannar. It offers breathtaking views of the gulf and the nearby islands. The viewpoint has been a popular spot for tourists and locals alike, especially during sunrise when the sky paints a stunning array of colors. It was established by the British in the early 20th century as a lookout post, and now serves as a cherished spot for photography enthusiasts and those seeking a moment of peace and beauty.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Viewpoint",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_0e5a431f8f",
     "name": "Bat Watching",
-    "description": "Bat Watching is a scenic viewpoint located in Puttalam, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "In the heart of Puttalam, overlooking the vast Indian Ocean, lies a unique viewpoint known as Bat Watching. This scenic overlook offers visitors a chance to capture stunning photographs of the local bat colony at sunset, creating a mesmerizing sight. The area is a popular spot for sightseers who marvel at the natural beauty and biodiversity of the region. Little else is known about its history or cultural significance, but it remains a cherished spot for those seeking a peaceful view of nature.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Viewpoint",
@@ -105,3 +105,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

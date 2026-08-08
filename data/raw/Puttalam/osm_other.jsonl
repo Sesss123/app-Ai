@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_d440715bad",
     "name": "Marawila beach",
-    "description": "Located in Puttalam, Marawila beach is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Marawila beach, a picturesque location in Puttalam, Sri Lanka, is known for its pristine white sands and clear blue waters. The area offers visitors a serene setting perfect for relaxation and sightseeing. Historically, Marawila has been a popular fishing spot and a retreat for local communities. Today, it attracts tourists seeking a peaceful getaway, with occasional boat trips to nearby islands adding to the charm. Cultural and religious activities are limited, but the beach remains an essential part of Puttalam's tourism landscape.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Other",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_3c520c4616",
     "name": "Brickworks",
-    "description": "Brickworks is a point of interest located in Puttalam, Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Brickworks, a unique attraction in Puttalam, Sri Lanka, is an open-air collection of old brick kilns and workshops dating back to the early 20th century. These structures were part of the local economy, showcasing the skill and craftsmanship of the people who produced bricks for construction and daily life. The site offers visitors a glimpse into the island's industrial heritage, providing insights into the development of Puttalam as a major port city. Brickworks also hosts occasional cultural events and tours, offering a blend of history and modern day experiences.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Other",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_c26036c40a",
     "name": "Wakeboard",
-    "description": "Located in Puttalam, Wakeboard is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "Wakeboard, located in Puttalam, Sri Lanka, is an interesting point of interest known for its scenic beauty and local attractions. While it’s a small island that doesn’t hold significant historical or religious importance, it offers visitors a chance to explore its serene beaches and natural surroundings. Historically, little is known about Wakeboard itself, but it has become a popular spot for tourists seeking relaxation and outdoor activities like swimming and snorkeling. Its location near the coast makes it accessible for those looking to combine sightseeing with beach time.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Other",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_6abb0f3256",
     "name": "Kala Oya Suspension Bridge",
-    "description": "Located in Puttalam, Kala Oya Suspension Bridge is a point of interest worth visiting. It's worth a stop for travelers exploring the area.",
+    "description": "The Kala Oya Suspension Bridge, a marvel of engineering spanning the Kala Oya River in Puttalam, Sri Lanka, stands as a testament to the ingenuity of local artisans and engineers. Constructed in the early 20th century, it connects the mainland with the island of Mannar, facilitating easy access for locals and tourists. The bridge, with its distinctive arches, has become a popular spot for sightseeing, offering breathtaking views of the river and the lush greenery on both sides. Its construction was a significant achievement, showcasing the skills and resources available at the time.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Other",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_41825055e5",
     "name": "Kalpitiya Fort",
-    "description": "Kalpitiya Fort is a point of interest in the Puttalam area of Sri Lanka. It's worth a stop for travelers exploring the area.",
+    "description": "Kalpitiya Fort, also known as Kalpitiya Point Fort, is an ancient military structure in Puttalam District, Sri Lanka. Constructed by the Portuguese in the 17th century, it was later fortified by the Dutch. The fort played a crucial role in maritime trade and defense during colonial times. Today, visitors can explore its ruins, admire panoramic views of the Indian Ocean, and learn about its historical importance through guided tours. Cultural and religious aspects are minimal, but the site offers insights into the region’s colonial past.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Other",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

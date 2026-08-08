@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_596ab7436e",
     "name": "Kushtarajagala Statue",
-    "description": "Kushtarajagala Statue is a historic landmark in the Matara area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "The Kushtarajagala Statue stands in Matara, Sri Lanka, a prominent landmark along the coast. Built in the early 20th century, it commemorates King Kasyapa IV of Anuradhapura, a significant figure in ancient Sri Lankan history. The statue, standing tall at 3 meters, has become a popular spot for tourists and locals alike, especially during sunset when the golden light casts a magical glow over the statue and the sea. Visitors often take photos here, capturing the serene beauty of the statue against the backdrop of the Indian Ocean.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Building",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_12c177f5da",
     "name": "Big Standing Buddha",
-    "description": "Located in Matara, Big Standing Buddha is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Big Standing Buddha, a historic landmark in Matara, Sri Lanka, stands as a testament to ancient Buddhist art. Constructed during the reign of King Kirthi Narendrasinghe in the early 20th century, it depicts the reclining Buddha, a symbolic posture symbolizing the Buddha’s final resting place. This imposing structure, carved from a single stone, overlooks the Indian Ocean, attracting visitors for its serene beauty and spiritual significance. Visitors often take photos and enjoy the sightseeing opportunities provided by this unique monument.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Building",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_94c9aaa5d9",
     "name": "David Martin Sailraweera",
-    "description": "David Martin Sailraweera is a historic landmark in the Matara area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "David Martin Sailraweera is a historic building in Matara District, Sri Lanka. Originally constructed as a school by David Martin, a prominent colonial figure, it now serves as a popular sightseeing spot and photography venue. Its rich history and architectural charm make it a significant landmark for tourists exploring Matara's cultural heritage. Established in the early 20th century, the building reflects the colonial era's influence on local architecture. Today, it stands as a testament to Sri Lanka's past, attracting visitors interested in its educational history and the surrounding natural beauty.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Building",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_10166256c6",
     "name": "General Montagu Jayawickrama",
-    "description": "General Montagu Jayawickrama is a historic landmark in the Matara area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "General Montagu Jayawickrama was built in Matara, Sri Lanka as a colonial-era courthouse and jail. Named after General Sir Frederick Montagu Jayawickrama, it served as a symbol of British colonial authority during its construction in the late 19th century. Today, it stands as a historic building open to visitors, offering a glimpse into the past through its architecture and the stories it holds. Its grounds are popular for photography and sightseeing, allowing tourists to appreciate both its historical significance and natural beauty.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Building",
@@ -217,7 +217,7 @@
 {
     "id": "pl_osm_8147fbd8ab",
     "name": "Victims Of Tsunami",
-    "description": "Victims Of Tsunami is a historic landmark in the Matara area of Sri Lanka. It stands as a marker of the area's local history.",
+    "description": "In the aftermath of the 2004 Indian Ocean tsunami, Matara's Victims of Tsunami memorial stands as a somber tribute to the loss of life in the region. The building, erected by local communities, serves as a poignant reminder of the tragedy and the resilience of the people affected. Visitors can take photos and pay their respects, often accompanied by heartfelt messages left by those who came before. Its presence encourages reflection on the impact of natural disasters and the importance of community support.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Building",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_68055c961f",
     "name": "Late Prime Minister Hon. Dudley Senanayaka",
-    "description": "Located in Matara, Late Prime Minister Hon. Dudley Senanayaka is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "The Late Prime Minister Hon. Dudley Senanayaka Memorial Hall in Matara District stands as a testament to the political landscape of post-independence Sri Lanka. Built in 1972, it was the residence of Dudley Senanayaka, a prominent politician and leader of the United National Party. The building now serves as a museum, housing artifacts and photographs that narrate the life and times of its former occupant, reflecting on the socio-political dynamics of the period. Visitors can explore the hall, taking in the rich tapestry of history encapsulated within these walls.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Building",
@@ -325,7 +325,7 @@
 {
     "id": "pl_osm_2ee1bac64b",
     "name": "Koica",
-    "description": "Located in Matara, Koica is a historic landmark worth visiting. It stands as a marker of the area's local history.",
+    "description": "Koica, a historic landmark in Matara, Sri Lanka, is an ancient temple believed to date back over 2000 years. The structure was likely built by the ancient Tamils who once ruled the region, though its exact construction date remains uncertain. A significant site for local Buddhists, Koica stands as a testament to the rich cultural heritage of the area, attracting visitors interested in its historical and religious importance. Visitors can admire its intricate carvings and architecture, while photography enthusiasts capture its serene beauty. Sightseeing opportunities abound, offering a glimpse into the past and present of Matara’s rich tapestry of culture and tradition.",
     "district_id": "Matara",
     "province_id": "Southern",
     "category_id": "Building",
@@ -429,3 +429,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

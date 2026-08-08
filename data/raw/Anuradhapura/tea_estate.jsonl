@@ -1,7 +1,7 @@
 {
     "id": "pl_90393b9e",
     "name": "Horowpathana National Park",
-    "description": "Horowpathana National Park, nestled in the lush Anuradhapura district, offers visitors a sanctuary for over 100 species of birds and a chance to witness the majestic elephants roaming freely under the watchful eye of conservationists.",
+    "description": "Horowpathana National Park, nestled in the Anuradhapura district of Sri Lanka, offers visitors a chance to observe diverse wildlife including elephants, birds, and rare flora. Established as a nature reserve, the park preserves ancient ruins and provides a serene setting for bird watchers and nature enthusiasts. Historically significant, it also holds religious importance for Buddhists due to its proximity to ancient Buddhist sites. Notable for its elephant safaris and opportunities for nature photography, the park remains a popular destination for those seeking a blend of natural beauty and cultural heritage.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "National Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_6fbed793",
     "name": "Ritigala Strict Nature Reserve",
-    "description": "Ritigala Strict Nature Reserve is a sacred Buddhist site and ancient ruins nestled amidst lush forests, offering visitors a glimpse into Sri Lanka's rich cultural and natural heritage. This UNESCO World Heritage Site features impressive ruins, monasteries, and ancient temples dating back centuries, surrounded by verdant hills and serene streams.",
+    "description": "Ritigala Strict Nature Reserve, located in Anuradhapura, is a sacred site for Buddhists, believed to be the birthplace of the Buddha. It features ancient ruins including meditation caves and stupas, and is known for cultural tours and meditation. Visitors can also enjoy photography opportunities, capturing the serene natural beauty and historical sites. Established as a nature reserve in 1974, it holds great ecological importance for its diverse flora and fauna. Known for its spiritual and cultural significance, the reserve attracts both locals and tourists seeking peace and tranquility.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Strict Nature Reserve",
@@ -67,7 +67,7 @@
 {
     "id": "pl_0cb96b98",
     "name": "Anuradhapura Herbal Park",
-    "description": "Anuradhapura Herbal Park is a serene tea estate in the heart of Anuradhapura district, offering visitors a glimpse into the ancient cultivation practices and rich biodiversity of Sri Lanka. Nestled amidst lush tea plantations, it's a perfect spot for nature lovers and tea enthusiasts to explore the traditional methods of tea production and learn about the local culture.",
+    "description": "The Anuradhapura Herbal Park, located in the heart of the Anuradhapura district, is a unique tea estate that offers visitors a glimpse into the rich culture and natural beauty of Sri Lanka. Known for its lush gardens filled with medicinal herbs, the park also provides tea plantation tours where visitors can learn about the traditional methods of tea cultivation and harvesting. Cultural heritage walks through the estate highlight the historical significance of Anuradhapura, a former capital city that was once a major center of learning and culture. The park concludes with a tea tasting session, offering a chance to sample different types of teas grown on-site.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -101,7 +101,7 @@
 {
     "id": "pl_680ef169",
     "name": "Mihintale Organic Farm",
-    "description": "Discover the rich history and lush organic tea gardens at Mihintale Organic Farm, nestled amidst ancient ruins and verdant landscapes. This serene estate offers a unique blend of cultural heritage and natural beauty, perfect for those seeking a tranquil escape from the bustling city.",
+    "description": "Mihintale Organic Farm, located in the Anuradhapura district, is part of a former royal estate where King Mahasena built a monastery in the 3rd century BC. Today, it operates as a tea estate offering visitors a unique experience combining nature, culture, and relaxation. The farm tours include a glimpse into traditional tea-making practices, while historical sites like ancient temples and monasteries provide insight into Sri Lanka's rich heritage. Visitors can also enjoy serene gardens and tranquil lakes, perfect for rejuvenation and reflection.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -135,7 +135,7 @@
 {
     "id": "pl_df942de9",
     "name": "Wilpattu Edge Garden",
-    "description": "Wilpattu Edge Garden, a lush tea estate in Anuradhapura, offers visitors a serene retreat with its meticulously maintained gardens, traditional tea plantations, and charming colonial-era buildings that tell the story of Sri Lanka’s rich agricultural heritage.",
+    "description": "Wilpattu Edge Garden, nestled in the heart of Anuradhapura, offers visitors a glimpse into the lush tea estates of Sri Lanka. The estate, with its colonial-era buildings and expansive gardens, provides a serene retreat for tea enthusiasts and nature lovers alike. Wander through the meticulously maintained tea plantations, marvel at the craftsmanship of these colonial structures, and soak in the natural beauty of the garden. A perfect blend of history and tranquility, Wilpattu Edge Garden invites you to experience the rich heritage and serenity of tea plantation life in Sri Lanka.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -169,7 +169,7 @@
 {
     "id": "pl_cab6dafd",
     "name": "Thambuttegama Spice Trail",
-    "description": "Discover the rich history and vibrant culture of Thambuttegama Spice Trail, nestled amidst lush tea plantations and ancient ruins. This serene estate offers a glimpse into Sri Lanka’s agricultural heritage and traditional practices, making it a must-visit for spice enthusiasts and nature lovers alike.",
+    "description": "Thambuttegama Spice Trail, located in the Anuradhapura district, offers visitors a unique experience through a tea estate that doubles as a spice trail. The estate, established in the early 20th century, has been passed down through generations of the same family. Visitors can explore the lush tea gardens while learning about traditional tea-making practices and the importance of biodiversity in the region. Cultural heritage walks lead to ancient temples, providing insight into the rich Buddhist heritage of the area. Notable events include the annual tea festival where locals gather to celebrate their agricultural bounty, showcasing the cultural significance of this part of Sri Lanka.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -203,7 +203,7 @@
 {
     "id": "pl_c9c12dba",
     "name": "Medawachchiya Herb Walk",
-    "description": "Explore the lush herb walk at Medawachchiya Herb Walk, a serene tea estate where visitors can learn about the medicinal properties of local plants under the watchful gaze of ancient tea trees. This tranquil spot offers a unique glimpse into Sri Lanka's botanical heritage.",
+    "description": "Medawachchiya Herb Walk is a unique tea estate in Anuradhapura district known for its extensive herb walk where visitors can identify various medicinal and aromatic plants. The estate was established in the early 20th century by the British, blending traditional tea cultivation with botanical research. Notable for its rich biodiversity, the area hosts rare species not found elsewhere, making it a significant site for botanists and nature enthusiasts. Visitors can also take a guided tea plantation tour, learning about the tea-making process and the cultural significance of tea in Sri Lankan society.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -237,7 +237,7 @@
 {
     "id": "pl_23c39ce9",
     "name": "Padaviya Farm",
-    "description": "Discover the serene Padaviya Farm, nestled in the lush Anuradhapura district. This historic tea estate offers breathtaking views and a glimpse into Sri Lanka’s rich agricultural heritage, perfect for nature lovers and tea enthusiasts alike.",
+    "description": "Padaviya Farm, located in the heart of Anuradhapura, is a prominent tea estate known for its lush green landscapes and rich biodiversity. The estate offers visitors a unique opportunity to explore its tea plantations, learn about the traditional methods of tea cultivation, and enjoy panoramic views. Bird watchers and nature enthusiasts can spot various local and migratory birds during their tours. Photography buffs can capture the serene beauty of the farm, which has been a popular spot for tourists seeking natural splendor and cultural insights into Sri Lanka's agricultural heritage. Established over a century ago by a local tea pioneer, the farm has maintained its commitment to sustainable practices, making it a significant site for both locals and international visitors alike.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -271,7 +271,7 @@
 {
     "id": "pl_5d74557e",
     "name": "Horowpothana Garden",
-    "description": "Horowpothana Garden, nestled amidst lush tea plantations, offers visitors a serene escape with its tranquil ponds and picturesque views. This estate, known for its rich cultural heritage and beautiful scenery, attracts nature lovers and tea enthusiasts alike.",
+    "description": "Horowpothana Garden, nestled in the Anuradhapura district, offers visitors a unique glimpse into Sri Lanka's tea culture through guided tours of their lush tea plantation. The estate, known for its picturesque scenery and diverse birdlife, provides opportunities for bird watching and picnics under the shade of ancient tea trees. Its rich history dates back to the early 20th century when it was established by local farmers, making it a significant site for understanding traditional tea cultivation practices in Sri Lanka.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -305,7 +305,7 @@
 {
     "id": "pl_252faa9e",
     "name": "Maradankadawala Estate",
-    "description": "Maradankadawala Estate is a serene tea plantation nestled in the lush Anuradhapura district, offering visitors a glimpse into Sri Lanka's agricultural heritage and natural beauty. Nestled among verdant tea bushes, this estate provides a tranquil escape with its well-manicured gardens and historical significance.",
+    "description": "Maradankadawala Estate, nestled in the lush Anuradhapura district, is a prime example of a tea plantation offering visitors a chance to explore its verdant trails. Historically, the estate was established by British planters in the early 20th century, blending traditional methods with modern practices. A visit here includes a tour of the historic house museum, showcasing the evolution of tea cultivation and the lives of past inhabitants. Additionally, tea tasting sessions allow visitors to savor the estate's unique blends, providing insights into the rich culture and heritage of tea production in Sri Lanka.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -339,7 +339,7 @@
 {
     "id": "pl_a2b632a8",
     "name": "Nochchiyagama Farm",
-    "description": "Nochchiyagama Farm, nestled in the lush Anuradhapura district, offers a serene retreat where tea lovers can immerse themselves in the art of crafting aromatic Assam and Ceylon teas under the watchful gaze of ancient tea plantations and traditional tea houses.",
+    "description": "Nochchiyagama Farm, nestled in the Anuradhapura district, is a charming tea estate where visitors can enjoy a unique tea tasting experience and learn about the plantation’s rich history through guided tours. The farm, established in the early 20th century, has been passed down through generations, each caretaker contributing to its preservation and growth. Visitors can explore the tea gardens, marvel at the craftsmanship of traditional tea-making tools, and take stunning photos against the backdrop of lush greenery. Cultural and religious significance aside, Nochchiyagama Farm stands as a testament to the hard work and dedication that goes into cultivating high-quality Ceylon tea.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -373,7 +373,7 @@
 {
     "id": "pl_fc854aad",
     "name": "Galnewa Herb Garden",
-    "description": "Discover the Galnewa Herb Garden, a tranquil tea estate where visitors can explore lush gardens, learn about traditional tea cultivation, and sample fresh tea leaves. Nestled in Anuradhapura, this gem offers a unique glimpse into Sri Lanka’s agricultural heritage.",
+    "description": "Galnewa Herb Garden, nestled within the Anuradhapura district, is a unique attraction on a tea estate offering visitors a glimpse into both the lush greenery of tea plantations and the diverse medicinal herbs cultivated there. Established over a century ago, the garden showcases an extensive collection of local and imported herbs, many of which are used in traditional medicine and teas. A guided tour reveals the intricate process of tea cultivation, from planting to harvesting, while also highlighting the rich biodiversity of the region. Visitors can sample various teas and herbs, immersing themselves in the cultural and botanical richness of this historic site.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -407,7 +407,7 @@
 {
     "id": "pl_f831e2fc",
     "name": "Kekirawa Spice Walk",
-    "description": "Discover the rich cultural tapestry of Kekirawa Spice Walk, a serene tea estate nestled amidst lush greenery. Here, visitors can explore the ancient tea plantations, learn about traditional Sri Lankan practices, and immerse themselves in the tranquil beauty of the Anuradhapura district.",
+    "description": "Kekirawa Spice Walk, nestled within the lush tea estates of Anuradhapura, offers visitors a chance to explore verdant tea plantations while learning about the rich local culture and history. The area, once part of ancient kingdoms, now thrives under modern-day tea farmers, whose families have been cultivating the land for generations. Visitors can enjoy guided tours that reveal the craftsmanship behind each cup, as well as insights into traditional practices passed down through the generations. The serene surroundings offer a perfect escape from daily life, making it a popular spot for relaxation and rejuvenation.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",
@@ -441,7 +441,7 @@
 {
     "id": "pl_a9e4ffd9",
     "name": "Thalawa Farm",
-    "description": "Thalawa Farm, nestled in the lush Anuradhapura district, offers a serene retreat where tea enthusiasts can immerse themselves in the art of crafting aromatic Assam and Ceylon teas under the watchful gaze of ancient tea plantations.",
+    "description": "Thalawa Farm, nestled in the heart of Anuradhapura, offers visitors a glimpse into the lush tea plantation heritage of Sri Lanka. Established over a century ago by British settlers, Thalawa Farm has maintained its traditional methods, ensuring a high-quality tea production. The estate provides guided tours showcasing the meticulous process from planting to harvesting, along with a memorable tea tasting experience. Visitors can also enjoy a picturesque picnic overlooking the serene landscape, making it a perfect spot for those seeking an authentic taste of Sri Lankan culture and natural beauty.",
     "district_id": "Anuradhapura",
     "province_id": "North Central",
     "category_id": "Tea Estate",

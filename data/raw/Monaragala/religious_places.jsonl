@@ -1,7 +1,7 @@
 {
     "id": "pl_c153fe55",
     "name": "Ruhunu Maha Kataragama Devalaya (Sacred City)",
-    "description": "Discover the sacred heart of Kataragama at Ruhunu Maha Kataragama Devalaya, a multi-faith pilgrimage site where devotees seek blessings under ancient trees and vibrant altars. This holy city is a testament to the rich cultural tapestry of Sri Lanka, blending Buddhist, Hindu, and Islamic traditions in its serene temples and bustling streets.",
+    "description": "Ruhunu Maha Kataragama Devalaya, located in the picturesque Monaragala district, is a sacred Buddhist temple dedicated to the Hindu deity Kataragama. The site dates back centuries, with the main shrine believed to have been established by local kings as a place of worship. Notable for its rich cultural and religious significance, the devalaya attracts devotees seeking blessings and spiritual guidance, offering visitors an opportunity to engage in prayer, meditation, and learn about Sri Lanka’s diverse spiritual heritage through artisan markets and historical tours.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Devalaya/Temple",
@@ -34,7 +34,7 @@
 {
     "id": "pl_3068df6f",
     "name": "Kiri Vehera, Kataragama",
-    "description": "Kiri Vehera, a stunning Buddhist stupa in Kataragama, stands majestically atop a hill, its intricate carvings and serene atmosphere attracting pilgrims and nature lovers alike. Perched on a hilltop, this ancient monument offers breathtaking views of the surrounding landscape and is a must-visit for those seeking spiritual enlightenment and natural beauty.",
+    "description": "Kiri Vehera, an ancient Buddhist stupa in Kataragama, stands as a testament to the rich spiritual heritage of the region. Built during the Anuradhapura period, it is believed to be over a thousand years old, making it one of the oldest structures in the Kataragama temple complex. The site holds significant religious importance, attracting devotees seeking blessings and solace. Visitors can engage in prayer, meditation, take photographs, and enjoy nature walks around the tranquil surroundings. Its historical and cultural significance make it a must-visit for those exploring the sacred landscapes of Kataragama.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Stupa",
@@ -67,7 +67,7 @@
 {
     "id": "pl_904ad111",
     "name": "Kataragama Maha Devale (inner shrine)",
-    "description": "Discover the inner sanctum of Kataragama Maha Devale, a sacred Hindu-Buddhist temple where devotees seek blessings and immortality. Admire intricate carvings and the serene atmosphere that draws pilgrims from around the world.",
+    "description": "Kataragama Maha Devale, a revered inner shrine in Monaragala, houses the deity Kataragama, believed to be a manifestation of the Hindu god Murugan and the Buddhist deity Samattayar. It attracts devotees seeking blessings, often accompanied by prayer and offerings. The temple grounds also offer a serene environment for reflection and photography, drawing visitors from across the country and beyond. Established centuries ago, it remains a significant site for both Hindu and Buddhist pilgrims, known for its spiritual significance and cultural importance.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Devale",
@@ -100,7 +100,7 @@
 {
     "id": "pl_a7409259",
     "name": "Maligawila Giant Buddha Statue",
-    "description": "Maligawila Giant Buddha Statue stands majestically in the heart of the Monaragala district, a serene site that has stood as a testament to Buddhist artistry since the 14th century. This colossal statue, carved into a cliff face, offers visitors a glimpse into the rich cultural heritage of Sri Lanka.",
+    "description": "The Maligawila Giant Buddha Statue stands as a prominent landmark in Monaragala, Sri Lanka, attracting visitors with its serene presence. Built by local artisans, the statue has been a source of reflection and pilgrimage for centuries, particularly during full moons when devotees gather under its shadow. Its construction is believed to date back to the 16th century, though exact details remain shrouded in legend. The statue's towering form, reaching up to 25 meters, offers panoramic views of the surrounding countryside, making it a popular spot for photography and a site rich in local folklore.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Statue/Temple",
@@ -133,7 +133,7 @@
 {
     "id": "pl_baf40ace",
     "name": "Kataragama Kiri Vehera Second Devale",
-    "description": "Discover the spiritual heart of Kataragama at Kataragama Kiri Vehera Second Devale, a sacred Hindu-Buddhist temple nestled amidst lush paddy fields. Witness ancient statues and intricate carvings that tell tales of devotion and faith.",
+    "description": "Kataragama Kiri Vehera Second Devale, a devale in Monaragala, Sri Lanka, is a Hindu-Buddhist shrine dedicated to the local deity Karunia Thamaraikkal. The temple complex, believed to date back to the 16th century, houses statues of the Lord Shiva and the goddess Kali. It is culturally significant as a place of pilgrimage for devotees seeking blessings and spiritual reflection. Notable for its architecture and rich history, the devale attracts visitors who offer prayer offerings and take photographs to capture the sacred site.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Devale",
@@ -166,7 +166,7 @@
 {
     "id": "pl_cbcdeef7",
     "name": "Nilgala Forest Monastery",
-    "description": "Discover the serene Nilgala Forest Monastery nestled amidst ancient trees and lush vegetation. This sacred site offers a tranquil retreat where one can immerse themselves in Buddhist teachings and nature’s beauty.",
+    "description": "Nilgala Forest Monastery, nestled in the lush hills of Monaragala, offers a serene retreat for meditation and prayer amidst nature. The monastery, established by local monks, provides a tranquil space for visitors seeking spiritual reflection. Guided nature walks through the surrounding forest lead to breathtaking vistas, while the temple itself features ancient statues and paintings that reflect the rich Buddhist heritage. Notable for its peaceful atmosphere and proximity to natural beauty, Nilgala Forest Monastery attracts both pilgrims and nature lovers.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Forest Monastery",
@@ -199,7 +199,7 @@
 {
     "id": "pl_d3d35320",
     "name": "Kataragama Second Devalaya (Pathini)",
-    "description": "Discover the sacred Pathini Temple, a mystical site where devotees seek blessings. Nestled in the heart of Kataragama, this ancient devalaya is a testament to Buddhist devotion and tradition, attracting pilgrims from around the world.",
+    "description": "Kataragama Second Devalaya, known as Pathini, stands in Monaragala, Sri Lanka, a sacred site revered by both Hindus and Buddhists. Built in the 16th century, it honors local deities and the Hindu deity Kataragama. Known for its ancient architecture and spiritual significance, the devalaya offers visitors a chance to pray, meditate, and learn about its rich cultural heritage through guided tours. It also features artisanal shops selling unique crafts and souvenirs, providing a glimpse into the local arts and traditions.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Devale",
@@ -232,7 +232,7 @@
 {
     "id": "pl_13250f07",
     "name": "Kataragama Vishnu Devale",
-    "description": "Discover the sacred Vishnu Temple at Kataragama, a place where devotees seek blessings and enlightenment. This ancient devale stands as a testament to the deep Hindu-Buddhist traditions of Sri Lanka, offering visitors a glimpse into the heart of Sri Lankan spirituality.",
+    "description": "Kataragama Vishnu Devale is a revered Hindu-Buddhist shrine dedicated to Lord Vishnu in the heart of Kataragama. The temple complex is significant as it blends Hindu and Buddhist traditions, reflecting the syncretic culture of ancient Sri Lanka. Local legends and scriptures hold that the deity was brought here by Hindu pilgrims seeking divine protection. Notable for its annual Kataragama Festival, it attracts thousands of devotees annually. Visitors can participate in prayer rituals, meditate, and engage in artisanal shopping, offering a unique cultural experience.",
     "district_id": "Monaragala",
     "province_id": "Uva",
     "category_id": "Devale",

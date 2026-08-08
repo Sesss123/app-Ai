@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_44a8177b6a",
     "name": "Mount Zion House of Prayer",
-    "description": "Mount Zion House of Prayer is a church in the Mullaitivu area of Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Mount Zion House of Prayer, located in Mullaitivu, Sri Lanka, is a prominent church known for its role in the local Christian community. The house was established as a place of worship following the return of refugees from India after the Sri Lankan Civil War. It has become an important gathering spot for both locals and tourists interested in its rich religious heritage and historical context. Visitors can explore the serene surroundings while praying or taking photos, making it a unique destination for those seeking spiritual enlightenment and scenic beauty.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Church",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_e5c40f20c2",
     "name": "Church",
-    "description": "Located in Mullaitivu, Church is a church worth visiting. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Church in Mullaitivu district serves as a place of worship for local Christians. Built during colonial times, it was constructed by British administrators as a symbol of their influence over the region. The church stands as a testament to the rich religious heritage of the area, attracting visitors interested in its architectural style and historical context. It also hosts regular prayer services and occasionally features exhibitions on local Christian culture. Its presence is a focal point for both locals and tourists exploring the cultural tapestry of Mullaitivu.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Church",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_d07e92f283",
     "name": "Mallavi catholic Church",
-    "description": "Mallavi catholic Church is a church in the Mullaitivu area of Sri Lanka. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Mallavi Catholic Church stands in Mullaitivu district, a small yet historically significant structure in Sri Lanka. Constructed during the colonial era, it was built by Italian missionaries in the early 20th century. The church holds deep religious importance for the local Catholic community, serving as a place for worship and reflection. It also attracts visitors interested in its architectural design and the rich history it encapsulates. Visitors can explore the serene grounds and capture photos of the church, which overlooks the lush greenery of the surrounding area.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Church",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_c2cb573e6a",
     "name": "Rc Church Redbana",
-    "description": "Located in Mullaitivu, Rc Church Redbana is a church worth visiting. The site offers a peaceful stop for visitors interested in local religious heritage.",
+    "description": "Rc Church Redbana, located in Mullaitivu, Sri Lanka, is an important place of worship for Christians. The church stands as a symbol of resilience and faith, having survived numerous challenges. Built in the early 20th century, it was originally constructed by local Christian communities and later expanded under British colonial rule. Notable for its architectural blend of traditional and colonial styles, the church has hosted various religious ceremonies and community gatherings over the decades. Visitors can explore its interior adorned with vibrant artwork and photographs capturing the rich heritage of the area.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Church",
@@ -213,3 +213,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

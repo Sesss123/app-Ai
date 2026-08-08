@@ -1,7 +1,7 @@
 {
     "id": "pl_ec77a055",
     "name": "Mullaitivu Beach Sports",
-    "description": "Mullaitivu Beach Sports is a unique adventure park nestled along the picturesque Mullaitivu coastline. Surrounded by lush greenery and vibrant marine life, it offers thrilling water sports and scenic views that captivate visitors. This gem is a testament to the resilience and beauty of Northern Sri Lanka.",
+    "description": "Mullaitivu Beach Sports, an adventure park in Mullaitivu, Sri Lanka, offers activities like swimming, surfing, and kayaking. Nestled along the picturesque coastline, the beach sports complex attracts both local and international tourists seeking to experience the thrill of the sea. The area has been known for its serene waters and challenging waves, making it a popular spot for surfers and swimmers. Notable events such as the annual surfing competition draw crowds from across the island, showcasing the region’s vibrant community spirit.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_481ecd8d",
     "name": "Nanthikadal Kayaking",
-    "description": "Nanthikadal Kayaking offers thrilling rapids and stunning views along the Mullaitivu River. Experience the rush of adrenaline as you navigate through the challenging waters, perfect for both beginners and experienced kayakers seeking a memorable adventure.",
+    "description": "Nanthikadal Kayaking, located in Mullaitivu, Sri Lanka, is an adventure park offering kayaking, fishing, and bird watching. The area, known for its pristine waters and diverse wildlife, attracts tourists seeking adrenaline-pumping experiences alongside nature appreciation. Historically, the site has been a tranquil spot for local fishermen and bird enthusiasts. Notable for its recent development into an adventure park, Nanthikadal Kayaking offers visitors a unique blend of recreational activities and ecological education, making it a popular destination for tourists exploring the region.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_46b26ead",
     "name": "Mullaitivu Lighthouse Trek",
-    "description": "Experience the historical significance and breathtaking views of Mullaitivu Lighthouse Trek. Nestled along the coast, this lighthouse offers panoramic vistas and a glimpse into Sri Lanka's maritime past. Perfect for nature lovers and history buffs.",
+    "description": "The Mullaitivu Lighthouse Trek is an adventurous path through the lush greenery of Mullaitivu District, offering stunning coastal views and unique wildlife encounters. This trek offers visitors the chance to photograph the restored lighthouse, which stands as a silent witness to the island’s maritime history. Bird watchers can spot various species as they walk along the coast, while nature enthusiasts enjoy the peaceful coastal walk. The site has been significant for navigation and safety in the region, attracting notable figures like British naval officers who maintained its operational integrity. Today, it stands as a testament to the island’s rich maritime heritage and the efforts of past generations.",
     "district_id": "Mullaitivu",
     "province_id": "Northern",
     "category_id": "Adventure Park",
@@ -96,3 +96,4 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+

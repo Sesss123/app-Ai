@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_fad7294d71",
     "name": "Girihandu Seya",
-    "description": "Located in Trincomalee, Girihandu Seya is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Girihandu Seya, an archaeological site in Trincomalee, Sri Lanka, is a small stupa surrounded by ruins dating back to the ancient Indian kingdom of Cholas. The exact date of its construction remains uncertain, but it was likely built during the 3rd century BCE, making it an important piece of Chola heritage. Its significance lies in its role as a religious center attracting pilgrims and scholars throughout the centuries. Today, visitors can explore the site, take photos, and learn about its rich history through local guides.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_ebc1fea1e0",
     "name": "Girihadu Seya Archaeological Area",
-    "description": "Girihadu Seya Archaeological Area is an archaeological site in the Trincomalee area of Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Girihadu Seya Archaeological Area, located in Trincomalee, Sri Lanka, is an ancient archaeological site featuring ruins of a Buddhist vihara. The area holds significant historical and cultural importance as it was once a center of Buddhism in the region. Local legends suggest the site was built by King Dutugemunu in the 2nd century BCE. Today visitors can explore the remains of the vihara, take photos, and learn about its past through guided tours, offering insights into ancient Sri Lankan architecture and religious practices.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_52ca1b39bf",
     "name": "Wilgamvehera Maha Seya",
-    "description": "Located in Trincomalee, Wilgamvehera Maha Seya is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Wilgamvehera Maha Seya, an ancient ruins in Trincomalee, Sri Lanka, offers visitors a glimpse into the island's rich prehistoric past. The site features the remains of a temple complex, believed to date back over 2,000 years. It was likely constructed by early settlers or possibly during the reign of King Dutugemunu, who ruled around the 2nd century BCE. Known for its intricate stone carvings and architectural elements, the area has been a pilgrimage site attracting devotees and historians alike. Today, it stands as a testament to the island’s ancient civilizations, offering a serene retreat for those seeking to understand the roots of Sri Lankan culture.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_91f8096f59",
     "name": "Tank 91",
-    "description": "Tank 91 is an archaeological site located in Trincomalee, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "Tank 91, an archaeological site in Trincomalee, Sri Lanka, is an ancient reservoir dating back to the Pandyas era. Built over 2000 years ago, it was part of a network of water storage systems that provided sustenance to the region. The site offers visitors a glimpse into ancient engineering and irrigation techniques, with its well-preserved structures attracting both historians and nature lovers. Visitors can explore the ruins, take photos, and learn about its role in sustaining communities in prehistoric times.",
     "district_id": "Trincomalee",
     "province_id": "Eastern",
     "category_id": "Ruins",
@@ -141,3 +141,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

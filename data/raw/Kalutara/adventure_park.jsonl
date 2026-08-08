@@ -1,7 +1,7 @@
 {
     "id": "pl_9f3ec184",
     "name": "Kalu Ganga White Water Rafting",
-    "description": "Kalu Ganga White Water Rafting is a thrilling adventure park located in Kalu Ganga, offering rafting trips through its picturesque white water rapids, perfect for adrenaline junkies seeking a heart-pounding experience amidst lush greenery and breathtaking views.",
+    "description": "Kalu Ganga, a white water rafting adventure park nestled in Kalutara District, offers adrenaline-pumping rafting trips down the river, fishing opportunities, and picnic spots for relaxation. The park's location on the Kalu Ganga River, known for its challenging rapids, attracts thrill-seekers and nature lovers alike. Its establishment was part of a community initiative to preserve the natural beauty of the area while providing local employment. Notable rafting sections include the Galleon Rapid, where experienced guides lead groups through the turbulent waters.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_10f588be",
     "name": "Kalutara Surf & Kayak",
-    "description": "Kalutara Surf & Kayak offers a unique surf and kayak experience on the picturesque Kalu天涯海钓海滩. This adventure park, nestled in the heart of Kalutara, provides a perfect blend of water sports and natural beauty, making it a must-visit spot for both locals and tourists alike.",
+    "description": "Kalutara Surf & Kayak, an adventure park in Kalutara, Sri Lanka, offers surfers and kayakers the chance to experience the island's coastal beauty through surfing, kayaking, and snorkeling. The area has been popular among adventurers for years, attracting both local and international tourists seeking a blend of relaxation and adrenaline. Surfers can ride waves along the coast, while kayakers explore the calm waters and coral reefs, offering glimpses of marine life. Notable events like the annual surf competition add to the excitement, making it a must-visit spot for water enthusiasts.",
     "district_id": "Kalutara",
     "province_id": "Western",
     "category_id": "Adventure Park",
@@ -96,6 +96,7 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_dc121f5305",
     "name": "Urban Park",

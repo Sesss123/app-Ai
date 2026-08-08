@@ -1,7 +1,7 @@
 {
     "id": "pl_545c270f",
     "name": "Ella Rock Trek Centre",
-    "description": "Ella Rock Trek Centre stands at the heart of Ella’s natural beauty, offering breathtaking views and challenging trekking routes through lush forests and dramatic rock formations. Perfect for adventure seekers and nature lovers, this park is a must-visit for anyone seeking a memorable experience in the Uva Province.",
+    "description": "Ella Rock Trek Centre, an adventure park nestled in the lush hills of Badulla, offers trekkers and nature enthusiasts opportunities to scale the rock faces, capture breathtaking nature photographs, and observe diverse bird species. The park, established by local mountaineers and conservationists, has become a popular destination for those seeking adventure and appreciation of Sri Lanka's natural beauty. Notable rock climbs include the challenging Ella Rock Trek, which has been a favorite among climbers since its opening. Visitors can also learn about the rich biodiversity of the region, including endemic species found nowhere else on Earth.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Adventure Park",
@@ -34,7 +34,7 @@
 {
     "id": "pl_b49abdca",
     "name": "Ravana Falls Zipline",
-    "description": "Experience the thrill of Ravana Falls Zipline, a breathtaking adventure park nestled amidst lush greenery. Soar through the canopy at Ravana Falls, where nature’s beauty meets adrenaline-pumping excitement. Perfect for both beginners and experienced zippers, this park offers a unique escape into the heart of Sri Lanka’s natural wonders.",
+    "description": "Ravana Falls Zipline, an adrenaline-pumping adventure park in Badulla, offers visitors ziplining through the lush jungle canopy, heart-pounding rides, and nature walks. Named after the mythical character Ravana, it attracts thrill-seekers seeking an exhilarating experience high above the Ravana Falls, a stunning waterfall located nearby. The park features over 30 zip lines, with some reaching up to 500 meters, offering breathtaking views of the surrounding landscape. Visitors can also take part in guided nature walks led by experienced guides who share fascinating stories of the area's rich biodiversity and local culture.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Adventure Park",
@@ -67,7 +67,7 @@
 {
     "id": "pl_43af6035",
     "name": "Namunukula Summit Hike",
-    "description": "Namunukula Summit Hike offers breathtaking panoramic views of the Uva Province, including the iconic Galoya Waterfall. This challenging yet rewarding hike through lush tea plantations and dense forests rewards visitors with a sense of accomplishment and a lifetime memory.",
+    "description": "Namunukula Summit Hike is a popular hiking trail in the Badulla district, offering panoramic views of tea plantations and the Namunukula Forest Reserve. The summit provides an ideal spot for photography enthusiasts, with its lush greenery and distant mountain vistas. Visitors can also opt for a tea plantation tour, learning about the traditional methods of growing and processing tea. This hike has been a favorite among locals and tourists alike, attracting those seeking natural beauty and cultural insights into Sri Lanka’s tea industry.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Adventure Park",
@@ -96,6 +96,7 @@
     "Length_km": "0",
     "Surfing": "no"
 }
+
 {
     "id": "pl_osm_e5c3487b9b",
     "name": "Zipline Start",
@@ -136,7 +137,7 @@
 {
     "id": "pl_osm_3b7be38246",
     "name": "Zipline End",
-    "description": "Zipline End is an attraction in the Badulla area of Sri Lanka. It's a popular spot for a family day out.",
+    "description": "Zipline End, an adventure park nestled in the lush hills of Badulla, offers families and thrill-seekers an array of rides and fun activities. Originally established as a local community project, the park now attracts visitors from across the country seeking adrenaline-pumping ziplines, thrilling roller coasters, and gentle rides suitable for all ages. Its location in the heart of the hill country makes it a popular spot for day trips and weekend getaways, offering a perfect blend of excitement and relaxation.",
     "district_id": "Badulla",
     "province_id": "Uva",
     "category_id": "Adventure Park",

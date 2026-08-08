@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_b5da518b16",
     "name": "Pomparippu Ancient Burial Site",
-    "description": "Pomparippu Ancient Burial Site is an archaeological site located in Puttalam, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Pomparippu Ancient Burial Site, located in Puttalam District, Sri Lanka, is an archaeological site known for its historical significance. The site dates back to the ancient Sinhalese period, though exact construction details remain unclear. It holds cultural and religious importance, believed to be where local kings and important figures were laid to rest. Notable events include the discovery of ancient artifacts and burial items, which provide insights into the region's past. Visitors can explore the site, take photographs, and learn about its rich history through guided tours.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Ruins",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_00afa9d6b6",
     "name": "Veli Vehera Archaeological Site",
-    "description": "Located in Puttalam, Veli Vehera Archaeological Site is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Veli Vehera Archaeological Site in Puttalam district, Sri Lanka, is an ancient Buddhist temple ruins dating back to the 5th century BC. The site features well-preserved stupa mounds and monolithic pillars, believed to be remnants of early Sri Lankan architecture. It holds significant cultural and religious importance, attracting visitors interested in learning about early Buddhist practices and architectural styles. Local legends also connect the site to ancient maritime trade routes, adding to its historical intrigue. Visitors can explore the serene ruins, take photos, and learn about the site’s rich past through guided tours.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Ruins",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_3de7bfa462",
     "name": "Monastic Ruins",
-    "description": "Located in Puttalam, Monastic Ruins is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Monastic Ruins, located in Puttalam, Sri Lanka, are remnants of ancient monasteries that once thrived along the coast. These ruins date back to the medieval period, a time when Buddhism flourished in Sri Lanka. The site features well-preserved structures including temples and living quarters, now overgrown with lush vegetation. Local legend speaks of a Buddhist monk who founded these monasteries as centers of learning and spiritual practice. Notable events include pilgrimages by devotees seeking enlightenment, making the area a significant pilgrimage site until the 19th century. Today, visitors can explore the ruins, marvel at the craftsmanship, and take photos capturing the tranquil beauty of the coastal landscape.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Ruins",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_df255b9556",
     "name": "Thonigala Ruins",
-    "description": "Thonigala Ruins is an archaeological site located in Puttalam, Sri Lanka. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Thonigala Ruins, located in Puttalam, Sri Lanka, are an archaeological site comprising ruins of ancient structures believed to be over 2000 years old. The site holds significant historical importance as it might have been a port city during the ancient maritime trade era, connecting Sri Lanka with South India and beyond. While the exact founding date remains uncertain, local legends suggest it was a prosperous trading center in ancient times. Today, visitors can explore the ruins, take photos, and imagine the bustling past of this coastal region.",
     "district_id": "Puttalam",
     "province_id": "North Western",
     "category_id": "Ruins",
@@ -165,7 +165,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "limited",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -177,3 +177,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

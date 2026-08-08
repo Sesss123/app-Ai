@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_ae0b1da85e",
     "name": "Daha Ata Wanguwa",
-    "description": "Located in Kandy, Daha Ata Wanguwa is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Daha Ata Wanguwa, a viewpoint in Kandy, Sri Lanka, offers breathtaking panoramic views of the surrounding hills and valleys. Known for its scenic beauty, it attracts visitors seeking picturesque photo opportunities. Historically, the site has been an important vantage point for locals and travelers alike, providing a unique perspective on the city’s natural landscape. Cultural significance lies in its role as a lookout for early settlers and traders navigating the area, while religiously it holds little note beyond its visual appeal. Visitors can enjoy the tranquil atmosphere and clear weather views, making it a popular spot for tourists and locals alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -57,7 +57,7 @@
     "parking_avail": "unknown",
     "toilets": "unknown",
     "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
+    "wheelchair_access": "yes",
     "camping_allowed": "no",
     "safety_level": "Safe",
     "wildlife_hazard": "None",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_08c5286a2b",
     "name": "Mini World's End",
-    "description": "Mini World's End is a scenic viewpoint located in Kandy, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Mini World's End is a breathtaking viewpoint in Kandy, offering panoramic views of the surrounding hills and valleys. Known for its striking resemblance to the famous cliffs of Dover, England, it attracts visitors seeking unique photo opportunities. The site's origins date back to the 18th century when local farmers used it as a lookout point to monitor crop yields. Today, it stands as a popular spot for tourists, photographers, and nature lovers, appreciating the natural beauty and historical charm it offers.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_d21c5907c2",
     "name": "muthukeliyava",
-    "description": "muthukeliyava is a scenic viewpoint located in Kandy, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Muthukeliyava, a scenic viewpoint in Kandy, offers panoramic views of the surrounding hills and valleys. Known for its picturesque scenery, it attracts visitors who come to capture the perfect shot. Historically, the area was an important stopover for pilgrims on their way to the Temple of the Tooth in Kandy, adding a layer of religious significance to its natural beauty. Today, it remains a popular spot for tourists and locals alike, a place where one can appreciate nature's splendor while contemplating its rich cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_6df220c20c",
     "name": "Fool’s Bridge",
-    "description": "Fool’s Bridge is a scenic viewpoint in the Kandy area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Fool’s Bridge, a picturesque viewpoint in Kandy, Sri Lanka, offers stunning views over the city and the surrounding area. Legend has it that the bridge was built by a group of monks as a shortcut to the temple, but locals believe it’s cursed because it was supposedly built by fools, leading many to avoid crossing it. Today, visitors come for the panoramic vistas and the chance to snap photos, making Fool’s Bridge a popular spot for sightseers and photographers alike.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -181,7 +181,7 @@
 {
     "id": "pl_osm_a6563870fd",
     "name": "Lake viewpoint",
-    "description": "Located in Kandy, Lake viewpoint is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Lake viewpoint stands as a picturesque spot in Kandy, offering visitors breathtaking views of the lake below. It's a popular spot for photography enthusiasts and those seeking a serene view of the water. The viewpoint overlooks Lake Mahaweli, a man-made reservoir created by the Mahaweli Ganga Project, which irrigates large tracts of farmland in the region. Its cultural significance lies in its role as a tranquil retreat amidst the hustle and bustle of city life. Notable events often include local festivals where locals gather to admire the view and enjoy traditional music and dance performances.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -253,7 +253,7 @@
 {
     "id": "pl_osm_7be2c1b799",
     "name": "unnamed",
-    "description": "unnamed is a scenic viewpoint in the Kandy area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Unnamed viewpoint stands atop a hill in Kandy, offering panoramic vistas of the city below. The site has been a popular spot for centuries, attracting visitors seeking both a breathtaking view and a moment of tranquility. Legend has it the viewpoint was once a sacred site where ancient kings would gather to watch over their kingdom, but no concrete evidence supports this. Today, it’s a favorite among tourists, photographers, and locals alike, who come to capture the scenery and enjoy the peaceful atmosphere.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -289,7 +289,7 @@
 {
     "id": "pl_osm_6e55fe9cdd",
     "name": "Asupini Ella Waterfall viewpoint",
-    "description": "Asupini Ella Waterfall viewpoint is a scenic viewpoint in the Kandy area of Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Asupini Ella Waterfall viewpoint stands at the edge of Asupini Ella Waterfall in the heart of Kandy district, offering visitors breathtaking views of cascading water. It’s a popular spot for photography and sightseeing, attracting tourists eager to capture the beauty of the waterfall. The viewpoint overlooks the lush greenery and misty clouds, creating an enchanting scene that draws locals and tourists alike. Its serene location makes it a favorite among nature lovers and those seeking tranquil moments amidst Sri Lanka’s natural splendor.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -361,7 +361,7 @@
 {
     "id": "pl_osm_1ec31ae3f2",
     "name": "Asupini Ella Falls",
-    "description": "Located in Kandy, Asupini Ella Falls is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Asupini Ella Falls, a picturesque viewpoint in Kandy, Sri Lanka, offers breathtaking views of cascading water tumbling down the cliffs. Known for its serene beauty, the falls attract many visitors who come to capture the moment through their cameras. Historically, the area has been revered by locals for its natural splendor, often visited during religious festivals and local celebrations. Its presence in the district adds to the rich tapestry of attractions, making it a popular spot for tourists exploring the region.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -397,7 +397,7 @@
 {
     "id": "pl_osm_3f4c011a64",
     "name": "Leopard rock",
-    "description": "Located in Kandy, Leopard rock is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Leopard rock stands as a striking landmark in Kandy, a viewpoint that captivates visitors with its panoramic vistas. This natural rock formation, resembling a majestic leopard, draws tourists eager to capture its image against the backdrop of lush greenery and verdant hills. Its exact origin and age remain a mystery, but it has been a popular spot for centuries, attracting devotees and nature lovers alike. Legend tells tales of ancient kings and mystical encounters, though these are purely local folklore. The rock offers a serene escape from the hustle of city life, perfect for those seeking a moment of quiet reflection amidst breathtaking scenery.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -433,7 +433,7 @@
 {
     "id": "pl_osm_b53da3d3c2",
     "name": "Hatale Patana World's End",
-    "description": "Located in Kandy, Hatale Patana World's End is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Hatale Patana, known as the World's End in Kandy, offers breathtaking panoramic views over the central highlands. This viewpoint, perched on a cliff overlooking the deep ravine below, attracts photographers and nature lovers seeking picturesque shots. Its dramatic setting makes it a popular spot for sightseeing, offering a unique perspective on the surrounding landscape. Historically, the site has been significant for its natural beauty and perhaps served as an ancient lookout point. Cultural and religiously, it stands as a testament to the natural splendor of Sri Lanka’s countryside.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -469,7 +469,7 @@
 {
     "id": "pl_osm_53f8442f22",
     "name": "Kellebokka State Viewpoint",
-    "description": "Kellebokka State Viewpoint is a scenic viewpoint located in Kandy, Sri Lanka. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Kellebokka State Viewpoint stands in the heart of Kandy, offering panoramic views of the surrounding hills and valleys. It's a popular spot for photographers and nature lovers, attracting visitors who come to admire the lush greenery and ancient tea plantations. The viewpoint offers a unique perspective on the city's rich cultural heritage and natural beauty, reflecting the blend of colonial and indigenous architecture. Established by the British as a lookout point, it has been cherished by locals and tourists alike for generations.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -505,7 +505,7 @@
 {
     "id": "pl_osm_9c1e7cd65d",
     "name": "Rathna Ella Waterfall",
-    "description": "Located in Kandy, Rathna Ella Waterfall is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Rathna Ella Waterfall stands as a stunning natural landmark in the heart of Kandy, Sri Lanka, a popular spot for visitors seeking breathtaking views and serene moments. This waterfall, nestled among lush greenery, offers a picturesque viewpoint where tourists can capture the cascading waters against a backdrop of verdant hills. Its presence symbolizes the natural beauty and tranquility of the region, drawing nature lovers and photographers alike. Known locally as the \"Waterfall of Jewels,\" its name reflects the gemstone mines nearby, which add a touch of mystique to this scenic spot.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -541,7 +541,7 @@
 {
     "id": "pl_osm_e43a0fda16",
     "name": "James Taylor's Site",
-    "description": "Located in Kandy, James Taylor's Site is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "James Taylor's Site, a viewpoint in Kandy, offers stunning panoramic views of the city and surrounding hills. It's named after James Taylor, a British botanist who lived in the area in the late 19th century. Visitors can enjoy panoramic vistas while taking photos or simply appreciating the scenery, making it a popular spot for tourists and locals alike. Its significance lies in its role as a vantage point offering insights into the urban landscape and natural beauty of the region.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -577,7 +577,7 @@
 {
     "id": "pl_osm_8f544ab5c1",
     "name": "4th Peak Knuckles",
-    "description": "Located in Kandy, 4th Peak Knuckles is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The 4th Peak Knuckles is a viewpoint located in the Knuckles Range, a World Heritage Site in Kandy District, Sri Lanka. Known for its panoramic views, hikers often come here to capture stunning photos of the surrounding lush greenery and distant peaks. The Knuckles Range, with its rich biodiversity, was formed millions of years ago by tectonic movements and volcanic activity, making it a significant geological landmark. Visitors can hike through the area, experiencing the natural beauty and unique flora and fauna along the way.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -649,7 +649,7 @@
 {
     "id": "pl_osm_87058ef09e",
     "name": "Monaragala",
-    "description": "Located in Kandy, Monaragala is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Monaragala is a scenic viewpoint in the Kandy district of Sri Lanka offering panoramic views of the surrounding hills and valleys. It sits atop a hill known for its rich cultural heritage, historically a site of Buddhist worship. The viewpoint attracts photographers and nature lovers seeking picturesque scenes, with notable events including a local festival held annually showcasing traditional dances and music. Visitors can enjoy the serene atmosphere and fresh air, making it a popular spot for tourists exploring the region.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -721,7 +721,7 @@
 {
     "id": "pl_osm_3367994fc1",
     "name": "Pettigala 2nd View Point",
-    "description": "Located in Kandy, Pettigala 2nd View Point is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Pettigala 2nd View Point, located in the heart of Kandy, offers panoramic views of the surrounding lush greenery and the iconic Temple of the Tooth. This viewpoint, a popular spot among tourists and locals alike, provides an excellent backdrop for photography and sightseeing. The area has been a favorite among visitors for centuries, attracting those seeking to appreciate the natural beauty and cultural significance of the region. Visitors can enjoy the serene atmosphere while taking in the picturesque scenery, making it a must-visit destination for anyone exploring the Kandy area.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -757,7 +757,7 @@
 {
     "id": "pl_osm_9a084cdeca",
     "name": "Pettigala View Point",
-    "description": "Located in Kandy, Pettigala View Point is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "Pettigala View Point stands in Kandy, offering panoramic views of the surrounding countryside. The viewpoint is a popular spot for tourists and locals alike, especially for photography enthusiasts. It sits atop a hill, accessible by a winding road, and offers a unique perspective on the city below, including the ancient Temple of the Tooth. Legend has it that the view was once used by local rulers to survey their territories, though this is unverified. Today, visitors come to relax, take in the scenery, and capture the beauty of this serene location.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -829,7 +829,7 @@
 {
     "id": "pl_osm_086cfe5a35",
     "name": "river view",
-    "description": "Located in Kandy, river view is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "River view, a scenic viewpoint in Kandy, offers breathtaking views of the city and surrounding hills. It sits on a hilltop, accessible by a winding path, and provides a perfect spot for photography enthusiasts. Historically, it was once part of an ancient royal garden, but its current state is largely influenced by colonial architecture. Notable events include local festivals where crowds gather to admire the panoramic vistas. Visitors often take photos here, capturing the essence of Kandy's natural beauty and cultural heritage.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -865,7 +865,7 @@
 {
     "id": "pl_osm_2a593867c8",
     "name": "plantation de thé escalier",
-    "description": "Located in Kandy, plantation de thé escalier is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The plantation de thé escalier, situated in the heart of Kandy, offers breathtaking views of the surrounding tea plantations and the ancient city of Kandy. Historically, the site was once part of a grand estate, but today it stands as a popular viewpoint where visitors can take stunning photos and enjoy the panoramic vista. Known for its cultural and religious significance, it also marks the spot where important events took place, though exact dates and details are unknown beyond its picturesque appeal. Visitors often pause here to reflect on the rich history and natural beauty of the region.",
     "district_id": "Kandy",
     "province_id": "Central",
     "category_id": "Viewpoint",
@@ -897,3 +897,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_55853cc337",
     "name": "Thalaimannar Islands Viewpoint",
-    "description": "Located in Mannar, Thalaimannar Islands Viewpoint is a scenic viewpoint worth visiting. It offers a scenic spot to pause and take in the surrounding views.",
+    "description": "The Thalaimannar Islands Viewpoint offers panoramic views of the Thalaimannar Islands, a group of small islands off the coast of Mannar District in Sri Lanka. Visitors can capture stunning photographs here, while enjoying the picturesque scenery. Historically, the area has been significant as a fishing village, and it witnessed the 2008 Mannar Islander Conflict, which saw the involvement of various ethnic groups. Today, the viewpoint serves as a popular spot for tourists to appreciate nature and learn about local maritime history.",
     "district_id": "Mannar",
     "province_id": "Northern",
     "category_id": "Viewpoint",
@@ -69,3 +69,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

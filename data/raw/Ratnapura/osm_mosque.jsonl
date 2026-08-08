@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_03c73a0a11",
     "name": "Masjidul Noor",
-    "description": "Masjidul Noor is a mosque located in Ratnapura, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Masjidul Noor, a prominent mosque in Ratnapura, Sri Lanka, stands as a significant Islamic landmark. Its construction dates back to the early 20th century, making it one of the oldest mosques in the region. The mosque is a symbol of unity and faith, attracting both locals and tourists who come to pray and admire its intricate architecture. Known for its serene atmosphere and historical importance, Masjidul Noor plays a crucial role in the local community, hosting various religious ceremonies and gatherings.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -37,7 +37,7 @@
 {
     "id": "pl_osm_788b588779",
     "name": "Jumma Masjid",
-    "description": "Jumma Masjid is a mosque located in Ratnapura, Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Jumma Masjid, a prominent mosque in Ratnapura, Sri Lanka, was established during British colonial rule in the early 20th century. Its construction reflects a blend of Islamic and colonial architectural styles. The mosque holds great significance as a place of worship and community gathering for Muslims in the Ratnapura area, hosting both local and visiting worshippers. It has witnessed numerous community events and gatherings over the years, playing a crucial role in the social fabric of the Ratnapura Muslim population.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -73,7 +73,7 @@
 {
     "id": "pl_osm_21c201b0ff",
     "name": "Town Masjid",
-    "description": "Located in Ratnapura, Town Masjid is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Town Masjid, a prominent mosque in Ratnapura, stands as a testament to the city's rich Muslim heritage. Constructed during the 18th century under Dutch colonial rule, it was initially built as a place of worship for local Muslim communities. Over time, it has become an important gathering point for both locals and tourists, offering visitors a glimpse into the area's historical and cultural tapestry. Notable for its architectural beauty and serene atmosphere, Town Masjid continues to play a vital role in the religious life of Ratnapura.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -109,7 +109,7 @@
 {
     "id": "pl_osm_aab5c8e6d0",
     "name": "Masjid Kirimetithenna",
-    "description": "Located in Ratnapura, Masjid Kirimetithenna is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Masjid Kirimetithenna, located in Ratnapura, Sri Lanka, is a historic mosque known for its architectural beauty and spiritual significance. Built in the early 20th century, it was commissioned by local Muslim community leaders to serve as a gathering place for prayers and Islamic teachings. Over time, it has become an important site for both locals and tourists, offering insights into the rich cultural heritage of the region. Visitors can admire its intricate designs and learn about the mosque's role in fostering interfaith dialogue and unity within the community.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -145,7 +145,7 @@
 {
     "id": "pl_osm_88ddbfa5e5",
     "name": "Baduwaththa Muhiyadeen Jumma Masjid",
-    "description": "Baduwaththa Muhiyadeen Jumma Masjid is a mosque in the Ratnapura area of Sri Lanka. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Baduwaththa Muhiyadeen Jumma Masjid, located in Ratnapura, Sri Lanka, is a historic mosque named after Muhiyadeen, an early Muslim community leader. Built in the 18th century, it stands as a testament to the rich multicultural heritage of the region. Its architectural style blends Indo-Saracenic elements with local influences, reflecting the blending of cultures over time. The mosque is significant for both its historical value and its role in the spiritual life of the local Muslim community. Visitors can explore its serene courtyard and admire its intricate carvings, while also participating in daily prayers or simply taking photos to capture its beauty and historical importance.",
     "district_id": "Ratnapura",
     "province_id": "Sabaragamuwa",
     "category_id": "Mosque",
@@ -177,3 +177,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

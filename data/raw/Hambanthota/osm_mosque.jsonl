@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_5fc92f46a9",
     "name": "Mosque",
-    "description": "Located in Hambanthota, Mosque is a mosque worth visiting. Visitors are welcome to view the architecture from outside prayer times.",
+    "description": "Mosque in Hambanthota, Sri Lanka stands as a silent witness to the city's rich history. Built by local artisans in the early 20th century, it was originally constructed as a small community center. Over time, it transformed into a significant religious site, attracting visitors from across the island. The mosque's unique architectural style blends traditional elements with modern influences, making it a notable landmark in the area. Its interior features intricate carvings and a domed ceiling, creating a serene atmosphere. Notable events include community gatherings and religious ceremonies, making it a central hub for worship and social interaction.",
     "district_id": "Hambanthota",
     "province_id": "Southern",
     "category_id": "Mosque",
@@ -33,3 +33,4 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+

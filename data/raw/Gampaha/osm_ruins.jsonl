@@ -1,7 +1,7 @@
 {
     "id": "pl_osm_469350d551",
     "name": "Negombo Dutch Fort",
-    "description": "Located in Gampaha, Negombo Dutch Fort is an archaeological site worth visiting. The site offers insight into the region's historical past for visitors interested in archaeology.",
+    "description": "The Negombo Dutch Fort, an archaeological site in the Gampaha district of Sri Lanka, stands as a testament to the colonial era. Built by the Dutch in the early 17th century, it served as a fortress and trading post. Today, visitors can explore its remnants, take photos, and learn about its role in maritime trade and defense during the colonial period. Its historical significance lies in its impact on the local economy and culture, reflecting the complex interplay between European influence and indigenous life.",
     "district_id": "Gampaha",
     "province_id": "Western",
     "category_id": "Ruins",
@@ -33,6 +33,7 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+
 {
     "id": "pl_6d789bda",
     "name": "Sudarshanarama viharaya",
