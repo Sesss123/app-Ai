@@ -69,3 +69,38 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+{
+    "id": "pl_ced1158d",
+    "name": "MALIGA THANNA",
+    "description": "Maliga Thanna, located in Matara, is an ancient fortification believed to have been constructed during the reign of King Parakramabahu II of Kotte in the 15th century. It stands as a testament to the strategic importance of the coastal regions in Sri Lanka's history. The ruins offer visitors a glimpse into the military architecture and defensive strategies employed in the past. Visitors can explore the remnants of the walls, bastions, and trenches, which still provide a sense of the formidable defenses once present. The site also has historical significance due to its role in battles against Portuguese invaders. Today, Maliga Thanna serves as a reminder of the island’s rich military history and its resilience against foreign powers. While much of the structure is in ruins, the remains are well-preserved enough to allow for a fascinating tour. The site is particularly interesting for those interested in military history, archaeology, or simply seeking a peaceful walk through history. Climbing to the top of the walls offers stunning views of the surrounding coastline and the sea, adding to the overall experience.",
+    "district_id": "Matara",
+    "province_id": "Southern",
+    "category_id": "Ruins",
+    "lat": 6.113911,
+    "lng": 80.64985,
+    "opening_hours": "Open daily 6:00 AM - 6:00 PM",
+    "mobile_signal": "Moderate",
+    " 00oad_condition": "Paved",
+    "activities": "exploring ruins, photography, hiking",
+    "tourist_popularity": "Low",
+    "family_friendly": "yes",
+    "budget_category": "Low",
+    "ticket_price": 0,
+    "parking_avail": "yes",
+    "toilets": "no",
+    "food_nearby": "no",
+    "wheelchair_access": "no",
+    "camping_allowed": "no",
+    "safety_level": "Safe",
+    "wildlife_hazard": "None",
+    "guide_required": "no",
+    "rain_sensitivity": "Caution",
+    "monsoon_note": "Avoid May-Sept",
+    "best_time_to_visit": "Dec to Mar",
+    "Height_m": 0.0,
+    "Length_km": 0.0,
+    "Surfing": "no",
+    "_source_global_id": "6b98de6f-3c65-4cc4-8b16-647ce7b9f5a3",
+    "source_file": "place_data.jsonl"
+}
+

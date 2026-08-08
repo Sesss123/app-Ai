@@ -76,15 +76,11 @@ OSM_DISTRICT_ALIASES = {
 # Restrict a run to specific districts (e.g. to top up under-covered
 # districts without re-fetching ones that already have enough places).
 # None = all districts in DISTRICT_PROVINCE.
-# Currently set to the remaining under-covered districts (place counts as of
-# the last merge), ordered smallest-first so the neediest districts get
-# filled even if the run is interrupted partway through - going toward the
-# ~5000-place dataset target.
-TARGET_DISTRICTS = [
-    "Vavuniya", "Mullaitivu", "Polonnaruwa", "Puttalam", "Trincomalee",
-    "Ratnapura", "Monaragala", "Batticaloa", "Kilinochchi", "Ampara",
-    "Kegalle", "Mannar", "Badulla", "Hambanthota", "Kurunagala",
-]
+# Currently set to the 3 districts that never got an OSM collection pass
+# (Hambanthota/Kandy/Kurunagala were excluded from earlier TARGET_DISTRICTS
+# runs since their place counts already looked adequate from the flat
+# source-file split, but they still have no osm_*.jsonl output of their own).
+TARGET_DISTRICTS = ["Hambanthota"]
 
 # (overpass tag filter, category_id, activities hint, output filename)
 OSM_CATEGORIES = [
@@ -168,17 +164,27 @@ CATEGORY_OVERRIDES = {
 }
 
 
+_OUR_TO_OSM_DISTRICT_SPELLING = {v: k for k, v in OSM_DISTRICT_ALIASES.items()}
+
+
 def build_query(district: str, tag_filter: str) -> str:
-    # OSM's admin boundary relation for a Sri Lankan district is named
-    # "<District> District" (confirmed via Nominatim for every district),
-    # not the bare district name - a plain area["name"="Kandy"] matches
-    # unrelated features (e.g. a train station named "Kandy") instead of
-    # the district boundary, silently returning 0 real results.
-    area_name = f"{district} District"
+    # OSM's admin boundary relation for a Sri Lankan district is tagged
+    # name:en="<District> District" (confirmed via Nominatim/Overpass for
+    # every district). Filtering on the plain "name" tag instead is
+    # unreliable: for most districts name == name:en so it happens to
+    # work, but some districts (e.g. Kurunegala, whose "name" tag is the
+    # transliterated "Kurunǣgala" with no "District" suffix) have a
+    # completely different plain "name" value, so area["name"="Kurunegala
+    # District"] silently matches nothing. Also our internal spelling can
+    # differ from OSM's English spelling (our "Hambanthota" vs OSM's
+    # "Hambantota", our "Kurunagala" vs OSM's "Kurunegala") - translate
+    # back to OSM's spelling before building the name:en filter.
+    osm_district = _OUR_TO_OSM_DISTRICT_SPELLING.get(district, district)
+    area_name = f"{osm_district} District"
     return f"""
     [out:json][timeout:{REQUEST_TIMEOUT}];
     area["name"="Sri Lanka"]->.country;
-    area["name"="{area_name}"](area.country)->.searchArea;
+    area["name:en"="{area_name}"](area.country)->.searchArea;
     (
       node{tag_filter}(area.searchArea);
       way{tag_filter}(area.searchArea);
@@ -226,6 +232,24 @@ def load_progress() -> dict:
 
 def save_progress(progress: dict) -> None:
     PROGRESS_FILE.write_text(json.dumps(progress, indent=2), encoding="utf-8")
+
+
+def load_existing_ids(path: Path) -> set:
+    ids = set()
+    text = path.read_text(encoding="utf-8")
+    decoder = json.JSONDecoder()
+    idx = 0
+    n = len(text)
+    while idx < n:
+        while idx < n and text[idx] in " \t\r\n":
+            idx += 1
+        if idx >= n:
+            break
+        obj, end = decoder.raw_decode(text, idx)
+        if isinstance(obj, dict) and "id" in obj:
+            ids.add(obj["id"])
+        idx = end
+    return ids
 
 
 def norm_name(name: str) -> str:
@@ -388,14 +412,18 @@ def main() -> None:
         district_dir = RAW_DIR / district
         district_dir.mkdir(parents=True, exist_ok=True)
         out_path = district_dir / output_file
-        with open(out_path, "w", encoding="utf-8") as f:
-            for i, rec in enumerate(records):
-                f.write(json.dumps(rec, indent=4, ensure_ascii=False))
-                if i < len(records) - 1:
-                    f.write("\n")
-                f.write("\n")
-        saved_files.append((district, output_file, len(records)))
-        print(f"Saved {len(records):4d} places -> {out_path}")
+        # Append, not overwrite - this file may already hold records saved
+        # by an earlier run (e.g. a previous TARGET_DISTRICTS pass), and
+        # opening in "w" mode would silently discard them.
+        existing_ids = load_existing_ids(out_path) if out_path.exists() else set()
+        new_records = [r for r in records if r["id"] not in existing_ids]
+        if new_records:
+            with open(out_path, "a", encoding="utf-8") as f:
+                for rec in new_records:
+                    f.write(json.dumps(rec, indent=4, ensure_ascii=False))
+                    f.write("\n\n")
+        saved_files.append((district, output_file, len(new_records)))
+        print(f"Saved {len(new_records):4d} new places (+{len(records) - len(new_records)} already present) -> {out_path}")
 
     print(f"\nTotal: {sum(n for _, _, n in saved_files)} places across {len(saved_files)} district/category files.")
     print("\nBy district:")

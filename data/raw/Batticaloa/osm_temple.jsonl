@@ -1257,3 +1257,37 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+{
+    "id": "pl_c5bf77eb",
+    "name": "Batticaloa Buddhist Rajamaha Viharaya",
+    "description": "Discover the spiritual heart of Batticaloa at the Batticaloa Buddhist Rajamaha Viharaya, a serene temple nestled amidst lush gardens where ancient relics and vibrant rituals intertwine to create a profound experience of Buddhist heritage.",
+    "district_id": "Batticaloa",
+    "province_id": "Eastern",
+    "category_id": "Temple",
+    "lat": 6.8291,
+    "lng": 79.8623,
+    "opening_hours": "8 AM - 5 PM",
+    "mobile_signal": "Good",
+    "road_condition": "Paved",
+    "activities": "Prayer and Meditation, Artisanal Craft Demonstrations, Historical Tours",
+    "tourist_popularity": "Medium",
+    "family_friendly": "yes",
+    "budget_category": "Free",
+    "ticket_price": 0,
+    "parking_avail": "limited – street",
+    "toilets": "no",
+    "food_nearby": "no",
+    "wheelchair_access": "yes",
+    "camping_allowed": "no",
+    "safety_level": "Safe",
+    "wildlife_hazard": "None",
+    "guide_required": "no",
+    "rain_sensitivity": "Dangerous during heavy rain",
+    "monsoon_note": "Avoid May-Sept",
+    "best_time_to_visit": "Dec to April",
+    "Height_m": 0.0,
+    "Length_km": 0.0,
+    "Surfing": "no",
+    "source_file": "Batticaloa\\religious_places.jsonl"
+}
+

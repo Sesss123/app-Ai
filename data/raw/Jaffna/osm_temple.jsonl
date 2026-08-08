@@ -105,3 +105,37 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+{
+    "id": "pl_a78d3cc0",
+    "name": "Jaffna Vijayarama Buddhist Temple (post-war rebuilt)",
+    "description": "Jaffna Vijayarama Buddhist Temple, a post-war reconstruction effort, stands as a testament to resilience and cultural heritage. Built amidst the ruins of war, this temple now serves as a symbol of hope and unity, attracting visitors interested in its historical significance and architectural beauty.",
+    "district_id": "Jaffna",
+    "province_id": "Northern",
+    "category_id": "Temple",
+    "lat": 6.8941,
+    "lng": 79.8623,
+    "opening_hours": "24 Hours",
+    "mobile_signal": "Good",
+    "road_condition": "Paved",
+    "activities": "Explore the temple's architecture, Learn about the temple's history, Reflect on the resilience of the local community",
+    "tourist_popularity": "Medium",
+    "family_friendly": "yes",
+    "budget_category": "Free",
+    "ticket_price": 0,
+    "parking_avail": "limited – street",
+    "toilets": "no",
+    "food_nearby": "no",
+    "wheelchair_access": "yes",
+    "camping_allowed": "no",
+    "safety_level": "Safe",
+    "wildlife_hazard": "None",
+    "guide_required": "no",
+    "rain_sensitivity": "Safe",
+    "monsoon_note": "Low roads/tanks may flood Nov-Dec.",
+    "best_time_to_visit": "Dec to April",
+    "Height_m": 0.0,
+    "Length_km": 0.0,
+    "Surfing": "no",
+    "source_file": "Jaffna\\religious_places.jsonl"
+}
+

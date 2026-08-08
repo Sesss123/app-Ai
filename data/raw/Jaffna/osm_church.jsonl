@@ -3237,3 +3237,37 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
+{
+    "id": "pl_fa49e3bd",
+    "name": "St. John's Church, Jaffna (Anglican)",
+    "description": "St. John's Church, Jaffna (Anglican) stands as a historical gem in the heart of Jaffna, its soaring spires and intricate carvings reflecting the rich Anglican heritage of the region. Built in the early 19th century, the church is a testament to the resilience and faith of the local community.",
+    "district_id": "Jaffna",
+    "province_id": "Northern",
+    "category_id": "Church",
+    "lat": 6.9067,
+    "lng": 79.8453,
+    "opening_hours": "8 AM - 5 PM",
+    "mobile_signal": "Good",
+    "road_condition": "Paved",
+    "activities": "Explore the church's architecture, Learn about Jaffna's history, Take in the scenic views",
+    "tourist_popularity": "Medium",
+    "family_friendly": "yes",
+    "budget_category": "Free",
+    "ticket_price": 0,
+    "parking_avail": "limited – street",
+    "toilets": "no",
+    "food_nearby": "yes",
+    "wheelchair_access": "yes",
+    "camping_allowed": "no",
+    "safety_level": "Safe",
+    "wildlife_hazard": "None",
+    "guide_required": "no",
+    "rain_sensitivity": "Dangerous during heavy rain",
+    "monsoon_note": "Avoid May-Sept",
+    "best_time_to_visit": "Dec to April",
+    "Height_m": 0.0,
+    "Length_km": 0.0,
+    "Surfing": "no",
+    "source_file": "Jaffna\\religious_places.jsonl"
+}
+
