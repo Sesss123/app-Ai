@@ -105,11 +105,28 @@ def main() -> None:
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
     merged: dict[str, dict] = {}
-    paths = sorted(RAW_DIR.glob("*.json")) + sorted(RAW_DIR.glob("*.jsonl"))
+    # rglob (not glob) so files inside district subfolders
+    # (data/raw/{district}/{category}.jsonl, written by
+    # 06_collect_osm_places.py) are picked up alongside the flat top-level
+    # category files.
+    paths = sorted(RAW_DIR.rglob("*.json")) + sorted(RAW_DIR.rglob("*.jsonl"))
     for path in paths:
         items = load_items(path)
+        if not isinstance(items, list):
+            # A non-place JSON file (e.g. a stray checkpoint/config file
+            # that ended up under data/raw/) - skip it rather than crashing
+            # the whole merge on a dict-of-lists or other unexpected shape.
+            print(f"  skipping {path} - not a JSON list of place records")
+            continue
+        # relative_to(RAW_DIR) instead of path.name so files in different
+        # district subfolders sharing a basename (e.g. Kandy/osm_temple.jsonl
+        # and Galle/osm_temple.jsonl) still get distinct source_file values.
+        source_label = str(path.relative_to(RAW_DIR))
         for item in items:
-            record = normalize_record(item, path.name)
+            if not isinstance(item, dict):
+                print(f"  skipping non-dict item in {path}: {item!r}")
+                continue
+            record = normalize_record(item, source_label)
             merged[record["id"]] = record  # last write wins on duplicate id
 
     places = list(merged.values())
