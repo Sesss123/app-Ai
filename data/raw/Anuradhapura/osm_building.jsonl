@@ -105,7 +105,6 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
-
 {
     "id": "pl_osm_9a51da385b",
     "name": "Buddha Statue",
@@ -177,43 +176,6 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
-
-{
-    "id": "pl_osm_2a11e6c47d",
-    "name": "Anuradhapura",
-    "description": "Anuradhapura is a historic landmark in the Anuradhapura area of Sri Lanka. It stands as a marker of the area's local history.",
-    "district_id": "Anuradhapura",
-    "province_id": "North Central",
-    "category_id": "Building",
-    "lat": 8.301591,
-    "lng": 80.429733,
-    "activities": "photography, sightseeing",
-    "_osm_type": "node",
-    "_osm_id": 10734725405,
-    "_source_global_id": "de3d113c-3cf2-4803-a0d4-b2289249198e",
-    "opening_hours": "Check locally",
-    "mobile_signal": "Moderate",
-    "road_condition": "Paved",
-    "tourist_popularity": "Low",
-    "family_friendly": "yes",
-    "budget_category": "Free",
-    "ticket_price": 0,
-    "parking_avail": "unknown",
-    "toilets": "unknown",
-    "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
-    "camping_allowed": "no",
-    "safety_level": "Safe",
-    "wildlife_hazard": "None",
-    "guide_required": "no",
-    "rain_sensitivity": "Caution",
-    "monsoon_note": "Avoid May-Sept",
-    "best_time_to_visit": "Dec to Mar",
-    "Height_m": 0.0,
-    "Length_km": 0.0,
-    "Surfing": "no"
-}
-
 {
     "id": "pl_osm_e5b9a7d3f2",
     "name": "Sarananda Pirivena Buddha statue",
@@ -249,7 +211,6 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
-
 {
     "id": "pl_osm_f535954b6c",
     "name": "Walisingha Harishchandra",
@@ -285,7 +246,6 @@
     "Length_km": 0.0,
     "Surfing": "no"
 }
-
 {
     "id": "pl_osm_1c06ba321f",
     "name": "Ranmasu Uyana - Star Gate",

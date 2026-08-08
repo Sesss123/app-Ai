@@ -99,114 +99,6 @@
     "source_file": "Ampara\\adventure_park.jsonl"
   },
   {
-    "id": "pl_osm_638e4ad6e4",
-    "name": "Public Beach",
-    "description": "Located in Ampara, Public Beach is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
-    "district_id": "Ampara",
-    "province_id": "Eastern",
-    "category_id": "Sandy Beach",
-    "lat": 7.224399,
-    "lng": 81.862062,
-    "activities": "swimming, sunbathing",
-    "_osm_type": "node",
-    "_osm_id": 4008938797,
-    "_source_global_id": "97d304f4-858b-4e88-94bf-fee084b9fd0e",
-    "opening_hours": "Check locally",
-    "mobile_signal": "Moderate",
-    "road_condition": "Paved",
-    "tourist_popularity": "Low",
-    "family_friendly": "yes",
-    "budget_category": "Free",
-    "ticket_price": 0,
-    "parking_avail": "unknown",
-    "toilets": "unknown",
-    "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
-    "camping_allowed": "no",
-    "safety_level": "Safe",
-    "wildlife_hazard": "None",
-    "guide_required": "no",
-    "rain_sensitivity": "Caution",
-    "monsoon_note": "Avoid May-Sept",
-    "best_time_to_visit": "Dec to Mar",
-    "Height_m": 0.0,
-    "Length_km": 0.0,
-    "Surfing": "no",
-    "source_file": "Ampara\\osm_beach.jsonl"
-  },
-  {
-    "id": "pl_osm_0e74d2ea10",
-    "name": "Public Beach",
-    "description": "Public Beach is a beach located in Ampara, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
-    "district_id": "Ampara",
-    "province_id": "Eastern",
-    "category_id": "Sandy Beach",
-    "lat": 7.249731,
-    "lng": 81.864058,
-    "activities": "swimming, sunbathing",
-    "_osm_type": "node",
-    "_osm_id": 4008938798,
-    "_source_global_id": "cdfc0316-57ba-4d65-96b9-9f25a1054211",
-    "opening_hours": "Check locally",
-    "mobile_signal": "Moderate",
-    "road_condition": "Paved",
-    "tourist_popularity": "Low",
-    "family_friendly": "yes",
-    "budget_category": "Free",
-    "ticket_price": 0,
-    "parking_avail": "unknown",
-    "toilets": "unknown",
-    "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
-    "camping_allowed": "no",
-    "safety_level": "Safe",
-    "wildlife_hazard": "None",
-    "guide_required": "no",
-    "rain_sensitivity": "Caution",
-    "monsoon_note": "Avoid May-Sept",
-    "best_time_to_visit": "Dec to Mar",
-    "Height_m": 0.0,
-    "Length_km": 0.0,
-    "Surfing": "no",
-    "source_file": "Ampara\\osm_beach.jsonl"
-  },
-  {
-    "id": "pl_osm_fc99851d62",
-    "name": "Public Beach",
-    "description": "Public Beach is a beach located in Ampara, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
-    "district_id": "Ampara",
-    "province_id": "Eastern",
-    "category_id": "Sandy Beach",
-    "lat": 7.290928,
-    "lng": 81.867395,
-    "activities": "swimming, sunbathing",
-    "_osm_type": "node",
-    "_osm_id": 4008941763,
-    "_source_global_id": "bf993c42-024a-40cc-bc66-604bdcd40b5f",
-    "opening_hours": "Check locally",
-    "mobile_signal": "Moderate",
-    "road_condition": "Paved",
-    "tourist_popularity": "Low",
-    "family_friendly": "yes",
-    "budget_category": "Free",
-    "ticket_price": 0,
-    "parking_avail": "unknown",
-    "toilets": "unknown",
-    "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
-    "camping_allowed": "no",
-    "safety_level": "Safe",
-    "wildlife_hazard": "None",
-    "guide_required": "no",
-    "rain_sensitivity": "Caution",
-    "monsoon_note": "Avoid May-Sept",
-    "best_time_to_visit": "Dec to Mar",
-    "Height_m": 0.0,
-    "Length_km": 0.0,
-    "Surfing": "no",
-    "source_file": "Ampara\\osm_beach.jsonl"
-  },
-  {
     "id": "pl_osm_90c4cf94f7",
     "name": "Panama Beach",
     "description": "Located in Ampara, Panama Beach is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
@@ -255,78 +147,6 @@
     "_osm_type": "way",
     "_osm_id": 176935534,
     "_source_global_id": "5c098ca7-44bc-4451-9822-b710c4b76721",
-    "opening_hours": "Check locally",
-    "mobile_signal": "Moderate",
-    "road_condition": "Paved",
-    "tourist_popularity": "Low",
-    "family_friendly": "yes",
-    "budget_category": "Free",
-    "ticket_price": 0,
-    "parking_avail": "unknown",
-    "toilets": "unknown",
-    "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
-    "camping_allowed": "no",
-    "safety_level": "Safe",
-    "wildlife_hazard": "None",
-    "guide_required": "no",
-    "rain_sensitivity": "Caution",
-    "monsoon_note": "Avoid May-Sept",
-    "best_time_to_visit": "Dec to Mar",
-    "Height_m": 0.0,
-    "Length_km": 0.0,
-    "Surfing": "no",
-    "source_file": "Ampara\\osm_beach.jsonl"
-  },
-  {
-    "id": "pl_osm_55bf694470",
-    "name": "Arugam Bay Beach",
-    "description": "Arugam Bay Beach is a beach located in Ampara, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
-    "district_id": "Ampara",
-    "province_id": "Eastern",
-    "category_id": "Sandy Beach",
-    "lat": 6.845745,
-    "lng": 81.833844,
-    "activities": "swimming, sunbathing",
-    "_osm_type": "way",
-    "_osm_id": 176944112,
-    "_source_global_id": "97b649bc-80c9-42e1-b193-3321fddc6b7b",
-    "opening_hours": "Check locally",
-    "mobile_signal": "Moderate",
-    "road_condition": "Paved",
-    "tourist_popularity": "Low",
-    "family_friendly": "yes",
-    "budget_category": "Free",
-    "ticket_price": 0,
-    "parking_avail": "unknown",
-    "toilets": "unknown",
-    "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
-    "camping_allowed": "no",
-    "safety_level": "Safe",
-    "wildlife_hazard": "None",
-    "guide_required": "no",
-    "rain_sensitivity": "Caution",
-    "monsoon_note": "Avoid May-Sept",
-    "best_time_to_visit": "Dec to Mar",
-    "Height_m": 0.0,
-    "Length_km": 0.0,
-    "Surfing": "no",
-    "source_file": "Ampara\\osm_beach.jsonl"
-  },
-  {
-    "id": "pl_osm_a9d5af4d6a",
-    "name": "Public Beach",
-    "description": "Public Beach is a beach located in Ampara, Sri Lanka. It's a good spot for swimming, relaxing, and watching the sunset.",
-    "district_id": "Ampara",
-    "province_id": "Eastern",
-    "category_id": "Sandy Beach",
-    "lat": 6.837734,
-    "lng": 81.838043,
-    "activities": "swimming, sunbathing",
-    "_osm_type": "way",
-    "_osm_id": 397239336,
-    "_source_global_id": "4f377d08-541d-4089-bc2e-16dd9fbe3e96",
     "opening_hours": "Check locally",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
@@ -435,42 +255,6 @@
     "_osm_type": "way",
     "_osm_id": 1229240586,
     "_source_global_id": "c2e7034a-3009-4311-9957-f18e1000ac90",
-    "opening_hours": "Check locally",
-    "mobile_signal": "Moderate",
-    "road_condition": "Paved",
-    "tourist_popularity": "Low",
-    "family_friendly": "yes",
-    "budget_category": "Free",
-    "ticket_price": 0,
-    "parking_avail": "unknown",
-    "toilets": "unknown",
-    "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
-    "camping_allowed": "no",
-    "safety_level": "Safe",
-    "wildlife_hazard": "None",
-    "guide_required": "no",
-    "rain_sensitivity": "Caution",
-    "monsoon_note": "Avoid May-Sept",
-    "best_time_to_visit": "Dec to Mar",
-    "Height_m": 0.0,
-    "Length_km": 0.0,
-    "Surfing": "no",
-    "source_file": "Ampara\\osm_beach.jsonl"
-  },
-  {
-    "id": "pl_osm_d9ee5fd94e",
-    "name": "coastal area",
-    "description": "Located in Ampara, coastal area is a beach worth visiting. It's a good spot for swimming, relaxing, and watching the sunset.",
-    "district_id": "Ampara",
-    "province_id": "Eastern",
-    "category_id": "Sandy Beach",
-    "lat": 7.380556,
-    "lng": 81.848786,
-    "activities": "swimming, sunbathing",
-    "_osm_type": "way",
-    "_osm_id": 1229244062,
-    "_source_global_id": "6d2e8b89-350c-409c-9b8d-aa307137d182",
     "opening_hours": "Check locally",
     "mobile_signal": "Moderate",
     "road_condition": "Paved",
@@ -3675,7 +3459,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_church.jsonl"
   },
   {
     "id": "pl_3f2c52ff",
@@ -3708,7 +3492,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_church.jsonl"
   },
   {
     "id": "pl_b9905f96",
@@ -3741,7 +3525,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_church.jsonl"
   },
   {
     "id": "pl_osm_4358fc2665",
@@ -5826,7 +5610,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_334265e8",
@@ -5859,7 +5643,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_73d3187b",
@@ -5892,7 +5676,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_97d2a1ee",
@@ -5925,7 +5709,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_438617de",
@@ -5958,7 +5742,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_3171eee3",
@@ -5991,7 +5775,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_5e781229",
@@ -6024,7 +5808,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_12cd9ce0",
@@ -6057,7 +5841,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_064c4de0",
@@ -6090,7 +5874,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_02cac8c3",
@@ -6123,7 +5907,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_bae920ac",
@@ -6156,7 +5940,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_c6147e7a",
@@ -6189,7 +5973,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_7ddc5f61",
@@ -6222,7 +6006,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_5ab0d11a",
@@ -6255,7 +6039,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_d829a176",
@@ -6288,7 +6072,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_346191aa",
@@ -6321,7 +6105,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_ba66aeb8",
@@ -6354,7 +6138,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_07a250d6",
@@ -6387,7 +6171,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_cd645969",
@@ -6420,7 +6204,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_a250f996c5",
@@ -10809,7 +10593,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_b5b2a8fc",
@@ -10842,7 +10626,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_c4ad930d",
@@ -10875,7 +10659,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_5d680d5b",
@@ -10908,7 +10692,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_34fc9c22f7",
@@ -13677,7 +13461,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_temple.jsonl"
   },
   {
     "id": "pl_247fbf00",
@@ -13710,7 +13494,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_temple.jsonl"
   },
   {
     "id": "pl_3cdb7366",
@@ -13743,7 +13527,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_temple.jsonl"
   },
   {
     "id": "pl_8a7bfbe5",
@@ -13776,7 +13560,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_temple.jsonl"
   },
   {
     "id": "pl_28a1d66d",
@@ -13809,7 +13593,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_temple.jsonl"
   },
   {
     "id": "pl_a87fbc18",
@@ -13842,7 +13626,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\religious_places.jsonl"
+    "source_file": "Ampara\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_dcc30c0e21",
@@ -14538,7 +14322,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_9c771027",
@@ -14571,7 +14355,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_03602926",
@@ -14604,7 +14388,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_8c173fc4",
@@ -14637,7 +14421,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_ca2be2cf",
@@ -14670,7 +14454,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_ec23c313",
@@ -14703,7 +14487,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_1c88b5bd",
@@ -14736,7 +14520,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_a55d2351",
@@ -14769,7 +14553,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_3835cdc0",
@@ -14802,7 +14586,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_e991bfff",
@@ -14835,7 +14619,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ampara\\viewpoint.jsonl"
+    "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
     "id": "pl_299bc00f",
@@ -21294,7 +21078,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_church.jsonl"
   },
   {
     "id": "pl_dd6a13cf",
@@ -21327,7 +21111,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_church.jsonl"
   },
   {
     "id": "pl_91e75ed6",
@@ -21360,7 +21144,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_kovil.jsonl"
   },
   {
     "id": "pl_359f3aa4",
@@ -21393,7 +21177,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_kovil.jsonl"
   },
   {
     "id": "pl_f8c574f5",
@@ -21426,7 +21210,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_e6bcb93ea6",
@@ -21711,7 +21495,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_mosque.jsonl"
   },
   {
     "id": "pl_ccf0ee92",
@@ -21744,7 +21528,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_mosque.jsonl"
   },
   {
     "id": "pl_b72ae792",
@@ -21777,7 +21561,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_4578e90992",
@@ -22029,7 +21813,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\tea_estate.jsonl"
+    "source_file": "Anuradhapura\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_9f11081509",
@@ -25194,7 +24978,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_93f9d429",
@@ -25227,7 +25011,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_54703dd3",
@@ -25260,7 +25044,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_557a8a6f",
@@ -25293,7 +25077,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_3e1af116",
@@ -25326,7 +25110,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_41ff790a",
@@ -25359,7 +25143,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_8dd78b5d",
@@ -25392,7 +25176,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_aa1f4c8e",
@@ -25425,7 +25209,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_be8470d6",
@@ -25458,7 +25242,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_ad19d798",
@@ -25491,7 +25275,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_4214d289",
@@ -25524,7 +25308,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_fbd129b0",
@@ -25557,7 +25341,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_442ea635",
@@ -25590,7 +25374,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_ef23688c",
@@ -25623,7 +25407,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_0e1f4bf3",
@@ -25656,7 +25440,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_fa79b0dc",
@@ -25689,7 +25473,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\religious_places.jsonl"
+    "source_file": "Anuradhapura\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_89ea22b863",
@@ -26439,7 +26223,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_680ef169",
@@ -26472,7 +26256,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_df942de9",
@@ -26505,7 +26289,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_cab6dafd",
@@ -26538,7 +26322,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_c9c12dba",
@@ -26571,7 +26355,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_23c39ce9",
@@ -26604,7 +26388,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_5d74557e",
@@ -26637,7 +26421,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_252faa9e",
@@ -26670,7 +26454,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_a2b632a8",
@@ -26703,7 +26487,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_fc854aad",
@@ -26736,7 +26520,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_f831e2fc",
@@ -26769,7 +26553,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_a9e4ffd9",
@@ -26802,7 +26586,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Anuradhapura\\viewpoint.jsonl"
+    "source_file": "Anuradhapura\\tea_estate.jsonl"
   },
   {
     "id": "pl_62b7c8d5",
@@ -27399,7 +27183,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\osm_adventure_park.jsonl"
+    "source_file": "Badulla\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_3b7be38246",
@@ -27435,7 +27219,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\osm_adventure_park.jsonl"
+    "source_file": "Badulla\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_0b563d50d7",
@@ -33676,7 +33460,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_church.jsonl"
   },
   {
     "id": "pl_3c78fe79",
@@ -33709,7 +33493,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_church.jsonl"
   },
   {
     "id": "pl_9e58719b",
@@ -33742,7 +33526,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_church.jsonl"
   },
   {
     "id": "pl_9023e9e2",
@@ -33775,7 +33559,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_church.jsonl"
   },
   {
     "id": "pl_2661854c",
@@ -33808,7 +33592,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_church.jsonl"
   },
   {
     "id": "pl_osm_849aa31be2",
@@ -34561,7 +34345,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_kovil.jsonl"
   },
   {
     "id": "pl_ff7dc808",
@@ -34594,7 +34378,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_kovil.jsonl"
   },
   {
     "id": "pl_167ddf4d",
@@ -34627,7 +34411,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_kovil.jsonl"
   },
   {
     "id": "pl_68ebf88f",
@@ -34660,7 +34444,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_kovil.jsonl"
   },
   {
     "id": "pl_b460d74b",
@@ -34693,7 +34477,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_87fef7d0a7",
@@ -35050,7 +34834,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_mosque.jsonl"
   },
   {
     "id": "pl_525b629e",
@@ -35083,7 +34867,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_mosque.jsonl"
   },
   {
     "id": "pl_15719fdf",
@@ -35116,7 +34900,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_mosque.jsonl"
   },
   {
     "id": "pl_b26c14d4",
@@ -35149,7 +34933,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_6ccb6fde24",
@@ -35257,7 +35041,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\tea_estate.jsonl"
+    "source_file": "Badulla\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_ed47f69f96",
@@ -36817,7 +36601,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\tea_estate.jsonl"
+    "source_file": "Badulla\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_13c6efa5e3",
@@ -36853,7 +36637,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\tea_estate.jsonl"
+    "source_file": "Badulla\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_b3133398d2",
@@ -36889,7 +36673,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\tea_estate.jsonl"
+    "source_file": "Badulla\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_f8dec868a1",
@@ -36925,7 +36709,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\tea_estate.jsonl"
+    "source_file": "Badulla\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_10901217f9",
@@ -36961,7 +36745,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\tea_estate.jsonl"
+    "source_file": "Badulla\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_31470f62ec",
@@ -37174,7 +36958,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_97bbad3f",
@@ -37207,7 +36991,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_38a48513",
@@ -37240,7 +37024,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_e7c5173a",
@@ -37273,7 +37057,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_1ad42d42",
@@ -37306,7 +37090,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_8a335cd9",
@@ -37339,7 +37123,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_40c939de",
@@ -37372,7 +37156,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_c5698148",
@@ -37405,7 +37189,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_c11a1db4",
@@ -37438,7 +37222,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_90597be4",
@@ -37471,7 +37255,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_04069460",
@@ -37504,7 +37288,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_14d0407a",
@@ -37537,7 +37321,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_35fb10b4",
@@ -37570,7 +37354,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_f468742a",
@@ -37603,7 +37387,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_3b1aa046",
@@ -37636,7 +37420,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_9506c8f3",
@@ -37669,7 +37453,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_4b2979ce",
@@ -37702,7 +37486,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_8f4b92e1",
@@ -37735,7 +37519,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_3fa2bd51",
@@ -37768,7 +37552,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_849790fcc8",
@@ -40697,7 +40481,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_442d8728",
@@ -40730,7 +40514,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_c8db33e3",
@@ -40763,7 +40547,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_6b10559d",
@@ -40796,7 +40580,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_1da2ea0d",
@@ -40829,7 +40613,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_d557f227",
@@ -40862,7 +40646,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_cc471e19",
@@ -40895,7 +40679,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_3f550457",
@@ -40928,7 +40712,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_f54144a8",
@@ -40961,7 +40745,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_a5b9d7ca",
@@ -40994,7 +40778,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_73ba043d",
@@ -41027,7 +40811,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_8260fbbb",
@@ -41060,7 +40844,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_dd57bc77",
@@ -41093,7 +40877,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_95ce02e3",
@@ -41126,7 +40910,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_c4f6dedf",
@@ -41159,7 +40943,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_420a17ff",
@@ -41192,7 +40976,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_7fa64449",
@@ -41225,7 +41009,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_87ad0975",
@@ -41258,7 +41042,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\viewpoint.jsonl"
+    "source_file": "Badulla\\tea_estate.jsonl"
   },
   {
     "id": "pl_d1083d35",
@@ -42317,7 +42101,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\osm_beach.jsonl"
+    "source_file": "Batticaloa\\beach.jsonl"
   },
   {
     "id": "pl_osm_7803add2ea",
@@ -42353,7 +42137,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\osm_beach.jsonl"
+    "source_file": "Batticaloa\\beach.jsonl"
   },
   {
     "id": "pl_osm_ec1ec96e05",
@@ -42389,7 +42173,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\osm_beach.jsonl"
+    "source_file": "Batticaloa\\beach.jsonl"
   },
   {
     "id": "pl_osm_c149c640cd",
@@ -42425,7 +42209,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\osm_beach.jsonl"
+    "source_file": "Batticaloa\\beach.jsonl"
   },
   {
     "id": "pl_osm_e023042d3f",
@@ -46634,7 +46418,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_church.jsonl"
   },
   {
     "id": "pl_35499b9c",
@@ -46667,7 +46451,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_church.jsonl"
   },
   {
     "id": "pl_osm_947d037b9b",
@@ -51992,7 +51776,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_dcd74b3c",
@@ -52025,7 +51809,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_4d5e9480",
@@ -52058,7 +51842,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_f3b57b18",
@@ -52091,7 +51875,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_36d23edf",
@@ -52124,7 +51908,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_b9f997ad",
@@ -52157,7 +51941,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_2d871fa6",
@@ -52190,7 +51974,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_0a59ca00",
@@ -52223,7 +52007,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_d89ccff5",
@@ -52256,7 +52040,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_b8caed80",
@@ -52289,7 +52073,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_2c65fe0c",
@@ -52322,7 +52106,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_efa01ef7",
@@ -52355,7 +52139,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_93088b57",
@@ -52388,7 +52172,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_858f3172",
@@ -52421,7 +52205,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_6682f4e0",
@@ -52454,7 +52238,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_961a9814",
@@ -52487,7 +52271,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_78d99b2c",
@@ -52520,7 +52304,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_83815404",
@@ -52553,7 +52337,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_d779bd8e",
@@ -52586,7 +52370,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_0187b054",
@@ -52619,7 +52403,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_8786137e",
@@ -52652,7 +52436,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_04cafb14",
@@ -52685,7 +52469,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_b73f604a",
@@ -52718,7 +52502,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_19d750cc",
@@ -52751,7 +52535,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_e8c20f3b",
@@ -52784,7 +52568,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_kovil.jsonl"
   },
   {
     "id": "pl_d73ac2d6",
@@ -52817,7 +52601,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_mosque.jsonl"
   },
   {
     "id": "pl_c7ee9289",
@@ -52850,7 +52634,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_mosque.jsonl"
   },
   {
     "id": "pl_6c261598",
@@ -52883,7 +52667,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_mosque.jsonl"
   },
   {
     "id": "pl_539c00dc",
@@ -52916,7 +52700,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_69e1fb18c7",
@@ -54389,7 +54173,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\religious_places.jsonl"
+    "source_file": "Batticaloa\\osm_temple.jsonl"
   },
   {
     "id": "pl_653458e2",
@@ -54521,7 +54305,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_ff6b24b8",
@@ -54554,7 +54338,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_31f0e7b2",
@@ -54587,7 +54371,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_e21ea082",
@@ -54620,7 +54404,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_43f637ce",
@@ -54653,7 +54437,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_f3576be9",
@@ -54686,7 +54470,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_985f840d",
@@ -54719,7 +54503,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_56f22e7c",
@@ -54752,7 +54536,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_29be33e7",
@@ -54785,7 +54569,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_33602dcf",
@@ -54818,7 +54602,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Batticaloa\\viewpoint.jsonl"
+    "source_file": "Batticaloa\\tea_estate.jsonl"
   },
   {
     "id": "pl_46ef5f78",
@@ -55283,7 +55067,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_adventure_park.jsonl"
+    "source_file": "Colombo\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_605bbbef66",
@@ -55319,7 +55103,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_adventure_park.jsonl"
+    "source_file": "Colombo\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_28eb68eac8",
@@ -55355,7 +55139,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_adventure_park.jsonl"
+    "source_file": "Colombo\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_83468bfc59",
@@ -55391,7 +55175,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_beach.jsonl"
+    "source_file": "Colombo\\beach.jsonl"
   },
   {
     "id": "pl_osm_52016ef7c9",
@@ -55427,7 +55211,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_beach.jsonl"
+    "source_file": "Colombo\\beach.jsonl"
   },
   {
     "id": "pl_osm_f69c9e998c",
@@ -55463,7 +55247,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_beach.jsonl"
+    "source_file": "Colombo\\beach.jsonl"
   },
   {
     "id": "pl_8d8218a7",
@@ -55496,7 +55280,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_beach.jsonl"
+    "source_file": "Colombo\\beach.jsonl"
   },
   {
     "id": "pl_osm_ad9bdd6b72",
@@ -66329,7 +66113,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_church.jsonl"
   },
   {
     "id": "pl_f8c3df1e",
@@ -66362,7 +66146,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_church.jsonl"
   },
   {
     "id": "pl_0b9d6c2f",
@@ -66395,7 +66179,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_church.jsonl"
   },
   {
     "id": "pl_9ce17c4d",
@@ -66428,7 +66212,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_church.jsonl"
   },
   {
     "id": "pl_a41aa506",
@@ -66461,7 +66245,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_church.jsonl"
   },
   {
     "id": "pl_85b3daeb",
@@ -66494,7 +66278,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_church.jsonl"
   },
   {
     "id": "pl_10118e97",
@@ -67637,7 +67421,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_7901daa2",
@@ -67670,7 +67454,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_e8e9d4d2",
@@ -67703,7 +67487,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_8f3dec23",
@@ -67736,7 +67520,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_e6a6389a",
@@ -67769,7 +67553,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_a840821e",
@@ -67802,7 +67586,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_05c8dc55",
@@ -67835,7 +67619,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_9e257dab",
@@ -67868,7 +67652,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_de028a3e",
@@ -67901,7 +67685,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_d91bb5f7",
@@ -67934,7 +67718,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_e479807a",
@@ -67967,7 +67751,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_8eb1d347",
@@ -68000,7 +67784,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_668d46e4",
@@ -68033,7 +67817,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_2ec3ec5d",
@@ -68066,7 +67850,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_fa2d9a91",
@@ -68099,7 +67883,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_kovil.jsonl"
   },
   {
     "id": "pl_d59b4c8e",
@@ -69750,7 +69534,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_mosque.jsonl"
   },
   {
     "id": "pl_a7067c54",
@@ -69783,7 +69567,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_mosque.jsonl"
   },
   {
     "id": "pl_49e770ad",
@@ -69816,7 +69600,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_mosque.jsonl"
   },
   {
     "id": "pl_02ee7905",
@@ -69849,7 +69633,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_mosque.jsonl"
   },
   {
     "id": "pl_b9fbf64f",
@@ -69882,7 +69666,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_a6ccca8315",
@@ -70420,7 +70204,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\tea_estate.jsonl"
+    "source_file": "Colombo\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_033588a49c",
@@ -70456,7 +70240,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\tea_estate.jsonl"
+    "source_file": "Colombo\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_c2d06e76b8",
@@ -70492,7 +70276,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\tea_estate.jsonl"
+    "source_file": "Colombo\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_b8be2606c8",
@@ -72023,7 +71807,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_temple.jsonl"
   },
   {
     "id": "pl_9bea7441",
@@ -72056,7 +71840,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_temple.jsonl"
   },
   {
     "id": "pl_5495b4a6",
@@ -72089,7 +71873,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_temple.jsonl"
   },
   {
     "id": "pl_63af8ce0",
@@ -72122,7 +71906,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_temple.jsonl"
   },
   {
     "id": "pl_05b10b2f",
@@ -72155,7 +71939,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_temple.jsonl"
   },
   {
     "id": "pl_014e257b",
@@ -72188,7 +71972,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\osm_temple.jsonl"
   },
   {
     "id": "pl_50c82594",
@@ -73923,7 +73707,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\viewpoint.jsonl"
+    "source_file": "Colombo\\tea_estate.jsonl"
   },
   {
     "id": "pl_1b94c312",
@@ -73956,7 +73740,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\viewpoint.jsonl"
+    "source_file": "Colombo\\tea_estate.jsonl"
   },
   {
     "id": "pl_6aaeaf40",
@@ -73989,7 +73773,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\viewpoint.jsonl"
+    "source_file": "Colombo\\tea_estate.jsonl"
   },
   {
     "id": "pl_49d82a27",
@@ -74022,7 +73806,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\viewpoint.jsonl"
+    "source_file": "Colombo\\tea_estate.jsonl"
   },
   {
     "id": "pl_7df50a5f",
@@ -74055,7 +73839,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\viewpoint.jsonl"
+    "source_file": "Colombo\\tea_estate.jsonl"
   },
   {
     "id": "pl_60bd15de",
@@ -74088,7 +73872,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\viewpoint.jsonl"
+    "source_file": "Colombo\\tea_estate.jsonl"
   },
   {
     "id": "pl_f12a428a",
@@ -74652,7 +74436,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_adventure_park.jsonl"
+    "source_file": "Galle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_9c67abada9",
@@ -74688,7 +74472,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_adventure_park.jsonl"
+    "source_file": "Galle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_7d4a71e070",
@@ -74724,7 +74508,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_adventure_park.jsonl"
+    "source_file": "Galle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_32cb407a4c",
@@ -74760,7 +74544,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_adventure_park.jsonl"
+    "source_file": "Galle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_520527f18a",
@@ -74796,7 +74580,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_adventure_park.jsonl"
+    "source_file": "Galle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_7a9f5ede63",
@@ -74832,7 +74616,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_adventure_park.jsonl"
+    "source_file": "Galle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_e4aef26d73",
@@ -74868,7 +74652,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_adventure_park.jsonl"
+    "source_file": "Galle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_363befd357",
@@ -74904,7 +74688,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_adventure_park.jsonl"
+    "source_file": "Galle\\adventure_park.jsonl"
   },
   {
     "id": "pl_a647670c",
@@ -75402,7 +75186,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\osm_beach.jsonl"
+    "source_file": "Galle\\beach.jsonl"
   },
   {
     "id": "pl_osm_8992f841ef",
@@ -81663,7 +81447,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_church.jsonl"
   },
   {
     "id": "pl_048075ec",
@@ -81696,7 +81480,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_church.jsonl"
   },
   {
     "id": "pl_45df35cb",
@@ -81729,7 +81513,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_church.jsonl"
   },
   {
     "id": "pl_ae30f280",
@@ -81762,7 +81546,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_church.jsonl"
   },
   {
     "id": "pl_230bbba6",
@@ -81795,7 +81579,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_church.jsonl"
   },
   {
     "id": "pl_osm_48af840fb1",
@@ -81972,7 +81756,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_4497dacd",
@@ -82005,7 +81789,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_ef282445",
@@ -82038,7 +81822,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_7fc7ab92",
@@ -82071,7 +81855,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_a6f8c365",
@@ -82104,7 +81888,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_32cddd82",
@@ -82137,7 +81921,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_10f30ce66f",
@@ -82674,7 +82458,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_5c283948",
@@ -82707,7 +82491,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_2c87e777",
@@ -82740,7 +82524,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_8e290f82",
@@ -82773,7 +82557,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_a0ff78b399",
@@ -83241,7 +83025,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\tea_estate.jsonl"
+    "source_file": "Galle\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_5434aa4d60",
@@ -87714,7 +87498,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_e6345347",
@@ -87747,7 +87531,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_b97cef07",
@@ -87780,7 +87564,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_13acd57f",
@@ -87813,7 +87597,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_4fc3b14c",
@@ -87846,7 +87630,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_4963ae68",
@@ -87879,7 +87663,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_c36eb526",
@@ -87912,7 +87696,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_08ffc7a9",
@@ -87945,7 +87729,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_6980c267",
@@ -87978,7 +87762,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_5d3143bc",
@@ -88011,7 +87795,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_9b48fe33",
@@ -88044,7 +87828,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_d12e962b",
@@ -88077,7 +87861,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_db3487cb",
@@ -88110,7 +87894,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_fc3e6a7b",
@@ -88143,7 +87927,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_6799f6d6",
@@ -88176,7 +87960,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_939c96c0",
@@ -88209,7 +87993,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_ce31d009",
@@ -88242,7 +88026,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\religious_places.jsonl"
+    "source_file": "Galle\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_e8d7b6b232",
@@ -88868,7 +88652,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_d8c6436b",
@@ -88901,7 +88685,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_c254b1ff",
@@ -88934,7 +88718,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_7a958540",
@@ -88967,7 +88751,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_2e74cdb3",
@@ -89000,7 +88784,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_b3e9730f",
@@ -89033,7 +88817,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_a0aaa21c",
@@ -89066,7 +88850,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_e94ed2ff",
@@ -89099,7 +88883,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_83f0fc7e",
@@ -89132,7 +88916,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_9a633123",
@@ -89165,7 +88949,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Galle\\viewpoint.jsonl"
+    "source_file": "Galle\\tea_estate.jsonl"
   },
   {
     "id": "pl_6309f8a7",
@@ -89993,7 +89777,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\osm_adventure_park.jsonl"
+    "source_file": "Gampaha\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_d140fcfcba",
@@ -90029,7 +89813,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\osm_adventure_park.jsonl"
+    "source_file": "Gampaha\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_de8b6b16fb",
@@ -90065,7 +89849,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\osm_adventure_park.jsonl"
+    "source_file": "Gampaha\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_d0bad1224e",
@@ -90101,7 +89885,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\osm_adventure_park.jsonl"
+    "source_file": "Gampaha\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_7cd458de4f",
@@ -100646,7 +100430,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_church.jsonl"
   },
   {
     "id": "pl_dee6704e",
@@ -100679,7 +100463,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_church.jsonl"
   },
   {
     "id": "pl_58830084",
@@ -100712,7 +100496,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_church.jsonl"
   },
   {
     "id": "pl_da9d05a5",
@@ -100745,7 +100529,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_church.jsonl"
   },
   {
     "id": "pl_0fb64c9f",
@@ -100778,7 +100562,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_church.jsonl"
   },
   {
     "id": "pl_bc1895fd",
@@ -101341,7 +101125,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_kovil.jsonl"
   },
   {
     "id": "pl_c70bc040",
@@ -101374,7 +101158,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_kovil.jsonl"
   },
   {
     "id": "pl_1869f863",
@@ -101407,7 +101191,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_kovil.jsonl"
   },
   {
     "id": "pl_b6a11ea2",
@@ -101440,7 +101224,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_kovil.jsonl"
   },
   {
     "id": "pl_271d1f9e",
@@ -101473,7 +101257,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_1c237076d8",
@@ -102118,7 +101902,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_mosque.jsonl"
   },
   {
     "id": "pl_f086cb39",
@@ -102151,7 +101935,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_mosque.jsonl"
   },
   {
     "id": "pl_5cc5b005",
@@ -102184,7 +101968,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_ae0d1fbf55",
@@ -102969,7 +102753,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_07cae828",
@@ -103002,7 +102786,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_32cbf1b4",
@@ -103035,7 +102819,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_b07214c8",
@@ -103068,7 +102852,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_a73b8a4c",
@@ -103101,7 +102885,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_b8344cd4",
@@ -103134,7 +102918,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_d3fda7ab",
@@ -103167,7 +102951,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_f349b1b6",
@@ -103200,7 +102984,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_c6e418e7",
@@ -103233,7 +103017,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_dfc1bd2f",
@@ -103266,7 +103050,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_3d0f586d",
@@ -103299,7 +103083,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_de336006",
@@ -103332,7 +103116,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_95053ce4",
@@ -103365,7 +103149,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_271cc6be",
@@ -103398,7 +103182,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_8f026f82",
@@ -103431,7 +103215,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_df025089",
@@ -103464,7 +103248,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_c8bf05bb",
@@ -103497,7 +103281,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\osm_temple.jsonl"
   },
   {
     "id": "pl_a40adb00",
@@ -104816,7 +104600,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\viewpoint.jsonl"
+    "source_file": "Gampaha\\tea_estate.jsonl"
   },
   {
     "id": "pl_175e81b2",
@@ -104849,7 +104633,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\viewpoint.jsonl"
+    "source_file": "Gampaha\\tea_estate.jsonl"
   },
   {
     "id": "pl_57417265",
@@ -104882,7 +104666,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\viewpoint.jsonl"
+    "source_file": "Gampaha\\tea_estate.jsonl"
   },
   {
     "id": "pl_7c62e4af",
@@ -104915,7 +104699,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\viewpoint.jsonl"
+    "source_file": "Gampaha\\tea_estate.jsonl"
   },
   {
     "id": "pl_dc23907a",
@@ -104948,7 +104732,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\viewpoint.jsonl"
+    "source_file": "Gampaha\\tea_estate.jsonl"
   },
   {
     "id": "pl_d366c769",
@@ -104981,7 +104765,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Gampaha\\viewpoint.jsonl"
+    "source_file": "Gampaha\\tea_estate.jsonl"
   },
   {
     "id": "pl_6ec08ae1",
@@ -111665,7 +111449,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\religious_places.jsonl"
+    "source_file": "Hambanthota\\osm_kovil.jsonl"
   },
   {
     "id": "pl_149431ab",
@@ -111698,7 +111482,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\religious_places.jsonl"
+    "source_file": "Hambanthota\\osm_kovil.jsonl"
   },
   {
     "id": "pl_19a9e1e1",
@@ -111731,7 +111515,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\religious_places.jsonl"
+    "source_file": "Hambanthota\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_5fc92f46a9",
@@ -114098,7 +113882,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\viewpoint.jsonl"
+    "source_file": "Hambanthota\\tea_estate.jsonl"
   },
   {
     "id": "pl_67d5c98f",
@@ -114131,7 +113915,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\viewpoint.jsonl"
+    "source_file": "Hambanthota\\tea_estate.jsonl"
   },
   {
     "id": "pl_3979fd31",
@@ -114164,7 +113948,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\viewpoint.jsonl"
+    "source_file": "Hambanthota\\tea_estate.jsonl"
   },
   {
     "id": "pl_2586af38",
@@ -114197,7 +113981,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\viewpoint.jsonl"
+    "source_file": "Hambanthota\\tea_estate.jsonl"
   },
   {
     "id": "pl_af6fd420",
@@ -114230,7 +114014,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\viewpoint.jsonl"
+    "source_file": "Hambanthota\\tea_estate.jsonl"
   },
   {
     "id": "pl_14ae5e83",
@@ -114263,7 +114047,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Hambanthota\\viewpoint.jsonl"
+    "source_file": "Hambanthota\\tea_estate.jsonl"
   },
   {
     "id": "pl_35422de9",
@@ -114893,7 +114677,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\osm_adventure_park.jsonl"
+    "source_file": "Jaffna\\adventure_park.jsonl"
   },
   {
     "id": "pl_cb45f3ea",
@@ -115325,7 +115109,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\osm_beach.jsonl"
+    "source_file": "Jaffna\\beach.jsonl"
   },
   {
     "id": "pl_osm_e389e3100f",
@@ -115361,7 +115145,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\osm_beach.jsonl"
+    "source_file": "Jaffna\\beach.jsonl"
   },
   {
     "id": "pl_osm_da8aa470f2",
@@ -115397,7 +115181,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\osm_beach.jsonl"
+    "source_file": "Jaffna\\beach.jsonl"
   },
   {
     "id": "pl_osm_0e74c30bbb",
@@ -120472,7 +120256,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
     "id": "pl_osm_6f6c831281",
@@ -125257,7 +125041,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_94a3844a",
@@ -125290,7 +125074,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_45b5b8a4",
@@ -125323,7 +125107,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_4f7f39c9",
@@ -125356,7 +125140,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_7e5b358c",
@@ -125389,7 +125173,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_872ebc4e",
@@ -125422,7 +125206,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_d83cebf7",
@@ -125455,7 +125239,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_6fee2028",
@@ -125488,7 +125272,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_a7845354",
@@ -125521,7 +125305,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_0e63117a",
@@ -125554,7 +125338,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_2f0a9dc5",
@@ -125587,7 +125371,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_8a34e7dd",
@@ -125620,7 +125404,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_61045629",
@@ -125653,7 +125437,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_ef02d25f",
@@ -125686,7 +125470,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_7999c055",
@@ -125719,7 +125503,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_5fc8ecc6",
@@ -125752,7 +125536,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_31dfb937",
@@ -125785,7 +125569,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_f7e6f74c",
@@ -125818,7 +125602,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_040a66c9",
@@ -125851,7 +125635,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_089fd1a2",
@@ -125884,7 +125668,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_971cbb19",
@@ -125917,7 +125701,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_977b5c4a",
@@ -125950,7 +125734,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_8f2a11c3",
@@ -125983,7 +125767,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_ecfdba84",
@@ -126016,7 +125800,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_78e3c515",
@@ -126049,7 +125833,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_c8f4f5e6",
@@ -126082,7 +125866,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_cff0362c",
@@ -126115,7 +125899,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_5aec6807",
@@ -126148,7 +125932,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_a125ab5d",
@@ -126181,7 +125965,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
     "id": "pl_c2a25a97",
@@ -126214,7 +125998,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_mosque.jsonl"
   },
   {
     "id": "pl_b0e87795",
@@ -126247,7 +126031,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_d4c36fdfdb",
@@ -127324,7 +127108,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_c42a2c640d",
@@ -128046,7 +127830,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\viewpoint.jsonl"
+    "source_file": "Jaffna\\tea_estate.jsonl"
   },
   {
     "id": "pl_a995e322",
@@ -128079,7 +127863,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\viewpoint.jsonl"
+    "source_file": "Jaffna\\tea_estate.jsonl"
   },
   {
     "id": "pl_63cce290",
@@ -128112,7 +127896,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\viewpoint.jsonl"
+    "source_file": "Jaffna\\tea_estate.jsonl"
   },
   {
     "id": "pl_179d944e",
@@ -128145,7 +127929,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\viewpoint.jsonl"
+    "source_file": "Jaffna\\tea_estate.jsonl"
   },
   {
     "id": "pl_50f48f8b",
@@ -128178,7 +127962,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\viewpoint.jsonl"
+    "source_file": "Jaffna\\tea_estate.jsonl"
   },
   {
     "id": "pl_54a50d46",
@@ -128211,7 +127995,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\viewpoint.jsonl"
+    "source_file": "Jaffna\\tea_estate.jsonl"
   },
   {
     "id": "pl_d8911f6f",
@@ -128742,7 +128526,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\osm_adventure_park.jsonl"
+    "source_file": "Kalutara\\adventure_park.jsonl"
   },
   {
     "id": "pl_d14dde87",
@@ -129009,7 +128793,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\osm_beach.jsonl"
+    "source_file": "Kalutara\\beach.jsonl"
   },
   {
     "id": "pl_osm_9478eee914",
@@ -129045,7 +128829,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\osm_beach.jsonl"
+    "source_file": "Kalutara\\beach.jsonl"
   },
   {
     "id": "pl_osm_ef2c03d17d",
@@ -129081,7 +128865,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\osm_beach.jsonl"
+    "source_file": "Kalutara\\beach.jsonl"
   },
   {
     "id": "pl_osm_2a92d5aff2",
@@ -137208,7 +136992,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_church.jsonl"
   },
   {
     "id": "pl_f49aa3e5",
@@ -137241,7 +137025,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_church.jsonl"
   },
   {
     "id": "pl_c4665473",
@@ -137274,7 +137058,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_church.jsonl"
   },
   {
     "id": "pl_36606a29",
@@ -137307,7 +137091,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_church.jsonl"
   },
   {
     "id": "pl_7f12f95d",
@@ -137340,7 +137124,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_church.jsonl"
   },
   {
     "id": "pl_95c74481",
@@ -137373,7 +137157,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_church.jsonl"
   },
   {
     "id": "pl_7d6af080",
@@ -137958,7 +137742,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_73a71956",
@@ -137991,7 +137775,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_fe4c328d",
@@ -138562,7 +138346,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_029b67b3",
@@ -138595,7 +138379,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_6cbe10ea",
@@ -138628,7 +138412,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_e1aad08f",
@@ -138661,7 +138445,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_cbd04c65",
@@ -138694,7 +138478,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_34f0b1e1",
@@ -138727,7 +138511,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_94df1c28",
@@ -138760,7 +138544,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_98d0b293",
@@ -139185,7 +138969,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_68e3b782",
@@ -139218,7 +139002,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_7a9f6a70",
@@ -139251,7 +139035,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_ca361b2b",
@@ -139284,7 +139068,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_f2b77710",
@@ -139317,7 +139101,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_82944c9e",
@@ -139350,7 +139134,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_efd339c9",
@@ -139383,7 +139167,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_84bae8b2",
@@ -139416,7 +139200,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_aa3b667b",
@@ -139449,7 +139233,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_02696bd4",
@@ -139482,7 +139266,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_5d04d9fc",
@@ -139515,7 +139299,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_c5c3a8a2",
@@ -139548,7 +139332,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_2327a206",
@@ -139581,7 +139365,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_614145a6",
@@ -139614,7 +139398,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_ca80846e",
@@ -139647,7 +139431,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_415ffa67",
@@ -139680,7 +139464,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_71ee63ed",
@@ -139713,7 +139497,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_d9b206d5",
@@ -139746,7 +139530,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\religious_places.jsonl"
+    "source_file": "Kalutara\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_88932d618d",
@@ -140629,7 +140413,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\viewpoint.jsonl"
+    "source_file": "Kalutara\\tea_estate.jsonl"
   },
   {
     "id": "pl_bac94398",
@@ -140662,7 +140446,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\viewpoint.jsonl"
+    "source_file": "Kalutara\\tea_estate.jsonl"
   },
   {
     "id": "pl_808ecd2c",
@@ -140695,7 +140479,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\viewpoint.jsonl"
+    "source_file": "Kalutara\\tea_estate.jsonl"
   },
   {
     "id": "pl_8ab42458",
@@ -140728,7 +140512,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\viewpoint.jsonl"
+    "source_file": "Kalutara\\tea_estate.jsonl"
   },
   {
     "id": "pl_a09243de",
@@ -140761,7 +140545,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\viewpoint.jsonl"
+    "source_file": "Kalutara\\tea_estate.jsonl"
   },
   {
     "id": "pl_01fc6024",
@@ -140794,7 +140578,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\viewpoint.jsonl"
+    "source_file": "Kalutara\\tea_estate.jsonl"
   },
   {
     "id": "pl_43c88a03",
@@ -153826,7 +153610,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_church.jsonl"
   },
   {
     "id": "pl_4d0ac897",
@@ -154891,7 +154675,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_kovil.jsonl"
   },
   {
     "id": "pl_8dd3a479",
@@ -154924,7 +154708,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_kovil.jsonl"
   },
   {
     "id": "pl_9b8ef18c",
@@ -154957,7 +154741,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_kovil.jsonl"
   },
   {
     "id": "pl_1a60ea3a",
@@ -154990,7 +154774,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_e58e6a809e",
@@ -156283,7 +156067,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_27ad4ceab6",
@@ -157967,7 +157751,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\tea_estate.jsonl"
+    "source_file": "Kandy\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_21fd8c3361",
@@ -158003,7 +157787,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\tea_estate.jsonl"
+    "source_file": "Kandy\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_60cbafdce3",
@@ -158504,7 +158288,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_8f61979f",
@@ -158537,7 +158321,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_30629ea3",
@@ -158570,7 +158354,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_b3a7ddfa",
@@ -158603,7 +158387,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_48ac6612",
@@ -158636,7 +158420,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_e10f1407",
@@ -158669,7 +158453,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_f7c9b14b",
@@ -158702,7 +158486,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_e7bcad41",
@@ -158735,7 +158519,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_08439641",
@@ -158768,7 +158552,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_b82f80e6",
@@ -158801,7 +158585,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_6316fdc1",
@@ -158834,7 +158618,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_a15d2d92",
@@ -158867,7 +158651,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_2285b58a",
@@ -158900,7 +158684,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_fba278be",
@@ -158933,7 +158717,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_0d7cd751",
@@ -158966,7 +158750,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_8eecfa4b",
@@ -158999,7 +158783,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_aae70a41",
@@ -159032,7 +158816,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_15114633",
@@ -159065,7 +158849,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_08403d0f",
@@ -159098,7 +158882,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\religious_places.jsonl"
+    "source_file": "Kandy\\osm_temple.jsonl"
   },
   {
     "id": "pl_b29f3ed6",
@@ -162263,7 +162047,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\viewpoint.jsonl"
+    "source_file": "Kandy\\tea_estate.jsonl"
   },
   {
     "id": "pl_d6d3f857",
@@ -162296,7 +162080,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\viewpoint.jsonl"
+    "source_file": "Kandy\\tea_estate.jsonl"
   },
   {
     "id": "pl_3085ba9e",
@@ -162329,7 +162113,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\viewpoint.jsonl"
+    "source_file": "Kandy\\tea_estate.jsonl"
   },
   {
     "id": "pl_7cf6243f",
@@ -162362,7 +162146,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\viewpoint.jsonl"
+    "source_file": "Kandy\\tea_estate.jsonl"
   },
   {
     "id": "pl_d69e1322",
@@ -162395,7 +162179,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kandy\\viewpoint.jsonl"
+    "source_file": "Kandy\\tea_estate.jsonl"
   },
   {
     "id": "pl_cd8adfb1",
@@ -163322,7 +163106,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\osm_adventure_park.jsonl"
+    "source_file": "Kegalle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_3b70a17302",
@@ -163358,7 +163142,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\osm_adventure_park.jsonl"
+    "source_file": "Kegalle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_8d6985d12d",
@@ -163394,7 +163178,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\osm_adventure_park.jsonl"
+    "source_file": "Kegalle\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_ad8f87c167",
@@ -169055,7 +168839,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_church.jsonl"
   },
   {
     "id": "pl_27ceeba6",
@@ -169088,7 +168872,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_church.jsonl"
   },
   {
     "id": "pl_1208f3ec",
@@ -169121,7 +168905,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_church.jsonl"
   },
   {
     "id": "pl_e092c3e1",
@@ -169154,7 +168938,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_church.jsonl"
   },
   {
     "id": "pl_osm_a57f19e32e",
@@ -169259,7 +169043,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_1898eea6",
@@ -169292,7 +169076,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_c7c85d19",
@@ -169325,7 +169109,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_f4f2f57f",
@@ -169358,7 +169142,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_9aaa48dc",
@@ -169391,7 +169175,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_41e5b583",
@@ -169424,7 +169208,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_87ee1a21c8",
@@ -169889,7 +169673,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_e5787064",
@@ -169922,7 +169706,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_4101aeb3",
@@ -169955,7 +169739,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_c99aae38",
@@ -169988,7 +169772,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_b956fc94",
@@ -170021,7 +169805,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_7f453645",
@@ -170054,7 +169838,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_1d8c078ae3",
@@ -171127,7 +170911,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_09b1fb97",
@@ -171160,7 +170944,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_532dfc0a",
@@ -171193,7 +170977,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_9fc10a7b",
@@ -171226,7 +171010,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_449a290a",
@@ -171259,7 +171043,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_d11c53c7",
@@ -171292,7 +171076,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_54577c23",
@@ -171325,7 +171109,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_3eb30570",
@@ -171358,7 +171142,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_0a806266",
@@ -171391,7 +171175,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_fcaffd6c",
@@ -171424,7 +171208,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_f66c4bed",
@@ -171457,7 +171241,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_78a03c71",
@@ -171490,7 +171274,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_f8bb98da",
@@ -171523,7 +171307,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_6ba3c96f",
@@ -171556,7 +171340,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_ab9499b0",
@@ -171589,7 +171373,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_1199b736",
@@ -171622,7 +171406,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl"
   },
   {
     "id": "pl_4deee24a",
@@ -173887,7 +173671,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_church.jsonl"
   },
   {
     "id": "pl_1a89e9fb",
@@ -173920,7 +173704,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_church.jsonl"
   },
   {
     "id": "pl_93e8a8c0",
@@ -173953,7 +173737,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_church.jsonl"
   },
   {
     "id": "pl_accd609a",
@@ -173986,7 +173770,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_church.jsonl"
   },
   {
     "id": "pl_daf6d187",
@@ -175853,7 +175637,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_5c4d3ad2",
@@ -175886,7 +175670,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_ec31827f",
@@ -175919,7 +175703,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_c9b71627",
@@ -175952,7 +175736,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_a82c5ae1",
@@ -175985,7 +175769,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_9cce228c",
@@ -176018,7 +175802,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_c09afb1b",
@@ -176051,7 +175835,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_73afc6ab",
@@ -176084,7 +175868,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_b5f5ecd2",
@@ -176117,7 +175901,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_95e16a24",
@@ -176150,7 +175934,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_0d2b3171",
@@ -176183,7 +175967,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_6b832f80",
@@ -176216,7 +176000,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_bbc25de5",
@@ -176249,7 +176033,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_44846077",
@@ -176282,7 +176066,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_82ed4d3f",
@@ -176315,7 +176099,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_dcecbd48",
@@ -176348,7 +176132,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_22f739e4",
@@ -176381,7 +176165,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_298cd9b1",
@@ -176414,7 +176198,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_f6bd933c",
@@ -176447,7 +176231,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_8c4ff9df",
@@ -176480,7 +176264,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_ed88b704",
@@ -176513,7 +176297,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_34a2b2e8",
@@ -176546,7 +176330,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_b026af12",
@@ -176579,7 +176363,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_8ba3931c",
@@ -176612,7 +176396,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_6c25ad57",
@@ -176645,7 +176429,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_bc3fce78",
@@ -176678,7 +176462,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_2857be35",
@@ -176711,7 +176495,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_b98bc19d",
@@ -176744,7 +176528,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_kovil.jsonl"
   },
   {
     "id": "pl_e601b901",
@@ -176881,7 +176665,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_8e818d9973",
@@ -177270,7 +177054,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_temple.jsonl"
   },
   {
     "id": "pl_4dedd681",
@@ -177303,7 +177087,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kilinochchi\\religious_places.jsonl"
+    "source_file": "Kilinochchi\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_cd48152322",
@@ -186677,7 +186461,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_0c8fe7e2",
@@ -186710,7 +186494,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_c85fa2f0",
@@ -186743,7 +186527,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_3d812070",
@@ -186776,7 +186560,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_5e9d9e41",
@@ -186809,7 +186593,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_29d44ee7",
@@ -186842,7 +186626,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_c8e85556",
@@ -186875,7 +186659,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_d571b8fc",
@@ -186908,7 +186692,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_473b491a",
@@ -186941,7 +186725,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_a977e05d",
@@ -186974,7 +186758,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_93dc055d",
@@ -187007,7 +186791,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_f41171e1",
@@ -187040,7 +186824,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_ad6a93df",
@@ -187073,7 +186857,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_a78c7156",
@@ -187106,7 +186890,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_bbbbc105",
@@ -187139,7 +186923,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_fcfc1e3d",
@@ -187172,7 +186956,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_a0ccbe2e",
@@ -187205,7 +186989,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_914907e7",
@@ -187238,7 +187022,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_ee16633c",
@@ -187271,7 +187055,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_eb8e8a32",
@@ -187304,7 +187088,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_d08117a5",
@@ -187337,7 +187121,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_758b3da4",
@@ -187370,7 +187154,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_bad577f4",
@@ -187403,7 +187187,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kurunagala\\religious_places.jsonl"
+    "source_file": "Kurunagala\\osm_temple.jsonl"
   },
   {
     "id": "pl_fc9a7a82",
@@ -200512,7 +200296,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_church.jsonl"
   },
   {
     "id": "pl_87dcf0f0",
@@ -200545,7 +200329,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_church.jsonl"
   },
   {
     "id": "pl_0247c276",
@@ -200578,7 +200362,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_church.jsonl"
   },
   {
     "id": "pl_a9e3a1f7",
@@ -200611,7 +200395,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_church.jsonl"
   },
   {
     "id": "pl_osm_5225efdfd4",
@@ -200932,7 +200716,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_kovil.jsonl"
   },
   {
     "id": "pl_d3dc99d4",
@@ -200965,7 +200749,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_kovil.jsonl"
   },
   {
     "id": "pl_a2fd6527",
@@ -200998,7 +200782,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_kovil.jsonl"
   },
   {
     "id": "pl_25021001",
@@ -201031,7 +200815,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_kovil.jsonl"
   },
   {
     "id": "pl_4028fb64",
@@ -201064,7 +200848,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_kovil.jsonl"
   },
   {
     "id": "pl_5a702895",
@@ -201097,7 +200881,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_kovil.jsonl"
   },
   {
     "id": "pl_2c7afd18",
@@ -201130,7 +200914,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_f2ce78b534",
@@ -201415,7 +201199,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_mosque.jsonl"
   },
   {
     "id": "pl_16026717",
@@ -201448,7 +201232,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_mosque.jsonl"
   },
   {
     "id": "pl_031fbe53",
@@ -201481,7 +201265,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_22d6d7f0a8",
@@ -201661,7 +201445,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\tea_estate.jsonl"
+    "source_file": "Matale\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_b20cd597b5",
@@ -203209,7 +202993,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\tea_estate.jsonl"
+    "source_file": "Matale\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_696730d0fa",
@@ -203245,7 +203029,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\tea_estate.jsonl"
+    "source_file": "Matale\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_bc86b3fa70",
@@ -203602,7 +203386,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_4c784340",
@@ -203635,7 +203419,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_80c2ecb8",
@@ -203668,7 +203452,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_ff34c326",
@@ -203701,7 +203485,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_d7b94f89",
@@ -203734,7 +203518,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_51feb1c7",
@@ -203767,7 +203551,7 @@
     "Height_m": 660.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_61e818c0",
@@ -203800,7 +203584,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_59f3b7e5",
@@ -203833,7 +203617,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_d57f8194",
@@ -203866,7 +203650,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_b3075d06",
@@ -203899,7 +203683,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_b6580d60",
@@ -203932,7 +203716,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_6d127b63",
@@ -203965,7 +203749,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_13624288",
@@ -203998,7 +203782,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_f3066f74",
@@ -204031,7 +203815,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_1d998aa5",
@@ -204064,7 +203848,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_19676632",
@@ -204097,7 +203881,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_f7b40c29",
@@ -204130,7 +203914,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matale\\religious_places.jsonl"
+    "source_file": "Matale\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_9583bb3cbb",
@@ -205852,7 +205636,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_adventure_park.jsonl"
+    "source_file": "Matara\\adventure_park.jsonl"
   },
   {
     "id": "pl_0adc2bfc",
@@ -206185,7 +205969,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_71011d223b",
@@ -206221,7 +206005,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_96ff12e00c",
@@ -206257,7 +206041,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_807cfb0618",
@@ -206293,7 +206077,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_86d4d39fbc",
@@ -206329,7 +206113,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_09736997d1",
@@ -206365,7 +206149,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_61b6ec4ffc",
@@ -206401,7 +206185,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_f6feb2e87d",
@@ -206437,7 +206221,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_008b7e99ae",
@@ -206473,7 +206257,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_6838d4b2f5",
@@ -206509,7 +206293,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_5849b80fd7",
@@ -206545,7 +206329,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_2228a78e89",
@@ -206581,7 +206365,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_88dc6c5de3",
@@ -206617,7 +206401,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_b3ae23a027",
@@ -206653,7 +206437,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_6e6f1e7a09",
@@ -206689,7 +206473,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_90376135e2",
@@ -206725,7 +206509,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_5a169ef377",
@@ -206761,7 +206545,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_4380aef1ce",
@@ -206797,7 +206581,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_e8b3f44817",
@@ -206833,7 +206617,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_0e5700e689",
@@ -206869,7 +206653,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_10eb2941e2",
@@ -206905,7 +206689,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_5d45433b64",
@@ -206941,7 +206725,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_703cb14538",
@@ -206977,7 +206761,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_fb548b2957",
@@ -207013,7 +206797,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_57f26f561d",
@@ -207049,7 +206833,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_7a013901dc",
@@ -207085,7 +206869,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_f326317b7d",
@@ -207121,7 +206905,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_19bf5fce78",
@@ -207157,7 +206941,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_49c7c78f30",
@@ -207193,7 +206977,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\osm_beach.jsonl"
+    "source_file": "Matara\\beach.jsonl"
   },
   {
     "id": "pl_osm_f7ce1f77b0",
@@ -212302,7 +212086,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_church.jsonl"
   },
   {
     "id": "pl_2e7ac6bb",
@@ -212335,7 +212119,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_church.jsonl"
   },
   {
     "id": "pl_7769dfd9",
@@ -212368,7 +212152,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_church.jsonl"
   },
   {
     "id": "pl_c1d9dcf7",
@@ -212401,7 +212185,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_church.jsonl"
   },
   {
     "id": "pl_0585a4d6",
@@ -212504,7 +212288,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_ea633d01",
@@ -212537,7 +212321,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_c6a71302",
@@ -212570,7 +212354,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_4d3c9b78",
@@ -212603,7 +212387,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_455e4f73",
@@ -212636,7 +212420,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_5f24e0ad",
@@ -212669,7 +212453,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_30cfee0e82",
@@ -212882,7 +212666,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_dab88fdc",
@@ -212915,7 +212699,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_b6f64dda",
@@ -212948,7 +212732,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_fd91323e",
@@ -212981,7 +212765,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_1217096039",
@@ -214035,7 +213819,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\tea_estate.jsonl"
+    "source_file": "Matara\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_78566f7083",
@@ -214248,7 +214032,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_3f7b90a9",
@@ -214281,7 +214065,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_51080aaf",
@@ -214314,7 +214098,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_dd373b65",
@@ -214347,7 +214131,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_0b98ceeb",
@@ -214380,7 +214164,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_e6e6317f",
@@ -214413,7 +214197,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_ca04cd41",
@@ -214446,7 +214230,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_3bce87c9",
@@ -214479,7 +214263,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_a07a222b",
@@ -214512,7 +214296,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_53d8c6bf",
@@ -214545,7 +214329,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_88d52ce5",
@@ -214578,7 +214362,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_6a75dde6",
@@ -214611,7 +214395,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_c5a0aacf",
@@ -214644,7 +214428,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_a7c70870",
@@ -214677,7 +214461,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_5fcd7b92",
@@ -214710,7 +214494,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_3aff6cff",
@@ -214743,7 +214527,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_3373a711",
@@ -214776,7 +214560,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Matara\\religious_places.jsonl"
+    "source_file": "Matara\\osm_temple.jsonl"
   },
   {
     "id": "pl_611ffaa0",
@@ -217427,7 +217211,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\osm_adventure_park.jsonl"
+    "source_file": "Monaragala\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_b0f77c1578",
@@ -217463,7 +217247,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\osm_adventure_park.jsonl"
+    "source_file": "Monaragala\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_7c956fe56c",
@@ -219656,7 +219440,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_church.jsonl"
   },
   {
     "id": "pl_e73abe1d",
@@ -219689,7 +219473,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_church.jsonl"
   },
   {
     "id": "pl_5a793d16",
@@ -219722,7 +219506,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_church.jsonl"
   },
   {
     "id": "pl_osm_7651554c50",
@@ -220259,7 +220043,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_kovil.jsonl"
   },
   {
     "id": "pl_7582353a",
@@ -220292,7 +220076,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_kovil.jsonl"
   },
   {
     "id": "pl_2879416d",
@@ -220325,7 +220109,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_kovil.jsonl"
   },
   {
     "id": "pl_osm_88805e3b34",
@@ -220394,7 +220178,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_mosque.jsonl"
   },
   {
     "id": "pl_3499a7f1",
@@ -220427,7 +220211,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_mosque.jsonl"
   },
   {
     "id": "pl_e71a8458",
@@ -220460,7 +220244,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_mosque.jsonl"
   },
   {
     "id": "pl_68e17a22",
@@ -220493,7 +220277,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_mosque.jsonl"
   },
   {
     "id": "pl_4260ebf0",
@@ -220526,7 +220310,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_mosque.jsonl"
   },
   {
     "id": "pl_osm_7548779de0",
@@ -221855,7 +221639,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_293a1b95",
@@ -221888,7 +221672,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_340d994b",
@@ -221921,7 +221705,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_9f5b5f73",
@@ -221954,7 +221738,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_5667402b",
@@ -221987,7 +221771,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_72a51a46",
@@ -222020,7 +221804,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_562464a9",
@@ -222053,7 +221837,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_41cdae5f",
@@ -222086,7 +221870,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_4b0eb9c6",
@@ -222119,7 +221903,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_abffbbb0",
@@ -222152,7 +221936,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_a9f04c17",
@@ -222185,7 +221969,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_abe8384b",
@@ -222218,7 +222002,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_eafeb301",
@@ -222251,7 +222035,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Monaragala\\religious_places.jsonl"
+    "source_file": "Monaragala\\osm_temple.jsonl"
   },
   {
     "id": "pl_osm_4d0ac754b0",
@@ -226793,7 +226577,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\osm_adventure_park.jsonl"
+    "source_file": "Nuwara Eliya\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_90e4b696ed",
@@ -234857,7 +234641,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_7eafcfbdc8",
@@ -235649,7 +235433,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_3fabfe370c",
@@ -235685,7 +235469,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_581f122cf5",
@@ -235721,7 +235505,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_5cc818010b",
@@ -235757,7 +235541,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_f6defd64f5",
@@ -235793,7 +235577,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_99b603e315",
@@ -235829,7 +235613,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_62f3392e02",
@@ -235865,7 +235649,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_f1f71bfd03",
@@ -235901,7 +235685,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Nuwara Eliya\\tea_estate.jsonl"
+    "source_file": "Nuwara Eliya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_b2f3339160",
@@ -244082,7 +243866,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_c9a8b5e5ea",
@@ -244118,7 +243902,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_2174b1e71f",
@@ -244154,7 +243938,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_2755a0833e",
@@ -244190,7 +243974,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_d8c3b93951",
@@ -244226,7 +244010,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_f526ebab3d",
@@ -244262,7 +244046,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_26360f8173",
@@ -244298,7 +244082,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_c116b8d203",
@@ -244334,7 +244118,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_35c988ebe8",
@@ -244370,7 +244154,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_981fe39bda",
@@ -244406,7 +244190,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_f733ad0b58",
@@ -244442,7 +244226,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_c071deddd5",
@@ -244478,7 +244262,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Puttalam\\osm_beach.jsonl"
+    "source_file": "Puttalam\\beach.jsonl"
   },
   {
     "id": "pl_osm_ec6e081757",
@@ -251768,7 +251552,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ratnapura\\osm_adventure_park.jsonl"
+    "source_file": "Ratnapura\\adventure_park.jsonl"
   },
   {
     "id": "pl_osm_b78181f888",
@@ -259724,7 +259508,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ratnapura\\tea_estate.jsonl"
+    "source_file": "Ratnapura\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_3690468ff5",
@@ -259760,7 +259544,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ratnapura\\tea_estate.jsonl"
+    "source_file": "Ratnapura\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_66faa37f9a",
@@ -259796,7 +259580,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ratnapura\\tea_estate.jsonl"
+    "source_file": "Ratnapura\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_b1614ae4c2",
@@ -259832,7 +259616,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Ratnapura\\tea_estate.jsonl"
+    "source_file": "Ratnapura\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_d5e4b24892",
@@ -261275,7 +261059,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Trincomalee\\osm_beach.jsonl"
+    "source_file": "Trincomalee\\beach.jsonl"
   },
   {
     "id": "pl_osm_218d5dc405",
@@ -261311,7 +261095,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Trincomalee\\osm_beach.jsonl"
+    "source_file": "Trincomalee\\beach.jsonl"
   },
   {
     "id": "pl_osm_fa8a60efea",
@@ -261347,7 +261131,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Trincomalee\\osm_beach.jsonl"
+    "source_file": "Trincomalee\\beach.jsonl"
   },
   {
     "id": "pl_osm_ad2adbebbe",
@@ -261383,7 +261167,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Trincomalee\\osm_beach.jsonl"
+    "source_file": "Trincomalee\\beach.jsonl"
   },
   {
     "id": "pl_osm_2d024cc063",
@@ -261419,7 +261203,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Trincomalee\\osm_beach.jsonl"
+    "source_file": "Trincomalee\\beach.jsonl"
   },
   {
     "id": "pl_osm_abaf1c8f55",
@@ -261455,7 +261239,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Trincomalee\\osm_beach.jsonl"
+    "source_file": "Trincomalee\\beach.jsonl"
   },
   {
     "id": "pl_osm_34c034cc6d",
@@ -261491,7 +261275,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Trincomalee\\osm_beach.jsonl"
+    "source_file": "Trincomalee\\beach.jsonl"
   },
   {
     "id": "pl_osm_96a158f58d",
@@ -265667,7 +265451,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Trincomalee\\tea_estate.jsonl"
+    "source_file": "Trincomalee\\osm_national_park.jsonl"
   },
   {
     "id": "pl_osm_932fccc894",
@@ -275045,7 +274829,7 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Vavuniya\\tea_estate.jsonl"
+    "source_file": "Vavuniya\\osm_tea_estate.jsonl"
   },
   {
     "id": "pl_osm_6f0eb5536f",

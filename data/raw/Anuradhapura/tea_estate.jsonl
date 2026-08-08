@@ -63,42 +63,6 @@
     "Length_km": "0",
     "Surfing": "no"
 }
-{
-    "id": "pl_osm_dfa471d115",
-    "name": "Ranmasu Uyana",
-    "description": "Ranmasu Uyana is a nature reserve in the Anuradhapura area of Sri Lanka. Visitors can look out for local wildlife while exploring the area.",
-    "district_id": "Anuradhapura",
-    "province_id": "North Central",
-    "category_id": "National Park",
-    "lat": 8.337984,
-    "lng": 80.389421,
-    "activities": "wildlife watching, hiking",
-    "_osm_type": "way",
-    "_osm_id": 531627419,
-    "_source_global_id": "fb66e951-7805-480e-b42f-7250132d4b93",
-    "opening_hours": "Check locally",
-    "mobile_signal": "Moderate",
-    "road_condition": "Paved",
-    "tourist_popularity": "Low",
-    "family_friendly": "yes",
-    "budget_category": "Free",
-    "ticket_price": 0,
-    "parking_avail": "unknown",
-    "toilets": "unknown",
-    "food_nearby": "unknown",
-    "wheelchair_access": "unknown",
-    "camping_allowed": "no",
-    "safety_level": "Safe",
-    "wildlife_hazard": "Present - stay in vehicle/with guide",
-    "guide_required": "yes",
-    "rain_sensitivity": "Caution",
-    "monsoon_note": "Avoid May-Sept",
-    "best_time_to_visit": "Dec to Mar",
-    "Height_m": 0.0,
-    "Length_km": 0.0,
-    "Surfing": "no",
-    "source_file": "Anuradhapura\\osm_national_park.jsonl"
-}
 
 {
     "id": "pl_0cb96b98",
