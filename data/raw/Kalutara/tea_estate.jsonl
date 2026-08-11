@@ -29,7 +29,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\viewpoint.jsonl"
+    "source_file": "Kalutara\\viewpoint.jsonl",
+    "historical_significance": "Ingiriya, a city in Kalutara District, is known for its strategic location at the border between Kalutara and Sabaragamuwa provinces. It's a significant agricultural hub, particularly noted for its tea and rubber plantations. Historically, Ingiriya's fertile lands and favorable climate have made it an important center for cultivation, contributing significantly to Sri Lanka's economy. Its rich agricultural heritage and strategic position make it culturally and historically significant.",
+    "historical_significance_source": "Wikipedia: Ingiriya"
 }
 
 {

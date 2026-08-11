@@ -168,6 +168,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Arugam Bay, a historic settlement in southeastern Sri Lanka, has seen significant changes in its economy and demographics. Historically, fishing dominated the local economy, but tourism, particularly surf tourism, has grown rapidly in recent years. After the 2004 tsunami, which damaged much of the area, fishing communities returned, leading to a conflict between traditional fishing practices and the growth of tourism. Today, Arugam Bay is a popular destination for Israeli tourists, with many establishments catering to their needs, including a Chabad house. Security measures have been increased following reports of potential threats to Israeli visitors.",
+    "historical_significance_source": "Wikipedia: Arugam Bay",
     "source_file": "Ampara\\osm_beach.jsonl"
   },
   {
@@ -240,6 +242,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Arugam Bay, a historic settlement in southeastern Sri Lanka, is known for its rich cultural heritage and natural beauty. Historically, it served as a trading hub and a center for the ancient Batticaloa Territory. Today, it is renowned for its surfing spots and attracts both domestic and international tourists, including a significant number of Israeli visitors. The area's economy has shifted from traditional fishing to tourism, though there has been a conflict between local fishermen and hotel owners over the presence of fishing huts and the smell of dried fish. Despite these challenges, Arugam Bay continues to be a popular destination, especially for Israeli tourists.",
+    "historical_significance_source": "Wikipedia: Arugam Bay",
     "source_file": "Ampara\\osm_beach.jsonl"
   },
   {
@@ -5397,6 +5401,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Ukanthamalai Murugan Kovil, a Hindu temple in Ampara District, Sri Lanka, is significant for its connection to Lord Murugan and the folklores associated with him. The temple attracts pilgrims who perform pilgrimage to Katirkamam through dense jungle. It is believed that Lord Murugan landed on the shore of Okanda in a golden boat, turning into a rock known as the \"Ran Oru Gala.\" The temple's history dates back to ancient times, with a small hut made with loose stones for the \"Vel\" at the top of the hill. British diaries confirm its importance, and it underwent several renovations. The temple's cultural significance lies in its role as a pilgrimage site and its rich folklore.",
+    "historical_significance_source": "Wikipedia: Ukanthamalai Murugan Kovil",
     "source_file": "Ampara\\osm_kovil.jsonl"
   },
   {
@@ -11556,6 +11562,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Stupas, significant Buddhist monuments, were first constructed in Sri Lanka under King Devanampiya Tissa. The Thuparamaya, built to house the Buddha's right collarbone relic, marks the beginning of historical stupa construction in the country. Later, colossal stupas were built during the reign of King Dutugemunu, showcasing the importance of these structures in religious devotion and merit-making. These stupas were not only places of worship but also served as centers of learning and cultural hubs.",
+    "historical_significance_source": "Wikipedia: Stupas in Sri Lanka",
     "source_file": "Ampara\\osm_ruins.jsonl"
   },
   {
@@ -14190,6 +14198,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Gal Oya National Park, established in 1954, serves as the main catchment area for Senanayake Samudraya, the largest reservoir in Sri Lanka. It is home to an elephant herd visible year-round and features important herbs for Ayurvedic medicine. The park's administration has been transferred from the Gal Oya Development Board to the Department of Wildlife Conservation. Its conservation efforts include protecting the catchment areas of other reservoirs and reducing human-elephant conflicts.",
+    "historical_significance_source": "Wikipedia: Gal Oya National Park",
     "source_file": "Ampara\\tea_estate.jsonl"
   },
   {
@@ -15321,6 +15331,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Isurumuniya Viharaya, built by King Devanampiya Tissa, features four notable carvings: the Isurumuniya Lovers, Elephant Pond, and The Royal Family. The Lovers depict King Kuvera and his Queen, while the Elephant Pond shows elephants bathing. The site also holds an ancient inscription and a small stupa. This temple, renovated by King Kasyapa I, is significant as it housed 500 high-caste children. Its architectural and cultural importance lies in its depiction of royal family and animal life, reflecting Anuradhapura's rich heritage.",
+    "historical_significance_source": "Wikipedia: Isurumuniya",
     "source_file": "Anuradhapura\\osm_buddhist_temple.jsonl"
   },
   {
@@ -16437,6 +16449,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Anuradhapura, known as Anurādhapuraya, is a major city in Sri Lanka. It is the capital of North Central Province and the capital of Anuradhapura District. Founded around 437 BCE, it is one of the oldest continuously occupied cities in Asia, serving as the cradle of Sinhalese civilization, Theravada Buddhism, and the longest-serving ancient capital of Sri Lanka. Known for its ancient ruins, including the Anuradhapura Maha Viharaya and the Jaya Sri Maha Bodhi, it was once the first capital of the Sinhala Kingdom of Rajarata and a major Buddhist pilgrimage site. Declared a World Heritage Site, Anuradhapura remains a vital spiritual destination despite its decline as a political center. Modern efforts to revive the",
+    "historical_significance_source": "Wikipedia: Anuradhapura",
     "source_file": "Anuradhapura\\osm_buddhist_temple.jsonl"
   },
   {
@@ -16473,6 +16487,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Anuradhapura, known as Anurādhapuraya, is a major city in Sri Lanka that has been inhabited for over two millennia. It served as the capital of the Sinhala Kingdom of Rajarata and was the longest-serving ancient capital of Sri Lanka, surviving for 1500 years. Known as the cradle of Hydraulic Sinhalese civilization and Theravada Buddhism, Anuradhapura is renowned for its ancient ruins, including the Anuradhapura Maha Viharaya and the Jaya Sri Maha Bodhi, the oldest living tree in the world. Declared a World Heritage Site, it remains a significant Buddhist pilgrimage site and a vital economic hub for tourism.",
+    "historical_significance_source": "Wikipedia: Anuradhapura",
     "source_file": "Anuradhapura\\osm_buddhist_temple.jsonl"
   },
   {
@@ -16509,6 +16525,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Anuradhapura, known as Anurādhapuraya, is a major city in Sri Lanka that has been inhabited for over two millennia. It served as the capital of the Sinhala Kingdom for over 1500 years, becoming the cradle of Hydraulic Sinhalese civilization, Theravada Buddhism, and the longest-lasting ancient capital of Sri Lanka. The city is renowned for its ancient ruins, including the Anuradhapura Maha Viharaya and the Jaya Sri Maha Bodhi, a 2,263-year-old tree believed to be the oldest living tree in the world. Despite being largely abandoned after 993 CE due to the Chola invasion, Anuradhapura remains a significant Buddhist pilgrimage site and a vital part of Sri Lanka's cultural heritage.",
+    "historical_significance_source": "Wikipedia: Anuradhapura",
     "source_file": "Anuradhapura\\osm_buddhist_temple.jsonl"
   },
   {
@@ -16545,6 +16563,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Anuradhapura, known as Anurādhapuraya, is a major city in Sri Lanka, founded around 437 BCE. It is the oldest continuously occupied city in Asia, serving as the capital of the Sinhala Kingdom for over 1500 years. Known as the cradle of Hydraulic Sinhalese civilization and Theravada Buddhism, Anuradhapura is renowned for its ancient temples, including the Anuradhapura Maha Viharaya and the Jaya Sri Maha Bodhi. Declared a World Heritage Site, it remains a significant Buddhist pilgrimage site and a vital economic center for tourism. Despite being largely abandoned after 993 CE due to the Chola invasion, Anuradhapura experienced a revival in the 19th century under British colonial rule",
+    "historical_significance_source": "Wikipedia: Anuradhapura",
     "source_file": "Anuradhapura\\osm_buddhist_temple.jsonl"
   },
   {
@@ -16581,6 +16601,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Anuradhapura, known as Anurādhapuraya, is a major city in Sri Lanka. It is the capital of North Central Province and the capital of Anuradhapura District. Founded around 437 BCE, it is one of the oldest continuously occupied cities in Asia, serving as the cradle of Sinhalese civilization, Buddhism, and the longest-lasting ancient capital of Sri Lanka. The city was once the capital of the Sinhala Kingdom of Rajarata and a major Buddhist pilgrimage site. After being largely abandoned after 993 CE due to the Chola invasion, Anuradhapura revived as a significant spiritual destination in the 19th century under British colonial rule. Today, it remains a major road junction and a significant economic hub for tourism.",
+    "historical_significance_source": "Wikipedia: Anuradhapura",
     "source_file": "Anuradhapura\\osm_buddhist_temple.jsonl"
   },
   {
@@ -19677,6 +19699,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Anuradhapura, known as Anurādhapuraya, is a major city in Sri Lanka that has been inhabited for nearly three millennia. It served as the capital of the Sinhala Kingdom of Rajarata and was the longest-lasting ancient capital of Sri Lanka, surviving for 1500 years. The city is renowned for its well-preserved ruins, including the Anuradhapura Maha Viharaya and the Jaya Sri Maha Bodhi, the oldest living, documented, planted tree in the world. Anuradhapura was once a major Buddhist pilgrimage site and the center of Theravada Buddhism. Despite being largely abandoned after 993 CE due to the Chola invasion, it remains a vital spiritual destination and is experiencing a modern revival.",
+    "historical_significance_source": "Wikipedia: Anuradhapura",
     "source_file": "Anuradhapura\\osm_buddhist_temple.jsonl"
   },
   {
@@ -19713,6 +19737,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Stupas, significant Buddhist monuments, were first constructed in Sri Lanka under King Devanampiya Tissa. The Thuparamaya, built to house the Buddha's right collarbone relic, marks the beginning of this architectural tradition. These structures not only housed sacred relics but also served as acts of merit, reflecting the deep Buddhist influence on Sri Lankan architecture. The construction of colossal stupas began during the reign of King Dutugemunu, marking a significant phase in Sri Lankan religious and cultural development.",
+    "historical_significance_source": "Wikipedia: Stupas in Sri Lanka",
     "source_file": "Anuradhapura\\osm_buddhist_temple.jsonl"
   },
   {
@@ -20901,6 +20927,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Temple of the Tooth, also known as Dalada Maligawa, is a Buddhist temple in Kandy, Sri Lanka. It houses the sacred tooth relic of Buddha, believed to hold political power. Historically, the relic's possession has signified governance. Daily rituals include symbolic bathing with holy water, which is believed to have healing properties. The temple's importance is underscored by its status as a World Heritage Site. Over centuries, the relic has been moved several times, including to Kandy by royal order, where it remains today, symbolizing the continuity of Sri Lankan monarchy.",
+    "historical_significance_source": "Wikipedia: Temple of the Tooth",
     "source_file": "Anuradhapura\\osm_building.jsonl"
   },
   {
@@ -22173,6 +22201,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Anuradhapura, known as Anurādhapuraya, is a major city in Sri Lanka. It is the capital of North Central Province and the capital of Anuradhapura District. Founded around 437 BCE, it is one of the oldest continuously occupied cities in Asia, serving as the cradle of Sinhalese civilization, Buddhism, and the longest-lasting ancient capital of Sri Lanka. Known for its extensive ruins, Anuradhapura is a significant Buddhist pilgrimage site and remains a vital spiritual destination. After being largely abandoned after 993 CE due to the Chola invasion, the city experienced a revival in the 19th century under British colonial rule. Today, it is a major road junction and a significant economic hub for tourism.",
+    "historical_significance_source": "Wikipedia: Anuradhapura",
     "source_file": "Anuradhapura\\osm_other.jsonl"
   },
   {
@@ -22209,6 +22239,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Anuradhapura, known as Anurādhapuraya, is a major city in Sri Lanka that has been inhabited for nearly three millennia. It served as the capital of the Sinhala Kingdom of Rajarata and was the longest-serving ancient capital of Sri Lanka, surviving for 1500 years. Known as the cradle of Hydraulic Sinhalese civilization and Theravada Buddhism, Anuradhapura is renowned for its well-preserved ruins, including the Anuradhapura Maha Viharaya and the Jaya Sri Maha Bodhi, the oldest living, documented, planted tree in the world. Declared a World Heritage Site, it remains a significant Buddhist pilgrimage site and a vital economic hub for tourism.",
+    "historical_significance_source": "Wikipedia: Anuradhapura",
     "source_file": "Anuradhapura\\osm_other.jsonl"
   },
   {
@@ -22929,6 +22961,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Menik Wehera, an ancient Buddhist monastery complex in Polonnaruwa, Sri Lanka, is notable for its unique layout and the presence of a small brick stupa on a high, walled terrace. The site's historical significance lies in its potential age, dating back to the late Anuradhapura or early Polonnaruwa period, and its continued importance during the 12th century when a pillar inscription by King Nissanka Malla was found. Its features include a patimaghara (image house) and a Bodhighara (sacred Bodhi tree shrine).",
+    "historical_significance_source": "Wikipedia: Menik Wehera",
     "source_file": "Anuradhapura\\osm_ruins.jsonl"
   },
   {
@@ -28047,6 +28081,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Temple of the Tooth, also known as Sri Dalada Maligawa, is a Buddhist temple in Kandy, Sri Lanka. It houses the sacred tooth relic of Buddha, which has historically been a symbol of political power. The relic's custody signifies the right to govern the country. Daily rituals include morning, noon, and evening ceremonies, and on Wednesdays, the relic is ceremonially bathed. The temple is a World Heritage Site and a significant site for religious and cultural events.",
+    "historical_significance_source": "Wikipedia: Temple of the Tooth",
     "source_file": "Badulla\\osm_buddhist_temple.jsonl"
   },
   {
@@ -30675,6 +30711,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Ingiriya, a city in Kalutara District, Sri Lanka, is known for its fertile agricultural lands and diverse flora. It is rich in rubber, tea, coconut, and rice plantations, making it an important agricultural hub. Historically, Ingiriya's strategic location at the border between Kalutara and Sabaragamuwa provinces has made it a significant administrative center. Its flat plains, suitable for cultivation, and the presence of rivers like the Kalu River contribute to its importance as a farming region.",
+    "historical_significance_source": "Wikipedia: Ingiriya",
     "source_file": "Badulla\\osm_buddhist_temple.jsonl"
   },
   {
@@ -30711,6 +30749,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Dhowa Rock Temple, constructed by King Valagamba in the first century BC, is a significant archaeological site dating back over 2000 years. It features an impressive unfinished Buddha statue carved into a vertical granite rockface. Recognized as a protected monument since 1996, the temple holds cultural importance as an example of Mahayana sculpture and houses colorful murals depicting Buddhist scenes.",
+    "historical_significance_source": "Wikipedia: Dhowa rock temple",
     "source_file": "Badulla\\osm_buddhist_temple.jsonl"
   },
   {
@@ -32203,7 +32243,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "e4097796-96df-4c3c-911f-d94a3b535ee1",
-    "source_file": "Badulla\\osm_buddhist_temple.jsonl"
+    "source_file": "Badulla\\osm_buddhist_temple.jsonl",
+    "historical_significance": "Muthiyangana Raja Maha Vihara is revered as one of the 16 Solosmasthana, sacred sites associated with Gautama Buddha's visits to Sri Lanka. According to legend, Buddha visited this site during his third visit, where he left behind relics including hair strands and sweat that turned into pearls. This site is considered extremely sacred by Buddhists and has been refurbished multiple times by various kings, including King Devanampiya Tissa and King Vijayabahu I. Today, it features a towering stupa, two image houses, and four ancient Bo trees, making it a significant pilgrimage site.",
+    "historical_significance_source": "Wikipedia: Muthiyangana Raja Maha Vihara"
   },
   {
     "id": "pl_fb59a483",
@@ -33454,7 +33496,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\osm_church.jsonl"
+    "source_file": "Badulla\\osm_church.jsonl",
+    "historical_significance": "St. Andrew's Church, a Neo-Gothic building constructed in 1869, holds cultural and historical significance as one of the oldest European structures in Haputale, Badulla District. Its interior features intricately carved pews and a marble baptismal font imported from England. The church's stained glass windows, depicting biblical scenes, and the presence of Reverend Walter Stanley Senior's ashes make it a notable site. Declared a protected archaeological site in 2002, it continues to serve as a testament to early British influence in Sri Lanka.",
+    "historical_significance_source": "Wikipedia: St. Andrew's Church, Haputale"
   },
   {
     "id": "pl_9023e9e2",
@@ -40240,7 +40284,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "82ffddff-ab86-40f3-9065-780b7b3e6269",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\religious_places.jsonl",
+    "historical_significance": "The Mawaragala Aranya Senasanaya, an ancient Buddhist temple in Mahiyangane, Sri Lanka, was established during the reign of King Valagamba and Arhat Maliyadeva around 100 BC. It served as a hermitage for sixty Buddhist monks and holds historical significance through the discovery of early Brahmi script and Old Sinhalese Prakrit cave inscriptions.",
+    "historical_significance_source": "Wikipedia: Mawaragala Aranya Senasanaya"
   },
   {
     "id": "pl_92779ec0",
@@ -40342,7 +40388,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "e735af10-d6c9-4755-9d20-3b0e0b829910",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\religious_places.jsonl",
+    "historical_significance": "Halpe Paththini Devalaya, while not directly mentioned in the provided text, is historically significant as it is associated with Pattini, a deity revered in Sri Lanka. Pattini, the guardian deity of Sri Lanka, is believed to have been introduced to the island by Gajabahu I around the 2nd century CE. Her worship evolved locally, incorporating earlier deities. Pattini is particularly venerated during nursing mothers' alms-givings, where traditional dishes like Kiriya and Kavum are prepared and offered to her, concluding with the recitation of Pattini Halla. This practice highlights the cultural importance of Pattini in Sri Lankan society.",
+    "historical_significance_source": "Wikipedia: Pattini"
   },
   {
     "id": "pl_c48daab8",
@@ -42353,6 +42401,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Methodist Central College, established in 1814 by Wesleyan Methodist missionaries, was the first educational institution in Batticaloa. It played a significant role in the cultural, educational, and religious development of the region. In 2014, the college celebrated its 200th anniversary, marking its enduring impact on Sri Lanka's education and culture.",
+    "historical_significance_source": "Wikipedia: Methodist Central College",
     "source_file": "Batticaloa\\osm_church.jsonl"
   },
   {
@@ -55103,7 +55153,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\beach.jsonl"
+    "source_file": "Colombo\\beach.jsonl",
+    "historical_significance": "Dehiwala-Mount Lavinia, now a large municipality in Sri Lanka, has experienced significant population growth and urbanisation in recent years. Historically, the area was part of the Kingdom of Kotte and was known as Diyawala due to its numerous ponds and lakes. During the Portuguese era, the area was under the rule of King Don Juan Dharmapala and was referred to as Galkissa. The Dutch called the prominent rocky mound protruding into the Bay \"the pregnant wench.\" Today, Dehiwala-Mount Lavinia is home to the National Zoological Gardens, Colombo South Teaching Hospital, and Colombo Airport, Ratmalana, making it an important suburban center within the Colombo Metropolitan Region.",
+    "historical_significance_source": "Wikipedia: Dehiwala-Mount Lavinia"
   },
   {
     "id": "pl_osm_52016ef7c9",
@@ -56216,6 +56268,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Kotte, a water fortress built by Nissanka Alagakkonara in the 13th century, became the capital of the ancient Kingdom of Kotte. It was renamed 'Sri Jayawardenepura' in 1391 after Prince Sapumal's conquest of Jaffna. The city featured the King's palace, Dalada Maligawa, Arama, and other structures. Veherakanda Temple, located outside the moat and rampart, is the site of the royal cemetery.",
+    "historical_significance_source": "Wikipedia: Sri Jayawardenepura Kotte",
     "source_file": "Colombo\\osm_buddhist_temple.jsonl"
   },
   {
@@ -56324,6 +56378,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Negombo, known for its centuries-old fishing industry and long sandy beaches, is a major commercial center in Gampaha District. Historically, it served as a key port for Sri Lankan kingdoms and later for the Portuguese, who controlled cinnamon trade and converted the local population largely to Catholicism. Today, it is known as Little Rome due to its large Christian population.",
+    "historical_significance_source": "Wikipedia: Negombo",
     "source_file": "Colombo\\osm_buddhist_temple.jsonl"
   },
   {
@@ -69462,7 +69518,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_mosque.jsonl"
+    "source_file": "Colombo\\osm_mosque.jsonl",
+    "historical_significance": "The Jami-Ul-Alfar Mosque, also known as the Red Mosque, is one of the oldest mosques in Colombo, Sri Lanka. Constructed in 1909, it was designed by an unlettered architect based on Indo-Saracenic designs and features a unique red and white striped facade. Initially capable of accommodating 1,500 worshippers, the mosque has since been expanded to hold up to 10,000. It served as a landmark for sailors entering the port and is now a popular tourist site.",
+    "historical_significance_source": "Wikipedia: Jami Ul-Alfar Mosque"
   },
   {
     "id": "pl_a7067c54",
@@ -75906,6 +75964,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Dharmapala Viharaya, located in Hikkaduwe, was founded by Hikkaduwe Sri Sumangala Thera, a prominent Buddhist monk known for his role in the Panadura debate against Christian missionaries. He established Vidyodaya Pirivena in 1873, which later became a university, making him a key figure in Sri Lankan Buddhist revival. His extensive knowledge and skills in various subjects, including Buddhism, history, and archaeology, contributed significantly to his influential role in religious debates and educational reforms.",
+    "historical_significance_source": "Wikipedia: Hikkaduwe Sri Sumangala Thera",
     "source_file": "Galle\\osm_buddhist_temple.jsonl"
   },
   {
@@ -75942,6 +76002,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Tempita Viharas, like the Medawala Tempita Vihara in Kandy, were popular Buddhist shrines in Sri Lanka from the 17th to 19th centuries. They were characterized by wooden platforms and wattle walls supporting a timber-framed roof, with pillars often exposed and reaching up to six feet tall. These structures served as image houses and evolved over time to include additional features such as sermon halls and dance halls. Examples include the Medawala Tempita Vihara and Minuwangamuwa Tempita Vihara.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara",
     "source_file": "Galle\\osm_buddhist_temple.jsonl"
   },
   {
@@ -84105,6 +84167,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Unawatuna, known for its beach and corals, is a major tourist attraction in Sri Lanka. It is also home to the endangered purple-faced langur, a unique monkey species found only in Sri Lanka's forests. The area's name, \"Una-watuna,\" means \"fell down\" in the Ramayana legend, where the monkey warrior Hanuman brought down a piece of the Himalayan mountain while searching for healing herbs for Lord Rama. Another myth states that a shipwrecked prince, protected by the Goddess of Earth, landed here and became a revered deity. Dagabas and temples, including the Suwethamali Chaitya, attract thousands of pilgrims annually during the Esala Perukkatai festival.",
+    "historical_significance_source": "Wikipedia: Unawatuna",
     "source_file": "Galle\\osm_other.jsonl"
   },
   {
@@ -84285,6 +84349,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Ahangama Beach is historically significant as it was affected by the 2004 Indian Ocean tsunami. It is also the birthplace of noted Sri Lankan author Martin Wickramasinghe, whose birthplace is now a museum. The Kataluva Purvarama Maha Viharaya temple, 2 km west of Ahangama, features Kandyan-style paintings dating back to the late 19th century, including depictions of Queen Victoria and Queen Mother. The town is known for its serene beaches, surfing, and ancient temples, making it a tourist attraction.",
+    "historical_significance_source": "Wikipedia: Ahangama",
     "source_file": "Galle\\osm_other.jsonl"
   },
   {
@@ -98129,6 +98195,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Moragoda Church, built in 1828 by the British, played a significant role in the development of Gampaha. It marked the beginning of habitation in the area and influenced the town's growth. The construction of the church and the subsequent railway station in 1866 were crucial for the town's progress and recognition. This period also saw the introduction of the first rubber tree in the Henarathgoda botanical garden.",
+    "historical_significance_source": "Wikipedia: Gampaha",
     "source_file": "Gampaha\\osm_church.jsonl"
   },
   {
@@ -104428,7 +104496,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "3d541349-5884-439c-b5d9-495ba4e0e35f",
-    "source_file": "Gampaha\\religious_places.jsonl"
+    "source_file": "Gampaha\\religious_places.jsonl",
+    "historical_significance": "Tempita Viharas, like the Medawala Tempita Vihara in Kandy, were popular image houses in Sri Lankan Buddhist temples from the 17th to 19th centuries. They featured wooden platforms and timber-framed roofs supported by exposed stone pillars. Over time, these structures evolved with additional features such as a wall surrounding the ground floor for a sermon hall and a dancing hall at the front. Examples include the Medawala Tempita Vihara and Minuwangamuwa Tempita Vihara.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
   },
   {
     "id": "pl_0ff53b85",
@@ -104495,6 +104565,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Horagolla National Park, established in 1973 as a wildlife sanctuary, was upgraded to national park status in 2004. It is unique as the only urban park in the Western Province. Located near Horagolla Walauwa, the park offers diverse flora and fauna, including endemic species like the Sri Lankan spotted chevrotain and golden jackal. Its rich biodiversity makes it a significant birdwatching site, with over 68 bird species identified. The park's importance lies in its role as a protected area and its contribution to Sri Lanka's ecological diversity.",
+    "historical_significance_source": "Wikipedia: Horagolla National Park",
     "source_file": "Gampaha\\tea_estate.jsonl"
   },
   {
@@ -106736,6 +106808,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Sri Subodharamaya, also known as Karagampitiya Vihara, is a historic Buddhist temple in Dehiwala, Western Province, Sri Lanka. Constructed in the 18th century, it includes a stupa, image house, and a shrine room depicting the first seven weeks of Buddha's life. The temple's founding dates back to the 1820s, and it was officially recognized by the Government in 2007. The site has historical importance as it was once a Devalaya, later converted into a church by the Portuguese and Dutch, before being restored by the British. Its cultural significance lies in its architectural elements and the belief that the first incumbent, Ven. Hikkaduwe Indrajothi thera, lived in an Ambalama nearby",
+    "historical_significance_source": "Wikipedia: Sri Subodharama Raja Maha Vihara",
     "source_file": "Hambanthota\\osm_buddhist_temple.jsonl"
   },
   {
@@ -108932,6 +109006,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Asokaramaya Buddhist Temple in Kalutara, Sri Lanka, was constructed in the 1870s to accommodate followers of Aluthgama Sangharatne, a Buddhist monk who held sermons. Wealthy local resident Elliyas Fernando funded its construction and subsequent expansions. The temple underwent several renovations, including the addition of a stone inscription and the construction of stupas containing relics. Today, the temple continues to serve as a place of worship and learning, with various additions made over the years. Its historical significance lies in its role as a gathering place for Buddhists and its association with Aluthgama Sangharatne, a notable figure in Buddhist teachings.",
+    "historical_significance_source": "Wikipedia: Asokaramaya Buddhist Temple",
     "source_file": "Hambanthota\\osm_buddhist_temple.jsonl"
   },
   {
@@ -110696,6 +110772,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Asokaramaya Buddhist Temple in Kalutara, Sri Lanka, was constructed in the 1870s to provide a place for Buddhist monks to preach and attract devotees. Wealthy local resident Elliyas Fernando funded its initial construction and subsequent expansions. The temple includes a relic chamber, a preaching hall, and a shrine house. It served as a center for Buddhist teachings and remains an important site for devotees. Its historical significance lies in its role in spreading Buddhism and the contributions of Elliyas Fernando, who funded its development.",
+    "historical_significance_source": "Wikipedia: Asokaramaya Buddhist Temple",
     "source_file": "Hambanthota\\osm_buddhist_temple.jsonl"
   },
   {
@@ -110732,6 +110810,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Yatala Vehera, built around 2300 years ago by King Yatala Thissa, commemorates his birthplace. It features a stage with large granite stones, a moat, and elephant head sculptures. The stupa holds relic caskets and is believed to be the first stupa in Ruhuna. Restoration began in 1883 and was completed over a century later. It is significant as the first stupa in Ruhuna and offers insights into early Buddhist architecture and practices in Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Yatala Vehera",
     "source_file": "Hambanthota\\osm_buddhist_temple.jsonl"
   },
   {
@@ -115037,7 +115117,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\beach.jsonl"
+    "source_file": "Jaffna\\beach.jsonl",
+    "historical_significance": "Casuarina Beach, located in Karainagar, Jaffna District, Sri Lanka, is renowned for its pristine 1.5 km long white sand beach, which is considered the best in the Jaffna Peninsula. Named after the Casuarina trees that grow along the shore, this picturesque spot attracts visitors seeking a serene retreat. Its beauty and location make it a significant tourist attraction in the region.",
+    "historical_significance_source": "Wikipedia: Casuarina Beach"
   },
   {
     "id": "pl_osm_e389e3100f",
@@ -116333,7 +116415,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "c9776f28-777c-484a-813c-86f355c53356",
-    "source_file": "Jaffna\\osm_building.jsonl"
+    "source_file": "Jaffna\\osm_building.jsonl",
+    "historical_significance": "St. John's College, founded in 1823 by British Anglican missionaries, is one of Sri Lanka's oldest schools. Initially established as the Nallur English Seminary, it later moved to Chundikuli and then to its current location near the old Portuguese St. John the Baptist church. Known for its long-standing cricket tradition, the school has played an important role in the cultural and educational landscape of Jaffna, Sri Lanka.",
+    "historical_significance_source": "Wikipedia: St. John's College, Jaffna"
   },
   {
     "id": "pl_58b529ad",
@@ -116947,6 +117031,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a contested city, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also a key colonial port under Portuguese, Dutch, and British rule. Post-independence, the city faced significant damage and displacement due to the Sri Lankan Civil War, but it has since seen a return of refugees and ongoing reconstruction efforts. Today, Jaffna is home to diverse cultural and religious communities, including Hindus, Christians, Muslims, and Buddhists, and is known for its historical sites and educational institutions.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
@@ -116983,6 +117069,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Nallur, historically known as Singai Nagar, became the capital of the old Jaffna Kingdom around 948 AD. It was the site of the first temple dedicated to Lord Murugan. The town saw significant changes when Prince Sapumal Kumaraya, a Sinhalese ruler, took control in the mid-15th century. He rebuilt the temple and renamed the area. However, the Tamil kingdom regained control after Prince Sapumal Kumaraya's death. Today, Nallur is famous for the Nallur Kandaswamy temple, which is a sacred pilgrimage site for Sri Lankan Hindus. Its rich history makes it a significant cultural and religious center.",
+    "historical_significance_source": "Wikipedia: Nallur, Jaffna",
     "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
@@ -117019,6 +117107,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna has been a contested city, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also the second most populous city in Sri Lanka before the civil war. During the civil war, the city was repeatedly occupied by the Tamil Tigers and briefly by the Indian Peace Keeping Force. Today, it is a site of historical and cultural importance, home to various educational and commercial institutions, and known for its rich Tamil heritage.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
@@ -117523,6 +117613,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a contested city, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also the administrative headquarters of the Jaffna District and a major port town under different colonial powers. After the Sri Lankan Civil War, the city experienced extensive damage and displacement but has since seen a return of refugees and reconstruction efforts. Today, it remains culturally significant as a center for Sri Lankan Tamils, with numerous historical sites and educational institutions.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
@@ -117703,6 +117795,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna has been a contested city, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also the second most populous city in Sri Lanka before the civil war. During the civil war, the city was occupied by the LTTE and later by the Sri Lankan Army. Today, it is a site of historical sites like the Jaffna Library and Fort, and its population consists mainly of Sri Lankan Tamils.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
@@ -118675,6 +118769,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a significant city in Sri Lanka, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also a key colonial port under Portuguese, Dutch, and British rule. Post-war, the city faced extensive damage and displacement but has since seen a return of refugees and ongoing reconstruction efforts. Today, it remains culturally rich with diverse populations and numerous historical sites.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
@@ -118783,6 +118879,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "St. John's College, founded in 1823 by British Anglican missionaries, is one of Sri Lanka's oldest schools. It began as the Nallur English Seminary and later moved to Chundikuli. The school's original building was the old Portuguese St. John the Baptist church, which was demolished in 1859 and replaced by the current church. Known for its long-running cricket match against Jaffna Central College, the school has played a significant role in the cultural and educational history of Jaffna.",
+    "historical_significance_source": "Wikipedia: St. John's College, Jaffna",
     "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
@@ -118927,6 +119025,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "St. John's College, founded in 1823 by British Anglican missionaries, is one of Sri Lanka's oldest schools. It began as the Nallur English Seminary and later moved to Chundikuli. The school was renamed St. John's College in 1891 and remained independent until 1960 when most private schools were taken over by the government. Known for its long-running cricket match against Jaffna Central College, SJC has a rich history and cultural significance in Jaffna.",
+    "historical_significance_source": "Wikipedia: St. John's College, Jaffna",
     "source_file": "Jaffna\\osm_church.jsonl"
   },
   {
@@ -120184,7 +120284,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\osm_church.jsonl"
+    "source_file": "Jaffna\\osm_church.jsonl",
+    "historical_significance": "St. John's College, Jaffna, was founded in 1823 by British Anglican missionaries as a school for the local community. Initially named Nallur English Seminary, it later moved to Chundikuli and was renamed St. John's College in 1891. Known for its long-standing cricket tradition, the school has played an annual match against Jaffna Central College since 1904, making it the third oldest cricket encounter in Sri Lanka. Despite political instability, the school has remained independent, choosing not to join the government's free education system. Its legacy includes contributions to education and sports in the region.",
+    "historical_significance_source": "Wikipedia: St. John's College, Jaffna"
   },
   {
     "id": "pl_osm_6f6c831281",
@@ -121516,6 +121618,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a significant city in Sri Lanka, serving as the capital of the medieval Tamil Jaffna Kingdom for four centuries. It was also a key trading hub and a strategic location contested by various colonial powers including the Portuguese, Dutch, and British. After the civil war, the city faced extensive damage but has since seen a return of its population and efforts at reconstruction. Today, Jaffna is home to diverse cultural and religious communities, and it retains historical sites like the Jaffna Library and Fort.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
@@ -122560,6 +122664,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a significant city in Sri Lanka, serving as the capital of the medieval Tamil Jaffna Kingdom for four centuries. It was also a key trading hub and a strategic location contested by various colonial powers including the Portuguese, Dutch, and British. After the civil war, the city faced extensive damage but has since seen a return of its population and efforts at reconstruction. Today, it remains an important cultural center with a diverse population and numerous historical sites.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
@@ -122596,6 +122702,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a significant city in Sri Lanka, serving as the capital of the medieval Tamil Jaffna Kingdom for four centuries. It was also a key trading hub and a strategic location contested by various colonial powers including the Portuguese, Dutch, and British. After the civil war, the city faced extensive damage but has since seen a return of its population and ongoing efforts at reconstruction. Today, Jaffna remains culturally rich, with a diverse population and numerous historical sites.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
@@ -122632,6 +122740,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Ukanthamalai Murugan Kovil, a Hindu temple in Ampara District, Sri Lanka, is revered for its connection to Lord Murugan. Local folklore suggests it was the landing spot of Skanda Kumara and Valli Amma in a golden boat, turning the boat into a rock known as Ran Oru Gala. Historical records indicate the temple has been a significant pilgrimage site since ancient times, with the British noting it as a notable Hindu shrine in the 1800s. It underwent several renovations, including the construction of a pilgrims' rest and the installation of a new priest in 1908. The temple's sanctum houses a golden spear, symbolizing Murugan's presence.",
+    "historical_significance_source": "Wikipedia: Ukanthamalai Murugan Kovil",
     "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
@@ -124108,6 +124218,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a significant city in Sri Lanka, serving as the capital of the medieval Tamil Jaffna Kingdom for four centuries. It was also a key trading hub and a strategic location contested by various colonial powers including the Portuguese, Dutch, and British. After the civil war, the city faced extensive damage but has since seen a return of its population and efforts at reconstruction. Today, Jaffna remains culturally rich with historical sites like the Jaffna Library and Fort, and it continues to be an important center for Sri Lankan Tamils.",
+    "historical_significance_source": "Wikipedia: Jaffna",
     "source_file": "Jaffna\\osm_kovil.jsonl"
   },
   {
@@ -127108,6 +127220,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Casuarina Beach, located in Karainagar, Jaffna District, Sri Lanka, is renowned for its pristine 1.5 km long white sand beach, which is considered the best in the Jaffna Peninsula. The beach's name is derived from the Casuarina trees that grow along its shore, adding to its natural beauty and charm. Its historical and cultural significance lies in its picturesque setting and potential as a tourist attraction, though specific historical events are not mentioned.",
+    "historical_significance_source": "Wikipedia: Casuarina Beach",
     "source_file": "Jaffna\\osm_viewpoint.jsonl"
   },
   {
@@ -127923,7 +128037,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\tea_estate.jsonl"
+    "source_file": "Jaffna\\tea_estate.jsonl",
+    "historical_significance": "Tellippalai, once an administrative and commercial hub, became famous due to an Indian princess who was cured of her disease at Keerimalai springs and settled there. This legend explains its name. Historically, it was a mission location for the American Ceylon Mission, leading to the establishment of the First English School in Jaffna. The area was also home to several churches and Christian schools providing western education, reflecting its importance in the region.",
+    "historical_significance_source": "Wikipedia: Tellippalai"
   },
   {
     "id": "pl_d8911f6f",
@@ -130521,6 +130637,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The text mentions that A. P. de Zoysa was educated at the historic Maha Samudraramaya temple in Randombe, Ambalangoda. This place played a significant role in his early education and personal development, where he received his primary education and was influenced by the principal, Theosophist and Pali scholar Frank Lee Woodward. The temple thus contributed to shaping de Zoysa's early life and intellectual journey. 62 words",
+    "historical_significance_source": "Wikipedia: A. P. de Zoysa",
     "source_file": "Kalutara\\osm_buddhist_temple.jsonl"
   },
   {
@@ -133725,6 +133843,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Negombo, known for its centuries-old fishing industry and long sandy beaches, has been a significant port since ancient times. Historically, it was under the Sinhala monarchy and later controlled by the Portuguese, who established a fort and dominated the cinnamon trade. Today, Negombo is known as \"Little Rome\" due to its large Catholic population, reflecting the Portuguese influence. Its strategic location made it a crucial port for maritime trade.",
+    "historical_significance_source": "Wikipedia: Negombo",
     "source_file": "Kalutara\\osm_buddhist_temple.jsonl"
   },
   {
@@ -140341,7 +140461,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kalutara\\tea_estate.jsonl"
+    "source_file": "Kalutara\\tea_estate.jsonl",
+    "historical_significance": "Ingiriya, a city in Kalutara District, is known for its strategic location at the border between Kalutara and Sabaragamuwa provinces. It's a significant agricultural hub, particularly noted for its tea and rubber plantations. Historically, Ingiriya's fertile lands and favorable climate have made it an important center for cultivation, contributing significantly to Sri Lanka's economy. Its rich agricultural heritage and strategic position make it culturally and historically significant.",
+    "historical_significance_source": "Wikipedia: Ingiriya"
   },
   {
     "id": "pl_bac94398",
@@ -145105,6 +145227,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Tempita Viharas, like the Medawala Tempita Vihara in Kandy, were popular image houses in Sri Lankan Buddhist temples from the 17th to 19th centuries. They were characterized by wooden platforms, wattle walls, and two-pitched timber-framed roofs. Over time, they evolved to include additional features such as a sermon hall and a drumming area. Examples include the Medawala Tempita Vihara, which was renovated by King Kirti Sri Rajasinha in 1755, and the Minuwangamuwa Tempita Vihara, built in 1886. These structures reflect the cultural and religious development of Buddhist temples in Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara",
     "source_file": "Kandy\\osm_buddhist_temple.jsonl"
   },
   {
@@ -147661,6 +147785,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. It was a stronghold against Portuguese, Dutch, and British colonial expansion. Known historically as Senkadagala, Kandy is now considered the cultural capital of Sri Lanka due to its architectural heritage, particularly the Temple of the Tooth Relic, a significant Buddhist site. Declared a UNESCO World Heritage Site in 1988, Kandy's historical importance is underscored by its role in resisting colonial forces.",
+    "historical_significance_source": "Wikipedia: Kandy",
     "source_file": "Kandy\\osm_buddhist_temple.jsonl"
   },
   {
@@ -147697,6 +147823,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. Known historically as Senkadagala, it was the site of the Temple of the Tooth Relic, a significant Buddhist site. The city resisted colonial expansion, becoming a cultural capital and a World Heritage Site. Its name likely comes from a king named Senkanda or a queen named Senkanda.",
+    "historical_significance_source": "Wikipedia: Kandy",
     "source_file": "Kandy\\osm_buddhist_temple.jsonl"
   },
   {
@@ -147769,6 +147897,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. Known historically as Senkadagala, it was the center of Buddhist resistance against Portuguese, Dutch, and British colonial forces. The city is now famous for housing the Temple of the Tooth Relic, a significant Buddhist site. Declared a UNESCO World Heritage Site in 1988, Kandy is culturally regarded as the cultural capital of Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Kandy",
     "source_file": "Kandy\\osm_buddhist_temple.jsonl"
   },
   {
@@ -147805,6 +147935,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. Known historically as Senkadagala, it was the center of Buddhist resistance against Portuguese, Dutch, and British colonial forces. The city is now famous for housing the Temple of the Tooth Relic, a significant Buddhist site. Declared a UNESCO World Heritage Site, Kandy is culturally regarded as the cultural capital of Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Kandy",
     "source_file": "Kandy\\osm_buddhist_temple.jsonl"
   },
   {
@@ -148083,7 +148215,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "8f17e274-1549-4a8c-a0d2-2bc934ba67fb",
-    "source_file": "Kandy\\osm_buddhist_temple.jsonl"
+    "source_file": "Kandy\\osm_buddhist_temple.jsonl",
+    "historical_significance": "The Kotte Raja Maha Vihara, a historic Buddhist temple in Sri Lanka, was constructed during the reign of King Parakumbha VI. It was built close to the king’s palace to serve the Buddhist community. The temple was partially destroyed by the Dutch but later restored. It holds cultural importance as it features frescoes and was a significant site for the Sacred Tooth Relic procession. Its history is documented in literary works and its architectural elements reflect the Kandyan style.",
+    "historical_significance_source": "Wikipedia: Kotte Raja Maha Vihara"
   },
   {
     "id": "pl_65878220",
@@ -154390,6 +154524,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. Known historically as Senkadagala, it was the center of Buddhist resistance against Portuguese, Dutch, and British colonial forces. The city is now famous for housing the Temple of the Tooth Relic, a significant Buddhist site. Declared a UNESCO World Heritage Site, Kandy is culturally regarded as the cultural capital of Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Kandy",
     "source_file": "Kandy\\osm_kovil.jsonl"
   },
   {
@@ -168938,6 +169074,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Nawagamuwa Pattini Devalaya, a historically significant temple in Colombo District, holds cultural and religious importance. It is believed to have been established by King Gajabahu I or by Pattini herself, who brought 12,000 devotees from India. The Devalaya was inaugurated by King Rajasinha I as a thanksgiving for his victory over the Portuguese. It hosts the 'Gonpita Perahera' festival annually, which has been celebrated for over 1500 years. Archaeological findings indicate the site's rich history, including periods under Kotte, Sitawaka, and Portuguese rule.",
+    "historical_significance_source": "Wikipedia: Nawagamuwa Pattini Devalaya",
     "source_file": "Kegalle\\osm_kovil.jsonl"
   },
   {
@@ -170938,7 +171076,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\osm_temple.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl",
+    "historical_significance": "Mawanella Rajamaha Viharaya, located in Mawanella, is a notable example of a Tempita Vihara. Constructed on raised stone pillars, it exemplifies the architectural design of these unique Buddhist shrines. Built in 1755 by Kirti Sri Rajasinha, it was originally a two-story structure but was transformed into a Tempita Vihara. This site, along with Minuwangamuwa Tempita Vihara, represents the last Tempita Viharas built in Sri Lanka, highlighting the importance of these structures in Buddhist architecture.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
   },
   {
     "id": "pl_449a290a",
@@ -170971,7 +171111,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\osm_temple.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl",
+    "historical_significance": "Warakapola Rajamaha Viharaya, located in the North Western province, is a unique Tempita Vihara. It was constructed as a two-storied shrine during the 14th century and later renovated in 1755 by Kirti Sri Rajasinha. This Tempita Vihara exemplifies the architectural design and cultural importance of these structures, serving as a testament to the rich Buddhist heritage in Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
   },
   {
     "id": "pl_d11c53c7",
@@ -171103,7 +171245,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\osm_temple.jsonl"
+    "source_file": "Kegalle\\osm_temple.jsonl",
+    "historical_significance": "Galigamuwa Rajamaha Viharaya, identified as one of the more than two hundred Tempita Viharas in Sri Lanka, stands out due to its architectural uniqueness. Constructed in the 17th to 19th centuries, it exemplifies the popular aspect of Buddhist temples during that era. The Tempita Vihara, perched on raised stone pillars, features wooden platforms and wattle walls supporting a timber-framed roof. Its design includes exposed pillars, inner walls adorned with murals, and a two-pitched roof covered with clay tiles. Over time, additional features like a wall surrounding the ground floor and a dancing hall were added, enhancing its utility and cultural significance.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
   },
   {
     "id": "pl_fcaffd6c",
@@ -183872,6 +184016,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Holy Emmanuel Church, located in Hanguranketha, is one of the oldest churches in the district, constructed in 1886 by Charles Henry de Soysa. The church stands adjacent to Hanguranketha C. C. Vidyalaya, a school founded in 1834 by the Church Mission Society. The de Soysa family, known for their philanthropy, supported the church's construction and furnished it with an altar and wooden pews. In 1938, a new bell tower was added, and in 1944, a weaving center was established nearby. Recognized as an Archaeological Protected Monument since 2007, the church holds cultural and historical importance in the district.",
+    "historical_significance_source": "Wikipedia: Holy Emmanuel Church, Hanguranketha",
     "source_file": "Kurunagala\\osm_church.jsonl"
   },
   {
@@ -183908,6 +184054,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Holy Emmanuel Church, located in Hanguranketha, is one of the oldest churches in the district, constructed in 1886 by Charles Henry de Soysa. The church stands adjacent to Hanguranketha C. C. Vidyalaya, a school founded in 1834 by the Church Mission Society. The de Soysa family, known for their philanthropy, supported the church's construction and furnished it with an altar and wooden pews. In 1938, a new bell tower was added, and in 1944, a weaving center was established nearby. Recognized as an Archaeological Protected Monument since 2007, the church holds cultural and historical significance in the district.",
+    "historical_significance_source": "Wikipedia: Holy Emmanuel Church, Hanguranketha",
     "source_file": "Kurunagala\\osm_church.jsonl"
   },
   {
@@ -183944,6 +184092,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Holy Emmanuel Church, located in Hanguranketha, is one of the oldest churches in the district, constructed in 1886 by Charles Henry de Soysa. The church stands adjacent to Hanguranketha C. C. Vidyalaya, a school founded by the Church Mission Society in 1834. The de Soysa family, known for their philanthropy, supported the church's construction and furnished it with an altar and wooden pews. In 1938, a bell tower was added, and in 1944, a weaving center was established nearby. Recognized as an Archaeological Protected Monument since 2007, the church holds cultural and historical importance in the district.",
+    "historical_significance_source": "Wikipedia: Holy Emmanuel Church, Hanguranketha",
     "source_file": "Kurunagala\\osm_church.jsonl"
   },
   {
@@ -185924,6 +186074,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Kurunegala, located at an altitude of 116 meters, was an ancient royal capital for 50 years, from the end of the 13th century to the start of the 14th century. It is known for its eight large rocks that resemble animals, including the Elephant Rock, which rises to 325 meters. The city's importance as a capital is attributed to the relocation of the sacred tooth relic, which was taken from Yapahuwa and brought back by King Parakramabahu III, strengthening Kurunegala's position as a significant cultural and religious center.",
+    "historical_significance_source": "Wikipedia: Kurunegala",
     "source_file": "Kurunagala\\osm_other.jsonl"
   },
   {
@@ -185960,6 +186112,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Yapahuwa served as a capital in the late 13th century, built on a massive granite rock to protect against Dravidian invasions from South India. King Bhuvenekabahu I constructed it in 1273, featuring a strategic ornamental stairway with 100 steps and a Buddhist shrine at the top. The site held the Sacred Tooth Relic until it was captured by the Pandyans in 1284. The Tooth Relic was later recovered by Parakkramabahu III, who temporarily stored it at Polonnaruwa. Yapahuwa's defensive features and religious importance highlight its strategic and cultural significance.",
+    "historical_significance_source": "Wikipedia: Yapahuwa",
     "source_file": "Kurunagala\\osm_ruins.jsonl"
   },
   {
@@ -185996,6 +186150,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Hatthikucchi Viharaya, believed to have been constructed by King Devanampiya Tissa, holds significant historical importance as the site where King Sirisangabo reportedly offered his head to a peasant. Scholars argue that this event likely occurred here, near Hatthikucchi Viharaya, rather than at Attanagalla. The area features a tombstone with a human-shaped structure and a granite sphere as the head, believed to contain ashes of King Sirisangabo. Archaeological excavations continue at the site, revealing over fifty rock inscriptions, including the Hatthikucchi rock inscription mentioning donations for the chapter house.",
+    "historical_significance_source": "Wikipedia: Hatthikucchi Viharaya",
     "source_file": "Kurunagala\\osm_ruins.jsonl"
   },
   {
@@ -186140,6 +186296,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Haththikuchchi Viharaya, believed to have been constructed by King Devanampiya Tissa, holds significant historical importance as the site where King Sirisangabo reportedly offered his head to a peasant. Scholars argue this event likely occurred here due to its proximity to Anuradhapura. Excavations continue, revealing over 50 rock inscriptions, including one mentioning the freeing of slaves. The site also features a tombstone with a granite sphere resembling a human head, believed to hold ashes of King Sirisangabo. This temple complex, with its rich history and archaeological finds, is a testament to Sri Lanka's ancient Buddhist heritage.",
+    "historical_significance_source": "Wikipedia: Hatthikucchi Viharaya",
     "source_file": "Kurunagala\\osm_ruins.jsonl"
   },
   {
@@ -186248,6 +186406,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Yapahuwa served as a capital in the late 13th century, built on a massive granite rock to protect against Dravidian invasions from South India. King Bhuvenekabahu I constructed it in 1273, featuring a strategic ornamental stairway with 100 steps and a Buddhist temple at the top. The site housed the Sacred Tooth Relic until it was captured by the Pandyans in 1284. The rock fortress complex includes a stupa, Bodhi tree enclosure, and rock shelter used by monks, along with defensive structures and a Buddhist temple. Its strategic location and defensive features highlight its importance as a royal retreat and religious center.",
+    "historical_significance_source": "Wikipedia: Yapahuwa",
     "source_file": "Kurunagala\\osm_ruins.jsonl"
   },
   {
@@ -197887,6 +198047,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Tempita Viharas, like the Medawala Tempita Vihara in Kandy, were popular image houses in Sri Lankan Buddhist temples during the 17th to 19th centuries. They are characterized by wooden platforms, wattle walls, and two-pitched timber-framed roofs. Over time, they evolved to include additional features such as a wall surrounding the ground floor for a sermon hall and a dancing hall. Examples include the Medawala Tempita Vihara and Minuwangamuwa Tempita Vihara. These structures reflect the cultural and religious development of Buddhist temples in Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara",
     "source_file": "Matale\\osm_buddhist_temple.jsonl"
   },
   {
@@ -202129,6 +202291,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Walpolamulla, a tiny village nestled in the Knuckles Mountain Range, is one of Sri Lanka’s most isolated settlements. Home to just two people as of 2024, it was once home to 7 families before the 2008 elephant incursion forced all but two residents to leave. Historically, agriculture, primarily rice and betel nut cultivation, was the primary occupation. Now, it serves as a paid campsite/overnight stay location, attracting visitors interested in its unique and secluded setting.",
+    "historical_significance_source": "Wikipedia: Walpolamulla",
     "source_file": "Matale\\osm_other.jsonl"
   },
   {
@@ -202885,6 +203049,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Sigiriya, a massive column of granite, was selected by King Kashyapa as his new capital in CE 477. He constructed a palace on the rock and adorned it with colorful frescoes. A gateway in the form of an enormous lion stands halfway up the rock. After the king's death, the capital and palace were abandoned. Today, Sigiriya is a UNESCO World Heritage Site, one of the best-preserved examples of ancient urban planning.",
+    "historical_significance_source": "Wikipedia: Sigiriya",
     "source_file": "Matale\\osm_ruins.jsonl"
   },
   {
@@ -209101,6 +209267,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Matara, a major city in Southern Province, Sri Lanka, has historical significance as it was once part of the Kingdom of Ruhuna. The ancient temple in the town, built by kings, is a sacred place for Buddhists. Historically, Matara was under Portuguese and Dutch rule before becoming a British possession in 1796. The city retains architectural remnants from both Dutch and English periods, including the Matara fort and the Star fort. Its strategic location made it a crucial base for the Dutch in the southern maritime provinces.",
+    "historical_significance_source": "Wikipedia: Matara, Sri Lanka",
     "source_file": "Matara\\osm_buddhist_temple.jsonl"
   },
   {
@@ -209137,6 +209305,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Matara, a major city in Southern Province, Sri Lanka, has historical significance as it was once part of the Kingdom of Ruhuna. The ancient temple in the town is a sacred place for Buddhists. Historically, Matara was under Portuguese and Dutch rule before becoming part of the Maritime Province under Dutch administration. It was a strategic location for the Dutch, serving as a base for inland forts. Today, remnants of Dutch culture and architecture, including the Matara fort and the Star fort, can be seen in the city. The lighthouse at Dondra Head, built by the Dutch, is also a notable landmark.",
+    "historical_significance_source": "Wikipedia: Matara, Sri Lanka",
     "source_file": "Matara\\osm_buddhist_temple.jsonl"
   },
   {
@@ -219794,6 +219964,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Rajasinha I, also known as Rajasinghe I, ascended to the throne of Sitawaka in 1578 after his father Mayadunne's death. He fought against Portuguese invaders and faced internal rebellions. His reign saw battles against Mayadunne's forces and an ambush at Sitawaka fort. Despite these challenges, Rajasinghe maintained his position as the Lion King of Sitawaka, defending Sinhalese sovereignty.",
+    "historical_significance_source": "Wikipedia: Rajasinha I",
     "source_file": "Monaragala\\osm_kovil.jsonl"
   },
   {
@@ -220670,6 +220842,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Yudaganawa Stupa, located in Uva province, Sri Lanka, marks the site of a significant battle between Prince Dutugemunu and Prince Saddatissa over the throne. This battle took place on the battlefield where the two brothers fought, resulting in the construction of a colossal stupa to symbolize their reconciliation. The stupa, now known as the Yudaganawa Chaitya, holds cultural importance as it commemorates a pivotal moment in Sri Lankan history and serves as a reminder of unity after conflict.",
+    "historical_significance_source": "Wikipedia: Yudaganawa",
     "source_file": "Monaragala\\osm_ruins.jsonl"
   },
   {
@@ -221210,6 +221384,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The Pansalgoda Ruins, also known as Lahugala Kota Vehera, is an ancient Buddhist temple recognized by the Government as an archaeological site. It includes an ancient dagoba, stone pillar buildings, and drip-ledge caves. Historically, it housed the stupa identified as one of four Kota Vehera-style structures in Sri Lanka. Notable inscriptions indicate its construction during the reigns of Bhathika Tissa and Gajabahu I, highlighting its importance in early Sri Lankan history.",
+    "historical_significance_source": "Wikipedia: Lahugala Kota Vehera",
     "source_file": "Monaragala\\osm_ruins.jsonl"
   },
   {
@@ -227477,6 +227653,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Sri Bodhirukkharama Rajamaha Viharaya, located in Medawala Tempita Vihara, Kandy, is a notable example of Tempita Viharas, a unique type of image house found in Sri Lankan Buddhist temples. Built in the 14th century, it was renovated by Kirti Sri Rajasinha in 1755. This Tempita Vihara exemplifies the architectural design and cultural importance of these structures, featuring exposed pillars, wooden platforms, and a timber-framed roof. Its evolution over time includes additions like a wall surrounding the ground floor, suggesting it served as a sermon hall and chapter house, alongside a dancing hall.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara",
     "source_file": "Nuwara Eliya\\osm_buddhist_temple.jsonl"
   },
   {
@@ -227693,6 +227871,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "The city was founded by Samuel Baker in 1846 and became a popular retreat for British colonialists. Known as Little England, it offered them a cooler climate and opportunities for leisure activities like hunting and sports. Today, Nuwara Eliya retains many colonial-era buildings and maintains a nostalgic atmosphere, attracting visitors interested in its past. Its unique climate, mild winters, and rich cultural heritage make it a significant tourist destination.",
+    "historical_significance_source": "Wikipedia: Nuwara Eliya",
     "source_file": "Nuwara Eliya\\osm_buddhist_temple.jsonl"
   },
   {
@@ -237467,6 +237647,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "St. Clair's Falls, one of the most iconic waterfalls in Sri Lanka, is part of the Upper Kotmale Hydropower Project. Located 3 kilometers west of Talawakele, these falls are significant due to their size and the controversy surrounding their preservation. They consist of Maha Ella, the larger fall at 80 meters high and 50 meters wide, and Kuda Ella, the smaller fall at 50 meters high. Environmentalists have raised concerns about the project's impact on the waterfall, but the government plans to maintain a consistent flow of water to ensure the falls remain accessible and beautiful.",
+    "historical_significance_source": "Wikipedia: St. Clair's Falls",
     "source_file": "Nuwara Eliya\\waterfalls.jsonl"
   },
   {
@@ -239522,6 +239704,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Polonnaruwa, also known as Polana, was founded as a military outpost by the Sinhalese kingdom. After a Chola invasion in the 10th century, it was renamed Jananathamangalam. Under Vijayabahu I, Polonnaruwa was captured and became the new capital, marking the beginning of the Polonnaruwa Kingdom. The site includes significant temples like the Siva Devale, built by Raja Raja Chola I. This period saw direct Chola rule over northern and central Sri Lanka until 1070 when Vijayabahu I took control, establishing a new era of Sinhalese rule.",
+    "historical_significance_source": "Wikipedia: Polonnaruwa",
     "source_file": "Polonnaruwa\\osm_buddhist_temple.jsonl"
   },
   {
@@ -240530,6 +240714,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Lankatilaka Vihara, a Buddhist temple with Hindu shrines, dates back to the 14th century. Constructed under King Bhuvanekabahu IV, it features intricate carvings and a four-story image house, now reduced to three stories. The temple's architectural style combines Sinhalese and Dravidian influences, showcasing advanced makaragala designs. Declared a protected monument in 1949, it holds significant cultural and historical value.",
+    "historical_significance_source": "Wikipedia: Lankatilaka Vihara",
     "source_file": "Polonnaruwa\\osm_building.jsonl"
   },
   {
@@ -240602,6 +240788,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Polonnaruwa, known as Pulathisipura and Vijayarajapura, was the second-oldest kingdom in Sri Lanka. After the Cholas conquered Anuradhapura, they renamed it Jananathamangalam. King Vijayabahu I reclaimed Polonnaruwa in 1070, defeating the Cholas and establishing his rule. Today, the ancient city of Polonnaruwa is a UNESCO World Heritage Site, highlighting its strategic importance and rich cultural heritage.",
+    "historical_significance_source": "Wikipedia: Polonnaruwa",
     "source_file": "Polonnaruwa\\osm_building.jsonl"
   },
   {
@@ -249158,6 +249346,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Negombo, known for its centuries-old fishing industry and long sandy beaches, has a rich history dating back to pre-colonial times. It served as a key port for Sri Lankan kingdoms and later under Portuguese rule. The Portuguese fortified the area and established a fort, converting the local Karava community into Catholics, making Negombo known as \"Little Rome.\" This period saw the cinnamon trade flourish under Portuguese control. Today, Negombo remains a significant commercial center and cultural hub.",
+    "historical_significance_source": "Wikipedia: Negombo",
     "source_file": "Puttalam\\osm_church.jsonl"
   },
   {
@@ -251840,6 +252030,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
+    "historical_significance": "Negombo, known for its centuries-old fishing industry and long sandy beaches, has been a significant trading port since ancient times. Historically, it was under the rule of the Sinhala monarchy and later became a key port for cinnamon trade, controlled by both Sri Lankan kings and later the Sri Lankan Moors. Under Portuguese rule, Negombo saw a surge in Catholicism among its population, earning the nickname \"Little Rome,\" reflecting its predominantly Christian community.",
+    "historical_significance_source": "Wikipedia: Negombo",
     "source_file": "Ratnapura\\osm_buddhist_temple.jsonl"
   },
   {

@@ -4099,7 +4099,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Tempita Viharas, like the Medawala Tempita Vihara in Kandy, were popular image houses in Sri Lankan Buddhist temples from the 17th to 19th centuries. They were characterized by wooden platforms, wattle walls, and two-pitched timber-framed roofs. Over time, they evolved to include additional features such as a sermon hall and a drumming area. Examples include the Medawala Tempita Vihara, which was renovated by King Kirti Sri Rajasinha in 1755, and the Minuwangamuwa Tempita Vihara, built in 1886. These structures reflect the cultural and religious development of Buddhist temples in Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
 }
 
 {
@@ -6655,7 +6657,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. It was a stronghold against Portuguese, Dutch, and British colonial expansion. Known historically as Senkadagala, Kandy is now considered the cultural capital of Sri Lanka due to its architectural heritage, particularly the Temple of the Tooth Relic, a significant Buddhist site. Declared a UNESCO World Heritage Site in 1988, Kandy's historical importance is underscored by its role in resisting colonial forces.",
+    "historical_significance_source": "Wikipedia: Kandy"
 }
 
 {
@@ -6691,7 +6695,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. Known historically as Senkadagala, it was the site of the Temple of the Tooth Relic, a significant Buddhist site. The city resisted colonial expansion, becoming a cultural capital and a World Heritage Site. Its name likely comes from a king named Senkanda or a queen named Senkanda.",
+    "historical_significance_source": "Wikipedia: Kandy"
 }
 
 {
@@ -6763,7 +6769,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. Known historically as Senkadagala, it was the center of Buddhist resistance against Portuguese, Dutch, and British colonial forces. The city is now famous for housing the Temple of the Tooth Relic, a significant Buddhist site. Declared a UNESCO World Heritage Site in 1988, Kandy is culturally regarded as the cultural capital of Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Kandy"
 }
 
 {
@@ -6799,7 +6807,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Kandy became the last capital of the Sinhalese monarchy in 1469. Known historically as Senkadagala, it was the center of Buddhist resistance against Portuguese, Dutch, and British colonial forces. The city is now famous for housing the Temple of the Tooth Relic, a significant Buddhist site. Declared a UNESCO World Heritage Site, Kandy is culturally regarded as the cultural capital of Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Kandy"
 }
 
 {
@@ -7082,7 +7092,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "8f17e274-1549-4a8c-a0d2-2bc934ba67fb",
-    "source_file": "place_data.jsonl"
+    "source_file": "place_data.jsonl",
+    "historical_significance": "The Kotte Raja Maha Vihara, a historic Buddhist temple in Sri Lanka, was constructed during the reign of King Parakumbha VI. It was built close to the king’s palace to serve the Buddhist community. The temple was partially destroyed by the Dutch but later restored. It holds cultural importance as it features frescoes and was a significant site for the Sacred Tooth Relic procession. Its history is documented in literary works and its architectural elements reflect the Kandyan style.",
+    "historical_significance_source": "Wikipedia: Kotte Raja Maha Vihara"
 }
 
 {

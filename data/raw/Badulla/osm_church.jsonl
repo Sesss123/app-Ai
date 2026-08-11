@@ -529,7 +529,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Badulla\\religious_places.jsonl"
+    "source_file": "Badulla\\religious_places.jsonl",
+    "historical_significance": "St. Andrew's Church, a Neo-Gothic building constructed in 1869, holds cultural and historical significance as one of the oldest European structures in Haputale, Badulla District. Its interior features intricately carved pews and a marble baptismal font imported from England. The church's stained glass windows, depicting biblical scenes, and the presence of Reverend Walter Stanley Senior's ashes make it a notable site. Declared a protected archaeological site in 2002, it continues to serve as a testament to early British influence in Sri Lanka.",
+    "historical_significance_source": "Wikipedia: St. Andrew's Church, Haputale"
 }
 
 {

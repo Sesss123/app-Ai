@@ -175,7 +175,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Lankatilaka Vihara, a Buddhist temple with Hindu shrines, dates back to the 14th century. Constructed under King Bhuvanekabahu IV, it features intricate carvings and a four-story image house, now reduced to three stories. The temple's architectural style combines Sinhalese and Dravidian influences, showcasing advanced makaragala designs. Declared a protected monument in 1949, it holds significant cultural and historical value.",
+    "historical_significance_source": "Wikipedia: Lankatilaka Vihara"
 }
 
 {
@@ -247,6 +249,8 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Polonnaruwa, known as Pulathisipura and Vijayarajapura, was the second-oldest kingdom in Sri Lanka. After the Cholas conquered Anuradhapura, they renamed it Jananathamangalam. King Vijayabahu I reclaimed Polonnaruwa in 1070, defeating the Cholas and establishing his rule. Today, the ancient city of Polonnaruwa is a UNESCO World Heritage Site, highlighting its strategic importance and rich cultural heritage.",
+    "historical_significance_source": "Wikipedia: Polonnaruwa"
 }
 

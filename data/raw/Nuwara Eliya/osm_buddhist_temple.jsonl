@@ -967,7 +967,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Sri Bodhirukkharama Rajamaha Viharaya, located in Medawala Tempita Vihara, Kandy, is a notable example of Tempita Viharas, a unique type of image house found in Sri Lankan Buddhist temples. Built in the 14th century, it was renovated by Kirti Sri Rajasinha in 1755. This Tempita Vihara exemplifies the architectural design and cultural importance of these structures, featuring exposed pillars, wooden platforms, and a timber-framed roof. Its evolution over time includes additions like a wall surrounding the ground floor, suggesting it served as a sermon hall and chapter house, alongside a dancing hall.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
 }
 
 {
@@ -1183,7 +1185,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "The city was founded by Samuel Baker in 1846 and became a popular retreat for British colonialists. Known as Little England, it offered them a cooler climate and opportunities for leisure activities like hunting and sports. Today, Nuwara Eliya retains many colonial-era buildings and maintains a nostalgic atmosphere, attracting visitors interested in its past. Its unique climate, mild winters, and rich cultural heritage make it a significant tourist destination.",
+    "historical_significance_source": "Wikipedia: Nuwara Eliya"
 }
 
 {

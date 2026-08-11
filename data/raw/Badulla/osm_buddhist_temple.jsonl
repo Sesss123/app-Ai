@@ -895,7 +895,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "The Temple of the Tooth, also known as Sri Dalada Maligawa, is a Buddhist temple in Kandy, Sri Lanka. It houses the sacred tooth relic of Buddha, which has historically been a symbol of political power. The relic's custody signifies the right to govern the country. Daily rituals include morning, noon, and evening ceremonies, and on Wednesdays, the relic is ceremonially bathed. The temple is a World Heritage Site and a significant site for religious and cultural events.",
+    "historical_significance_source": "Wikipedia: Temple of the Tooth"
 }
 
 {
@@ -3523,7 +3525,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Ingiriya, a city in Kalutara District, Sri Lanka, is known for its fertile agricultural lands and diverse flora. It is rich in rubber, tea, coconut, and rice plantations, making it an important agricultural hub. Historically, Ingiriya's strategic location at the border between Kalutara and Sabaragamuwa provinces has made it a significant administrative center. Its flat plains, suitable for cultivation, and the presence of rivers like the Kalu River contribute to its importance as a farming region.",
+    "historical_significance_source": "Wikipedia: Ingiriya"
 }
 
 {
@@ -3559,7 +3563,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "The Dhowa Rock Temple, constructed by King Valagamba in the first century BC, is a significant archaeological site dating back over 2000 years. It features an impressive unfinished Buddha statue carved into a vertical granite rockface. Recognized as a protected monument since 1996, the temple holds cultural importance as an example of Mahayana sculpture and houses colorful murals depicting Buddhist scenes.",
+    "historical_significance_source": "Wikipedia: Dhowa rock temple"
 }
 
 {
@@ -5061,7 +5067,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "e4097796-96df-4c3c-911f-d94a3b535ee1",
-    "source_file": "place_data.jsonl"
+    "source_file": "place_data.jsonl",
+    "historical_significance": "Muthiyangana Raja Maha Vihara is revered as one of the 16 Solosmasthana, sacred sites associated with Gautama Buddha's visits to Sri Lanka. According to legend, Buddha visited this site during his third visit, where he left behind relics including hair strands and sweat that turned into pearls. This site is considered extremely sacred by Buddhists and has been refurbished multiple times by various kings, including King Devanampiya Tissa and King Vijayabahu I. Today, it features a towering stupa, two image houses, and four ancient Bo trees, making it a significant pilgrimage site.",
+    "historical_significance_source": "Wikipedia: Muthiyangana Raja Maha Vihara"
 }
 
 {

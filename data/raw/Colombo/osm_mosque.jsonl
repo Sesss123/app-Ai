@@ -1613,7 +1613,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\religious_places.jsonl"
+    "source_file": "Colombo\\religious_places.jsonl",
+    "historical_significance": "The Jami-Ul-Alfar Mosque, also known as the Red Mosque, is one of the oldest mosques in Colombo, Sri Lanka. Constructed in 1909, it was designed by an unlettered architect based on Indo-Saracenic designs and features a unique red and white striped facade. Initially capable of accommodating 1,500 worshippers, the mosque has since been expanded to hold up to 10,000. It served as a landmark for sailors entering the port and is now a popular tourist site.",
+    "historical_significance_source": "Wikipedia: Jami Ul-Alfar Mosque"
 }
 
 {

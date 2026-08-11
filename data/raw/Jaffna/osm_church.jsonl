@@ -31,7 +31,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a contested city, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also a key colonial port under Portuguese, Dutch, and British rule. Post-independence, the city faced significant damage and displacement due to the Sri Lankan Civil War, but it has since seen a return of refugees and ongoing reconstruction efforts. Today, Jaffna is home to diverse cultural and religious communities, including Hindus, Christians, Muslims, and Buddhists, and is known for its historical sites and educational institutions.",
+    "historical_significance_source": "Wikipedia: Jaffna"
 }
 
 {
@@ -67,7 +69,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Nallur, historically known as Singai Nagar, became the capital of the old Jaffna Kingdom around 948 AD. It was the site of the first temple dedicated to Lord Murugan. The town saw significant changes when Prince Sapumal Kumaraya, a Sinhalese ruler, took control in the mid-15th century. He rebuilt the temple and renamed the area. However, the Tamil kingdom regained control after Prince Sapumal Kumaraya's death. Today, Nallur is famous for the Nallur Kandaswamy temple, which is a sacred pilgrimage site for Sri Lankan Hindus. Its rich history makes it a significant cultural and religious center.",
+    "historical_significance_source": "Wikipedia: Nallur, Jaffna"
 }
 
 {
@@ -103,7 +107,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Historically, Jaffna has been a contested city, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also the second most populous city in Sri Lanka before the civil war. During the civil war, the city was repeatedly occupied by the Tamil Tigers and briefly by the Indian Peace Keeping Force. Today, it is a site of historical and cultural importance, home to various educational and commercial institutions, and known for its rich Tamil heritage.",
+    "historical_significance_source": "Wikipedia: Jaffna"
 }
 
 {
@@ -607,7 +613,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a contested city, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also the administrative headquarters of the Jaffna District and a major port town under different colonial powers. After the Sri Lankan Civil War, the city experienced extensive damage and displacement but has since seen a return of refugees and reconstruction efforts. Today, it remains culturally significant as a center for Sri Lankan Tamils, with numerous historical sites and educational institutions.",
+    "historical_significance_source": "Wikipedia: Jaffna"
 }
 
 {
@@ -787,7 +795,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Historically, Jaffna has been a contested city, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also the second most populous city in Sri Lanka before the civil war. During the civil war, the city was occupied by the LTTE and later by the Sri Lankan Army. Today, it is a site of historical sites like the Jaffna Library and Fort, and its population consists mainly of Sri Lankan Tamils.",
+    "historical_significance_source": "Wikipedia: Jaffna"
 }
 
 {
@@ -1759,7 +1769,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Historically, Jaffna was a significant city in Sri Lanka, serving as the capital of the medieval Tamil Jaffna Kingdom. It was also a key colonial port under Portuguese, Dutch, and British rule. Post-war, the city faced extensive damage and displacement but has since seen a return of refugees and ongoing reconstruction efforts. Today, it remains culturally rich with diverse populations and numerous historical sites.",
+    "historical_significance_source": "Wikipedia: Jaffna"
 }
 
 {
@@ -1867,7 +1879,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "St. John's College, founded in 1823 by British Anglican missionaries, is one of Sri Lanka's oldest schools. It began as the Nallur English Seminary and later moved to Chundikuli. The school's original building was the old Portuguese St. John the Baptist church, which was demolished in 1859 and replaced by the current church. Known for its long-running cricket match against Jaffna Central College, the school has played a significant role in the cultural and educational history of Jaffna.",
+    "historical_significance_source": "Wikipedia: St. John's College, Jaffna"
 }
 
 {
@@ -2011,7 +2025,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "St. John's College, founded in 1823 by British Anglican missionaries, is one of Sri Lanka's oldest schools. It began as the Nallur English Seminary and later moved to Chundikuli. The school was renamed St. John's College in 1891 and remained independent until 1960 when most private schools were taken over by the government. Known for its long-running cricket match against Jaffna Central College, SJC has a rich history and cultural significance in Jaffna.",
+    "historical_significance_source": "Wikipedia: St. John's College, Jaffna"
 }
 
 {
@@ -3269,6 +3285,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\religious_places.jsonl"
+    "source_file": "Jaffna\\religious_places.jsonl",
+    "historical_significance": "St. John's College, Jaffna, was founded in 1823 by British Anglican missionaries as a school for the local community. Initially named Nallur English Seminary, it later moved to Chundikuli and was renamed St. John's College in 1891. Known for its long-standing cricket tradition, the school has played an annual match against Jaffna Central College since 1904, making it the third oldest cricket encounter in Sri Lanka. Despite political instability, the school has remained independent, choosing not to join the government's free education system. Its legacy includes contributions to education and sports in the region.",
+    "historical_significance_source": "Wikipedia: St. John's College, Jaffna"
 }
 

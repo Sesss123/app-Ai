@@ -103,7 +103,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "The Yudaganawa Stupa, located in Uva province, Sri Lanka, marks the site of a significant battle between Prince Dutugemunu and Prince Saddatissa over the throne. This battle took place on the battlefield where the two brothers fought, resulting in the construction of a colossal stupa to symbolize their reconciliation. The stupa, now known as the Yudaganawa Chaitya, holds cultural importance as it commemorates a pivotal moment in Sri Lankan history and serves as a reminder of unity after conflict.",
+    "historical_significance_source": "Wikipedia: Yudaganawa"
 }
 
 {
@@ -643,7 +645,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "The Pansalgoda Ruins, also known as Lahugala Kota Vehera, is an ancient Buddhist temple recognized by the Government as an archaeological site. It includes an ancient dagoba, stone pillar buildings, and drip-ledge caves. Historically, it housed the stupa identified as one of four Kota Vehera-style structures in Sri Lanka. Notable inscriptions indicate its construction during the reigns of Bhathika Tissa and Gajabahu I, highlighting its importance in early Sri Lankan history.",
+    "historical_significance_source": "Wikipedia: Lahugala Kota Vehera"
 }
 
 {

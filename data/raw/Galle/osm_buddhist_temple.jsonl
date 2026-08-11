@@ -787,7 +787,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Dharmapala Viharaya, located in Hikkaduwe, was founded by Hikkaduwe Sri Sumangala Thera, a prominent Buddhist monk known for his role in the Panadura debate against Christian missionaries. He established Vidyodaya Pirivena in 1873, which later became a university, making him a key figure in Sri Lankan Buddhist revival. His extensive knowledge and skills in various subjects, including Buddhism, history, and archaeology, contributed significantly to his influential role in religious debates and educational reforms.",
+    "historical_significance_source": "Wikipedia: Hikkaduwe Sri Sumangala Thera"
 }
 
 {
@@ -823,7 +825,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Tempita Viharas, like the Medawala Tempita Vihara in Kandy, were popular Buddhist shrines in Sri Lanka from the 17th to 19th centuries. They were characterized by wooden platforms and wattle walls supporting a timber-framed roof, with pillars often exposed and reaching up to six feet tall. These structures served as image houses and evolved over time to include additional features such as sermon halls and dance halls. Examples include the Medawala Tempita Vihara and Minuwangamuwa Tempita Vihara.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
 }
 
 {

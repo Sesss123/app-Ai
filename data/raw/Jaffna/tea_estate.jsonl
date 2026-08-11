@@ -232,6 +232,8 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\viewpoint.jsonl"
+    "source_file": "Jaffna\\viewpoint.jsonl",
+    "historical_significance": "Tellippalai, once an administrative and commercial hub, became famous due to an Indian princess who was cured of her disease at Keerimalai springs and settled there. This legend explains its name. Historically, it was a mission location for the American Ceylon Mission, leading to the establishment of the First English School in Jaffna. The area was also home to several churches and Christian schools providing western education, reflecting its importance in the region.",
+    "historical_significance_source": "Wikipedia: Tellippalai"
 }
 

@@ -985,7 +985,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "c9776f28-777c-484a-813c-86f355c53356",
-    "source_file": "place_data.jsonl"
+    "source_file": "place_data.jsonl",
+    "historical_significance": "St. John's College, founded in 1823 by British Anglican missionaries, is one of Sri Lanka's oldest schools. Initially established as the Nallur English Seminary, it later moved to Chundikuli and then to its current location near the old Portuguese St. John the Baptist church. Known for its long-standing cricket tradition, the school has played an important role in the cultural and educational landscape of Jaffna, Sri Lanka.",
+    "historical_significance_source": "Wikipedia: St. John's College, Jaffna"
 }
 
 {

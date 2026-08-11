@@ -236,7 +236,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "82ffddff-ab86-40f3-9065-780b7b3e6269",
-    "source_file": "place_data.jsonl"
+    "source_file": "place_data.jsonl",
+    "historical_significance": "The Mawaragala Aranya Senasanaya, an ancient Buddhist temple in Mahiyangane, Sri Lanka, was established during the reign of King Valagamba and Arhat Maliyadeva around 100 BC. It served as a hermitage for sixty Buddhist monks and holds historical significance through the discovery of early Brahmi script and Old Sinhalese Prakrit cave inscriptions.",
+    "historical_significance_source": "Wikipedia: Mawaragala Aranya Senasanaya"
 }
 
 {
@@ -341,7 +343,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "e735af10-d6c9-4755-9d20-3b0e0b829910",
-    "source_file": "place_data.jsonl"
+    "source_file": "place_data.jsonl",
+    "historical_significance": "Halpe Paththini Devalaya, while not directly mentioned in the provided text, is historically significant as it is associated with Pattini, a deity revered in Sri Lanka. Pattini, the guardian deity of Sri Lanka, is believed to have been introduced to the island by Gajabahu I around the 2nd century CE. Her worship evolved locally, incorporating earlier deities. Pattini is particularly venerated during nursing mothers' alms-givings, where traditional dishes like Kiriya and Kavum are prepared and offered to her, concluding with the recitation of Pattini Halla. This practice highlights the cultural importance of Pattini in Sri Lankan society.",
+    "historical_significance_source": "Wikipedia: Pattini"
 }
 
 {

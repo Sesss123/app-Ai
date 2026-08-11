@@ -265,7 +265,9 @@
     "Length_km": 0.0,
     "Surfing": "no",
     "_source_global_id": "3d541349-5884-439c-b5d9-495ba4e0e35f",
-    "source_file": "place_data.jsonl"
+    "source_file": "place_data.jsonl",
+    "historical_significance": "Tempita Viharas, like the Medawala Tempita Vihara in Kandy, were popular image houses in Sri Lankan Buddhist temples from the 17th to 19th centuries. They featured wooden platforms and timber-framed roofs supported by exposed stone pillars. Over time, these structures evolved with additional features such as a wall surrounding the ground floor for a sermon hall and a dancing hall at the front. Examples include the Medawala Tempita Vihara and Minuwangamuwa Tempita Vihara.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
 }
 
 {

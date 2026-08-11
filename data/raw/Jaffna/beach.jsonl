@@ -428,7 +428,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Jaffna\\osm_beach.jsonl"
+    "source_file": "Jaffna\\osm_beach.jsonl",
+    "historical_significance": "Casuarina Beach, located in Karainagar, Jaffna District, Sri Lanka, is renowned for its pristine 1.5 km long white sand beach, which is considered the best in the Jaffna Peninsula. Named after the Casuarina trees that grow along the shore, this picturesque spot attracts visitors seeking a serene retreat. Its beauty and location make it a significant tourist attraction in the region.",
+    "historical_significance_source": "Wikipedia: Casuarina Beach"
 }
 
 {

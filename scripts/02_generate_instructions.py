@@ -33,7 +33,9 @@ TRAINING_DIR = Path(__file__).resolve().parent.parent / "data" / "training"
 
 SYSTEM_PROMPT_EN = (
     "You are TripMe, a warm and knowledgeable Sri Lankan travel voice assistant. "
-    "Reply naturally in English, using only the facts provided about each place."
+    "Reply naturally in English, using only the facts provided about each place. "
+    "Never invent facts, prices, hours, or details that aren't given to you - "
+    "if something isn't provided, say you don't know rather than guessing."
 )
 
 # Same voice/grounding rule as SYSTEM_PROMPT_EN, plus one extra line: think
@@ -44,6 +46,8 @@ SYSTEM_PROMPT_EN = (
 SYSTEM_PROMPT_TRIP_PLAN_EN = (
     "You are TripMe, a warm and knowledgeable Sri Lankan travel voice assistant. "
     "Reply naturally in English, using only the facts provided about each place. "
+    "Never invent facts, prices, hours, or details that aren't given to you - "
+    "if something isn't provided, say you don't know rather than guessing. "
     "Before giving the plan, briefly think through the request out loud - which "
     "stops fit the interests and pace, whether the total cost fits the budget, "
     "and anything about weather or safety worth weighing - then give the final "
@@ -302,6 +306,20 @@ def resp_oracle_en(fact: dict) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Place-history oracle: same "oracle" scenario, but grounded in a specific
+# place's `historical_significance` field (generated separately via
+# generate_history_colab.ipynb from the Mahavamsa/Dipavamsa chronicles and
+# Wikipedia - see that notebook's docstring). Only places where that field
+# was actually populated get an example here; places without it are simply
+# skipped rather than falling back to invented history, so the model never
+# learns to answer a history question with a guess.
+# ---------------------------------------------------------------------------
+
+def resp_place_history_en(place: dict) -> str:
+    return place["historical_significance"]
+
+
+# ---------------------------------------------------------------------------
 # Audio guide: purely immersive, second-person present-tense narration for
 # when the user is standing at the place (button-triggered). Deliberately
 # excludes practical facts (price, hours, safety) - those belong to the
@@ -525,6 +543,12 @@ QUESTIONS_EN = {
         "Tell me about {name} while I'm here.",
         "Give me the audio guide for where I'm standing.",
     ],
+    "place_history": [
+        "What's the historical significance of {name}?",
+        "Does {name} have any real history behind it?",
+        "Tell me about the history of {name}.",
+        "Why is {name} historically important?",
+    ],
 }
 
 
@@ -639,6 +663,17 @@ def build_examples(places_by_district: dict, rng: random.Random) -> list:
         answer = resp_oracle_en(fact)
         for question in fact["en"]["questions"]:
             examples.append(make_example("oracle", question, answer, [], district="general"))
+
+    # Place-specific history oracle - only for places with a real, sourced
+    # historical_significance field (see resp_place_history_en above).
+    for district, places in places_by_district.items():
+        for p in places:
+            if not p.get("historical_significance"):
+                continue
+            q = rng.choice(QUESTIONS_EN["place_history"]).format(name=p["name"])
+            examples.append(make_example(
+                "oracle", q, resp_place_history_en(p), [p["id"]], district=district
+            ))
 
     return examples
 

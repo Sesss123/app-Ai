@@ -383,7 +383,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\religious_places.jsonl",
+    "historical_significance": "Mawanella Rajamaha Viharaya, located in Mawanella, is a notable example of a Tempita Vihara. Constructed on raised stone pillars, it exemplifies the architectural design of these unique Buddhist shrines. Built in 1755 by Kirti Sri Rajasinha, it was originally a two-story structure but was transformed into a Tempita Vihara. This site, along with Minuwangamuwa Tempita Vihara, represents the last Tempita Viharas built in Sri Lanka, highlighting the importance of these structures in Buddhist architecture.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
 }
 
 {
@@ -417,7 +419,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\religious_places.jsonl",
+    "historical_significance": "Warakapola Rajamaha Viharaya, located in the North Western province, is a unique Tempita Vihara. It was constructed as a two-storied shrine during the 14th century and later renovated in 1755 by Kirti Sri Rajasinha. This Tempita Vihara exemplifies the architectural design and cultural importance of these structures, serving as a testament to the rich Buddhist heritage in Sri Lanka.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
 }
 
 {
@@ -553,7 +557,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Kegalle\\religious_places.jsonl"
+    "source_file": "Kegalle\\religious_places.jsonl",
+    "historical_significance": "Galigamuwa Rajamaha Viharaya, identified as one of the more than two hundred Tempita Viharas in Sri Lanka, stands out due to its architectural uniqueness. Constructed in the 17th to 19th centuries, it exemplifies the popular aspect of Buddhist temples during that era. The Tempita Vihara, perched on raised stone pillars, features wooden platforms and wattle walls supporting a timber-framed roof. Its design includes exposed pillars, inner walls adorned with murals, and a two-pitched roof covered with clay tiles. Over time, additional features like a wall surrounding the ground floor and a dancing hall were added, enhancing its utility and cultural significance.",
+    "historical_significance_source": "Wikipedia: Tempita Vihara"
 }
 
 {

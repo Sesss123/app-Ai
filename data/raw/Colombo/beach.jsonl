@@ -32,7 +32,9 @@
     "Height_m": 0.0,
     "Length_km": 0.0,
     "Surfing": "no",
-    "source_file": "Colombo\\osm_beach.jsonl"
+    "source_file": "Colombo\\osm_beach.jsonl",
+    "historical_significance": "Dehiwala-Mount Lavinia, now a large municipality in Sri Lanka, has experienced significant population growth and urbanisation in recent years. Historically, the area was part of the Kingdom of Kotte and was known as Diyawala due to its numerous ponds and lakes. During the Portuguese era, the area was under the rule of King Don Juan Dharmapala and was referred to as Galkissa. The Dutch called the prominent rocky mound protruding into the Bay \"the pregnant wench.\" Today, Dehiwala-Mount Lavinia is home to the National Zoological Gardens, Colombo South Teaching Hospital, and Colombo Airport, Ratmalana, making it an important suburban center within the Colombo Metropolitan Region.",
+    "historical_significance_source": "Wikipedia: Dehiwala-Mount Lavinia"
 }
 
 {

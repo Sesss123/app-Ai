@@ -22,6 +22,7 @@ from fastapi import FastAPI, File, Form, UploadFile
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
+from food_scan import identify_food
 from retrieval import DISTRICTS, find_places
 
 logging.basicConfig(level=logging.INFO)
@@ -107,6 +108,15 @@ class AskResponse(BaseModel):
     answer_text: str
 
 
+class FoodMatch(BaseModel):
+    label: str
+    score: float
+
+
+class ScanFoodResponse(BaseModel):
+    matches: list[FoodMatch]
+
+
 # ---------------------------------------------------------------------------
 # Core pipeline pieces
 # ---------------------------------------------------------------------------
@@ -188,6 +198,23 @@ def ask_text(req: AskTextRequest):
         place_ids=[p["id"] for p in places],
         answer_text=answer,
     )
+
+
+@app.post("/scan-food", response_model=ScanFoodResponse)
+async def scan_food(photo: UploadFile = File(...)):
+    """Identifies a dish from a photo via CLIP zero-shot classification -
+    a separate vision model from the fine-tuned text-only TripMe LLM, since
+    no pretrained Sri Lankan food classifier exists to fine-tune from (see
+    food_scan.py for why zero-shot was chosen over a fixed-class model)."""
+    import io
+
+    from PIL import Image
+
+    image_bytes = await photo.read()
+    image = Image.open(io.BytesIO(image_bytes)).convert("RGB")
+
+    results = identify_food(image)
+    return ScanFoodResponse(matches=[FoodMatch(label=r["label"], score=r["score"]) for r in results])
 
 
 @app.post("/ask")

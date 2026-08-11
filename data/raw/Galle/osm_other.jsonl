@@ -1147,7 +1147,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Unawatuna, known for its beach and corals, is a major tourist attraction in Sri Lanka. It is also home to the endangered purple-faced langur, a unique monkey species found only in Sri Lanka's forests. The area's name, \"Una-watuna,\" means \"fell down\" in the Ramayana legend, where the monkey warrior Hanuman brought down a piece of the Himalayan mountain while searching for healing herbs for Lord Rama. Another myth states that a shipwrecked prince, protected by the Goddess of Earth, landed here and became a revered deity. Dagabas and temples, including the Suwethamali Chaitya, attract thousands of pilgrims annually during the Esala Perukkatai festival.",
+    "historical_significance_source": "Wikipedia: Unawatuna"
 }
 
 {
@@ -1327,7 +1329,9 @@
     "best_time_to_visit": "Dec to Mar",
     "Height_m": 0.0,
     "Length_km": 0.0,
-    "Surfing": "no"
+    "Surfing": "no",
+    "historical_significance": "Ahangama Beach is historically significant as it was affected by the 2004 Indian Ocean tsunami. It is also the birthplace of noted Sri Lankan author Martin Wickramasinghe, whose birthplace is now a museum. The Kataluva Purvarama Maha Viharaya temple, 2 km west of Ahangama, features Kandyan-style paintings dating back to the late 19th century, including depictions of Queen Victoria and Queen Mother. The town is known for its serene beaches, surfing, and ancient temples, making it a tourist attraction.",
+    "historical_significance_source": "Wikipedia: Ahangama"
 }
 
 {
