@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-pydantic
-llama-cpp-python
-faster-whisper
-python-multipart
-transformers
-torch
-pillow
