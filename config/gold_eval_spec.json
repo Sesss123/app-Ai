@@ -1,0 +1,36 @@
+{
+  "version": "v0.1.0",
+  "total_prompts": 500,
+  "seed": 42,
+  "languages": {
+    "si": 250,
+    "singlish": 125,
+    "en": 125
+  },
+  "scenarios": {
+    "place_discovery": 75,
+    "place_explanation": 50,
+    "comparison": 60,
+    "budget": 50,
+    "itinerary": 75,
+    "family_accessibility": 60,
+    "uncertainty_current": 65,
+    "false_premise_refusal": 40,
+    "culture_etiquette": 25
+  },
+  "score_dimensions": {
+    "language_naturalness": {"min": 1, "max": 5},
+    "factual_correctness": {"min": 1, "max": 5},
+    "context_grounding": {"min": 1, "max": 5},
+    "constraint_satisfaction": {"min": 1, "max": 5},
+    "usefulness": {"min": 1, "max": 5}
+  },
+  "binary_checks": [
+    "unsupported_current_claim",
+    "unsafe_guarantee",
+    "wrong_district",
+    "invented_price_or_hours",
+    "language_mismatch"
+  ],
+  "final_review_status": "approved"
+}

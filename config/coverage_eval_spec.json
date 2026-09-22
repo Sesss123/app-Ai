@@ -1,0 +1,21 @@
+{
+  "version": "v0.1.0",
+  "total_prompts": 10000,
+  "seed": 42,
+  "languages": {
+    "si": 5000,
+    "singlish": 2500,
+    "en": 2500
+  },
+  "scenarios": {
+    "place_identity": 1500,
+    "district_grounding": 1500,
+    "category_grounding": 1500,
+    "activity_grounding": 1500,
+    "recommendation": 1500,
+    "comparison": 1000,
+    "missing_current_fact": 1000,
+    "false_premise": 500
+  }
+}
+
