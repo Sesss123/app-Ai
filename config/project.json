@@ -1,0 +1,50 @@
+{
+  "project": {
+    "name": "tripme-sinhala-travel-ai",
+    "version": "0.2.0-rc1",
+    "stage": "parts14_16_candidate_package_rag_backend_implemented",
+    "primary_language": "si",
+    "supported_languages": ["si", "singlish", "en"]
+  },
+  "reproducibility": {
+    "seed": 42,
+    "data_version": "v0.1.0",
+    "split_strategy": "place_group",
+    "train_ratio": 0.8,
+    "validation_ratio": 0.1,
+    "test_ratio": 0.1
+  },
+  "paths": {
+    "raw_data": "data/raw",
+    "processed_data": "data/processed",
+    "training_data": "data/training",
+    "notebooks": "notebooks",
+    "artifacts": "artifacts",
+    "reports": "reports"
+  },
+  "training": {
+    "base_model": "Qwen/Qwen2.5-3B-Instruct",
+    "method": "qlora",
+    "quantization_bits": 4,
+    "max_sequence_length": 768,
+    "lora_rank": 16,
+    "lora_alpha": 32,
+    "learning_rate": 0.0001,
+    "smoke_train_rows": 200,
+    "smoke_validation_rows": 40,
+    "pilot_train_rows": 900,
+    "pilot_validation_rows": 100,
+    "pilot_epochs": 2,
+    "pilot_adapter": "artifacts/part05_pilot",
+    "corrective_adapter": "artifacts/part10_corrective",
+    "release_status": "blocked_scenario_relevance_and_human_review_not_for_production"
+  },
+  "quality_targets": {
+    "sinhala_naturalness_min": 4.0,
+    "factual_correctness_min": 4.0,
+    "constraint_satisfaction_min": 4.0,
+    "base_model_pairwise_win_rate_min": 0.6,
+    "unsupported_current_claim_rate_max": 0.01,
+    "train_test_place_leakage_max": 0
+  }
+}

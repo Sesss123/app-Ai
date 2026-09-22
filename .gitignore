@@ -4,5 +4,17 @@ __pycache__/
 venv/
 *.egg-info/
 .env
+node_modules/
+scripts/node_modules/
 serve/sl-food-classifier/
 data/raw_datasets/
+kaggle_upload/
+kaggle_results/
+artifacts/
+reports/**
+!reports/.gitkeep
+data/training/pilot_v0.2.0/
+data/training/corrective_v0.3.0/
+data/training/corrective_v0.4.0/
+*.zip
+*.xlsx
