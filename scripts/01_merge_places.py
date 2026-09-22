@@ -47,6 +47,10 @@ DISTRICT_ALIASES = {
     "Kurunegala": "Kurunagala",
 }
 
+# Deliberately broad bounding box used only to reject impossible coordinates.
+# Rejected values are preserved in source_lat/source_lng for later human review.
+SRI_LANKA_BBOX = (5.7, 10.1, 79.3, 82.1)
+
 
 def normalize_record(record: dict, source_file: str) -> dict:
     record = dict(record)
@@ -74,6 +78,22 @@ def normalize_record(record: dict, source_file: str) -> dict:
 
     district = (record.get("district_id") or "").strip()
     record["district_id"] = DISTRICT_ALIASES.get(district, district)
+
+    try:
+        lat = float(record.get("lat"))
+        lng = float(record.get("lng"))
+        min_lat, max_lat, min_lng, max_lng = SRI_LANKA_BBOX
+        coordinate_is_possible = min_lat <= lat <= max_lat and min_lng <= lng <= max_lng
+    except (TypeError, ValueError):
+        lat, lng, coordinate_is_possible = record.get("lat"), record.get("lng"), False
+
+    if coordinate_is_possible:
+        record["lat"], record["lng"] = lat, lng
+        record["coordinate_status"] = "unverified"
+    else:
+        record["source_lat"], record["source_lng"] = lat, lng
+        record["lat"], record["lng"] = None, None
+        record["coordinate_status"] = "needs_review"
 
     return record
 
@@ -124,7 +144,9 @@ def main() -> None:
         source_label = str(path.relative_to(RAW_DIR))
         for item in items:
             if not isinstance(item, dict):
-                print(f"  skipping non-dict item in {path}: {item!r}")
+                # Avoid printing the full value: a stray nested dataset can be
+                # huge and may contain characters unsupported by the terminal.
+                print(f"  skipping non-dict item in {path} ({type(item).__name__})")
                 continue
             record = normalize_record(item, source_label)
             merged[record["id"]] = record  # last write wins on duplicate id
@@ -149,10 +171,12 @@ def main() -> None:
         print(f"  {budget:15s} {count}")
 
     print("\nData quality flags:")
-    unique_coords = len({(p["lat"], p["lng"]) for p in places})
+    valid_places = [p for p in places if p.get("coordinate_status") != "needs_review"]
+    unique_coords = len({(p["lat"], p["lng"]) for p in valid_places})
     print(f"  unique lat/lng pairs: {unique_coords} / {len(places)} places "
           f"(coordinates are likely district-level, not per-place - "
           f"don't rely on them for fine-grained distance filtering)")
+    print(f"  coordinates needing review: {len(places) - len(valid_places)}")
     ff_values = Counter(p.get("family_friendly") for p in places)
     if len(ff_values) == 1:
         print(f"  family_friendly has a single value across all records ({ff_values}) "
